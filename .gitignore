@@ -1,0 +1,80 @@
+# General
+**/*.log
+**/*.tmp
+**/*.bak
+**/*.swp
+**/*.lock
+**/*.pid
+
+# Compiled files
+**/*.o
+**/*.so
+# **/*.exe
+# **/*.dll
+# **/*.lib
+**/*.dylib
+**/*.a
+
+# Cache and temporary files
+**/*.pyc
+**/*.pyo
+**/*.cache
+**/*.egg-info/
+**/dist/
+**/__pycache__/
+
+# IDE and editor files
+**/.vscode/
+**/.idea/
+**/.ipynb_checkpoints/
+**/*.iml
+**/*.suo
+**/*.user
+**/*.sln.docstates
+**/*.sln.ide/
+
+# Build and packaging output
+**/bin/
+**/obj/
+**/*.app
+**/*.ipa
+# **/*.apk
+# **/*.dmg
+# **/*.pkg
+
+# Node.js
+**/node_modules/
+
+# Python virtual environments
+**/venv/
+**/*.venv
+**/ENV/
+
+# Log files
+**/*.log
+
+# macOS specific
+**/.DS_Store
+**/.AppleDouble
+**/.LSOverride
+
+# Thumbnails
+**/._*
+
+# Files that might appear in the root of a volume
+**/.DocumentRevisions-V100
+**/.fseventsd
+**/.Spotlight-V100
+**/.TemporaryItems
+**/.Trashes
+**/.VolumeIcon.icns
+**/.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+**/.AppleDB
+**/.AppleDesktop
+**/Network Trash Folder
+**/Temporary Items
+**/.apdisk
+
+remove_api_key.py
