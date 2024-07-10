@@ -1,0 +1,200 @@
+{"id": 0, "result": "[triangle_area(base=10, height=5)]"}
+{"id": 1, "result": "[math.factorial(5)]"}
+{"id": 2, "result": "[math.hypot(4, 5)]"}
+{"id": 3, "result": "[quadratic_equation_solver(a=1, b=-3, c=2)]"}
+{"id": 4, "result": "[quadratic_equation_solve(a=2, b=6, c=5)]"}
+{"id": 5, "result": "[quadratic(a=3, b=-11, c=-4)]"}
+{"id": 6, "result": "[quadratic_equation(a=2, b=5, c=3)]"}
+{"id": 7, "result": "[circumference_circle(radius=4)]"}
+{"id": 8, "result": "[area_circle(radius=10)]"}
+{"id": 9, "result": "[area_circle(radius=5)]"}
+{"id": 10, "result": "[calculate_triangle_area(base=6, height=10)]"}
+{"id": 11, "result": "[triangle_area(base=10, height=5)]"}
+{"id": 12, "result": "[math.pi_multiply(3, 2)]"}
+{"id": 13, "result": "[quad(lambda x: x**2, 1, 3)]"}
+{"id": 14, "result": "[diff(3*x**2 + 2*x - 1, x)]"}
+{"id": 15, "result": "[integrate.quad(lambda x: x**3, -2, 3)]"}
+{"id": 16, "result": "[derivative(f='2*x**2', var='x', eval_at=1)]"}
+{"id": 17, "result": "[factorize(n=450)]"}
+{"id": 18, "result": "[prime_factors(n=123456)]"}
+{"id": 19, "result": "[math_gcd(a=40, b=50)]"}
+{"id": 20, "result": "[math.gcd(36, 24)]"}
+{"id": 21, "result": "[math_gcd(a=36, b=48)]"}
+{"id": 22, "result": "[math.gcd(12, 15)]"}
+{"id": 23, "result": "[\nget_prime_factors(n=60)\n]"}
+{"id": 24, "result": "[math.gcd(a=12, b=18)]"}
+{"id": 25, "result": "[calculate_final_velocity(m=150, g=9.81, v0=0)]"}
+{"id": 26, "result": "[calculate_velocity(distance=50, time=2)]"}
+{"id": 27, "result": "[calculate_final_velocity(initial_velocity=10, acceleration=2, time=5)]"}
+{"id": 28, "result": "[calculate_displacement(v0=10, a=9.8, t=5)]"}
+{"id": 29, "result": "[falling_speed(g=9.8, t=5)]"}
+{"id": 30, "result": "[final_velocity(v0=0, a=4, d=300)]"}
+{"id": 31, "result": "[acceleration_to_velocityAcceleration(acceleration=9.8, time=5, initial_velocity=0)]"}
+{"id": 32, "result": "[gravity_acceleration_to_final_velocity(g=9.81, height=100)]"}
+{"id": 33, "result": "[get_directions(origin=\"Sydney\", destination=\"Melbourne\", route_type=\"fastest\")]"}
+{"id": 34, "result": "[plan_trip(destination='Tokyo', days=7, budget=100, preference='nature')]"}
+{"id": 35, "result": "[find_restaurants(location=\"New York\", dietary_restrictions=\"vegan\", closing_time=\"11 PM\")]"}
+{"id": 36, "result": "[\"haversine_distance('New York City', 'Washington D.C.')\"]"}
+{"id": 37, "result": "[get_route_info(['San Francisco', 'Santa Barbara', 'Monterey', 'Los Angeles'], 'drive'), get TravelTimeFromRoute(get_route_info(['San Francisco', 'Santa Barbara', 'Monterey', 'Los Angeles'], 'drive'))]"}
+{"id": 38, "result": "[electrostatic_potential(charge1=1e-9, charge2=2e-9, distance=0.05)]"}
+{"id": 39, "result": "[electric_field(q=2, r=3, k=8.99e9)]"}
+{"id": 40, "result": "[magneticField(I=5, R=4)]"}
+{"id": 41, "result": "[electromagnetic_force(q1=5, q2=7, r=3)]"}
+{"id": 42, "result": "[calculate_resonant_frequency(C=100e-6, L=0.05),]"}
+{"id": 43, "result": "[magnetic_field_strength(current=20, distance=10, mu0=4e-7, I=1)]\n\nNote: It is assumed that the function magnetic_field_strength is defined as magnetic_field_strength(current, distance, mu0=4e-7, I=1) which calculates the magnetic field strength using the Biot-Savart law, where current is the current in the wire, distance is the distance from the wire, mu0 is the permeability of free space, and I is a constant."}
+{"id": 44, "result": "[electric_field_strength(q=0.01, r=4, k=8.99e9)]"}
+{"id": 45, "result": "latex_heat_of_vaporization(latex_constant=2250, mass=100)"}
+{"id": 46, "result": "[mix_temperature(m1=20, t1=30, m2=15, t2=60)]"}
+{"id": 47, "result": "[get_boiling_point(atm_pressure=443.96, default_boiling_point=100), get_melting_point(atm_pressure=443.96, default_melting_point=0)]"}
+{"id": 48, "result": "[calculate_density(mass=45, volume=15)]"}
+{"id": 49, "result": "[atm_to_pa(atm=1), add_pressure(gauge_pressure_atm=2, atm_pressure_pa=result)]"}
+{"id": 50, "result": "[specific_heat_capacity(mass=1, initial_temperature=0, final_temperature=100), entropy_change(mass=1, initial_temperature=0, final_temperature=100, specific_heat_capacity_output=specific_heat_capacity_OUTPUT)]"}
+{"id": 51, "result": "[entropy_change(constants.R, 5, 300, 400)]"}
+{"id": 52, "result": "[heat_capacity_at_constant_pressure(temperature=298, volume=10, gas_type='air')]"}
+{"id": 53, "result": "[get_sequence(dna_id=\"DNA123\")]"}
+{"id": 54, "result": "[get_protein_sequence(gene_id=\"BRCA1\", organism=\"human\", db=\"uniprot\")]"}
+{"id": 55, "result": "[get_cell_structure_info(cell_type='human')]"}
+{"id": 56, "result": "[get_proteins_in_location(location=\"plasma membrane\", protein_type=\"membrane protein\")]"}
+{"id": 57, "result": "[calculate_cell_density(od=0.6, dilution=5)]"}
+{"id": 58, "result": "[]"}
+{"id": 59, "result": "[get_molecular_weight({'C': 6, 'H': 12, 'O': 6}, {'C': 12.01, 'H': 1.01, 'O': 16.00})]"}
+{"id": 60, "result": "[lookup_snp(\"rs6034464\")]"}
+{"id": 61, "result": "[\ndiabetes_risk(weight=150, height=\"5ft 10in\", activity_level=\"lightly active\")\n]"}
+{"id": 62, "result": "[dna_diff(ref='AGTCCATCGAACGTACGTACG', seq='AGTCGATCGAACGTACGTACG')]"}
+{"id": 63, "result": "[calculate_genetic_similarity(human_genome, chimp_genome, method=\"percentage\")]"}
+{"id": 64, "result": "[ Hardy_Weinberg_p(p=0.3, q=None, genotype=\"AA\") ]"}
+{"id": 65, "result": "[calculate_density(population=213000000, area=8500000)]"}
+{"id": 66, "result": "[get_weather_data(location='Amazon rainforest', time_range='last six months', metric='precipitation', aggregate='average')]"}
+{"id": 67, "result": "[identify_bird(color='green', size='small', habitat='forest')]"}
+{"id": 68, "result": "[predict_growth('Yellowstone National Park', 5, model=\"random_forest\", humanImpactModel=\"linear\"), visualize_forecast(model=\"line_graph\")]"}
+{"id": 69, "result": "[turtle_population(\"Mississippi river\", 2020), turtle_species_distribution(\"Mississippi river\", 2020)]"}
+{"id": 70, "result": "[calculate_emission(1500, fuel_type='gas', vehicle_type='car')]"}
+{"id": 71, "result": "[generate_dna_sequence(length=100, gc_bias=0.6)]"}
+{"id": 72, "result": "[weighted_sum(a=0.8, b=0.7, weight_a=0.4, weight_b=0.6)]"}
+{"id": 73, "result": "No function is provided to answer this question."}
+{"id": 74, "result": "[calculate_bacteria-evolution(initial_population=5000, duplication_rate=2, time=6)]"}
+{"id": 75, "result": "[compound_growth(initial_population=35000, annual_growth_rate=0.015, years=5)]"}
+{"id": 76, "result": "[predict_evolution_rate(\"Homo Sapiens\", 50, \"darwin\")]"}
+{"id": 77, "result": "[find_nearby_restaurant(location=\"Los Angeles\", cuisine=\"vegan\")]"}
+{"id": 78, "result": "[get_weather(city=\"Austin\", period=3, unit=\"Celsius\"), get_avg_temp]"}
+{"id": 79, "result": "[hist histogram(values=[85, 90, 88, 92, 86, 89, 91], bin_range=5)]"}
+{"id": 80, "result": "[find_nearby_restaurants(location='Manhattan', cuisine='Thai', options={'dietary_restrictions': 'vegan'}, num_results=5)]"}
+{"id": 81, "result": "[find_route(\"San Francisco\", \"Los Angeles\", avoid_toll_roads=True)]"}
+{"id": 82, "result": "[avg(lst=[12, 15, 18, 20, 21, 26, 30])]"}
+{"id": 83, "result": "[haversine_distance(lat1=33.4484, lon1=-112.0740, lat2=34.0522, lon2=-118.2437, unit='mi')]"}
+{"id": 84, "result": "[bmi_calculator(weight=85, height=180)]"}
+{"id": 85, "result": "[haversine_distance(lat1=42.3601, lon1=-71.0589, lat2=38.8951, lon2=-77.0367)]"}
+{"id": 86, "result": "[ shortest_path_between_cities(\"New York\", \"Los Angeles\", \"train\", True) ]"}
+{"id": 87, "result": "[sorted(arr=[5, 3, 4, 1, 2])]"}
+{"id": 88, "result": "[calculate_bmi(weight=70, height=1.75)]"}
+{"id": 89, "result": "[get_students_by_school_and_stream(school_name='Bluebird High School', stream='Science')]"}
+{"id": 90, "result": "[get_employee_data(company='ABC Ltd.', employee_id=345)]"}
+{"id": 91, "result": "[get_restaurants(location=\"Boston\", day=\"Sunday\"), get_highest_rated(restaurant_list=$get_restaurants, rating_type=\"sushi\")]"}
+{"id": 92, "result": "[get_movies(star=\"Leonardo DiCaprio\", release_year=2010)]"}
+{"id": 93, "result": "[get_IMAX_releases(city='LA', timeframe='next_week')]"}
+{"id": 94, "result": "[update_customer_info(user_id=43523, name='John Doe', email='johndoe@email.com')]"}
+{"id": 95, "result": "[calculate_triangle_area(base=5, height=3)]"}
+{"id": 96, "result": "[query_database(table='user', filters={'age': {'gt': 25}, 'job': 'engineer'})]"}
+{"id": 97, "result": "[math.factorial(n=5)]"}
+{"id": 98, "result": "[angle_between_hands(hour=6, minute=30)]"}
+{"id": 99, "result": "[import m\u00e1tplotlib.pyplot as plt, numpy as np; plt.plot(np.arange(0, 2*np.pi, 0.01), np.sin(5*np.arange(0, 2*np.pi, 0.01))); plt.show()]"}
+{"id": 100, "result": "[distance_to_time(distance=4)]"}
+{"id": 101, "result": "[distance_to_speed(distance=450, time=20, unit_in='m', unit_out='km/h', time_unit='s')]"}
+{"id": 102, "result": "None"}
+{"id": 103, "result": "[integrate.quad(lambda x: 3*x**2 + 2*x - 4, -1, 2)]"}
+{"id": 104, "result": "[calculate_triangle_area(base=6, height=10)]"}
+{"id": 105, "result": "[math.pow(3, 4)]"}
+{"id": 106, "result": "[RandomForestClassifier(n_estimators=100, max_depth=5).fit(your_dataset_name)]"}
+{"id": 107, "result": "[bmi_calculator(weight=70, height=175)]"}
+{"id": 108, "result": "[linear_regression(X=standardize(['Age', 'Income', 'Education']), y='Purchase_Amount')]"}
+{"id": 109, "result": "[generate_random_forest_model(data=my_data, num_trees=100, max_depth=5)]"}
+{"id": 110, "result": "[predict_house_price(city=\"San Francisco\", num_bedrooms=3, num_bathrooms=2, sqft=1800)]"}
+{"id": 111, "result": "[np.random.normal(loc=0, scale=1)]"}
+{"id": 112, "result": "[probability(event=\"drawing a king\", total_outcomes=52, favorable_outcomes=4)]"}
+{"id": 113, "result": "[combine_prob(prob=1/6, times=2)]"}
+{"id": 114, "result": "[combination(10, 5)*(0.5)**5*(0.5)**(10-5)]"}
+{"id": 115, "result": "[scipy.stats.binom.pmf(k=5, n=8, p=0.5)]"}
+{"id": 116, "result": "[probability\u4e8b\u4ef6\u51fa hi\u1ec7n=4/52)]"}
+{"id": 117, "result": "[ fraction(num=13, den=52)]"}
+{"id": 118, "result": "[t_test(sample1=[10, 15, 12, 14, 11], sample2=[18, 16, 17, 20, 22], alpha=0.05)]"}
+{"id": 119, "result": "[ttest_ind(sample1=[22,33,42,12,34], sample2=[23,45,44,14,38]),]"}
+{"id": 120, "result": "[from scipy.stats import ttest_ind, [ttest_ind(GroupA, GroupB, equal_var=True)]]"}
+{"id": 121, "result": "[binom.pmf(60, 100, 0.5)]"}
+{"id": 122, "result": "[scipy.stats.chi2_contingency([[10, 20], [30, 40]])]"}
+{"id": 123, "result": "[ttest_ind(group1, group2)]"}
+{"id": 124, "result": "[scipy.stats.ttest_ind(dataset_A, dataset_B)]"}
+{"id": 125, "result": "[predict_house_price(area=2500, num_rooms=5, year_built=1990)]"}
+{"id": 126, "result": "[import_pandas('C:/data/cars.csv').dropna().assign(car_price=lambda df: df.car_priceDTD)['car_priceDTD'].ols_fit('engine_size', 'fuel_economy').r_squared]"}
+{"id": 127, "result": "[npv(cash_flows=[200,300,400,500], discount_rate=0.10, initial_investment=2000)]"}
+{"id": 128, "result": "[dividend_per_share(outstanding_shares=100e6, total_dividend_payout=50e6)]"}
+{"id": 129, "result": "[npv(cashflows=[100, 100, 100, 100, 100], discount_rate=0.04),]"}
+{"id": 130, "result": "[npv(cash_flows=[-50000, 10000, 15000, 20000, 25000, 30000], rate=0.08)]"}
+{"id": 131, "result": "[compound_interest(principal=10000, rate=0.05, n=4, t=10)]"}
+{"id": 132, "result": "[calculate_roe(net_income=2000000, shareholder_equity=10000000, dividends_paid=200000)]"}
+{"id": 133, "result": "[fv(pv=5000,rate=0.05,n=36,pmt=0,pmt_type='end',when='end')]"}
+{"id": 134, "result": "[calculate_future_value(present_value=5000, annual_return_rate=0.07, time_year=5)]"}
+{"id": 135, "result": "[roi(initial_investment=20, final_investment=25, dividend=2)]"}
+{"id": 136, "result": "[compound_interest(principal=10000, rate=0.05, n=12, t=5)]"}
+{"id": 137, "result": "[future_value(present_value=5000, annual_growth_rate=0.06, years=5)]"}
+{"id": 138, "result": "[future_value(present_value=5000, annual_return=0.05, years=7)]"}
+{"id": 139, "result": "[invest_return(investment_amount=2000, yearly_yield=0.05, time_period=3)]"}
+{"id": 140, "result": "[cagr(initial=2000, final=3000, years=4)]"}
+{"id": 141, "result": "There is no function in the provided list that can be used to get the current gold price per ounce."}
+{"id": 142, "result": "[yahoo_quote_history('AMZN', start_date='2022-03-11', end_date='2022-03-11')]"}
+{"id": 143, "result": "[fetch_stock_price(ticker=\"AAPL\", exchange=\"NASDAQ\", days=5)]"}
+{"id": 144, "result": "[get_market_data(index='S&P 500', period='5d'), get_market_data(index='Dow Jones', period='5d')]"}
+{"id": 145, "result": "[compound_interest(principal=5000, annual_interest_rate=0.05, years=10)]"}
+{"id": 146, "result": "[get_stock_price('Amazon', days=3)]"}
+{"id": 147, "result": "[get_stock_prices(tickers=[\"MSFT\", \"GOOG\"], start_date=\"2 weeks ago\", end_date=\"today\")]"}
+{"id": 148, "result": "[future_value(pv=20000, r=0.08, n=5)]"}
+{"id": 149, "result": "[get_current_stock_price(ticker=\"AAPL\"), get_current_stock_price(ticker=\"MSFT\")]"}
+{"id": 150, "result": "[invest_simple_principal_times_rate_Time(1000, 0.03, 1)]"}
+{"id": 151, "result": "[get_highest_grossing_banks(country=\"USA\", year=2020)]"}
+{"id": 152, "result": "[future_value(present_value=50000, annual_yield=0.05, years=3)]"}
+{"id": 153, "result": "[compound_interest(principal=5000, years=5, rate=0.03, n=4)]"}
+{"id": 154, "result": "[calculate_future_value(present_value=5000, annual_interest_rate=0.05, years=10)]"}
+{"id": 155, "result": "[fv(pv=1000, i=0.05, n=2)]"}
+{"id": 156, "result": "[lookup_court_record(case_number=\"CA123456\", county=\"San Diego County\")]"}
+{"id": 157, "result": "[check_criminal_record(name=\"John Doe\", birthday=\"01-01-1980\", state=\"California\", conviction_type=\"felony\")]"}
+{"id": 158, "result": "[get_criminal_cases(name='Mr. X', location='New York', start_year=2012, end_year=2015)]"}
+{"id": 159, "result": "[]"}
+{"id": 160, "result": "[get_case_details(docket_number=\"2022/AL2562\", state=\"California\", detail=\"victim\")]"}
+{"id": 161, "result": "[get_california_laws(crime='theft', punishment_details=True)]"}
+{"id": 162, "result": "[generate_contract(\"John\", \"Alice\", \"California\", \"rental agreement\"), save_document(\"contract\", \"PDF\")]"}
+{"id": 163, "result": "[GetPropertyRecords(address=\"123 main street\", parcel_number=\"1234567890\", county=\"Santa Clara\", include_owners=True)]"}
+{"id": 164, "result": "[]"}
+{"id": 165, "result": "[filter_cases(crime_type=\"theft\", year=2020, city=\"Los Angeles\", state=\"California\")]"}
+{"id": 166, "result": "=find_lawyer(type='divorce', location='Chicago', max_fee=400)"}
+{"id": 167, "result": "[get_supreme_court_case_details(case_title='Roe v. Wade', include_dissent=True)]"}
+{"id": 168, "result": "[search_lawsuits(company='Google', jurisdiction='California', date_from='2021-01-01', status='ongoing')]"}
+{"id": 169, "result": "[get_case_details(state='TX', docket_number=123456)]"}
+{"id": 170, "result": "[search_case(category='fraud', start_date=2010, end_date=2015)]"}
+{"id": 171, "result": "[fetch_case_details(case_number=43403, court='New York', year=2018)]"}
+{"id": 172, "result": "There are no provided functions in JSON format. Please provide the available functions to compose a solution."}
+{"id": 173, "result": "=search_court_cases(case_type=\"land disputes\", state=\"New York\", start_year=2015, end_year=2021)"}
+{"id": 174, "result": "[get_landmark_cases(country='China', category='constitutional law', num_results=10)]"}
+{"id": 175, "result": "[\"get_experience('John Doe', 'Bankruptcy', 'months')\"]"}
+{"id": 176, "result": "[get_patent_lawsuits(company_name='Apple Inc.', year=2010)]"}
+{"id": 177, "result": "[get_patent_lawsuits(platform=\"Facebook\", year=2018)]"}
+{"id": 178, "result": "[get_case_details(case_number='LAX2019080202', court='Los Angeles')]"}
+{"id": 179, "result": "[get_latest_case(\"Apple\", \"Samsung\", \"USA\", \"court\"),]"}
+{"id": 180, "result": "[find_lawsuits(company='Google', location='California', year=2020)]"}
+{"id": 181, "result": "[get_case_details(case_number=\"123456-ABC\", court=\"Los Angeles\", details=\"verdict\")]"}
+{"id": 182, "result": "[get_lawsuit_details(case_number='XYZ123')]"}
+{"id": 183, "result": "[search_court_records(county=\"Santa Clara\", defendants=[\"Apple\"], case_type=\"lawsuit\"), display_court_records()]"}
+{"id": 184, "result": "[get_case_details(case_id=1234), is_case_closed(case_id=1234)]"}
+{"id": 185, "result": "[get_weather_forecast(city='New York', period=72)]"}
+{"id": 186, "result": "[geolocation_current_weather(city=\"Tokyo\", state=\"Japan\", country=\"Japan\", unit=\"metric\")]"}
+{"id": 187, "result": "[get_weather_data(city=\"Seattle\", state=\"Washington\", country=\"USA\")]"}
+{"id": 188, "result": "[get_weather_forecast('Miami, Florida', num_days=7, metrics='humidity')]"}
+{"id": 189, "result": "[get_weather_info(city=\"New York\", country=\"USA\", days=3)]"}
+{"id": 190, "result": ":get_park_info(park_name=\"Yellowstone National Park\", info_type=[\"elevation\", \"area\"])"}
+{"id": 191, "result": "[get_mountains_nearumas_city('Denver, Colorado', 50, num_results=5, sort_by='elevation', descending=True)]"}
+{"id": 192, "result": "[math.atan2(34.0522-40.7128, -118.2437+74.0060)*(180/math.pi)]"}
+{"id": 193, "result": "[read_json_resource('nurseries'), filter_locations('Toronto'), evaluate_variety('annual plants')]"}
+{"id": 194, "result": "[hillside_plant_recommender(hill_type=\"slope\", purpose=\"erosion_prevention\", num_results=3)]"}
+{"id": 195, "result": "[c Carbon_footprint(driving_distance=20, meat_meals_per_week=3, trash_per_year=500)]"}
+{"id": 196, "result": "[get_air_quality(\"London\", \"2022/08/16\")]"}
+{"id": 197, "result": "[get_air_quality_index(city='San Diego', time='12pm')]"}
+{"id": 198, "result": "[calculate_water_intake(weight=70)]"}
+{"id": 199, "result": "[get_air_quality('San Jose', '3 days')]"}
