@@ -1,0 +1,2 @@
+{"accuracy": 0.9958333333333333, "correct_count": 239, "total_count": 240}
+{"id": 8, "model_name": "mistral-small-2402-FC-Auto", "test_category": "relevance", "valid": false, "error": ["Valid syntax. Successfully decode AST when it should not."], "error_type": "relevance_error:decoder_success", "model_result": [{"math_integral_calculator": "{\"function\": \"3*x**2\", \"lower_bound\": 1, \"upper_bound\": 5}"}], "decoded_result": [{"math_integral_calculator": {"function": "3*x**2", "lower_bound": 1, "upper_bound": 5}}]}

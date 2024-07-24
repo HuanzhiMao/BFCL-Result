@@ -1,0 +1,200 @@
+{"id": 0, "result": "math.sqrt(0.5 * 10 * 5)"}
+{"id": 1, "result": "math.factorial(5)"}
+{"id": 2, "result": "math.hypot(4, 5)"}
+{"id": 3, "result": "quadratic_discriminant(-3, 1, 2)"}
+{"id": 4, "result": "[quadratic_formula(a=2, b=6, c=5)]"}
+{"id": 5, "result": "quadratic_equation(a=3, b=-11, c=-4)"}
+{"id": 6, "result": "[quadratic_equation(a=2, b=5, c=3),]"}
+{"id": 7, "result": "math.pi(), math.circle(4)"}
+{"id": 8, "result": "math.circle_area(radius=10)"}
+{"id": 9, "result": "math.pi * math.pow(5, 2)"}
+{"id": 10, "result": "math.sqrt(math.pow(6,2) + math.pow(10,2))"}
+{"id": 11, "result": "math.sqrt(0.5 * 10 * 5)"}
+{"id": 12, "result": "math.circle_perimeter(3)"}
+{"id": 13, "result": "[integrate(lambda x: x**2, 1, 3)]"}
+{"id": 14, "result": "[diff(diff(diff(x**2, 'x'), 'x'), 2*x, diff(-1, 'x'))]"}
+{"id": 15, "result": "[integrate(lambda x: x**3, -2, 3, 2)]"}
+{"id": 16, "result": "[lambda x: 4*x, 1]"}
+{"id": 17, "result": "math.gcd(2, math.gcd(3, 5*2*3*5))"}
+{"id": 18, "result": "[math.factorize(123456)]"}
+{"id": 19, "result": "math.gcd(40, 50)"}
+{"id": 20, "result": "[math.gcd(36, 24)]"}
+{"id": 21, "result": "math.gcd(36, 48)"}
+{"id": 22, "result": "math.gcd(12, 15)"}
+{"id": 23, "result": "[prime_factors(60)]"}
+{"id": 24, "result": "math.gcd(12, 18)"}
+{"id": 25, "result": "math.sqrt(9.81 * 150)"}
+{"id": 26, "result": "[velocity(distance=50, time=2)]"}
+{"id": 27, "result": "v0 = 10\na = 2\nt = 5\nv = v0 + a * t"}
+{"id": 28, "result": "[calculate_displacement(initial_velocity=10, acceleration=9.8, time=5.0)]"}
+{"id": 29, "result": "gravity(9.8)"}
+{"id": 30, "result": "[vehicle_acceleration(4, 0, 300)]"}
+{"id": 31, "result": "velocity(0, 9.8, 5)"}
+{"id": 32, "result": "[gravity(height=100, initial_velocity=0)]"}
+{"id": 33, "result": "geopy.distance.geodesic((-33.86, 151.21), (-37.81, 144.96))"}
+{"id": 34, "result": "plan_trip(days=7, budget=100, interest='nature')"}
+{"id": 35, "result": "yelp_search(\"vegan\", \"New York\", \"11:00 PM\", \"restaurant\")"}
+{"id": 36, "result": "[get_distance('New York City', 'Washington D.C.')]"}
+{"id": 37, "result": "distmiles('San Francisco', 'Los Angeles'), \ndistmiles('San Francisco', 'Santa Barbara'), \ndistmiles('Santa Barbara', 'Monterey'), \ndistmiles('Monterey', 'Los Angeles')"}
+{"id": 38, "result": "[electric_field(2e-9, 1e-9, 0.05)]"}
+{"id": 39, "result": "[calculate_electric_field_at_point(2, 3)]"}
+{"id": 40, "result": "Bmath.circle_current_magnetic_field(5, 4)"}
+{"id": 41, "result": "[electromagnetic_force(5, 7, 3),]"}
+{"id": 42, "result": "math.sqrt((1/(2*math.pi*math.sqrt(100e-6*50e-3)))"}
+{"id": 43, "result": "[math.calculate_magnetic_field_strength(current=20, distance=10)]"}
+{"id": 44, "result": "[calculate_kinetic_energy(q=0.01, r=4)]"}
+{"id": 45, "result": "[latent_heat_water(100, 100), specific_heat_water(100, 3756.4)]"}
+{"id": 46, "result": "[mix(20, 30, 15, 60)]"}
+{"id": 47, "result": "[physics.get_boiling_point(0.1), physics.get_melting_point(0.1)]"}
+{"id": 48, "result": "density_calculator massa=45, volume=15)"}
+{"id": 49, "result": "atm_to_pascals(1, 2)"}
+{"id": 50, "result": "[change_in_entropy(molar_mass='1 kg', initial_temperature='0\u00b0C', final_temperature='100\u00b0C')]"}
+{"id": 51, "result": "[calculate_entropy(initial_temperature=300, final_temperature=400, heat_capacity=5)]"}
+{"id": 52, "result": "[cv_to_cp(T=298, V=10)]"}
+{"id": 53, "result": "[get_dna_sequence(\"DNA123\")"}
+{"id": 54, "result": "biopython.ncbi_dbsnp_query('BRCA1')"}
+{"id": 55, "result": "[tools.Cell_Structure()]"}
+{"id": 56, "result": "biomolecules_info(\"proteins\", \"plasma membrane\")"}
+{"id": 57, "result": "[get_cell_density(od=0.6, dilution=5)]"}
+{"id": 58, "result": "[mitochondria_function('ATP synthesis')]"}
+{"id": 59, "result": "molecular_weight = atomic_mass('C', 6) + 12 * atomic_mass('H', 1) + 6 * atomic_mass('O', 1)"}
+{"id": 60, "result": "[rna_func('NCBI', 'rs6034464')]"}
+{"id": 61, "result": "[BMI(weight=150, height=(5*12+10)/12**2)]"}
+{"id": 62, "result": "[diff, _] = difflib.ndiff('AGTCGATCGAACGTACGTACG'.upper(), 'AGTCCATCGAACGTACGTACG'.upper())"}
+{"id": 63, "result": "[jaccard_similarity(human_dna, chimp_dna),]"}
+{"id": 64, "result": "[get_genotype_frequency(0.3, 0.3)]"}
+{"id": 65, "result": "population(213000000, 8500000)"}
+{"id": 66, "result": "[get_data('precipitation', 'Amazon Rainforest', '6 months')"}
+{"id": 67, "result": "bird_in_forest()"}
+{"id": 68, "result": "[forest_growth(0.5, 0.3, 0.2), human_impact(0.1, 0.2), plot_forest_growth_forecast(5)]"}
+{"id": 69, "result": "[get_data('Mississippi river', 2020, 'population'), get_data('Mississippi river', 2020, 'species', 'turtles')]"}
+{"id": 70, "result": "[carbon_footprint_from_gasoline_consumption(miles=1500, fuel_type='gasoline', conversion_factor=19.65)]"}
+{"id": 71, "result": "random.choice('GC', k=100)"}
+{"id": 72, "result": "[fitness(trait_a=0.8, trait_b=0.7, proportion_a=0.4, proportion_b=0.6)]"}
+{"id": 73, "result": "[pandas_datareader.DataReader('USPOP', 'fred', start='2020-01-01', end='2040-01-01')]"}
+{"id": 74, "result": "[lambda: lambda0(5000, 1, 6)]"}
+{"id": 75, "result": "[populations_growth(35000, 0.015, 5)]"}
+{"id": 76, "result": "[evolve(50, 'Homo Sapiens', 'darwin')]"}
+{"id": 77, "result": "[googlemaps.search_location(location='Los Angeles, CA, USA', query='vegan restaurants'), yelp.search_business(location='Los Angeles, CA', categories='vegan')]"}
+{"id": 78, "result": "get_weather_data('Austin', 'us', 'celsius', 'temperature', 'next_3_days')"}
+{"id": 79, "result": "[plt.hist([85, 90, 88, 92, 86, 89, 91], bins=5),]"}
+{"id": 80, "result": "[yelp_business_search(location=\"New York, NY\", categories=\"thai,vegan\", limit=5)]"}
+{"id": 81, "result": "osmnx.distance(matrix, orig, dest)"}
+{"id": 82, "result": "[len(sum(lst) / len(lst)) for lst in [[12, 15, 18, 20, 21, 26, 30]]]"}
+{"id": 83, "result": "haversine(33.4484, 112.0740, 34.0522, 118.2437)"}
+{"id": 84, "result": "math.sqrt((85 / (180/100)**2))"}
+{"id": 85, "result": "haversine(41.8781, -87.6298, 38.8951, -77.0365)"}
+{"id": 86, "result": "train_distances, train_routes, train_stops = load_train_data()\nshortest_distance = float('inf')\nshortest_route = []\nfor route in train_routes:\n    if route['from'] == 'New York' and route['to'] == 'Los Angeles':\n        distance = sum(train_distances[stop] for stop in route['stops'])\n        if distance < shortest_distance:\n            shortest_distance = distance\n            shortest_route = route['stops']\nprint([train_distance(shortest_distance), shortest_route])"}
+{"id": 87, "result": "sorted()"}
+{"id": 88, "result": "[bmi(weight=70, height=1.75)]"}
+{"id": 89, "result": "[fetch_records(studentdb, 'science', 'Bluebird High School')]"}
+{"id": 90, "result": "get_employee_info(345, 'ABC Ltd.')"}
+{"id": 91, "result": "[yelp_search(business_type='restaurant', location='Boston, MA', categories='sushi', open_now=True, open_at=[1], select=lambda x: x['rating'], reverse=True, limit=1)]"}
+{"id": 92, "result": "movies.find_year(\"2010\").filter_by.cast(\"Leonardo DiCaprio\")"}
+{"id": 93, "result": "movies.findDOMNode()"}
+{"id": 94, "result": "update_customer(\"43523\", {'name': 'John Doe', 'email': 'johndoe@email.com'})"}
+{"id": 95, "result": "math.sqrt(math.pow(5, 2) + math.pow(3, 2))"}
+{"id": 96, "result": "[db.select_all(\"user\", condition=\"age > 25 AND job = 'engineer'\")]"}
+{"id": 97, "result": "math.factorial(5)"}
+{"id": 98, "result": "math.radians(0.5)"}
+{"id": 99, "result": "import numpy as np\nimport matplotlib.pyplot as plt\nimport math\n\nnp.sin, plt.plot"}
+{"id": 100, "result": "distance = 4\nspeed = 299792458  # speed of light in m/s"}
+{"id": 101, "result": "math.sqrt(450/(20/3600))"}
+{"id": 102, "result": "[math.factorial(384400), math.sqrt]"}
+{"id": 103, "result": "[integrate(lambda x: 3*x**2 + 2*x - 4, x, -1, 2)]"}
+{"id": 104, "result": "[area_triangle(base=6, height=10)]"}
+{"id": 105, "result": "pow(3, 4)"}
+{"id": 106, "result": "[RandomForestClassifier(max_depth=5, n_estimators=100), fit(your_dataset_name)]"}
+{"id": 107, "result": "calc_bmi(weight=70, height=175)"}
+{"id": 108, "result": "[StandardScaler(), LinearRegression(X[['Age', 'Income', 'Education']], y), StandardScaler() ]"}
+{"id": 109, "result": "[RandomForestClassifier(n_estimators=100, max_depth=5),]"}
+{"id": 110, "result": "calculate_median([{'location': 'San Francisco', 'bedrooms': 3, 'bathrooms': 2, 'area': 1800}])"}
+{"id": 111, "result": "[scipy.stats.truncnorm.rvs(loc=0, scale=1)]"}
+{"id": 112, "result": "random.choice(list(range(1, 14))"}
+{"id": 113, "result": "random.randint(1, 6), random.randint(1, 6))"}
+{"id": 114, "result": "binomial(10, 5)"}
+{"id": 115, "result": "binomial(8, 5, 0.5)"}
+{"id": 116, "result": "random.choice([card for card in deck if card.rank == 'K'])"}
+{"id": 117, "result": "from collections import Counter\n\nCounter({i: (i.count(\"H\") / 13) for i in [\"Hearts\", \"Diamonds\", \"Clubs\", \"Spades\"]})"}
+{"id": 118, "result": "[scipy.stats.t_test_ind([10, 15, 12, 14, 11], [18, 16, 17, 20, 22], equal_var=False),]"}
+{"id": 119, "result": "[scipy.stats.ttest_ind(sample1=[22,33,42,12,34], sample2=[23,45,44,14,38]), 'alternative':'two-sided', 'statistic', 'pvalue'])"}
+{"id": 120, "result": "[scipy.stats.ttest_ind(group1=[3, 4, 5, 6, 4], group2=[7, 8, 9, 8, 7])]"}
+{"id": 121, "result": "[binom.cdf(k=60, n=100, p=0.5)]"}
+{"id": 122, "result": "[scipy.stats.chisquare([10, 20, 30, 40])"}
+{"id": 123, "result": "[scipy.stats.t_test_ind(group1=[12.4, 15.6, 11.2, 18.9], group2=[10.5, 9.8, 15.2, 13.8], alternative='two-sided', axis=0)]"}
+{"id": 124, "result": "[scipy.stats.ttest_ind(dataset_A, dataset_B)]"}
+{"id": 125, "result": "predict_price(2500, 5, 1990)"}
+{"id": 126, "result": "[stats.pearsonr(pandas.read_csv('C:/data/cars.csv')['car_price'], pandas.read_csv('C:/data/cars.csv')['engine_size'], pandas.read_csv('C:/data/cars.csv')['fuel_economy'])]"}
+{"id": 127, "result": "[npv(cash_flows=[200,300,400,500], rate=0.10, pv=2000)]"}
+{"id": 128, "result": "calculate_dividend_per_share(100000000, 50000000)"}
+{"id": 129, "result": "[discounted_cash_flow(coupon_payment=100, years=5, rate=0.04)]"}
+{"id": 130, "result": "[discounted_cashflows(npv=0, cashflows=[-50000, 10000, 15000, 20000, 25000, 30000], rate=0.08)]"}
+{"id": 131, "result": "[compound_interest(principal=10000, rate=0.05, time=10, n=4)]"}
+{"id": 132, "result": "[ROCE(-2000000, 10000000)]"}
+{"id": 133, "result": "[pow((1+0.05/12),36)*5000]"}
+{"id": 134, "result": "[math.pow(1+0.07, 5)*5000, math.fsum([5000*math.pow(1+0.07, i) for i in range(1, 6)]).astype(int)]"}
+{"id": 135, "result": "[calculate_returns(periodic_returns=0.25, cash_dividends=2, initial_investment=20, final_value=25)]"}
+{"id": 136, "result": "[compound_interest(principal=10000, rate=0.05, time=5, compounding_frequency=12)]"}
+{"id": 137, "result": "math.pow(1.06, 5), math.pow(5000, 1.06, 5)"}
+{"id": 138, "result": "np.np_power(0.05, 7), np.np_multiply(5000, np.np_power(1 + 0.05, 7) - 1)"}
+{"id": 139, "result": "math.pow(1 + 0.05, 3) * 2000"}
+{"id": 140, "result": "numpy.log, numpy.exp"}
+{"id": 141, "result": "[get_gold_price()]"}
+{"id": 142, "result": "yfinance.download(tickers='AMZN', start='2022-03-11', end='2022-03-11')"}
+{"id": 143, "result": "alpha_vantage.timeseries.get_daily(symbol='AAPL', output_format='pandas', from_date='2022-01-01', to_date='2022-01-05')"}
+{"id": 144, "result": "alpha Advisors.get_historical_market_data(symbols='SP500, DJ', interval='daily', count=5)"}
+{"id": 145, "result": "compound_interest(5000, 0.05, 10)"}
+{"id": 146, "result": "alpha_vantage.alpha_vantage(stock='AAPL', output_format='pandas', from_date='2022-08-15', to_date='2022-08-18')"}
+{"id": 147, "result": "[yfinance.download('MSFT', start='1 week ago', end='now'), yfinance.download('GOOGL', start='1 week ago', end='now')]"}
+{"id": 148, "result": "[calculate_future_value(r=0.08, principal=20000, time=5)]"}
+{"id": 149, "result": "[alpha.get_current_price(stock='AAPL', stock='MSFT')]"}
+{"id": 150, "result": "[math.pow(1 + 0.03, 1) * 1000, math.floor(1000 * (1 + 0.03))]"}
+{"id": 151, "result": "[yahoo_financial.get_historical_price(stock='JPM', from_date='2020-01-01', to_date='2020-12-31'), yfinance.download('JPM', start='2020-01-01', end='2020-12-31')['Adj Close']]"}
+{"id": 152, "result": "[calculate_simple_interest(principal=50000, rate=0.05, time=3)]"}
+{"id": 153, "result": "[compound_interest(initial=5000, rate=0.03, time=5, n=4)]"}
+{"id": 154, "result": "math.pow(0.05, 10), math.pow(1 + 0.05, 10) * 5000)"}
+{"id": 155, "result": "[math.pow(1.05, 2) * 1000]"}
+{"id": 156, "result": "[get_crime_data(case_number=\"CA123456\", county=\"San Diego\")"}
+{"id": 157, "result": "[check_criminal_record(individual=\"John Doe\", birthday=\"01-01-1980\", state=\"California\", offense_level=\"FELONY\")]"}
+{"id": 158, "result": "[get_crimes_by_year(start_year=2012, end_year=2015, location='New York')]"}
+{"id": 159, "result": "google_search(\"Criminal Law Amendment Act of 2013\")"}
+{"id": 160, "result": "apis.get_case('2022/AL2562')"}
+{"id": 161, "result": "[get_definition(\"california\", \"punishment\", \"theft\")]"}
+{"id": 162, "result": "generate_contract(\"John\", \"Alice\", \"California\", \"rental agreement\", 1, \"month\", 1000)"}
+{"id": 163, "result": "proprietary_property_records(123, 'main street', 1234567890, 'Santa Clara county')"}
+{"id": 164, "result": "crime_api('crime_type=violent_crime', 'location=San Francisco', 'year=2020')"}
+{"id": 165, "result": "[get_cases(start_date='2020-01-01', end_date='2020-12-31', location='Los Angeles, California', crime='theft')]"}
+{"id": 166, "result": "lawyers.find_lawyers(specializations='family', location='Chicago', fee_range='less_than_400')"}
+{"id": 167, "result": "scdb_case, scdb_core"}
+{"id": 168, "result": "[search_trips(api_key='YOUR_API_KEY', location='California', date_range='2021-01-01', company_name='Google'), search_news(query='Google lawsuit', date_range='2021-01-01', location='California')"}
+{"id": 169, "result": "[find_case(docket_number='123456', state='Texas')"}
+{"id": 170, "result": "[get_historical_law_case(start_year=2010, end_year=2015)]"}
+{"id": 171, "result": "[get_case_details(year=2018, court=\"New York\", case_number=\"43403\")"}
+{"id": 172, "result": "[get_case_details(case_number='RvsAdams')]"}
+{"id": 173, "result": "[search_court_cases(state='New York', start_year=2015, end_year=2021, case_type='land dispute')"}
+{"id": 174, "result": "json.loads(open('functions.json').read())['functions']"}
+{"id": 175, "result": "get_user_info(user_id='John Doe', fields=['bankruptcy_experience_months'])"}
+{"id": 176, "result": "patents.neptune.find_patents('Apple Inc.', start_date='1/1/2010', end_date='12/31/2010')"}
+{"id": 177, "result": "[get_patent_lawsuit_cases(year=2018)]"}
+{"id": 178, "result": "lawsuit_data = get_lawsuit_details(\"LAX2019080202\", \"Los Angeles\")"}
+{"id": 179, "result": "[scrape_news(headlines=True, topic='Apple Samsung court case', country='USA', date_range='latest')]"}
+{"id": 180, "result": "[pulb.get_lawsuits(\"California\", \"2020\")]"}
+{"id": 181, "result": "[get_lawsuit_details('123456-ABC', 'Los Angeles', 'verdict')]"}
+{"id": 182, "result": "lawsuits.get_case_details(case_number='XYZ123')"}
+{"id": 183, "result": "[webbrowser.open(\"https://www.courtinfo.ca.gov SELFSEARCH?case_type=CC&case_status=ACTIVE&judge=ALL&court=SCC\"), webbrowser.open(\"https://www.courtinfo.ca.gov/courtinfo/search-self-help-center.htm\")]"}
+{"id": 184, "result": "lawsuit_cases.get_case_details(case_id=1234), get_case_status(case_id=1234)"}
+{"id": 185, "result": "[weather_for_location(city=\"New York\", units=\"imperial\", days=3)]"}
+{"id": 186, "result": "weather_data('Tokyo, Japan')"}
+{"id": 187, "result": "weather('seattle,wa')"}
+{"id": 188, "result": "[weather Underground.get_weather('Miami, Florida', 'json', '7d', 'humidity')]"}
+{"id": 189, "result": "get_weather('New York, USA', '3 days', 'details')"}
+{"id": 190, "result": "geopy.geodesic.VincentyDistance().miles(yellowstone_national_park)"}
+{"id": 191, "result": "get_poi_info(lat=39.7392, lon=-105.0182, distance=50*1000, num_results=5)"}
+{"id": 192, "result": "math.degrees(math.atan2(34.0522-40.7128, -118.2437+74.0060))"}
+{"id": 193, "result": "[yelp_api('nurseries', 'Toronto', 'annual_plants')"}
+{"id": 194, "result": "[get_plant_list('hill_slope', 3)]"}
+{"id": 195, "result": "carb_footprint = carbon_footprint(20, 3, 500)"}
+{"id": 196, "result": "aq_data(\"London\", \"2022-08-16\", \"gb\")"}
+{"id": 197, "result": "aqi.get_current_air_quality('San Diego', 'US', '12:00')"}
+{"id": 198, "result": "calculate_water_intake(weight=70)"}
+{"id": 199, "result": "aqi.next_3_days(\"San Jose\")"}

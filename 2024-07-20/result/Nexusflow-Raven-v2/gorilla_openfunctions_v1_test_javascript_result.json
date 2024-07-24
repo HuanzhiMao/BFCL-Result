@@ -1,0 +1,50 @@
+{"idx": 0, "result": "validateUserInput(inputField='userInputField', isComplete=true);", "input_token_count": 0, "output_token_count": 0, "latency": 1.1316249370574951}
+{"idx": 1, "result": "getActiveDataEntries(listElement=listElement);", "input_token_count": 0, "output_token_count": 0, "latency": 0.9708278179168701}
+{"idx": 2, "result": "extractLastTransactionId(filepath='/var/log/db.log', status=['completed', 'failed'], encoding='utf-8', processFunction=out_of_domain(user_query=''));", "input_token_count": 0, "output_token_count": 0, "latency": 2.2565369606018066}
+{"idx": 3, "result": "submitAtCoordinate(action='submit', formId='loginForm', coordinates=[30, 60]);", "input_token_count": 0, "output_token_count": 0, "latency": 1.4434278011322021}
+{"idx": 4, "result": "emailFormatValidator(email='example@domain.com', domain='domain.com');", "input_token_count": 0, "output_token_count": 0, "latency": 1.2339158058166504}
+{"idx": 5, "result": "manageReactState(store={}, context={}, hooks={});", "input_token_count": 0, "output_token_count": 0, "latency": 1.1203179359436035}
+{"idx": 6, "result": "mapTransitions(category='transition', limit=4);", "input_token_count": 0, "output_token_count": 0, "latency": 0.9897959232330322}
+{"idx": 7, "result": "getNextKeyValues(ctx=dataAnalysisContext, currentKey='userId');", "input_token_count": 0, "output_token_count": 0, "latency": 1.1854870319366455}
+{"idx": 8, "result": "doesEmailInputExist(formElem='emailForm', inputName='emailAddress');", "input_token_count": 0, "output_token_count": 0, "latency": 1.4487218856811523}
+{"idx": 9, "result": "validateApiResponse(jsonPayload='responseData', keyToCheck='expectedKey', processingCallback='processKeyFunction');", "input_token_count": 0, "output_token_count": 0, "latency": 1.5902559757232666}
+{"idx": 10, "result": "fetchSalesDepartmentRecords(databaseName='employeeRecords', queryFunction=getSales);", "input_token_count": 0, "output_token_count": 0, "latency": 1.4119899272918701}
+{"idx": 11, "result": "prioritizeAndSort(items=myItemList, priorityStatus='urgent', ascending=true);", "input_token_count": 0, "output_token_count": 0, "latency": 1.4085099697113037}
+{"idx": 12, "result": "performDataFetch(apiEndpoint='https://api.example.com/data', requestConfig='{\"method\": \"GET\"}', expectedResponse='{\"key\": \"value\"}');", "input_token_count": 0, "output_token_count": 0, "latency": 2.084380865097046}
+{"idx": 13, "result": "DynamicChartGenerator(userData=userDataArray, scalingFactor=3, dashboard=dashboardElement);", "input_token_count": 0, "output_token_count": 0, "latency": 1.4953551292419434}
+{"idx": 14, "result": "chartDataAccessorFactory(chart='BarChart', library='chartModule', configObject='config');", "input_token_count": 0, "output_token_count": 0, "latency": 1.3032848834991455}
+{"idx": 15, "result": "ChartSeriesGenerator(labels=axisLabelsArray, data=dataPointsArray, color=defaultColor, chartLayout=chartLayoutObject);", "input_token_count": 0, "output_token_count": 0, "latency": 1.6601052284240723}
+{"idx": 16, "result": "rotateVertices(vertices=['(10, 15)', '(20, 25)'], pivot='(12, 17)', angle=30);", "input_token_count": 0, "output_token_count": 0, "latency": 2.1247920989990234}
+{"idx": 17, "result": "generateNotificationHandler(app=app, priorityLevel=3, messagingService='messagingSvc', notificationType=2);", "input_token_count": 0, "output_token_count": 0, "latency": 1.567007064819336}
+{"idx": 18, "result": "calculateFinalVelocity(time=t, gravity=g, initialVelocity=v0);", "input_token_count": 0, "output_token_count": 0, "latency": 1.3452789783477783}
+{"idx": 19, "result": "configureShaderMaterial(property=materialProps, textures=textureList, object3D=meshObject);", "input_token_count": 0, "output_token_count": 0, "latency": 1.9137358665466309}
+{"idx": 20, "result": "buttonAddClickHandler(element='myButton', callback='handleButtonClick', options={'stopPropagation': true});", "input_token_count": 0, "output_token_count": 0, "latency": 1.4906141757965088}
+{"idx": 21, "result": "findProductById(products: ['Product A', 'Product B', 'Product C'], id: 123);", "input_token_count": 0, "output_token_count": 0, "latency": 1.4738819599151611}
+{"idx": 22, "result": "resetStateProperty(stateProperty='userSession');", "input_token_count": 0, "output_token_count": 0, "latency": 0.8991951942443848}
+{"idx": 23, "result": "createAuthToken(username='johndoe', validity='3600', options={'issuer': 'myapp.net', 'role': 'admin', 'algorithm': 'HS256'});", "input_token_count": 0, "output_token_count": 0, "latency": 2.293010950088501}
+{"idx": 24, "result": "getUniqueSorted(array=[3, 1, 2, 1, 4, 3]);", "input_token_count": 0, "output_token_count": 0, "latency": 1.7447242736816406}
+{"idx": 25, "result": "trackSubmitWithValidation(obj=formHandler, validationFlags=['isRequired', 'isValidEmail']);", "input_token_count": 0, "output_token_count": 0, "latency": 1.362205982208252}
+{"idx": 26, "result": "contentUpdater(elementID='contentBox', newContent='Hello World', action='update');", "input_token_count": 0, "output_token_count": 0, "latency": 1.3125081062316895}
+{"idx": 27, "result": "validateReactProp(obj='serviceProvider', componentName='UserProfile');", "input_token_count": 0, "output_token_count": 0, "latency": 1.1302218437194824}
+{"idx": 28, "result": "filterBooksByAuthor(library=['bookA', 'bookB', 'bookC'], author='J.K. Rowling');", "input_token_count": 0, "output_token_count": 0, "latency": 1.57627534866333}
+{"idx": 29, "result": "EventScheduler(events={'setupStage': ['setupStageFunction'], 'cleanupStage': ['cleanupStageFunction']}, concurrencyLimit=3);", "input_token_count": 0, "output_token_count": 0, "latency": 1.943437099456787}
+{"idx": 30, "result": "setText(newText='Hello, World!', start=5, length=7);", "input_token_count": 0, "output_token_count": 0, "latency": 1.2620868682861328}
+{"idx": 31, "result": "transformAllDecoratorsOfDeclaration(node='myNode', container='myContainer');", "input_token_count": 0, "output_token_count": 0, "latency": 1.2603681087493896}
+{"idx": 32, "result": "pollQueue(queue='fileWatchQueue', pollingInterval=500, pollIndex=0, chunkSize=10);", "input_token_count": 0, "output_token_count": 0, "latency": 1.6217360496520996}
+{"idx": 33, "result": "emitNewLineBeforeLeadingComments(lineMap=tsLineMap, writer=tsWriter, node=42);", "input_token_count": 0, "output_token_count": 0, "latency": 1.5504670143127441}
+{"idx": 34, "result": "forEachType(type=unionTypeObj, f=processType);", "input_token_count": 0, "output_token_count": 0, "latency": 1.1197130680084229}
+{"idx": 35, "result": "areDeclarationFlagsIdentical(left=parameterObject, right=variableDeclarationObject);", "input_token_count": 0, "output_token_count": 0, "latency": 1.2631406784057617}
+{"idx": 36, "result": "updateBreak(node=null, label='loopEnd');", "input_token_count": 0, "output_token_count": 0, "latency": 1.055082082748413}
+{"idx": 37, "result": "addInitializedPropertyStatements(statements=shapeStatements, property=['width', 'height'], receiver='shape');", "input_token_count": 0, "output_token_count": 0, "latency": 1.4953598976135254}
+{"idx": 38, "result": "getDirectoryToWatchFromFailedLookupLocationDirectory(dir: '/projects/myApp/node_modules/react', dirPath: '/projects/myApp/node_modules/react');", "input_token_count": 0, "output_token_count": 0, "latency": 2.030730962753296}
+{"idx": 39, "result": "maybeAddJsSyntheticRestParameter(declaration=funcDeclaration, parameters=funcParameters);", "input_token_count": 0, "output_token_count": 0, "latency": 1.3460867404937744}
+{"idx": 40, "result": "assignOwnDefaults(objectValue='12', sourceValue='10', key='maxItems', object={});", "input_token_count": 0, "output_token_count": 0, "latency": 1.4664030075073242}
+{"idx": 41, "result": "queue_1(worker=myWorkerFunction, concurrency=5);", "input_token_count": 0, "output_token_count": 0, "latency": 1.1017770767211914}
+{"idx": 42, "result": "B(e=out_of_domain(user_query='How can I create a task queue with a concurrency of 5, where tasks are functions that log a message to the console, and ensure that when the queue becomes saturated, it logs 'Queue is saturated', and when it becomes unsaturated, it logs 'Queue is unsaturated'? Note that the provided function is in JavaScript.'), t=5);", "input_token_count": 0, "output_token_count": 0, "latency": 4.014158010482788}
+{"idx": 43, "result": "invokeCallback(callback='processResult', error='null', value='Operation successful');", "input_token_count": 0, "output_token_count": 0, "latency": 1.318924903869629}
+{"idx": 44, "result": "skipThrough(node='currentNode', st='nodeState', c='processNode');", "input_token_count": 0, "output_token_count": 0, "latency": 1.343703031539917}
+{"idx": 45, "result": "Sde(t='https://github.com/yarnpkg/berry', e={});", "input_token_count": 0, "output_token_count": 0, "latency": 1.2748260498046875}
+{"idx": 46, "result": "vOe(r='packageInfo', e='version', t='1.2.3');", "input_token_count": 0, "output_token_count": 0, "latency": 1.3286700248718262}
+{"idx": 47, "result": "sTe(r='2023-04-01', e='2023-04-15', t='days');", "input_token_count": 0, "output_token_count": 0, "latency": 1.7867579460144043}
+{"idx": 48, "result": "updateDOMListeners(oldVnode=oldVirtualNode, vnode=newVirtualNode);", "input_token_count": 0, "output_token_count": 0, "latency": 1.322110891342163}
+{"idx": 49, "result": "convertEnumeratedValue(key='contenteditable', value='plaintext-only');", "input_token_count": 0, "output_token_count": 0, "latency": 1.2637951374053955}
