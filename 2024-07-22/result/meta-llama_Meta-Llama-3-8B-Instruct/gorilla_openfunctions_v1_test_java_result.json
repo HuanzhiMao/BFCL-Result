@@ -1,0 +1,100 @@
+{"id": "java_0", "result": "\n\n[GeometryPresentation.createPresentation(controller=mapController, parent=mapArea)]"}
+{"id": "java_1", "result": "<|start_header_id|>\n\n[SQLCompletionAnalyzer.makeProposalsFromObject({\"object\": \"Customers\", \"useShortName\": \"true\", \"params\": \"{'limit': 50, 'schemaFilter': 'public'}\"})]"}
+{"id": "java_2", "result": "\n\n[FireBirdUtils.getViewSourceWithHeader(monitor=dbMonitor, view='EmployeeView', source=\"SELECT * FROM Employee WHERE status = 'active'\")]"}
+{"id": "java_3", "result": "\n\n[DB2Tablespace.resolveTablespaceReference(monitor=dbMonitor, dataSource=db2DataSource, reference='USERSPACE1')]"}
+{"id": "java_4", "result": "\n\n[DB2ViewBaseDepCache.prepareObjectsStatement(session=jdbcSession, db2ViewBase='HR.EmployeeView')]"}
+{"id": "java_5", "result": "\n\n[PlainTextPresentation.createPresentation(controller='dataController', parent='compositeParent', textAreaProps={'editable': False, 'wrapping': SWT.WRAP, 'multiline': true, 'horizontalBar': true, 'verticalBar': true})]"}
+{"id": "java_6", "result": "\n\n[SpreadsheetPresentation.refreshData(refreshMetadata='true', append='true', keepState='true')]"}
+{"id": "java_7", "result": "\n\n[EFSNIOResource.copy(destination='/backup/data.txt', force='true', monitor=progressTracker)]"}
+{"id": "java_8", "result": "\n\n[EFSNIOFile.setContents(source=fileStream, force=\"true\", keepHistory=\"false\", monitor=progressMonitor)]"}
+{"id": "java_9", "result": "\n\n[writeMultiPoint(multiPoint=java.util.Arrays.asList(new org.locationtech.jts.geom.Point[]{new org.locationtech.jts.geom.Point(1, 2), new org.locationtech.jts.geom.Point(3, 4), new org.locationtech.jts.geom.Point(5, 6), new org.locationtech.jts.geom.Point(7, 8), new org.locationtech.jts.geom.Point(9, 10)}, xyzmMode='XYZ', buffer=java.nio.ByteBuffer.allocate(1024))]"}
+{"id": "java_10", "result": "\n\n[JNIBridge.setLauncherInfo(launcher='/usr/local/bin/dbeaver', name='DBeaverLauncher')]"}
+{"id": "java_11", "result": "\n\n[BasePolicyDataProvider.getRegistryPolicyValue(root=\"HKEY_LOCAL_MACHINE\", property=\"EnableExtensions\")]"}
+{"id": "java_12", "result": "\n\n[ExasolExecutionContext.setCurrentSchema(schemaName='AnalyticsDB', monitor='progressMonitor')]"}
+{"id": "java_13", "result": "\n\n[AltibaseGrantee.prepareObjectsStatement(session='JDBC_session', owner='JohnDoe')]"}
+{"id": "java_14", "result": "\n\n[FunGameBase.onFinish(layout=gameLayout, success='true')]"}
+{"id": "java_15", "result": "\n\n[Res9patchStreamDecoder.decode(input=imageInputStream, out=imageOutputStream)]"}
+{"id": "java_16", "result": "\n\n[InsnDecoder.invokePolymorphic(insn=instructionData, isRange=\"true\")]"}
+{"id": "java_17", "result": "\n\n[GenericTypesVisitor.attachGenericTypesInfo(mth='initMethod', insn=newConstructorInsn)]"}
+{"id": "java_18", "result": "\n\n[SysRoleController.queryPageRoleCount(pageNo='2', pageSize='20')]"}
+{"id": "java_19", "result": "\n\n[PersonController.personal(model=webModel, request=userRequest)]"}
+{"id": "java_20", "result": "\n\n[HbaseAdapter.updateConfig(file_name='user-mapping.yml', config=newMappingConfig)]"}
+{"id": "java_21", "result": "\n\n[SessionHandler.exceptionCaught(ctx=nettyChannelContext, e='ioExceptionEvent')]"}
+{"id": "java_22", "result": "\n\n[PmsProductServiceImpl.updateNewStatus(ids='[101, 202, 303]', newStatus='2')]"}
+{"id": "java_23", "result": "\n\n[SmsHomeNewProductServiceImpl.list(productName=\"LED TV\", recommendStatus=\"1\", pageSize=\"20\", pageNum=\"3\")]"}
+{"id": "java_24", "result": "\n\n[PmsProductCategoryController.updateShowStatus(ids='[101, 102, 103]', showStatus='0')]"}
+{"id": "java_25", "result": "\n\n[SmsHomeRecommendSubjectController.updateSort(id='42', sort='5')]"}
+{"id": "java_26", "result": "\n\n[ProxyConnection.prepareCall(\"CALL totalSales(?)\", resultSetType=\"ResultSet.TYPE_SCROLL_INSENSITIVE\", concurrency=\"ResultSet.CONCUR_READ_ONLY\", holdability=\"ResultSet.CLOSE_CURSORS_AT_COMMIT\"),]"}
+{"id": "java_27", "result": "\n\n[TwoSum.twoSum(nums = \"[2, 7, 11, 15]\", target = \"9\")]"}
+{"id": "java_28", "result": "\n\n[configStorage.dynamicCredentialsScheduledExecutorService(credentialsFile='es_credentials.properties', credentialsRefreshInterval='30', basicCredentials=basicAuthCredentials)]"}
+{"id": "java_29", "result": "\n\n[propertyTransferredToCollectorBuilder, {'property': 'zipkin.collector.activemq.concurrency', 'value': '10', 'builderExtractor': 'getConcurrency'}]"}
+{"id": "java_30", "result": "\n\n[RedissonAsyncCache.putIfAbsent(map(\"key\", \"answer\", \"value\", \"42\"), map(\"key\", \"answer\"))]"}
+{"id": "java_31", "result": "\n\n[RedissonRx.getQueue(name='taskQueue', codec='jsonCodec')]"}
+{"id": "java_32", "result": "\n\nRedissonPermitExpirableSemaphore.tryAcquireAsync({\"waitTime\": \"5\", \"leaseTime\": \"120\", \"unit\": \"SECONDS\"})"}
+{"id": "java_33", "result": "\n\n[RedissonMapCache.putOperationAsync(\"employee:1234\", \"John Doe\")]"}
+{"id": "java_34", "result": "\n\n[ServiceManager.newTimeout(task=cleanupTask, delay=5000, unit='SECONDS')]"}
+{"id": "java_35", "result": "\n\n[RedissonConnection.bitOp(params = {\"op\": \"AND\", \"destination\": \"user:online:both\", \"keys\": [\"user:online:today\", \"user:online:yesterday\"]})]"}
+{"id": "java_36", "result": "\n\n[ObjectMapEntryReplayDecoder.decode(parts=['userID', 42, 'username', 'johndoe', 'isActive', true], state=processingState)]"}
+{"id": "java_37", "result": "\n\n[ConsoleAnnotator.annotate(params_context=jenkinsBuild, params_text=buildOutput)]"}
+{"id": "java_38", "result": "\n\n[NestedValueFetcher.createSourceMapStub(filteredSource=docFields)]"}
+{"id": "java_39", "result": "\n\n[NodeIdConverter.format(event=logEvent, toAppendTo=logBuilder)]"}
+{"id": "java_40", "result": "\n\n[RoutingNodesChangedObserver.shardInitialized(unassignedShard=shardA, initializedShard=shardB)]"}
+{"id": "java_41", "result": "\n\n[searchHitParser.declareInnerHitsParseFields(parser=searchHitParser),]"}
+{"id": "java_42", "result": "\n\n[TermQueryBuilderTests.termQuery(mapper=\"usernameField\", value=\"JohnDoe\", caseInsensitive=\"true\")]"}
+{"id": "java_43", "result": "\n\n[SecureMockMaker.createSpy(mockSettings, mockHandler, testObject)]"}
+{"id": "java_44", "result": "\n\n[DesAPITest.init(crypt='DESede', mode='CBC', padding='PKCS5Padding')]"}
+{"id": "java_45", "result": "\n\n[Basic.checkSizes(environ=envVariables, size=\"5\")]"}
+{"id": "java_46", "result": "\n\n[MethodInvokeTest.checkInjectedInvoker(csm=csmInstance, expected='MyExpectedClass.class')]"}
+{"id": "java_47", "result": "\n\n[LargeHandshakeTest.format(name='CERTIFICATE', value='MIIFdTCCBF2gAwIBAgISESG')]"}
+{"id": "java_48", "result": "\n\n[CookieHeaderTest.create({'sa': new InetSocketAddress(\"192.168.1.10\", 8080), 'sslContext': 'testSSLContext'})]"}
+{"id": "java_49", "result": "\n\n[Http2TestExchangeImpl.sendResponseHeaders(rCode='404', responseLength='1500')]"}
+{"id": "java_50", "result": "\n\n[TransformIndexerStateTests.doDeleteByQuery(deleteByQueryRequest=deleteQueryRequest, responseListener=testListener)]"}
+{"id": "java_51", "result": "\n\n[CCRUsageTransportAction.masterOperation(task='your_task', request=usageRequest, state=clusterState, listener=actionListener)]"}
+{"id": "java_52", "result": "\n\n[{'SamlObjectSignerTests.getChildren', 'node': 'SAMLAssertionNode', 'node_type': 'Element'}]"}
+{"id": "java_53", "result": "\n\n[VotingOnlyNodePlugin.fullMasterWithOlderState(localAcceptedTerm='42', localAcceptedVersion='7')]"}
+{"id": "java_54", "result": "\n\n[AbstractTransportSearchableSnapshotsAction.shardOperation(request=snapshotRequest, shardRouting=shardRouteInfo, task=snapshotTask, listener=operationListener)]"}
+{"id": "java_55", "result": "\n\n[SearchableSnapshotDirectory.create({'repositories': repositoriesService, 'cache': cacheService, 'indexSettings': indexSettingsForLogs, 'shardPath': '/data/nodes/0/indices/logs/5', 'currentTimeNanosSupplier': currentTimeNanos, 'threadPool': threadPool, 'blobStoreCacheService': blobStoreCacheService, 'sharedBlobCacheService': sharedBlobCacheService})]"}
+{"id": "java_56", "result": "\n\n[CCSDuelIT.parseEntity(entity=httpResponseEntity, entityParser=responseParser, parserConfig=defaultParserConfig)]"}
+{"id": "java_57", "result": "\n\n[Booleans.parseBooleanLenient(value=\"yes\", defaultValue=\"false\")]"}
+{"id": "java_58", "result": "\n\n[XContentBuilder.map(userProfile, \"false\", \"true\")]"}
+{"id": "java_59", "result": "\n\n['TruncateTranslogAction.execute(terminal=\"terminal\", shardPath=Paths.get(\"/var/data/elasticsearch/nodes/0/indices/1shard\"), indexDirectory=FSDirectory.open(\"/var/data/elasticsearch/nodes/0/indices/1shard/index\"))']"}
+{"id": "java_60", "result": "\n\n[NestedQueryBuilder.doBuild(parentSearchContext=mainSearchContext, innerHitsContext=hitsContext)]"}
+{"id": "java_61", "result": "\n\n[ScoreFunctionBuilders.exponentialDecayFunction(field='timestamp', origin='now', scale='10d', offset='2d', decay='0.5')]"}
+{"id": "java_62", "result": "\n\n[dvRangeQuery({'field': 'temperature', 'queryType': 'FLOAT', 'from': '20.5', 'to': '30.0', 'includeFrom': 'true', 'includeTo': 'false'})]"}
+{"id": "java_63", "result": "\n\n[withinQuery(field='age', from='30', to='40', includeFrom='true', includeTo='false')]"}
+{"id": "java_64", "result": "\n\n[DateScriptFieldType.createFieldType(name='timestamp', factory=dateFactory, script=dateScript, meta={'format': 'epoch_millis'}, onScriptError='FAIL')]"}
+{"id": "java_65", "result": "\n\n[RootObjectMapper.doXContent(builder=xContentBuilderInstance, params=[\"skip_runtime\", \"default_settings\"])"}
+{"id": "java_66", "result": "\n\n[CompositeRuntimeField.createChildRuntimeField(parserContext=mappingParserContext, parent='compositeField1', parentScriptFactory=compositeScriptFactory, onScriptError='onScriptError.IGNORE')]"}
+{"id": "java_67", "result": "\n\n[MacDmgBundler.prepareDMGSetupScript(appLocation='/Applications/PhotoEditor.app', params={'app_name': 'PhotoEditor', 'images_root': '/path_to_images', 'background_image': '/path_to_background_image'})]"}
+{"id": "java_68", "result": "\n\n[MacBaseInstallerBundler.validateAppImageAndBundler({\"params\": {\"appImage\": \"/Applications/MyApp.app\", \"appName\": \"MyApp\"}})]"}
+{"id": "java_69", "result": "\n\n[DurationImpl.alignSigns(buf=durations.toString(), start=\"2\", end=\"5\")]"}
+{"id": "java_70", "result": "\n\n[XMLNamespaceBinder.endElement(element=QName(\"http://www.example.com\", \"item\", \"ex\"), augs=augmentations)]"}
+{"id": "java_71", "result": "\n\n[CoroutineManager.co_exit_to(arg_object='resultData', thisCoroutine='5', toCoroutine='10')]"}
+{"id": "java_72", "result": "\n\n[ToTextStream.characters(ch=textBuffer, start=5, length=10)]"}
+{"id": "java_73", "result": "\n\n[Encodings.getEncodingInfo(encoding=\"UTF-8\", allowJavaNames=\"true\")]"}
+{"id": "java_74", "result": "\n\n[BaseMarkupSerializer.surrogates(high=\"55357\", low=\"56832\", inContent=\"true\")]"}
+{"id": "java_75", "result": "\n\n[JdkXmlFeatures.getSystemProperty(feature='XML_SECURITY', sysPropertyName='enableXmlSecurityFeature')]"}
+{"id": "java_76", "result": "\n\n[Intro.step(w=\"800\", h=\"600\")]"}
+{"id": "java_77", "result": "\n\n[JndiLoginModule.verifyPassword(encryptedPassword='e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', password='P@ssw0rd!')]"}
+{"id": "java_78", "result": "\n\n[OptionSpecBuilder.requiredUnless(dependent=\"output-format\", otherDependents=[\"quiet\", \"verbose\"])"}
+{"id": "java_79", "result": "\n\n[SAXFilterFactoryImpl.resolveEntity(publicid='1234', sysId='http://astro.com/stylesheets/toptemplate')]"}
+{"id": "java_80", "result": "\n\n[RegexConstraint.initIRPattern(category=\"failOn\", ruleIdx=\"42\")]"}
+{"id": "java_81", "result": "\n\n[TestObjectGraphAfterGC.doTesting(testcaseData='humongous-test-case.json', doGC='System.gc()', checker='referenceChecker', gcLogName='gc-analysis.log', shouldContain=['GC pause'], shouldNotContain=['OutOfMemoryError'])]"}
+{"id": "java_82", "result": "\n\n[clear001a.runIt(args=testArgs, out=System.out)]"}
+{"id": "java_83", "result": "\n\n[thrcputime002.runIt(argv=[\"-waitTime\", \"2\", \"-iterations\", \"500\"], out=System.out)]"}
+{"id": "java_84", "result": "\n\n[checkInnerFields(redefCls=myRedefClass, expValue=\"100\")]"}
+{"id": "java_85", "result": "\n\n[classfloadhk005.runIt, argv=['/path/to/classes', '60'], out=PrintStream]"}
+{"id": "java_86", "result": "\n\n[argumenttypes001.runThis(argv=['-v', '--no-strict'], out=debugOutput)]"}
+{"id": "java_87", "result": "\n\n[ suspendpolicy017.settingVMDeathRequest(suspendPolicy='EVENT_THREAD', property='testProperty', testProperty='deathEvent001'), ]"}
+{"id": "java_88", "result": "\n\nfilter_s002.setting22MethodEntryRequest({'thread': 'mainThread', 'testedClass': 'com.example.MainClass', 'suspendPolicy': 'EventRequest.SUSPEND_ALL', 'property': 'testProperty'})"}
+{"id": "java_89", "result": "\n\n[runThis(argv=[\"-waitTime\", \"2\", \"-debuggeeName\", \"TestDebuggee\"], out=\"testLogStream\")]"}
+{"id": "java_90", "result": "\n\n[sourcepaths002.runIt(args=['-v', '-p'], out='System.out')]"}
+{"id": "java_91", "result": "\n\n[invokemethod007.runIt(args=['suspend', 'log'], out=debugLog)]"}
+{"id": "java_92", "result": "\n\n[ClassFileFinder.findClassFile(name='com.example.MyClass', classPath='/usr/local/classes:/home/user/java/libs')]"}
+{"id": "java_93", "result": "\n\n[AbstractJarAgent.runJarAgent(options='trace log', inst='appInstrumentation')]"}
+{"id": "java_94", "result": "\n\n[NFILibrary.isMemberReadable(symbol={'symbol': 'getVersion', 'recursive': null})]"}
+{"id": "java_95", "result": "\n\n[ExportNodeTest.doGeneric(receiver=ExportInlinedObject1Instance, argument='HelloWorld', node=InlinableNodeInstance, library=NodeLibraryInstance)]"}
+{"id": "java_96", "result": "\n\n[InstrumentableProcessor.createCallConverter(converterMethod='convertValue', frameParameterName='frameVar', returnName='returnValueCode')]"}
+{"id": "java_97", "result": "\n\n[FlatNodeGenFactory.generateIntrospectionInfo(clazz='NodeClass', inlined='false)]"}
+{"id": "java_98", "result": "\n\n[LoopConditionProfile.calculateProbability(trueCountLocal=\"150\", falseCountLocal=\"50\")]"}
+{"id": "java_99", "result": "\n\n[LibraryExport.createDelegate(factory=myFactory, delegate=existingDelegate)]"}

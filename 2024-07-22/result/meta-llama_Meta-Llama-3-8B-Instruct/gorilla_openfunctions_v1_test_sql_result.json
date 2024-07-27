@@ -1,0 +1,100 @@
+{"id": 0, "result": "sql.execute(sql_keyword='SELECT', table_name='students', columns=['name'], conditions=['id = 1234'])"}
+{"id": 1, "result": "[sql.execute(sql_keyword='SELECT', table_name='calculations', columns=['result'])]"}
+{"id": 2, "result": "[sql.execute(sql_keyword='CREATE', table_name='Students', columns=['StudentID', 'FirstName', 'LastName', 'Age', 'Grade'])]"}
+{"id": 3, "result": "[sql.execute(sql_keyword='CREATE', table_name='MathScores', columns=['StudentID', 'AlgebraScore', 'GeometryScore', 'CalculusScore', 'StatisticsScore'],)]"}
+{"id": 4, "result": "[sql.execute(sql_keyword='UPDATE', table_name='StudentGrades', columns=['MathGrade'], update_values=['95'], conditions=['StudentID = 12345'])]"}
+{"id": 5, "result": "[sql.execute(sql_keyword='UPDATE', table_name='ExamScores', columns=['GeometryScore'], update_values=['85'], conditions=['ExamID = 67890'])]"}
+{"id": 6, "result": "sql.execute(sql_keyword='DELETE', table_name='Students', columns=['StudentID', 'Name'], conditions=['GPA < 2.0'])"}
+{"id": 7, "result": "[sql.execute(sql_keyword='DELETE', table_name='MathScores', conditions=['FinalScore < 50'])]"}
+{"id": 8, "result": "[sql.execute(sql_keyword='INSERT', table_name='Students', columns=['ID', 'Name', 'Age', 'Grade'], insert_values=['S101', 'John Doe', 15, 10])]"}
+{"id": 9, "result": "[sql.execute(sql_keyword='INSERT', table_name='MathScores', columns=['StudentID', 'Name', 'TestScore', 'TestDate'], insert_values=['EW123', 'Emily Watson', 95, '2022-03-01'])]"}
+{"id": 10, "result": "[sql.execute(sql_keyword='SELECT', table_name='Physics_Class', columns=['student_name', 'final_score'], conditions=['final_score > 90'])]"}
+{"id": 11, "result": "[sql.execute(sql_keyword='SELECT', table_name='Physicists', columns=['name', 'research_topic'], where_conditions=['research_topic=\"Quantum Mechanics\"'])]"}
+{"id": 12, "result": "[sql.execute(params_sql_keyword='CREATE', params_table_name='PhysicsExperiments', params_columns=['ExperimentID', 'ExperimentName', 'Researcher', 'DateConducted', 'Result'])]"}
+{"id": 13, "result": "[sql.execute(sql_keyword='CREATE TABLE', table_name='ParticleData', columns=['ParticleID', 'ParticleName', 'DiscoveredBy', 'YearDiscovered', 'Charge', 'Spin', 'Mass'])]"}
+{"id": 14, "result": "[sql.execute(sql_keyword='UPDATE', table_name='ExperimentData', columns=['DataValue'], update_values=['10.0'], conditions=['ExperimentID = \\'EX123\\'))]"}
+{"id": 15, "result": "[sql.execute(sql_keyword='UPDATE', table_name='PhysicsResults', columns=['Result'], update_values=['6.0'], conditions=['ExperimentID = \"PHY789\"'])]"}
+{"id": 16, "result": "['sql.execute(sql_keyword=\"DELETE\", table_name=\"ExperimentData\", columns=[\"*\"], conditions=[\"MeasurementID='M123' AND ExperimentID='E456'\"])]"}
+{"id": 17, "result": "[sql.execute(sql_keyword='DELETE', table_name='StarObservations', columns=['*'], conditions=['ObservationID=\\'O789\\' AND StarName=\\'Betelgeuse\\''])]"}
+{"id": 18, "result": "[sql.execute(sql_keyword='INSERT', table_name='FreeFallExperiment', columns=['Height', 'Time', 'TrialNumber'], insert_values=[[10, 1.43, 1], [20, 2.01, 2]])]"}
+{"id": 19, "result": "[sql.execute(sql_keyword='INSERT', table_name='SoundSpeedExperiment', columns=['Medium', 'Speed', 'Temperature', 'ExperimentNumber'], insert_values=[['Air', 343, 20, 1], ['Water', 1482, 20, 2])]"}
+{"id": 20, "result": "[sql.execute(sql_keyword='SELECT', table_name='PeriodicTable', columns=['name', 'atomic_number'], conditions=['atomic_weight < 20'])]"}
+{"id": 21, "result": "[sql.execute(sql_keyword='SELECT', table_name='ChemicalElements', columns=['name', 'atomic_mass'])]"}
+{"id": 22, "result": "[sql.execute(sql_keyword='CREATE', table_name='ChemicalElements', columns=['ElementName', 'AtomicNumber', 'Symbol', 'AtomicWeight'])]"}
+{"id": 23, "result": "[sql.execute(sql_keyword='CREATE', table_name='MolecularStructures', columns=['MoleculeName', 'MolecularFormula', 'MolecularWeight', 'StructureDiagram'])]"}
+{"id": 24, "result": "[sql.execute(sql_keyword='UPDATE', table_name='Elements', columns=['AtomicWeight'], update_values=['1.008'], conditions=['ElementName = \"Hydrogen\"'])]"}
+{"id": 25, "result": "[sql.execute(sql_keyword='UPDATE', table_name='Compounds', columns=['MolarMass'], update_values=['18.01528'], conditions=[\"'CompoundName' = 'Water'\"])]"}
+{"id": 26, "result": "[sql.execute(sql_keyword='DELETE', table_name='Elements', columns=['AtomicNumber', 'Symbol', 'AtomicWeight', 'Period'], conditions=['AtomicNumber = 118'])]"}
+{"id": 27, "result": "[sql.execute(sql_keyword='DELETE', table_name='Compounds', columns=['CompoundName', 'MolecularFormula', 'MolecularWeight', 'Density', 'MeltingPoint'], conditions=['CompoundName = \\'Dihydrogen Monoxide\\' AND MolecularFormula = \\'H2O\\''])]"}
+{"id": 28, "result": "[sql.execute(sql_keyword='INSERT', table_name='ChemicalElements', columns=['ElementName', 'AtomicNumber', 'Symbol', 'AtomicWeight'], insert_values=['Helium', '2', 'He', '4.002602'])]"}
+{"id": 29, "result": "[sql.execute(sql_keyword='INSERT', table_name='PeriodicTable', columns=['Element', 'AtomicNumber', 'Symbol', 'AtomicMass'], insert_values=['Neon', '10', 'Ne', '20.1797'])]"}
+{"id": 30, "result": "[sql.execute(sql_keyword='SELECT', table_name='species', columns=['species_name', 'lifespan'], conditions=['lifespan > 50'])]"}
+{"id": 31, "result": "[sql.execute(sql_keyword='SELECT', table_name='gene', columns=['gene_name', 'disease'], conditions=['disease = \"Cancer\"'])]"}
+{"id": 32, "result": "[sql.execute(sql_keyword='CREATE', table_name='CellTypes', columns=['CellID', 'CellName', 'Organ', 'Function'])]"}
+{"id": 33, "result": "[sql.execute(sql_keyword='CREATE', table_name='Genes', columns=['GeneID', 'GeneName', 'Chromosome', 'StartLocation', 'EndLocation'])]"}
+{"id": 34, "result": "[sql.execute(sql_keyword='UPDATE', table_name='AnimalClassification', columns=['Lifespan'], update_values=['70'], conditions=['Lifespan < 70'])]"}
+{"id": 35, "result": "[sql.execute(sql_keyword='UPDATE', table_name='PlantSpecies', columns=['AverageHeight'], update_values=['150'], conditions=['AverageHeight < 150'])]"}
+{"id": 36, "result": "[sql.execute(sql_keyword='DELETE', table_name='Genes', columns=['GeneID'], conditions=['GeneID =\\'BRCA1\\''])]"}
+{"id": 37, "result": "[sql.execute(sql_keyword='DELETE', table_name='Proteins', columns=['*'], conditions=['ProteinName != \"Hemoglobin\"'])]"}
+{"id": 38, "result": "[sql.execute(sql_keyword='INSERT', table_name='Species', columns=['Species_Name', 'Lifespan', 'Size', 'Weight'], insert_values=['Leptodactylus pentadactylus', 10, 7.5, 80])]"}
+{"id": 39, "result": "[sql.execute(sql_keyword='INSERT', table_name='Plant_Species', columns=['Species_Name', 'Height', 'Lifespan', 'Seed_Weight'], insert_values=['Cactaceae saharae', 15, 20, 0.5])]"}
+{"id": 40, "result": "[sql.execute(sql_keyword='SELECT', table_name='employees', conditions=['age > 30', 'department = \"Sales\"'])]"}
+{"id": 41, "result": "[sql.execute(sql_keyword='SELECT', table_name='students', columns=['*'], conditions=['grade < 60', 'course = \"Computer Science\"'])]"}
+{"id": 42, "result": "tools.sql.execute(sql_keyword='CREATE', table_name='Students', columns=['ID', 'Name', 'Age', 'Grade'])"}
+{"id": 43, "result": "[sql.execute(sql_keyword='CREATE', table_name='Employees', columns=['EmployeeID', 'FirstName', 'LastName', 'Position', 'Salary'])]"}
+{"id": 44, "result": "[sql.execute(sql_keyword='UPDATE', table_name='Students', columns=['Grade'], update_values=['A'], conditions=['Name = \"John\"'])]"}
+{"id": 45, "result": "[sql.execute(sql_keyword='UPDATE', table_name='Employees', columns=['Salary'], update_values=['80000'], conditions=['EmployeeID = E123'])]"}
+{"id": 46, "result": "[sql.execute(sql_keyword='DELETE', table_name='Employees', conditions=['name = \"John Doe\"'])]"}
+{"id": 47, "result": "[sql.execute(sql_keyword='DELETE', table_name='Students', columns=['*'], conditions=['name = \"Jane Smith\"'])]"}
+{"id": 48, "result": "[sql.execute(sql_keyword='INSERT', table_name='Students', columns=['ID', 'Name', 'Age', 'Grade'], insert_values=['S101', 'John Doe', 16, 10])]"}
+{"id": 49, "result": "[sql.execute(sql_keyword='INSERT', table_name='Employees', columns=['EmployeeID', 'FirstName', 'LastName', 'Position', 'Salary'], insert_values=[\"'E123'\", \"'Jane'\", \"'Doe'\", \"'Manager'\", \"'80000'\"])]"}
+{"id": 50, "result": "sql.execute(sql_keyword='SELECT', table_name='employees', columns=['name'], conditions=['salary > 50000'])"}
+{"id": 51, "result": "sql.execute(sql_keyword='SELECT', table_name='customers', columns=['name', 'age'], conditions=['total > 1000'])"}
+{"id": 52, "result": "[sql.execute(sql_keyword='CREATE', table_name='Employee', columns=['ID', 'Name', 'Position', 'Salary', 'Department'])]"}
+{"id": 53, "result": "[sql.execute(sql_keyword='CREATE', table_name='Customer', columns=['CustomerID', 'FirstName', 'LastName', 'Email', 'Phone', 'Address'])]"}
+{"id": 54, "result": "[sql.execute(sql_keyword='UPDATE', table_name='employees', columns=['salary'], update_values=['5000'], conditions=['job_title = \"Manager\"'])]"}
+{"id": 55, "result": "sql.execute(sql_keyword='UPDATE', table_name='products', columns=['price'], update_values=['20'], conditions=['category = \"Electronics\"'])"}
+{"id": 56, "result": "[sql.execute(sql_keyword='DELETE', table_name='orders', columns=['*'], conditions=['order_status = \"cancelled\"'])]"}
+{"id": 57, "result": "[sql.execute(sql_keyword='DELETE', table_name='customer_data', columns=['*'], conditions=['customer_age >= 18'])]"}
+{"id": 58, "result": "[sql.execute(sql_keyword='INSERT', table_name='employees', columns=['employee_id', 'first_name', 'last_name', 'email', 'phone_number'], insert_values=[['E1001', 'John', 'Doe', 'johndoe@example.com', '123-456-7890']])]"}
+{"id": 59, "result": "[sql.execute(sql_keyword='INSERT', table_name='customer', columns=['customer_id', 'customer_name', 'customer_email', 'customer_address', 'customer_phone'], insert_values= ['C1023', 'Jane Smith', 'janesmith@example.com', '123 Main St, Anytown', '987-654-3210'])]"}
+{"id": 60, "result": "[sql.execute(sql_keyword='SELECT', table_name='employees', columns=['name'], conditions=['salary > 5000'])]"}
+{"id": 61, "result": "[sql.execute(sql_keyword='SELECT', table_name='customers', columns=['age'], conditions=['purchase_amount > 1000'])]"}
+{"id": 62, "result": "['sql.execute(sql_keyword=\"CREATE\", table_name=\"StudentScores\", columns=[\"StudentID\", \"MathScore\", \"EnglishScore\", \"ScienceScore\"], require_columns=True)"}
+{"id": 63, "result": "[sql.execute(sql_keyword='CREATE', table_name='SurveyResults', columns=['RespondentID', 'Age', 'Gender', 'Income', 'SatisfactionScore'])]"}
+{"id": 64, "result": "[sql.execute(sql_keyword='UPDATE', table_name='Students', columns=['Grade'], update_values=['A'], conditions=['Age > 18'])]"}
+{"id": 65, "result": "[sql.execute(sql_keyword='UPDATE', table_name='Survey_Responses', columns=['Response'], update_values=['Yes'], conditions=['Age > 50 AND Gender = \\'Male\\'))]"}
+{"id": 66, "result": "[sql.execute(sql_keyword='DELETE', table_name='employees', conditions=['job_title = \"Data Analyst\"'])]"}
+{"id": 67, "result": "sql.execute(sql_keyword='DELETE', table_name='student_scores', columns=['*'], conditions=['score < 50'])"}
+{"id": 68, "result": "[sql.execute(sql_keyword='INSERT', table_name='Students', columns=['StudentID', 'FirstName', 'LastName', 'Age', 'Grade'], insert_values=['S101', 'John', 'Doe', '15', '10'])]"}
+{"id": 69, "result": "[sql.execute(sql_keyword='INSERT', table_name='Census', columns=['Year', 'Population', 'BirthRate', 'DeathRate', 'NetMigrationRate'], insert_values=[['2022', '331002651', '12.4', '8.9', '2.5']])]"}
+{"id": 70, "result": "[sql.execute(sql_keyword='SELECT', table_name='sales', columns=['product_name', 'quantity_sold'], conditions=['product_name = \"Product X\" AND sale_date BETWEEN \"2022-01-01\" AND \"2022-03-31\"'])]"}
+{"id": 71, "result": "sql.execute(sql_keyword='SELECT', table_name='income_data', columns=['city', 'income'], conditions=['city = \"New York\"'])"}
+{"id": 72, "result": "[sql.execute(sql_keyword='CREATE', table_name='EconomicData', columns=['Year', 'GDP', 'InflationRate', 'UnemploymentRate', 'InterestRate'], required=True)]"}
+{"id": 73, "result": "[sql.execute(sql_keyword='CREATE', table_name='FiscalPolicy', columns=['Year', 'GovernmentSpending', 'TaxRevenue', 'BudgetDeficit', 'PublicDebt'])]"}
+{"id": 74, "result": "[sql.execute(sql_keyword='UPDATE', table_name='country_gdp', columns=['gdp'], update_values=['21.44 trillion USD'], conditions=['country_name = \\'United States\\'])]"}
+{"id": 75, "result": "[sql.execute(sql_keyword='UPDATE', table_name='country_inflation', columns=['inflation_rate'], update_values=['1.2%'], conditions=['country_name = \"Japan\"'])]"}
+{"id": 76, "result": "[sql.execute(sql_keyword='DELETE', table_name='EconomicData', columns=['*'], conditions=['Indicator = \"GDP\" AND Year = \"2010\"'])]"}
+{"id": 77, "result": "[sql.execute(sql_keyword='DELETE', table_name='FinancialStats', columns=['*'], conditions=['EconomicIndicator = \\'Unemployment Rate\\' AND Year = 2005'])]"}
+{"id": 78, "result": "[sql.execute(sql_keyword='INSERT', table_name='EconomicData', columns=['Country', 'GDP', 'Unemployment_Rate', 'Inflation_Rate'], insert_values=['USA', '21.43 trillion', '3.5%', '1.8%'])]"}
+{"id": 79, "result": "[sql.execute(sql_keyword='INSERT', table_name='GlobalEconomy', columns=['Region', 'Trade_Deficit', 'Interest_Rate', 'Population'], insert_values=[['Europe', '2.1 trillion', '0.5%', '741.4 million']])]"}
+{"id": 80, "result": "[sql.execute(sql_keyword='SELECT', table_name='Employees', columns=['name', 'salary'], conditions=['salary > 5000'])]"}
+{"id": 81, "result": "['sql.execute(sql_keyword=\"SELECT\", table_name=\"Customers\", columns=[\"name\", \"account_balance\"], conditions=[\"account_balance > 10000\"])]"}
+{"id": 82, "result": "[sql.execute(sql_keyword='CREATE', table_name='Investments', columns=['InvestorName', 'InvestmentType', 'InvestmentAmount', 'InvestmentDate'])]"}
+{"id": 83, "result": "['sql.execute(sql_keyword=\"CREATE\", table_name=\"FinancialTransactions\", columns=[\"TransactionID\", \"TransactionType\", \"TransactionAmount\", \"TransactionDate\"], required=True)']"}
+{"id": 84, "result": "[sql.execute(sql_keyword='UPDATE', table_name='customers', columns=['balance'], update_values=['1500'])]"}
+{"id": 85, "result": "[sql.execute(sql_keyword='UPDATE', table_name='stocks', columns=['price'], update_values=['150 - 10'], conditions=['price = price'])]"}
+{"id": 86, "result": "[sql.execute(sql_keyword='DELETE', table_name='transactions', columns=['*'], conditions=['account_type = \\'savings\\' AND amount > 5000'])]"}
+{"id": 87, "result": "[sql.execute(sql_keyword='DELETE', table_name='customer_details', columns=['*'], conditions=['credit_score < 600 AND account_balance < 1000'])]"}
+{"id": 88, "result": "[sql.execute(sql_keyword='INSERT', table_name='Transactions', columns=['TransactionID', 'Date', 'Amount', 'Type', 'AccountID'], insert_values=['TXN12345', '2022-03-01', '5000', 'Deposit', 'ACC789'])]"}
+{"id": 89, "result": "[sql.execute(sql_keyword='INSERT', table_name='Stocks', columns=['StockID', 'PurchaseDate', 'PurchasePrice', 'Quantity', 'InvestorID'], insert_values=['STK54321', '2022-03-15', '150', '100', 'INV456'])]"}
+{"id": 90, "result": "[sql.execute(sql_keyword='SELECT', table_name='employees', columns=['name', 'age', 'salary'], conditions=['age > 30'])]"}
+{"id": 91, "result": "[sql.execute(sql_keyword='SELECT', table_name='products', columns=['product_name', 'product_id', 'price'], conditions=['price < 20'])]"}
+{"id": 92, "result": "[sql.execute(sql_keyword='CREATE', table_name='Employee', columns=['EmployeeID', 'FirstName', 'LastName', 'Email', 'Phone'])]"}
+{"id": 93, "result": "[sql.execute(sql_keyword='CREATE', table_name='Inventory', columns=['ProductID', 'ProductName', 'SupplierID', 'CategoryID', 'QuantityPerUnit', 'UnitPrice'])]"}
+{"id": 94, "result": "[sql.execute(sql_keyword='UPDATE', table_name='employees', columns=['salary'], update_values=['5000'], conditions=['id = ''E123'''])]"}
+{"id": 95, "result": "['sql.execute(sql_keyword='UPDATE', table_name='products', columns=['price'], update_values=['15.99'], conditions=[f\"SKU = 'P789'\"])]"}
+{"id": 96, "result": "[sql.execute(sql_keyword='DELETE', table_name='employees', columns=['*'], conditions=['salary < 50000'])]"}
+{"id": 97, "result": "sql.execute(sql_keyword='DELETE', table_name='orders', columns=['*'], conditions=['order_status = \"cancelled\"'])"}
+{"id": 98, "result": "[sql.execute(sql_keyword='INSERT', table_name='Employees', columns=['EmployeeID', 'FirstName', 'LastName', 'Position'], insert_values=['E123', 'John', 'Doe', 'Manager'])]"}
+{"id": 99, "result": "[sql.execute(sql_keyword='INSERT', table_name='Products', columns=['ProductID', 'ProductName', 'Category', 'Price'], insert_values=['P789', 'Apple iPhone 13', 'Electronics', '999'])]"}
