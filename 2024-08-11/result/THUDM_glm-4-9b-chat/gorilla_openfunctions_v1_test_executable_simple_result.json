@@ -1,0 +1,100 @@
+{"id": "executable_simple_0", "result": "calc_binomial_probability\n{\"k\": 5, \"n\": 20, \"p\": 0.6}"}
+{"id": "executable_simple_1", "result": "calc_binomial_probability\n{\"n\": 30, \"k\": 15, \"p\": 0.5}"}
+{"id": "executable_simple_2", "result": "calculate_cosine_similarity\n{\"vectorA\": [0.5, 0.7, 0.2, 0.9, 0.1], \"vectorB\": [0.4, 0.6, 0.3, 0.8, 0.2]}"}
+{"id": "executable_simple_3", "result": "calculate_cosine_similarity\n{\"vectorA\": [0.3, 0.8, 0.1, 0.6, 0.2], \"vectorB\": [0.5, 0.7, 0.4, 0.9, 0.3]}"}
+{"id": "executable_simple_4", "result": "calculate_density\n{\"mass\": 50.0, \"volume\": 10.0}"}
+{"id": "executable_simple_5", "result": "calculate_density\n{\"mass\": 120.0, \"volume\": 30.0}"}
+{"id": "executable_simple_6", "result": "calculate_displacement\n{\"initial_velocity\": 15, \"acceleration\": 9.8, \"time\": 10}"}
+{"id": "executable_simple_7", "result": "calculate_displacement\n{\"initial_velocity\": 25, \"acceleration\": 15, \"time\": 8}"}
+{"id": "executable_simple_8", "result": "calculate_electrostatic_potential_energy\n{\"charge\": 5, \"voltage\": 10}"}
+{"id": "executable_simple_9", "result": "calculate_electrostatic_potential_energy\n{\"charge\": 7.8, \"voltage\": 15.2}"}
+{"id": "executable_simple_10", "result": "calculate_final_velocity\n{\"acceleration\": 9.8, \"initial_velocity\": 0, \"time\": 12}"}
+{"id": "executable_simple_11", "result": "calculate_final_velocity\n{\"initial_velocity\": 0, \"acceleration\": 9.8, \"time\": 7}"}
+{"id": "executable_simple_12", "result": "calculate_future_value\n{\"present_value\": 5000, \"interest_rate\": 0.05, \"periods\": 10}"}
+{"id": "executable_simple_13", "result": "calculate_future_value\n{\"present_value\": 8000, \"interest_rate\": 0.04, \"periods\": 15}"}
+{"id": "executable_simple_14", "result": "\nTo calculate the average temperature, we first need to create a list of all the daily temperatures. Given that the temperatures range from 22 to 80 degrees Celsius, incrementing by 2 each day, we can use a simple loop to generate this list. Then, we'll use the `calculate_mean` function to compute the average.\n\nLet's start by generating the list of temperatures:\n\n```python\ntemperatures = [22 + 2*i for i in range((80-22)//2 + 1)]\n```\n\nNow, let's calculate the mean of these temperatures:\n\n```python\naverage_temperature = calculate_mean(temperatures)\n```\n\nLet's proceed with the calculation.calculate_mean\n{\"numbers\": [22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54, 56, 58, 60, 62, 64, 66, 68, 70, 72, 74, 76, 78, 80]}"}
+{"id": "executable_simple_15", "result": "calculate_mean\n{\"numbers\": [15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85, 90, 95, 100, 105, 110, 115, 120, 125, 130, 135, 140, 145, 150, 155, 160]}"}
+{"id": "executable_simple_16", "result": "calculate_permutations\n{\"k\": 5, \"n\": 26}"}
+{"id": "executable_simple_17", "result": "calculate_permutations\n{\"k\": 7, \"n\": 30}"}
+{"id": "executable_simple_18", "result": "calculate_standard_deviation\n{\"numbers\": [1000, 2000, 3000, 4000, 5000, 7000, 9000, 15000, 20000, 30000]}"}
+{"id": "executable_simple_19", "result": "calculate_standard_deviation\n{\"numbers\": [30, 20, 25, 12, 59, 23, 64, 21, 67, 12, 23, 43]}"}
+{"id": "executable_simple_20", "result": "calculate_triangle_area\n{\"base\": 500, \"height\": 300}"}
+{"id": "executable_simple_21", "result": "calculate_triangle_area\n{\"base\": 700, \"height\": 450}"}
+{"id": "executable_simple_22", "result": "convert_currency\n{\"amount\": 5000.0, \"from_currency\": \"EUR\", \"to_currency\": \"JPY\"}"}
+{"id": "executable_simple_23", "result": "convert_currency\n{\"amount\": 3000.0, \"from_currency\": \"USD\", \"to_currency\": \"GBP\"}"}
+{"id": "executable_simple_24", "result": "\nTo find the velocity of the particle at a specific time, you need to calculate the derivative of the position function with respect to time, since velocity is the derivative of position with respect to time. The position function you've provided is \\( f(t) = 3t^2 + 2t + 1 \\). Let's find its derivative and then evaluate it at \\( t = 5 \\) seconds.\n\nThe derivative of \\( f(t) \\) with respect to \\( t \\), which gives the velocity as a function of time, is found by differentiating each term. The derivative of \\( 3t^2 \\) is \\( 6t \\), the derivative of \\( 2t \\) is \\( 2 \\), and the derivative of the constant \\( 1 \\) is \\( 0 \\). Therefore, the velocity function \\( v(t) \\) is:\n\n\\[ v(t) = 6t + 2 \\]\n\nNow we can plug in \\( t = 5 \\) to find the velocity at that moment.estimate_derivative\n{\"function\": \"6.0*t + 2.0\", \"x\": 5}"}
+{"id": "executable_simple_25", "result": "estimate_derivative\n{\"function\": \"4*x**3 + 3*x**2 + 2*x + 1\", \"x\": 7}"}
+{"id": "executable_simple_26", "result": "find_term_on_urban_dictionary\n{\"term\": \"lit\"}"}
+{"id": "executable_simple_27", "result": "find_term_on_urban_dictionary\n{\"term\": \"flex\"}"}
+{"id": "executable_simple_28", "result": "geometry_area_circle\n{\"radius\": 15}"}
+{"id": "executable_simple_29", "result": "geometry_area_circle\n{\"radius\": 20}"}
+{"id": "executable_simple_30", "result": "get_active_covid_case_by_country\n{\"country\": \"Brazil\"}"}
+{"id": "executable_simple_31", "result": "get_active_covid_case_by_country\n{\"country\": \"Spain\"}"}
+{"id": "executable_simple_32", "result": "get_company_name_by_stock_name\n{\"stock_name\": \"AAPL\"}"}
+{"id": "executable_simple_33", "result": "get_company_name_by_stock_name\n{\"stock_name\": \"GOOGL\"}"}
+{"id": "executable_simple_34", "result": "get_coordinate_by_ip_address\n{\"ip_address\": \"192.168.1.1\"}"}
+{"id": "executable_simple_35", "result": "get_coordinate_by_ip_address\n{\"ip_address\": \"172.16.254.1\"}"}
+{"id": "executable_simple_36", "result": "get_coordinates_from_city\n{\"city_name\": \"Paris\"}"}
+{"id": "executable_simple_37", "result": "get_coordinates_from_city\n{\"city_name\": \"Cairo\"}"}
+{"id": "executable_simple_38", "result": "get_covid_death_by_country\n{\"country\": \"Brazil\"}"}
+{"id": "executable_simple_39", "result": "get_covid_death_by_country\n{\"country\": \"India\"}"}
+{"id": "executable_simple_40", "result": "get_distance\n{\"pointA\": [45.76, 4.85], \"pointB\": [48.85, 2.35]}"}
+{"id": "executable_simple_41", "result": "get_distance\n{\"pointA\": [32.71, -117.16], \"pointB\": [34.05, -118.25]}"}
+{"id": "executable_simple_42", "result": "get_fibonacci_sequence\n{\"n\": 20}"}
+{"id": "executable_simple_43", "result": "get_fibonacci_sequence\n{\"n\": 50}"}
+{"id": "executable_simple_44", "result": "get_price_by_amazon_ASIN\n{\"ASIN\": \"B08PPDJWC8\"}"}
+{"id": "executable_simple_45", "result": "get_price_by_amazon_ASIN\n{\"ASIN\": \"B08PPDJWC8\"}"}
+{"id": "executable_simple_46", "result": "get_prime_factors\n{\"number\": 4567}"}
+{"id": "executable_simple_47", "result": "get_prime_factors\n{\"number\": 7891}"}
+{"id": "executable_simple_48", "result": "get_product_name_by_amazon_ASIN\n{\"ASIN\": \"B08BHXG144\"}"}
+{"id": "executable_simple_49", "result": "get_product_name_by_amazon_ASIN\n{\"ASIN\": \"B07ZPKBL9V\"}"}
+{"id": "executable_simple_50", "result": "get_rating_by_amazon_ASIN\n{\"ASIN\": \"B08BHXG144\"}"}
+{"id": "executable_simple_51", "result": "get_rating_by_amazon_ASIN\n{\"ASIN\": \"B07ZPKBL9V\"}"}
+{"id": "executable_simple_52", "result": "get_stock_history\n{\"stock_name\": \"AAPL\", \"interval\": \"1mo\", \"diffandsplits\": \"true\"}"}
+{"id": "executable_simple_53", "result": "get_stock_history\n{\"diffandsplits\": \"false\", \"interval\": \"1wk\", \"stock_name\": \"MSFT\"}"}
+{"id": "executable_simple_54", "result": "get_stock_price_by_stock_name\n{\"stock_name\": \"AAPL\"}"}
+{"id": "executable_simple_55", "result": "get_stock_price_by_stock_name\n{\"stock_name\": \"MSFT\"}"}
+{"id": "executable_simple_56", "result": "get_time_zone_by_coord\n{\"lat\": \"-67.89\", \"long\": \"123.45\"}"}
+{"id": "executable_simple_57", "result": "get_time_zone_by_coord\n{\"lat\": \"35.22\", \"long\": \"-80.75\"}"}
+{"id": "executable_simple_58", "result": "get_weather_data\n{\"coordinates\": [90.0, 0.0]}"}
+{"id": "executable_simple_59", "result": "get_weather_data\n{\"coordinates\": [25.00, 13.00]}"}
+{"id": "executable_simple_60", "result": "get_zipcode_by_ip_address\n{\"ip_address\": \"192.168.1.1\"}"}
+{"id": "executable_simple_61", "result": "get_zipcode_by_ip_address\n{\"ip_address\": \"172.16.254.1\"}"}
+{"id": "executable_simple_62", "result": "mat_mul\n{\"matA\": [[1, 2], [3, 4]], \"matB\": [[5, 6], [7, 8]]}"}
+{"id": "executable_simple_63", "result": "mat_mul\n{\"matA\": [[2, 3], [4, 5]], \"matB\": [[6, 7], [8, 9]]}"}
+{"id": "executable_simple_64", "result": "math_factorial\n{\"n\": 7}"}
+{"id": "executable_simple_65", "result": "math_factorial\n{\"n\": 12}"}
+{"id": "executable_simple_66", "result": "math_gcd\n{\"a\": 450, \"b\": 300}"}
+{"id": "executable_simple_67", "result": "math_gcd\n{\"a\": 360, \"b\": 240}"}
+{"id": "executable_simple_68", "result": "math_lcm\n{\"a\": 18, \"b\": 24}"}
+{"id": "executable_simple_69", "result": "math_lcm\n{\"a\": 45, \"b\": 35}"}
+{"id": "executable_simple_70", "result": "mortgage_calculator\n{\"interest_rate\": 0.035, \"loan_amount\": 350000, \"loan_period\": 30}"}
+{"id": "executable_simple_71", "result": "mortgage_calculator\n{\"interest_rate\": 0.045, \"loan_amount\": 500000.0, \"loan_period\": 25}"}
+{"id": "executable_simple_72", "result": "quadratic_roots\n{\"a\": 3, \"b\": 7, \"c\": -10}"}
+{"id": "executable_simple_73", "result": "quadratic_roots\n{\"a\": 5, \"b\": -8, \"c\": 2}"}
+{"id": "executable_simple_74", "result": "retrieve_city_based_on_zipcode\n{\"zipcode\": \"90210\"}"}
+{"id": "executable_simple_75", "result": "retrieve_city_based_on_zipcode\n{\"zipcode\": \"10001\"}"}
+{"id": "executable_simple_76", "result": "retrieve_holiday_by_year\n{\"country\": \"FR\", \"year\": \"2010\"}"}
+{"id": "executable_simple_77", "result": "retrieve_holiday_by_year\n{\"country\": \"DE\", \"year\": \"2005\"}"}
+{"id": "executable_simple_78", "result": "sort_array\n{\"array\": [34, 2, 56, 7, 9, 12], \"reverse\": true}"}
+{"id": "executable_simple_79", "result": "sort_array\n{\"array\": [1, 2, 2, 7, 7, 10]}"}
+{"id": "executable_simple_80", "result": "add_binary_numbers\n{\"a\": \"0011\", \"b\": \"1100\"}"}
+{"id": "executable_simple_81", "result": "\nSure! I can help with that. To add the binary numbers '10011' and '1100' together, we can use the `add_binary_numbers` function. Here are the function details:\n\n- Function name: `add_binary_numbers`\n- Inputs:\n  - `a`: The first binary number (string)\n  - `b`: The second binary number (string)\n- Returns:\n  - The sum of the two binary numbers (string)\n\nWould you like to proceed with the calculation?"}
+{"id": "executable_simple_82", "result": "linear_regression\n{\"x\": [1, 2, 3], \"y\": [4, 5, 6], \"point\": 10}"}
+{"id": "executable_simple_83", "result": "linear_regression\n{\"x\": [1, 2, -3], \"y\": [4, -5, 6], \"point\": 10}"}
+{"id": "executable_simple_84", "result": "\nAlright, I'll use the provided function `maxPoints` to find the maximum number of points that align on a single line for the given dataset. The dataset is `[[1,1], [2,2], [3,4], [5,5]]`. Let's proceed with the calculation.maxPoints\n{\"points\": [[1, 1], [2, 2], [3, 4], [5, 5]]}"}
+{"id": "executable_simple_85", "result": "maxPoints([[1,1], [2,3], [4,6], [5,5]])"}
+{"id": "executable_simple_86", "result": "calculate_investment_value\n{\"adjust_for_inflation\": true, \"annual_contribution\": 1000, \"annual_return\": 0.05, \"initial_investment\": 10000, \"years\": 5, \"inflation_rate\": [0.01, 0.02, 0.03, 0.04, 0.04]}"}
+{"id": "executable_simple_87", "result": "calculate_investment_value\n{\"adjust_for_inflation\": true, \"annual_contribution\": 1000, \"annual_return\": 0.10, \"inflation_rate\": [0.01, 0.04, 0.04], \"initial_investment\": 1000000, \"years\": 3}"}
+{"id": "executable_simple_88", "result": "calculate_nutritional_needs\n{\"weight\": 100, \"height\": 170, \"age\": 30.0, \"gender\": \"male\", \"activity_level\": 1, \"goal\": \"lose\"}"}
+{"id": "executable_simple_89", "result": "calculate_nutritional_needs\n{\"weight\": 59.0, \"height\": 170.0, \"age\": 80.0, \"gender\": \"female\", \"activity_level\": 4, \"goal\": \"lose\"}"}
+{"id": "executable_simple_90", "result": "book_room\n{\"check_in_date\": \"08-11-2024\", \"check_out_date\": \"08-15-2024\", \"customer_id\": \"123\", \"room_type\": \"Deluxe\", \"price\": 1000.0}"}
+{"id": "executable_simple_91", "result": "book_room\n{\"customer_id\": \"123\", \"check_in_date\": \"12-11-2023\", \"check_out_date\": \"08-15-2024\", \"room_type\": \"king\", \"price\": 10000.0}"}
+{"id": "executable_simple_92", "result": "order_food\n{\"item\": [\"burger\", \"ice cream\"], \"price\": [5, 2], \"quantity\": [10, 7]}"}
+{"id": "executable_simple_93", "result": "order_food\n{\"item\": [\"dumplings\", \"rice bowl\"], \"quantity\": [101, 20], \"price\": [0.1, 10]}"}
+{"id": "executable_simple_94", "result": "get_movie_director\n{\"movie_name\": \"Avatar\"}"}
+{"id": "executable_simple_95", "result": "get_movie_director\n{\"movie_name\": \"Pulp Fiction\"}"}
+{"id": "executable_simple_96", "result": "get_movie_rating\n{\"movie_name\": \"Avatar\"}"}
+{"id": "executable_simple_97", "result": "get_movie_rating\n{\"movie_name\": \"Pulp Fiction\"}"}
+{"id": "executable_simple_98", "result": "\nCertainly! To calculate the area of a triangle given its vertices, you can use the shoelace formula, which is a mathematical algorithm to determine the area of a polygon based on its vertices. The formula is as follows:\n\nFor a triangle with vertices $(x_1, y_1)$, $(x_2, y_2)$, and $(x_3, y_3)$, the area $A$ is given by:\n\n$$\nA = \\frac{1}{2} \\left| x_1(y_2 - y_3) + x_2(y_3 - y_1) + x_3(y_1 - y_2) \\right|\n$$\n\nUsing the coordinates you provided for the triangle vertices (1,2), (3,4), and (1,3), we can apply the formula:\n\nLet's calculate it:\n\n$$\nA = \\frac{1}{2} \\left| 1(4 - 3) + 3(3 - 2) + 1(2 - 4) \\right|\n$$\n\n$$\nA = \\frac{1}{2} \\left| 1(1) + 3(1) + 1(-2) \\right|\n$$\n\n$$\nA = \\frac{1}{2} \\left| 1 + 3 - 2 \\right|\n$$\n\n$$\nA = \\frac{1}{2} \\left| 2 \\right|\n$$\n\n$$\nA = 1\n$$\n\nThe area of the triangle is 1 square unit."}
+{"id": "executable_simple_99", "result": "\nOf course! The vertices of the polygon you provided are [[1,2],[3,4],[1,4],[3,7]]. To calculate the area using the shoelace formula, we can use the following code:\n\n```python\ndef polygon_area(vertices):\n    n = len(vertices)\n    area = 0\n    for i in range(n):\n        j = (i + 1) % n\n        area += vertices[i][0] * vertices[j][1]\n        area -= vertices[j][0] * vertices[i][1]\n    return abs(area) / 2\n\nvertices = [[1,2],[3,4],[1,4],[3,7]]\n\narea = polygon_area(vertices)\nprint(\"The area of the polygon is:\", area)\n```\n\nThe output of the code will be the area of the polygon."}

@@ -1,0 +1,240 @@
+{"id": "relevance_0", "result": "determine_body_mass_index(weight=10, height=5);", "input_token_count": 0, "output_token_count": 0, "latency": 0.688934326171875}
+{"id": "relevance_1", "result": "math.sum(numbers=[1, 2, 3])", "input_token_count": 0, "output_token_count": 0, "latency": 0.6937310695648193}
+{"id": "relevance_2", "result": "out_of_domain(user_query='Solve for the roots of the equation 3x^2 - 2x - 5.');", "input_token_count": 0, "output_token_count": 0, "latency": 1.1371850967407227}
+{"id": "relevance_3", "result": "find_critical_points(function='y = 3x + 2', variable='x')", "input_token_count": 0, "output_token_count": 0, "latency": 0.9525229930877686}
+{"id": "relevance_4", "result": "find_roots(a=0, b=1, c=0);", "input_token_count": 0, "output_token_count": 0, "latency": 0.802490234375}
+{"id": "relevance_5", "result": "solve_quadratic_equation(a=5, b=4, c=0);", "input_token_count": 0, "output_token_count": 0, "latency": 0.8938779830932617}
+{"id": "relevance_6", "result": "draw_circle(radius=5, unit='m');", "input_token_count": 0, "output_token_count": 0, "latency": 0.6455531120300293}
+{"id": "relevance_7", "result": "math.integral_calculator(function='3x^2', lower_bound=1, upper_bound=5);", "input_token_count": 0, "output_token_count": 0, "latency": 1.0018622875213623}
+{"id": "relevance_8", "result": "str_to_int(value='1'); str_to_int(value='5');", "input_token_count": 0, "output_token_count": 0, "latency": 0.7683792114257812}
+{"id": "relevance_9", "result": "CalculateTax(annual_income=3, tax_rate=0.1, other_deductions=0);", "input_token_count": 0, "output_token_count": 0, "latency": 1.1042430400848389}
+{"id": "relevance_10", "result": "calculus.compute_derivative(function='2x', point=1);", "input_token_count": 0, "output_token_count": 0, "latency": 0.8017578125}
+{"id": "relevance_11", "result": "get_closest_prime(number=30, skip=0);", "input_token_count": 0, "output_token_count": 0, "latency": 0.7612738609313965}
+{"id": "relevance_12", "result": "prime_numbers_in_range(start=1, end=100);", "input_token_count": 0, "output_token_count": 0, "latency": 0.8325879573822021}
+{"id": "relevance_13", "result": "out_of_domain(user_query='Calculate the prime factors of 100.');", "input_token_count": 0, "output_token_count": 0, "latency": 0.9260990619659424}
+{"id": "relevance_14", "result": "calculate_maximum_height(initial_velocity=5);", "input_token_count": 0, "output_token_count": 0, "latency": 0.739342212677002}
+{"id": "relevance_15", "result": "out_of_domain(user_query='What are the latest movie releases?');", "input_token_count": 0, "output_token_count": 0, "latency": 0.8255529403686523}
+{"id": "relevance_16", "result": "calculate_projectile_range(initial_velocity=v, angle=theta, time=t);", "input_token_count": 0, "output_token_count": 0, "latency": 1.0089848041534424}
+{"id": "relevance_17", "result": "out_of_domain(user_query='What's the time right now?');", "input_token_count": 0, "output_token_count": 0, "latency": 0.8004722595214844}
+{"id": "relevance_18", "result": "calculate_vector_angle(X_component=momentum, Y_component=0, use_degrees=True);", "input_token_count": 0, "output_token_count": 0, "latency": 1.0629098415374756}
+{"id": "relevance_19", "result": "out_of_domain(user_query='Find the volume of a cone with base radius 3 cm and height 5 cm.');", "input_token_count": 0, "output_token_count": 0, "latency": 1.1524662971496582}
+{"id": "relevance_20", "result": "out_of_domain(user_query='Find the duration of flight between Los Angeles and Miami.');", "input_token_count": 0, "output_token_count": 0, "latency": 0.8960192203521729}
+{"id": "relevance_21", "result": "calculate_wave_amplitude(max_electric_field_strength=2, c=3 * 10^8, wave_frequency=1);", "input_token_count": 0, "output_token_count": 0, "latency": 1.3352718353271484}
+{"id": "relevance_22", "result": "magnetic_field_intensity(current=I, distance=r);", "input_token_count": 0, "output_token_count": 0, "latency": 0.7149839401245117}
+{"id": "relevance_23", "result": "out_of_domain(user_query='What's the mass of an electron?')", "input_token_count": 0, "output_token_count": 0, "latency": 0.8724851608276367}
+{"id": "relevance_24", "result": "out_of_domain(user_query='What's the mass of an electron?')", "input_token_count": 0, "output_token_count": 0, "latency": 0.8712458610534668}
+{"id": "relevance_25", "result": "thermodynamics.calculate_boiling_point(substance='water', pressure=10, unit='kPa');", "input_token_count": 0, "output_token_count": 0, "latency": 1.063248872756958}
+{"id": "relevance_26", "result": "thermodynamics.calc_gas_pressure(volume=2, initial_temperature=25, final_temperature=100);", "input_token_count": 0, "output_token_count": 0, "latency": 1.1742358207702637}
+{"id": "relevance_27", "result": "calculate_heat(mass=3, specific_heat=4.184, change_in_temp=4);", "input_token_count": 0, "output_token_count": 0, "latency": 1.0698301792144775}
+{"id": "relevance_28", "result": "out_of_domain(user_query='How many sides does a hexagon have?');", "input_token_count": 0, "output_token_count": 0, "latency": 0.8707630634307861}
+{"id": "relevance_29", "result": "get_cell_function(cell_part='mitochondria', detail_level='basic');", "input_token_count": 0, "output_token_count": 0, "latency": 0.9263050556182861}
+{"id": "relevance_30", "result": "bloodcell_classification(cell_shape='multiple nuclei', cell_size='large', cell_function='carry oxygen')", "input_token_count": 0, "output_token_count": 0, "latency": 1.1464667320251465}
+{"id": "relevance_31", "result": "out_of_domain(user_query='Find the favorite restaurant in London.');", "input_token_count": 0, "output_token_count": 0, "latency": 0.7575838565826416}
+{"id": "relevance_32", "result": "cellBiology.getCellType(nucleus_count=2, organism_type='Blood')", "input_token_count": 0, "output_token_count": 0, "latency": 1.0167250633239746}
+{"id": "relevance_33", "result": "identify_species(sequence='ATCG')", "input_token_count": 0, "output_token_count": 0, "latency": 0.5374641418457031}
+{"id": "relevance_34", "result": "out_of_domain(user_query='What is the dominant genetic trait of a Lion?');", "input_token_count": 0, "output_token_count": 0, "latency": 0.9253337383270264}
+{"id": "relevance_35", "result": "out_of_domain(user_query='What is the mating process of Lions?');", "input_token_count": 0, "output_token_count": 0, "latency": 0.9165639877319336}
+{"id": "relevance_36", "result": "out_of_domain(user_query='What is the frequency of gene variant rs7412 in the European population?')", "input_token_count": 0, "output_token_count": 0, "latency": 1.1209399700164795}
+{"id": "relevance_37", "result": "out_of_domain(user_query='Find a picnic spot in Miami.')", "input_token_count": 0, "output_token_count": 0, "latency": 0.8657269477844238}
+{"id": "relevance_38", "result": "retrieve_scientific_paper(topic='global warming', year='2020');", "input_token_count": 0, "output_token_count": 0, "latency": 0.8980681896209717}
+{"id": "relevance_39", "result": "out_of_domain(user_query='How to increase the population of deer in a forest?');", "input_token_count": 0, "output_token_count": 0, "latency": 0.9492647647857666}
+{"id": "relevance_40", "result": "out_of_domain(user_query='How is the air quality in Los Angeles right now?');", "input_token_count": 0, "output_token_count": 0, "latency": 0.9298586845397949}
+{"id": "relevance_41", "result": "out_of_domain(user_query='What is the common ancestor of lion and zebra?')", "input_token_count": 0, "output_token_count": 0, "latency": 1.0092971324920654}
+{"id": "relevance_42", "result": "out_of_domain(user_query='What is the evolutionary history of pandas?')", "input_token_count": 0, "output_token_count": 0, "latency": 0.8866848945617676}
+{"id": "relevance_43", "result": "evolve_creatures(population_size=100, mutation_rate=0.01, generations=100);", "input_token_count": 0, "output_token_count": 0, "latency": 1.161633014678955}
+{"id": "relevance_44", "result": "gene_sequencer(species='whale', mutation_rate=0.01, evolution_duration=100);", "input_token_count": 0, "output_token_count": 0, "latency": 1.0612621307373047}
+{"id": "relevance_45", "result": "create_polygon(vertices=[(0, 0), (1, 0), (1, 1), (0, 1)], is_closed=True);", "input_token_count": 0, "output_token_count": 0, "latency": 1.3166661262512207}
+{"id": "relevance_46", "result": "out_of_domain(user_query='Give me the price of a Tesla model S in India.');", "input_token_count": 0, "output_token_count": 0, "latency": 1.01373291015625}
+{"id": "relevance_47", "result": "out_of_domain(user_query='What are the ingredients for lasagna?')", "input_token_count": 0, "output_token_count": 0, "latency": 0.9031510353088379}
+{"id": "relevance_48", "result": "finance.fetchGDP(country='USA', year=2020);", "input_token_count": 0, "output_token_count": 0, "latency": 0.8122837543487549}
+{"id": "relevance_49", "result": "out_of_domain(user_query='What is the time difference between Los Angeles and Berlin?');", "input_token_count": 0, "output_token_count": 0, "latency": 0.8932418823242188}
+{"id": "relevance_50", "result": "out_of_domain(user_query='Give me a selection of horror movies to watch on a Friday night. Note that the provided function is in Python 3 syntax.');", "input_token_count": 0, "output_token_count": 0, "latency": 1.2987160682678223}
+{"id": "relevance_51", "result": "cryptocurrency_price(currency='BTC', vs_currency='USD'); cryptocurrency_price(currency='ETH', vs_currency='USD'); cryptocurrency_price(currency='BTC', vs_currency='USD');", "input_token_count": 0, "output_token_count": 0, "latency": 1.7114520072937012}
+{"id": "relevance_52", "result": "out_of_domain(user_query='Hello, how are you?');", "input_token_count": 0, "output_token_count": 0, "latency": 0.6675317287445068}
+{"id": "relevance_53", "result": "out_of_domain(user_query='Who won the world series in 2018?')", "input_token_count": 0, "output_token_count": 0, "latency": 1.0001890659332275}
+{"id": "relevance_54", "result": "movies.search(title='', year='', genre='');", "input_token_count": 0, "output_token_count": 0, "latency": 0.6600713729858398}
+{"id": "relevance_55", "result": "out_of_domain(user_query='Which online bookstore sells 'To Kill a Mockingbird'?');", "input_token_count": 0, "output_token_count": 0, "latency": 1.1039347648620605}
+{"id": "relevance_56", "result": "out_of_domain(user_query='What is the current bitcoin price?')", "input_token_count": 0, "output_token_count": 0, "latency": 0.8224990367889404}
+{"id": "relevance_57", "result": "genetic_algorithm.optimize(function='2x^2 + 3x + 4', constraints=[], population_size=100)", "input_token_count": 0, "output_token_count": 0, "latency": 1.1659247875213623}
+{"id": "relevance_58", "result": "solar_panel.calculate_need(square_footage=2000, average_sunlight_hours=8);", "input_token_count": 0, "output_token_count": 0, "latency": 1.133849859237671}
+{"id": "relevance_59", "result": "linear_equation_solver(equation='2^5', variable='2')", "input_token_count": 0, "output_token_count": 0, "latency": 0.7197470664978027}
+{"id": "relevance_60", "result": "calculateFinalPrice(price=100, discount_rate=0.25, sales_tax=0.1);", "input_token_count": 0, "output_token_count": 0, "latency": 1.1429839134216309}
+{"id": "relevance_61", "result": "out_of_domain(user_query='Hello')", "input_token_count": 0, "output_token_count": 0, "latency": 0.6390120983123779}
+{"id": "relevance_62", "result": "out_of_domain(user_query='How to build a frontend interface for my e-commerce website?');", "input_token_count": 0, "output_token_count": 0, "latency": 1.0144639015197754}
+{"id": "relevance_63", "result": "probability_calculator(total_outcomes=8, event_outcomes=3);", "input_token_count": 0, "output_token_count": 0, "latency": 0.8609969615936279}
+{"id": "relevance_64", "result": "probability.coin_toss_heads(coin_tosses=1, heads_needed=1, coin_type='double_heads');", "input_token_count": 0, "output_token_count": 0, "latency": 1.5155901908874512}
+{"id": "relevance_65", "result": "probability.determine_population(probability=0.3, sample_size=20);", "input_token_count": 0, "output_token_count": 0, "latency": 1.0978403091430664}
+{"id": "relevance_66", "result": "out_of_domain(user_query='Calculate the probability of getting a head when flipping a coin. Note that the provided function is in Python 3 syntax.')", "input_token_count": 0, "output_token_count": 0, "latency": 1.3368639945983887}
+{"id": "relevance_67", "result": "hypothesis_testing.get_p_value(successes=50, n=500, prob_null=0.1);", "input_token_count": 0, "output_token_count": 0, "latency": 1.1482059955596924}
+{"id": "relevance_68", "result": "statistics.calculate_p_value(sample_mean=98.2, population_mean=98.6, sample_std_dev=1.4, sample_size=40);", "input_token_count": 0, "output_token_count": 0, "latency": 1.5682909488677979}
+{"id": "relevance_69", "result": "regression_model.predict(features=['California'], model={}, scaler=None)", "input_token_count": 0, "output_token_count": 0, "latency": 1.0480659008026123}
+{"id": "relevance_70", "result": "out_of_domain(user_query='Calculate the compounded interest for a principal amount of $10000, with a annual interest rate of 5% for a period of 3 years. Note that the provided function is in Python 3 syntax.')", "input_token_count": 0, "output_token_count": 0, "latency": 2.5249838829040527}
+{"id": "relevance_71", "result": "out_of_domain(user_query='Calculate the profit margin of a company with revenue of $200,000 and expenses of $150,000.')", "input_token_count": 0, "output_token_count": 0, "latency": 1.570525884628296}
+{"id": "relevance_72", "result": "calculate_internal_rate_of_return(cash_flows=[-100, 40, 60, 80, 120])", "input_token_count": 0, "output_token_count": 0, "latency": 1.5700738430023193}
+{"id": "relevance_73", "result": "finance.predict_revenue(company_name='XYZ', period='next year');", "input_token_count": 0, "output_token_count": 0, "latency": 1.047727108001709}
+{"id": "relevance_74", "result": "investment_analysis.calculate_profit(total_revenue=15000, total_cost=22000);", "input_token_count": 0, "output_token_count": 0, "latency": 1.116886854171753}
+{"id": "relevance_75", "result": "out_of_domain(user_query='How many kilograms are in a pound?')", "input_token_count": 0, "output_token_count": 0, "latency": 1.04649019241333}
+{"id": "relevance_76", "result": "out_of_domain(user_query='How do I get the latests news in sports.');", "input_token_count": 0, "output_token_count": 0, "latency": 1.0317139625549316}
+{"id": "relevance_77", "result": "out_of_domain(user_query='Can you list some horror movies I can watch?')", "input_token_count": 0, "output_token_count": 0, "latency": 1.3530802726745605}
+{"id": "relevance_78", "result": "out_of_domain(user_query='What is the gold price today in USA?')", "input_token_count": 0, "output_token_count": 0, "latency": 0.8742682933807373}
+{"id": "relevance_79", "result": "out_of_domain(user_query='What is the best player in soccer today?');", "input_token_count": 0, "output_token_count": 0, "latency": 0.9200797080993652}
+{"id": "relevance_80", "result": "out_of_domain(user_query='Who won the FIFA World Cup 2010?')", "input_token_count": 0, "output_token_count": 0, "latency": 1.0193238258361816}
+{"id": "relevance_81", "result": "out_of_domain(user_query='Can you list some horror movies I can watch?')", "input_token_count": 0, "output_token_count": 0, "latency": 1.0026240348815918}
+{"id": "relevance_82", "result": "out_of_domain(user_query='Retrieve me some stock news');", "input_token_count": 0, "output_token_count": 0, "latency": 0.8025972843170166}
+{"id": "relevance_83", "result": "out_of_domain(user_query='What's the current interest rate');", "input_token_count": 0, "output_token_count": 0, "latency": 0.7907447814941406}
+{"id": "relevance_84", "result": "out_of_domain(user_query='Who won the basketball game between Lakers and Celtics yesterday?')", "input_token_count": 0, "output_token_count": 0, "latency": 1.054365873336792}
+{"id": "relevance_85", "result": "out_of_domain(user_query='Who won the presidential election in 2020?');", "input_token_count": 0, "output_token_count": 0, "latency": 0.9534060955047607}
+{"id": "relevance_86", "result": "law_info.get_penalty(crime='burglary', state='California');", "input_token_count": 0, "output_token_count": 0, "latency": 0.9775760173797607}
+{"id": "relevance_87", "result": "out_of_domain(user_query='Who is the Governor of California?');", "input_token_count": 0, "output_token_count": 0, "latency": 0.761497974395752}
+{"id": "relevance_88", "result": "out_of_domain(user_query='What are the best Crime-Thriller movies of 2020?');", "input_token_count": 0, "output_token_count": 0, "latency": 1.1007733345031738}
+{"id": "relevance_89", "result": "out_of_domain(user_query='What are my rights as a tenant in the state of Texas?')", "input_token_count": 0, "output_token_count": 0, "latency": 1.0640127658843994}
+{"id": "relevance_90", "result": "out_of_domain(user_query='What are the components of Civil Law?');", "input_token_count": 0, "output_token_count": 0, "latency": 0.8385238647460938}
+{"id": "relevance_91", "result": "out_of_domain(user_query='Can I report noise complaint to my local council in city of Atlanta?')", "input_token_count": 0, "output_token_count": 0, "latency": 0.9983789920806885}
+{"id": "relevance_92", "result": "out_of_domain(user_query='I need a security guard, where can I find the most popular one in New York?');", "input_token_count": 0, "output_token_count": 0, "latency": 1.0715341567993164}
+{"id": "relevance_93", "result": "out_of_domain(user_query='What's the judgement in case XYZ?');", "input_token_count": 0, "output_token_count": 0, "latency": 0.8985490798950195}
+{"id": "relevance_94", "result": "case_info.get(case_id='ABC', case_year='2020');", "input_token_count": 0, "output_token_count": 0, "latency": 0.8937270641326904}
+{"id": "relevance_95", "result": "case_review.retrieve_case_outcome(case_name='Doe vs. Smith', case_year=2020);", "input_token_count": 0, "output_token_count": 0, "latency": 1.2463839054107666}
+{"id": "relevance_96", "result": "out_of_domain(user_query='how long will it take to paint the Eiffel Tower?')", "input_token_count": 0, "output_token_count": 0, "latency": 0.9892632961273193}
+{"id": "relevance_97", "result": "out_of_domain(user_query='Can you recommend a good Chinese restaurant in New York?');", "input_token_count": 0, "output_token_count": 0, "latency": 1.0148489475250244}
+{"id": "relevance_98", "result": "out_of_domain(user_query='How long will it take to paint the Eiffel Tower?');", "input_token_count": 0, "output_token_count": 0, "latency": 1.0486822128295898}
+{"id": "relevance_99", "result": "out_of_domain(user_query='Find out about traffic laws in Texas.');", "input_token_count": 0, "output_token_count": 0, "latency": 0.7962610721588135}
+{"id": "relevance_100", "result": "out_of_domain(user_query='How many calories does an apple have?')", "input_token_count": 0, "output_token_count": 0, "latency": 0.8602261543273926}
+{"id": "relevance_101", "result": "out_of_domain(user_query='What is the best month to visit Hawaii?');", "input_token_count": 0, "output_token_count": 0, "latency": 0.9034841060638428}
+{"id": "relevance_102", "result": "out_of_domain(user_query='What is the time now in New York City?')", "input_token_count": 0, "output_token_count": 0, "latency": 0.9019081592559814}
+{"id": "relevance_103", "result": "weather_forecast.get(location='New York City');", "input_token_count": 0, "output_token_count": 0, "latency": 0.6662042140960693}
+{"id": "relevance_104", "result": "calculate_park_area(radius=3, units='units')", "input_token_count": 0, "output_token_count": 0, "latency": 0.740037202835083}
+{"id": "relevance_105", "result": "out_of_domain(user_query='What are the top five flower species for pollination in South America?');", "input_token_count": 0, "output_token_count": 0, "latency": 1.0580670833587646}
+{"id": "relevance_106", "result": "soil_analysis.analyze_soil_type(soil_type='tomato', parameters_needed=['fertilizer'])", "input_token_count": 0, "output_token_count": 0, "latency": 1.1252899169921875}
+{"id": "relevance_107", "result": "soil_composition_analyze(location='Boston', soil_sample=True);", "input_token_count": 0, "output_token_count": 0, "latency": 0.8523440361022949}
+{"id": "relevance_108", "result": "emission_estimator(current_emissions=out_of_domain(user_query='What is the best way to reduce CO2 emissions?'), action='', scale='', duration=0);", "input_token_count": 0, "output_token_count": 0, "latency": 1.5997281074523926}
+{"id": "relevance_109", "result": "calculate_water_needs(plant_type='cactus', location='Arizona', season='summer');", "input_token_count": 0, "output_token_count": 0, "latency": 1.0635929107666016}
+{"id": "relevance_110", "result": "out_of_domain(user_query='What's the average temperature for Los Angeles in December?')", "input_token_count": 0, "output_token_count": 0, "latency": 0.8469681739807129}
+{"id": "relevance_111", "result": "out_of_domain(user_query='Find a GMO yoga mat that I can buy in-store.');", "input_token_count": 0, "output_token_count": 0, "latency": 1.1547150611877441}
+{"id": "relevance_112", "result": "out_of_domain(user_query='What's the current traffic condition in New York?');", "input_token_count": 0, "output_token_count": 0, "latency": 0.9118177890777588}
+{"id": "relevance_113", "result": "find_pois(location='London', category=['restaurant'])", "input_token_count": 0, "output_token_count": 0, "latency": 0.8316619396209717}
+{"id": "relevance_114", "result": "get_closest_airport(location='Los Angeles'); get_closest_airport(location='New York');", "input_token_count": 0, "output_token_count": 0, "latency": 0.9895572662353516}
+{"id": "relevance_115", "result": "calculate_distance(origin={'latitude': 42.3601, 'longitude': -71.0589}, destination={'latitude': 40.7128, 'longitude': -74.0060}, speed=60);", "input_token_count": 0, "output_token_count": 0, "latency": 2.1300220489501953}
+{"id": "relevance_116", "result": "out_of_domain(user_query='Can you recommend a good movie to watch?');", "input_token_count": 0, "output_token_count": 0, "latency": 0.8492600917816162}
+{"id": "relevance_117", "result": "out_of_domain(user_query='Tell me some of the major airports in the United States.');", "input_token_count": 0, "output_token_count": 0, "latency": 1.0475220680236816}
+{"id": "relevance_118", "result": "playoff.brackets(year=1996, round='Finals');", "input_token_count": 0, "output_token_count": 0, "latency": 0.7740249633789062}
+{"id": "relevance_119", "result": "sentiment_analysis(text='Tell me a famous quote about life.', model='bert')", "input_token_count": 0, "output_token_count": 0, "latency": 0.8760771751403809}
+{"id": "relevance_120", "result": "out_of_domain(user_query='What's the neurological impact of sports on human brain?');", "input_token_count": 0, "output_token_count": 0, "latency": 1.0493571758270264}
+{"id": "relevance_121", "result": "out_of_domain(user_query='Find the information on motor neuron diseases');", "input_token_count": 0, "output_token_count": 0, "latency": 0.8239490985870361}
+{"id": "relevance_122", "result": "out_of_domain(user_query='What is the average weight of a human brain?')", "input_token_count": 0, "output_token_count": 0, "latency": 1.174220085144043}
+{"id": "relevance_123", "result": "out_of_domain(user_query='What are the calories of a Big Mac?');", "input_token_count": 0, "output_token_count": 0, "latency": 1.2467541694641113}
+{"id": "relevance_124", "result": "get_social_trends(category='technology');", "input_token_count": 0, "output_token_count": 0, "latency": 0.7202630043029785}
+{"id": "relevance_125", "result": "out_of_domain(user_query='What are some popular books by J.K. Rowling?');", "input_token_count": 0, "output_token_count": 0, "latency": 1.0413620471954346}
+{"id": "relevance_126", "result": "get_happiness_index(country='United States', year=2019, demographic_group='low income'); get_happiness_index(country='United States', year=2019, demographic_group='middle income'); get_happiness_index(country='United States', year=2019, demographic_group='high income');", "input_token_count": 0, "output_token_count": 0, "latency": 2.664489984512329}
+{"id": "relevance_127", "result": "sentiment_analysis.twitter(topic='new iPhone release', language='en');", "input_token_count": 0, "output_token_count": 0, "latency": 1.0472397804260254}
+{"id": "relevance_128", "result": "out_of_domain(user_query='How many servings of vegetables should I consume in a day?')", "input_token_count": 0, "output_token_count": 0, "latency": 1.0472760200500488}
+{"id": "relevance_129", "result": "out_of_domain(user_query='Give me the MTBI of my friend.');", "input_token_count": 0, "output_token_count": 0, "latency": 1.0511059761047363}
+{"id": "relevance_130", "result": "calculate_big_five_traits(answers=[], calculate_percentile=True);", "input_token_count": 0, "output_token_count": 0, "latency": 0.9164741039276123}
+{"id": "relevance_131", "result": "psychology.color_representation(color='purple', context='computer vision');", "input_token_count": 0, "output_token_count": 0, "latency": 0.8477890491485596}
+{"id": "relevance_132", "result": "historical_event.get_date(event_name='Battle of Waterloo');", "input_token_count": 0, "output_token_count": 0, "latency": 0.8201689720153809}
+{"id": "relevance_133", "result": "out_of_domain(user_query='Who won the NBA final 2023?')", "input_token_count": 0, "output_token_count": 0, "latency": 0.9843668937683105}
+{"id": "relevance_134", "result": "out_of_domain(user_query='Who won the World Cup 2022?')", "input_token_count": 0, "output_token_count": 0, "latency": 0.9056203365325928}
+{"id": "relevance_135", "result": "out_of_domain(user_query='When was the declaration of independence signed?');", "input_token_count": 0, "output_token_count": 0, "latency": 0.8320620059967041}
+{"id": "relevance_136", "result": "out_of_domain(user_query='Who is the Vice President of United States?');", "input_token_count": 0, "output_token_count": 0, "latency": 0.887902021408081}
+{"id": "relevance_137", "result": "out_of_domain(user_query='Who signed the declaration of independence?')", "input_token_count": 0, "output_token_count": 0, "latency": 0.8339719772338867}
+{"id": "relevance_138", "result": "out_of_domain(user_query='When was the Declaration of Independence signed?')", "input_token_count": 0, "output_token_count": 0, "latency": 0.9325671195983887}
+{"id": "relevance_139", "result": "out_of_domain(user_query='What is the largest planet in the universe?');", "input_token_count": 0, "output_token_count": 0, "latency": 0.8725171089172363}
+{"id": "relevance_140", "result": "out_of_domain(user_query='Who discovered electricity?')", "input_token_count": 0, "output_token_count": 0, "latency": 0.7694637775421143}
+{"id": "relevance_141", "result": "out_of_domain(user_query='What are the different properties of Hydrogen?');", "input_token_count": 0, "output_token_count": 0, "latency": 0.9000320434570312}
+{"id": "relevance_142", "result": "out_of_domain(user_query='Who was the scientist that proposed the special theory of relativity?')", "input_token_count": 0, "output_token_count": 0, "latency": 1.0508360862731934}
+{"id": "relevance_143", "result": "out_of_domain(user_query='What defines scientist');", "input_token_count": 0, "output_token_count": 0, "latency": 0.6987390518188477}
+{"id": "relevance_144", "result": "out_of_domain(user_query='What is a holy book?');", "input_token_count": 0, "output_token_count": 0, "latency": 0.81473708152771}
+{"id": "relevance_145", "result": "out_of_domain(user_query='Who initiate Protestant Reformation?')", "input_token_count": 0, "output_token_count": 0, "latency": 0.8626019954681396}
+{"id": "relevance_146", "result": "out_of_domain(user_query='Mix the color #FAEBD7 with #00FFFF, what is the new color?')", "input_token_count": 0, "output_token_count": 0, "latency": 1.1597011089324951}
+{"id": "relevance_147", "result": "out_of_domain(user_query='Who is the most important prophet in Christianity?');", "input_token_count": 0, "output_token_count": 0, "latency": 0.940997838973999}
+{"id": "relevance_148", "result": "color_complimentary(color='blue')", "input_token_count": 0, "output_token_count": 0, "latency": 0.532764196395874}
+{"id": "relevance_149", "result": "out_of_domain(user_query='What is the Pantone color code for sky blue?')", "input_token_count": 0, "output_token_count": 0, "latency": 0.9088079929351807}
+{"id": "relevance_150", "result": "color_converter.RGB_to_Pantone(red=100, green=100, blue=100);", "input_token_count": 0, "output_token_count": 0, "latency": 1.2755730152130127}
+{"id": "relevance_151", "result": "sculpture.get_dimensions(sculpture_name='Picasso', artist_name='Picasso');", "input_token_count": 0, "output_token_count": 0, "latency": 0.9341671466827393}
+{"id": "relevance_152", "result": "sculpture.create(design='garden', material='rock', size='small');", "input_token_count": 0, "output_token_count": 0, "latency": 0.8932242393493652}
+{"id": "relevance_153", "result": "out_of_domain(user_query='Which sculture is the most famous in 19th century?');", "input_token_count": 0, "output_token_count": 0, "latency": 1.0573477745056152}
+{"id": "relevance_154", "result": "sculpture_info.find_creator(sculpture_name='Camp Nou Stadium', location='Barcelona, Spain');", "input_token_count": 0, "output_token_count": 0, "latency": 1.1466660499572754}
+{"id": "relevance_155", "result": "out_of_domain(user_query='Who created the sculpture 'The Thinker'?');", "input_token_count": 0, "output_token_count": 0, "latency": 0.9498181343078613}
+{"id": "relevance_156", "result": "generate_architecture_plan(style='Gothic', building_type='Church');", "input_token_count": 0, "output_token_count": 0, "latency": 0.8026590347290039}
+{"id": "relevance_157", "result": "out_of_domain(user_query='How to design a cathedral style ceiling?');", "input_token_count": 0, "output_token_count": 0, "latency": 0.9553370475769043}
+{"id": "relevance_158", "result": "out_of_domain(user_query='What's the cost of renting an apartment in New York?')", "input_token_count": 0, "output_token_count": 0, "latency": 1.14503812789917}
+{"id": "relevance_159", "result": "artwork_search(artwork_name='The Scream', museum_location='Museum of Modern Art, New York', specific_details='artist');", "input_token_count": 0, "output_token_count": 0, "latency": 1.2863662242889404}
+{"id": "relevance_160", "result": "most_frequent_visitor(museum_name='Museum of Modern Art', start_date='2022-01-01', end_date='2022-12-31')", "input_token_count": 0, "output_token_count": 0, "latency": 1.6341760158538818}
+{"id": "relevance_161", "result": "museum_data.get_visit_stats(city='New York', year=2020);", "input_token_count": 0, "output_token_count": 0, "latency": 0.9112949371337891}
+{"id": "relevance_162", "result": "out_of_domain(user_query='Who are the famous dancers of the 19th Century?');", "input_token_count": 0, "output_token_count": 0, "latency": 1.0474140644073486}
+{"id": "relevance_163", "result": "out_of_domain(user_query='How can I sell my acoustic guitar?');", "input_token_count": 0, "output_token_count": 0, "latency": 0.9378011226654053}
+{"id": "relevance_164", "result": "search_music_instrument_players(instrument='singer', genre='Jazz');", "input_token_count": 0, "output_token_count": 0, "latency": 0.982572078704834}
+{"id": "relevance_165", "result": "get_instrument_info(instrument_name='cello');", "input_token_count": 0, "output_token_count": 0, "latency": 0.7242560386657715}
+{"id": "relevance_166", "result": "out_of_domain(user_query='What are some tips to maintain a piano?');", "input_token_count": 0, "output_token_count": 0, "latency": 0.8929462432861328}
+{"id": "relevance_167", "result": "out_of_domain(user_query='Who is the teacher for the upcoming lectures?');", "input_token_count": 0, "output_token_count": 0, "latency": 1.0137243270874023}
+{"id": "relevance_168", "result": "concert_availability(artist='University in Sydney', location='Sydney', date='May');", "input_token_count": 0, "output_token_count": 0, "latency": 1.0544161796569824}
+{"id": "relevance_169", "result": "out_of_domain(user_query='Who is playing basketball game  at Madison Square Garden tonight?')", "input_token_count": 0, "output_token_count": 0, "latency": 1.0102410316467285}
+{"id": "relevance_170", "result": "out_of_domain(user_query='Who was the most famous composers in United States.');", "input_token_count": 0, "output_token_count": 0, "latency": 1.0116019248962402}
+{"id": "relevance_171", "result": "out_of_domain(user_query='Who establish laws and orders in Ancient Greek.');", "input_token_count": 0, "output_token_count": 0, "latency": 0.8833408355712891}
+{"id": "relevance_172", "result": "out_of_domain(user_query='Who write Don Quixote?');", "input_token_count": 0, "output_token_count": 0, "latency": 0.8152599334716797}
+{"id": "relevance_173", "result": "music_analysis.find_common_chords(genre='pop', num_chords=3);", "input_token_count": 0, "output_token_count": 0, "latency": 0.9230389595031738}
+{"id": "relevance_174", "result": "music_theory.primary_triads(key_signature='C', include_inversions=True);", "input_token_count": 0, "output_token_count": 0, "latency": 0.923173189163208}
+{"id": "relevance_175", "result": "out_of_domain(user_query='Who was the composer of Moonlight Sonata?');", "input_token_count": 0, "output_token_count": 0, "latency": 0.8682131767272949}
+{"id": "relevance_176", "result": "out_of_domain(user_query='What is the pattern of the blues scale in the key of A?')", "input_token_count": 0, "output_token_count": 0, "latency": 1.0029242038726807}
+{"id": "relevance_177", "result": "out_of_domain(user_query='Who won the Grammy Award for Best Album in 2017?');", "input_token_count": 0, "output_token_count": 0, "latency": 1.0285580158233643}
+{"id": "relevance_178", "result": "sports_analysis.get_top_scorer(league='Premier League', season='2020/2021');", "input_token_count": 0, "output_token_count": 0, "latency": 1.1643040180206299}
+{"id": "relevance_179", "result": "out_of_domain(user_query='Who played for Clippers in NBA')", "input_token_count": 0, "output_token_count": 0, "latency": 0.8708081245422363}
+{"id": "relevance_180", "result": "sports_analyzer.get_schedule(date='today', sport='cricket');", "input_token_count": 0, "output_token_count": 0, "latency": 0.8723452091217041}
+{"id": "relevance_181", "result": "out_of_domain(user_query='Who played in La Liga?');", "input_token_count": 0, "output_token_count": 0, "latency": 0.8153800964355469}
+{"id": "relevance_182", "result": "get_nba_player_stats(player_name='Michael Jordan', stat_type='championships')", "input_token_count": 0, "output_token_count": 0, "latency": 1.0337278842926025}
+{"id": "relevance_183", "result": "out_of_domain(user_query='Who was the winner of Wimbledon Men's Singles in 2021?');", "input_token_count": 0, "output_token_count": 0, "latency": 1.2114062309265137}
+{"id": "relevance_184", "result": "sports_stats.get_player_stats(player_name='', season='2020', league='NBA');", "input_token_count": 0, "output_token_count": 0, "latency": 1.0574419498443604}
+{"id": "relevance_185", "result": "player_stats.average_scoring(player_name='LeBron James', season='2020-2021');", "input_token_count": 0, "output_token_count": 0, "latency": 1.1684203147888184}
+{"id": "relevance_186", "result": "sports_ranking.get_MVP(season='2020', sport_type='football');", "input_token_count": 0, "output_token_count": 0, "latency": 0.9452106952667236}
+{"id": "relevance_187", "result": "sports_ranking.get_team_ranking(team_name='Basketball', sport_league='NBA', season=1);", "input_token_count": 0, "output_token_count": 0, "latency": 1.16908597946167}
+{"id": "relevance_188", "result": "sports.ranking.get_champion(event='World Series', year=2020);", "input_token_count": 0, "output_token_count": 0, "latency": 0.9467282295227051}
+{"id": "relevance_189", "result": "out_of_domain(user_query='Who is Lebron James?');", "input_token_count": 0, "output_token_count": 0, "latency": 0.8246638774871826}
+{"id": "relevance_190", "result": "sports_team.standing(team_name='tennis', league='atp', season_year=2022);", "input_token_count": 0, "output_token_count": 0, "latency": 1.0629429817199707}
+{"id": "relevance_191", "result": "out_of_domain(user_query='Who won the last world cup in football?')", "input_token_count": 0, "output_token_count": 0, "latency": 0.9496870040893555}
+{"id": "relevance_192", "result": "sports_team.get_roster(team='Manchester United');", "input_token_count": 0, "output_token_count": 0, "latency": 0.6939680576324463}
+{"id": "relevance_193", "result": "out_of_domain(user_query='Who is the top scorer for Los Angeles Lakers?');", "input_token_count": 0, "output_token_count": 0, "latency": 0.9579610824584961}
+{"id": "relevance_194", "result": "fetch_game_stats(game_type='chess', year=2020, location='New York')", "input_token_count": 0, "output_token_count": 0, "latency": 0.9787628650665283}
+{"id": "relevance_195", "result": "out_of_domain(user_query='Who won the chess tournament in 2015?');", "input_token_count": 0, "output_token_count": 0, "latency": 0.9678130149841309}
+{"id": "relevance_196", "result": "boardgame.calculate_score(player_actions=[])", "input_token_count": 0, "output_token_count": 0, "latency": 0.7187249660491943}
+{"id": "relevance_197", "result": "out_of_domain(user_query='Who won the game of Monopoly last night?')", "input_token_count": 0, "output_token_count": 0, "latency": 0.9646568298339844}
+{"id": "relevance_198", "result": "cards.shuffle_deck(deck='Uno', times=1);", "input_token_count": 0, "output_token_count": 0, "latency": 0.804689884185791}
+{"id": "relevance_199", "result": "play_poker(number_of_players=5, cards_per_player=5);", "input_token_count": 0, "output_token_count": 0, "latency": 0.9611101150512695}
+{"id": "relevance_200", "result": "out_of_domain(user_query='What is the rule for 'Ace' in Blackjack?')", "input_token_count": 0, "output_token_count": 0, "latency": 1.0569798946380615}
+{"id": "relevance_201", "result": "out_of_domain(user_query='Find me an ice cream store');", "input_token_count": 0, "output_token_count": 0, "latency": 0.8325879573822021}
+{"id": "relevance_202", "result": "out_of_domain(user_query='Who won the world series game?');", "input_token_count": 0, "output_token_count": 0, "latency": 0.8520488739013672}
+{"id": "relevance_203", "result": "get_player_score(player='A', game='Halo');", "input_token_count": 0, "output_token_count": 0, "latency": 0.7174749374389648}
+{"id": "relevance_204", "result": "game_functions.solve_jigsaw(puzzle_image='', pieces_count=0);", "input_token_count": 0, "output_token_count": 0, "latency": 1.0067179203033447}
+{"id": "relevance_205", "result": "out_of_domain(user_query='Who is the author of the book 'Pride and Prejudice'?')", "input_token_count": 0, "output_token_count": 0, "latency": 1.0944271087646484}
+{"id": "relevance_206", "result": "game.find_best_weapon(player_level=10, enemy_type='dragon')", "input_token_count": 0, "output_token_count": 0, "latency": 0.9889209270477295}
+{"id": "relevance_207", "result": "game_tracker.high_score(game_name='Flappy Bird', username='john', platform='PC');", "input_token_count": 0, "output_token_count": 0, "latency": 1.0874152183532715}
+{"id": "relevance_208", "result": "out_of_domain(user_query='Find the shortest path in a game from 'Point A' to 'Point B'')", "input_token_count": 0, "output_token_count": 0, "latency": 1.205082893371582}
+{"id": "relevance_209", "result": "out_of_domain(user_query='How to build a new PC?');", "input_token_count": 0, "output_token_count": 0, "latency": 0.8381247520446777}
+{"id": "relevance_210", "result": "out_of_domain(user_query='Which place in Paris that is most famous?');", "input_token_count": 0, "output_token_count": 0, "latency": 0.9510409832000732}
+{"id": "relevance_211", "result": "recipe_calculator.calculate_time(weight=5, per_unit_time=30);", "input_token_count": 0, "output_token_count": 0, "latency": 0.9945249557495117}
+{"id": "relevance_212", "result": "out_of_domain(user_query='What is the best way to boil an egg?');", "input_token_count": 0, "output_token_count": 0, "latency": 0.9363608360290527}
+{"id": "relevance_213", "result": "restaurant_finder(cuisine='pizza', location='Boston');", "input_token_count": 0, "output_token_count": 0, "latency": 0.8074581623077393}
+{"id": "relevance_214", "result": "out_of_domain(user_query='Find the best Sushi restaurant in Los Angeles.');", "input_token_count": 0, "output_token_count": 0, "latency": 0.9390561580657959}
+{"id": "relevance_215", "result": "out_of_domain(user_query='How long will it take to travel from San Francisco to Los Angeles by car?')", "input_token_count": 0, "output_token_count": 0, "latency": 1.1268510818481445}
+{"id": "relevance_216", "result": "out_of_domain(user_query='Where is the closest Italian restaurant?');", "input_token_count": 0, "output_token_count": 0, "latency": 0.8096768856048584}
+{"id": "relevance_217", "result": "cook_recipe.create(ingredients=['book'], instructions=['write a book'])", "input_token_count": 0, "output_token_count": 0, "latency": 0.916367769241333}
+{"id": "relevance_218", "result": "prepare_food.get_recipe(ingredients=['chocolate', 'flour', 'sugar', 'eggs', 'butter', 'vanilla extract'], food_type='cake');", "input_token_count": 0, "output_token_count": 0, "latency": 1.6178650856018066}
+{"id": "relevance_219", "result": "out_of_domain(user_query='What's the recipe for lasagna?');", "input_token_count": 0, "output_token_count": 0, "latency": 0.841437816619873}
+{"id": "relevance_220", "result": "recipe.getTemperature(dish_name='baking chocolate cake', oven_type='Conventional');", "input_token_count": 0, "output_token_count": 0, "latency": 1.0590567588806152}
+{"id": "relevance_221", "result": "out_of_domain(user_query='What are some recommended exercises for legs?');", "input_token_count": 0, "output_token_count": 0, "latency": 0.9245090484619141}
+{"id": "relevance_222", "result": "grocery_store.item_details(item_name='tomato', store_location='New York', details_level='detailed');", "input_token_count": 0, "output_token_count": 0, "latency": 1.2768728733062744}
+{"id": "relevance_223", "result": "grocery_shop.find_specific_product(city='Chicago', product='sourdough bread');", "input_token_count": 0, "output_token_count": 0, "latency": 0.9358482360839844}
+{"id": "relevance_224", "result": "grocery_store.locate_nearby(location='Los Angeles, CA');", "input_token_count": 0, "output_token_count": 0, "latency": 0.724837064743042}
+{"id": "relevance_225", "result": "out_of_domain(user_query='What's the population in New York right now?');", "input_token_count": 0, "output_token_count": 0, "latency": 1.0078110694885254}
+{"id": "relevance_226", "result": "get_local_time(timezone='London', date_format='YYYY-MM-DD HH:mm:ss')", "input_token_count": 0, "output_token_count": 0, "latency": 1.2396509647369385}
+{"id": "relevance_227", "result": "calculate_sunrise(location='Beijing');", "input_token_count": 0, "output_token_count": 0, "latency": 0.5808489322662354}
+{"id": "relevance_228", "result": "get_local_time(location='Sydney, Australia');", "input_token_count": 0, "output_token_count": 0, "latency": 0.7451310157775879}
+{"id": "relevance_229", "result": "out_of_domain(user_query='What are some popular sushi restaurants in Tokyo?');", "input_token_count": 0, "output_token_count": 0, "latency": 0.951807975769043}
+{"id": "relevance_230", "result": "out_of_domain(user_query='Find a pet-friendly train station in Miami');", "input_token_count": 0, "output_token_count": 0, "latency": 0.8996016979217529}
+{"id": "relevance_231", "result": "out_of_domain(user_query='Find a Thai restaurant in Chicago with vegetarian options.');", "input_token_count": 0, "output_token_count": 0, "latency": 1.267754077911377}
+{"id": "relevance_232", "result": "hotel_search.find_hotels(location='New York', amenities=['breakfast', 'fitness centre']);", "input_token_count": 0, "output_token_count": 0, "latency": 0.9597029685974121}
+{"id": "relevance_233", "result": "out_of_domain(user_query='What is the equivalent of $20 in British Pounds?')", "input_token_count": 0, "output_token_count": 0, "latency": 1.222825050354004}
+{"id": "relevance_234", "result": "convert_currency(amount=10, from_currency='inch', to_currency='meter');", "input_token_count": 0, "output_token_count": 0, "latency": 1.0482640266418457}
+{"id": "relevance_235", "result": "out_of_domain(user_query='What is the best movie in 2020?');", "input_token_count": 0, "output_token_count": 0, "latency": 0.9964549541473389}
+{"id": "relevance_236", "result": "get_flight_duration(start_city='London', destination_city='Tokyo', flight_type='non-stop');", "input_token_count": 0, "output_token_count": 0, "latency": 1.5745069980621338}
+{"id": "relevance_237", "result": "out_of_domain(user_query='Where is the nearest pharmacy in Los Angeles?')", "input_token_count": 0, "output_token_count": 0, "latency": 1.048449993133545}
+{"id": "relevance_238", "result": "map_coordinates.distance_calculate(pointA={}, pointB={});", "input_token_count": 0, "output_token_count": 0, "latency": 1.0453219413757324}
+{"id": "relevance_239", "result": "get_date(location_1='San Francisco', location_2='Los Angeles', unit='kilometers')", "input_token_count": 0, "output_token_count": 0, "latency": 1.07902193069458}

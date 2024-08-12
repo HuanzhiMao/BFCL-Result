@@ -1,0 +1,240 @@
+{"id": "relevance_0", "result": "\n[]"}
+{"id": "relevance_1", "result": "\n[]"}
+{"id": "relevance_2", "result": "\n[]"}
+{"id": "relevance_3", "result": "\n{\"tool_calls\": [{\"name\": \"find_critical_points\", \"arguments\": {\"function\": \"3*x + 2\", \"variable\": \"x\"}}]}"}
+{"id": "relevance_4", "result": "\n{\"tool_calls\": [{\"name\": \"find_roots\", \"arguments\": {\"a\": 1.0, \"b\": 0.0, \"c\": 0.0}}]}"}
+{"id": "relevance_5", "result": "\n[]"}
+{"id": "relevance_6", "result": "\n[]"}
+{"id": "relevance_7", "result": "\n{\"tool_calls\": [{\"name\": \"math.integral_calculator\", \"arguments\": {\"function\": \"3*x**2\", \"lower_bound\": 1, \"upper_bound\": 5}}]}"}
+{"id": "relevance_8", "result": "\n[]"}
+{"id": "relevance_9", "result": "\n[]"}
+{"id": "relevance_10", "result": "\n[]"}
+{"id": "relevance_11", "result": "\n{\"tool_calls\": [{\"name\": \"get_closest_prime\", \"arguments\": {\"number\": 30, \"skip\": 0}}]}"}
+{"id": "relevance_12", "result": "\n[]"}
+{"id": "relevance_13", "result": "\n[]"}
+{"id": "relevance_14", "result": "\n{\"tool_calls\": [{\"name\": \"calculate_maximum_height\", \"arguments\": {\"initial_velocity\": 5.0}}]}"}
+{"id": "relevance_15", "result": "\n[]"}
+{"id": "relevance_16", "result": "\n{\"tool_calls\": [{\"name\": \"calculate_projectile_range\", \"arguments\": {\"initial_velocity\": 10, \"angle\": 45, \"time\": 2}}]}"}
+{"id": "relevance_17", "result": "\n[]"}
+{"id": "relevance_18", "result": "\n{\"tool_calls\": [{\"name\": \"calculate_vector_angle\", \"arguments\": {\"X_component\": 1.0, \"Y_component\": 0.0, \"use_degrees\": false}}]}"}
+{"id": "relevance_19", "result": "\n[]"}
+{"id": "relevance_20", "result": "\n[]"}
+{"id": "relevance_21", "result": "\n[]"}
+{"id": "relevance_22", "result": "\n{\"tool_calls\": [{\"name\": \"magnetic_field_intensity\", \"arguments\": {\"current\": 1.0, \"distance\": 1.0}}]}"}
+{"id": "relevance_23", "result": "\n[]"}
+{"id": "relevance_24", "result": "\n[]"}
+{"id": "relevance_25", "result": "\n{\"tool_calls\": [{\"name\": \"thermodynamics.calculate_boiling_point\", \"arguments\": {\"substance\": \"water\", \"pressure\": 10, \"unit\": \"kPa\"}}]}"}
+{"id": "relevance_26", "result": "\n{\"tool_calls\": [{\"name\": \"thermodynamics.calc_gas_pressure\", \"arguments\": {\"volume\": 2, \"initial_temperature\": 25, \"final_temperature\": 100}}]}"}
+{"id": "relevance_27", "result": "\n{\"tool_calls\": [{\"name\": \"calculate_heat\", \"arguments\": {\"mass\": 3, \"specific_heat\": 4.184, \"change_in_temp\": 4}}]}"}
+{"id": "relevance_28", "result": "\n[]"}
+{"id": "relevance_29", "result": "\n{\"tool_calls\": [{\"name\": \"get_cell_function\", \"arguments\": {\"cell_part\": \"mitochondria\", \"detail_level\": \"basic\"}}]}"}
+{"id": "relevance_30", "result": "\n[]"}
+{"id": "relevance_31", "result": "\n[]"}
+{"id": "relevance_32", "result": "\n{\"tool_calls\": [{\"name\": \"cellBiology.getCellType\", \"arguments\": {\"nucleus_count\": 4, \"organism_type\": \"blood\", \"membrane_type\": \"Phospholipid bi-layer\"}}]}"}
+{"id": "relevance_33", "result": "\n{\"tool_calls\": [{\"name\": \"identify_species\", \"arguments\": {\"sequence\": \"ATCG\"}}]}"}
+{"id": "relevance_34", "result": "\n[]"}
+{"id": "relevance_35", "result": "\n[]"}
+{"id": "relevance_36", "result": "\n[]"}
+{"id": "relevance_37", "result": "\n{\"tool_calls\": [{\"name\": \"local_fauna\", \"arguments\": {\"location\": \"Miami\", \"species_type\": \"birds\"}}]}"}
+{"id": "relevance_38", "result": "\n{\"tool_calls\": [{\"name\": \"retrieve_scientific_paper\", \"arguments\": {\"topic\": \"global warming\", \"year\": \"latest\"}}]}"}
+{"id": "relevance_39", "result": "\n{\"tool_calls\": [{\"name\": \"calculate_population_growth\", \"arguments\": {\"current_population\": 100, \"birth_rate\": 0.01, \"death_rate\": 0.01}}]}"}
+{"id": "relevance_40", "result": "\n[]"}
+{"id": "relevance_41", "result": "\n[]"}
+{"id": "relevance_42", "result": "\n[]"}
+{"id": "relevance_43", "result": "\n{\"tool_calls\": [{\"name\": \"evolve_creatures\", \"arguments\": {\"population_size\": 100, \"mutation_rate\": 0.01, \"generations\": 100}}]}"}
+{"id": "relevance_44", "result": "\n{\"tool_calls\": [{\"name\": \"gene_sequencer\", \"arguments\": {\"species\": \"whales\", \"mutation_rate\": 0.1, \"evolution_duration\": 100}}]}"}
+{"id": "relevance_45", "result": "\n[]"}
+{"id": "relevance_46", "result": "\n[]"}
+{"id": "relevance_47", "result": "\n[]"}
+{"id": "relevance_48", "result": "\n[]"}
+{"id": "relevance_49", "result": "\n[]"}
+{"id": "relevance_50", "result": "\n[]"}
+{"id": "relevance_51", "result": "\n[]"}
+{"id": "relevance_52", "result": "\n[]"}
+{"id": "relevance_53", "result": "\n[]"}
+{"id": "relevance_54", "result": "\n[]"}
+{"id": "relevance_55", "result": "\n[]"}
+{"id": "relevance_56", "result": "\n[]"}
+{"id": "relevance_57", "result": "\n[]"}
+{"id": "relevance_58", "result": "\n{\"tool_calls\": [{\"name\": \"solar_panel.calculate_need\", \"arguments\": {\"square_footage\": 2000, \"average_sunlight_hours\": 10}}]}"}
+{"id": "relevance_59", "result": "\n[]"}
+{"id": "relevance_60", "result": "\n{\"tool_calls\": [{\"name\": \"calculateFinalPrice\", \"arguments\": {\"price\": 100, \"discount_rate\": 0.25, \"sales_tax\": 0.1}}]}"}
+{"id": "relevance_61", "result": "\n[]"}
+{"id": "relevance_62", "result": "\n[]"}
+{"id": "relevance_63", "result": "\n{\"tool_calls\": [{\"name\": \"probability_calculator\", \"arguments\": {\"total_outcomes\": 3, \"event_outcomes\": 2, \"return_decimal\": false}}]}"}
+{"id": "relevance_64", "result": "\n{\"tool_calls\": [{\"name\": \"probability.coin_toss_heads\", \"arguments\": {\"coin_tosses\": 52, \"heads_needed\": 13, \"coin_type\": \"fair\"}}]}"}
+{"id": "relevance_65", "result": "\n{\"tool_calls\": [{\"name\": \"probability.determine_population\", \"arguments\": {\"probability\": 0.3, \"sample_size\": 20, \"round\": true}}]}"}
+{"id": "relevance_66", "result": "\n[]"}
+{"id": "relevance_67", "result": "\n{\"tool_calls\": [{\"name\": \"hypothesis_testing.get_p_value\", \"arguments\": {\"successes\": 50, \"n\": 500, \"prob_null\": 0.1, \"alternative\": \"greater\"}}]}"}
+{"id": "relevance_68", "result": "\n{\"tool_calls\": [{\"name\": \"statistics.calculate_p_value\", \"arguments\": {\"sample_mean\": 98.2, \"population_mean\": 98.6, \"sample_std_dev\": 1.4, \"sample_size\": 40, \"two_tailed\": true}}]}"}
+{"id": "relevance_69", "result": "\n[]"}
+{"id": "relevance_70", "result": "\n[]"}
+{"id": "relevance_71", "result": "\n[]"}
+{"id": "relevance_72", "result": "\n{\"tool_calls\": [{\"name\": \"calculate_internal_rate_of_return\", \"arguments\": {\"cash_flows\": [-100, -40, -60, -80, -120]}}]}"}
+{"id": "relevance_73", "result": "\n{\"tool_calls\": [{\"name\": \"finance.predict_revenue\", \"arguments\": {\"company_name\": \"XYZ\", \"period\": \"next year\", \"industry_trends\": false}}]}"}
+{"id": "relevance_74", "result": "\n{\"tool_calls\": [{\"name\": \"investment_analysis.calculate_profit\", \"arguments\": {\"total_revenue\": 15000, \"total_cost\": 22000}}]}"}
+{"id": "relevance_75", "result": "\n[]"}
+{"id": "relevance_76", "result": "\n[]"}
+{"id": "relevance_77", "result": "\n[]"}
+{"id": "relevance_78", "result": "\n[]"}
+{"id": "relevance_79", "result": "\n[]"}
+{"id": "relevance_80", "result": "\n[]"}
+{"id": "relevance_81", "result": "\n[]"}
+{"id": "relevance_82", "result": "\n[]"}
+{"id": "relevance_83", "result": "\n[]"}
+{"id": "relevance_84", "result": "\n[]"}
+{"id": "relevance_85", "result": "\n[]"}
+{"id": "relevance_86", "result": "\n{\"tool_calls\": [{\"name\": \"law_info.get_penalty\", \"arguments\": {\"crime\": \"burglary\", \"state\": \"California\"}}]}"}
+{"id": "relevance_87", "result": "\n[]"}
+{"id": "relevance_88", "result": "\n[]"}
+{"id": "relevance_89", "result": "\n[]"}
+{"id": "relevance_90", "result": "\n[]"}
+{"id": "relevance_91", "result": "\n[]"}
+{"id": "relevance_92", "result": "\n{\"tool_calls\": [{\"name\": \"search_lawyer\", \"arguments\": {\"area\": \"New York\", \"specialization\": \"security guard\"}}]}"}
+{"id": "relevance_93", "result": "\n[]"}
+{"id": "relevance_94", "result": "\n[]"}
+{"id": "relevance_95", "result": "\n{\"tool_calls\": [{\"name\": \"case_review.retrieve_case_outcome\", \"arguments\": {\"case_name\": \"Doe vs. Smith\", \"case_year\": 2018}}]}"}
+{"id": "relevance_96", "result": "\n[]"}
+{"id": "relevance_97", "result": "\n[]"}
+{"id": "relevance_98", "result": "\n[]"}
+{"id": "relevance_99", "result": "\n{\"tool_calls\": [{\"name\": \"lawsuit_search\", \"arguments\": {\"location\": \"Texas\", \"subject\": \"traffic laws\"}}]}"}
+{"id": "relevance_100", "result": "\n[]"}
+{"id": "relevance_101", "result": "\n{\"tool_calls\": [{\"name\": \"get_average_monthly_temperature\", \"arguments\": {\"location\": \"Hawaii\", \"month\": \"January\"}}]}"}
+{"id": "relevance_102", "result": "\n{\"tool_calls\": [{\"name\": \"calculate_sunrise_and_sunset\", \"arguments\": {\"location\": \"New York City\", \"date\": \"2022-09-26\", \"output_format\": \"12-hour\"}}]}"}
+{"id": "relevance_103", "result": "\n[]"}
+{"id": "relevance_104", "result": "\n{\"tool_calls\": [{\"name\": \"calculate_park_area\", \"arguments\": {\"radius\": 3, \"units\": \"units\", \"shape\": \"circle\"}}]}"}
+{"id": "relevance_105", "result": "\n[]"}
+{"id": "relevance_106", "result": "\n[]"}
+{"id": "relevance_107", "result": "\n[]"}
+{"id": "relevance_108", "result": "\n{\"tool_calls\": [{\"name\": \"emission_estimator\", \"arguments\": {\"current_emissions\": 100000.0, \"action\": \"plant trees\", \"scale\": \"individual\", \"duration\": 5}}]}"}
+{"id": "relevance_109", "result": "\n{\"tool_calls\": [{\"name\": \"calculate_water_needs\", \"arguments\": {\"plant_type\": \"cactus\", \"location\": \"Arizona\", \"season\": \"summer\"}}]}"}
+{"id": "relevance_110", "result": "\n[]"}
+{"id": "relevance_111", "result": "\n{\"tool_calls\": [{\"name\": \"geo_location_based_products.fetch_eco_friendly_products\", \"arguments\": {\"location\": \"Seattle\", \"product_category\": \"Yoga Mats\", \"availability\": \"Instore\"}}]}"}
+{"id": "relevance_112", "result": "\n[]"}
+{"id": "relevance_113", "result": "\n{\"tool_calls\": [{\"name\": \"find_pois\", \"arguments\": {\"location\": \"London\", \"category\": [\"Restaurants\"]}}]}"}
+{"id": "relevance_114", "result": "\n[]"}
+{"id": "relevance_115", "result": "\n{\"tool_calls\": [{\"name\": \"calculate_distance\", \"arguments\": {\"origin\": {\"latitude\": 42.3601, \"longitude\": -71.0589}, \"destination\": {\"latitude\": 40.7128, \"longitude\": -74.0060}, \"speed\": 5.0}}]}"}
+{"id": "relevance_116", "result": "\n[]"}
+{"id": "relevance_117", "result": "\n[]"}
+{"id": "relevance_118", "result": "\n{\"tool_calls\": [{\"name\": \"playoff.brackets\", \"arguments\": {\"year\": 1996, \"round\": \"Finals\"}}]}"}
+{"id": "relevance_119", "result": "\n[]"}
+{"id": "relevance_120", "result": "\n[]"}
+{"id": "relevance_121", "result": "\n{\"tool_calls\": [{\"name\": \"medical_records.get_disease_info\", \"arguments\": {\"disease_name\": \"motor neuron\"}}]}"}
+{"id": "relevance_122", "result": "\n[]"}
+{"id": "relevance_123", "result": "\n[]"}
+{"id": "relevance_124", "result": "\n{\"tool_calls\": [{\"name\": \"get_social_trends\", \"arguments\": {\"category\": \"technology\", \"region\": \"worldwide\"}}]}"}
+{"id": "relevance_125", "result": "\n[]"}
+{"id": "relevance_126", "result": "\n[]"}
+{"id": "relevance_127", "result": "\n{\"tool_calls\": [{\"name\": \"sentiment_analysis.twitter\", \"arguments\": {\"topic\": \"new iPhone release\", \"language\": \"en\", \"num_tweets\": 100}}]}"}
+{"id": "relevance_128", "result": "\n[]"}
+{"id": "relevance_129", "result": "\n[]"}
+{"id": "relevance_130", "result": "\n[]"}
+{"id": "relevance_131", "result": "\n{\"tool_calls\": [{\"name\": \"psychology.color_representation\", \"arguments\": {\"color\": \"purple\", \"context\": \"computer vision\"}}]}"}
+{"id": "relevance_132", "result": "\n[]"}
+{"id": "relevance_133", "result": "\n{\"tool_calls\": [{\"name\": \"get_battle_details\", \"arguments\": {\"battle_name\": \"NBA final\", \"year\": 2023}}]}"}
+{"id": "relevance_134", "result": "\n[]"}
+{"id": "relevance_135", "result": "\n[]"}
+{"id": "relevance_136", "result": "\n{\"tool_calls\": [{\"name\": \"us_president_in_year\", \"arguments\": {\"year\": 2020, \"state\": \"US\"}}]}"}
+{"id": "relevance_137", "result": "\n[]"}
+{"id": "relevance_138", "result": "\n[]"}
+{"id": "relevance_139", "result": "\n[]"}
+{"id": "relevance_140", "result": "\n[]"}
+{"id": "relevance_141", "result": "\n[]"}
+{"id": "relevance_142", "result": "\n[]"}
+{"id": "relevance_143", "result": "\n{\"tool_calls\": [{\"name\": \"get_historical_figure_info\", \"arguments\": {\"name\": \"scientist\", \"detail\": \"birth\", \"region\": \"global\"}}]}"}
+{"id": "relevance_144", "result": "\n[]"}
+{"id": "relevance_145", "result": "\n{\"tool_calls\": [{\"name\": \"religion_history.get_event_year\", \"arguments\": {\"event_name\": \"Protestant Reformation\", \"period\": \"Reformation\", \"location\": \"Worldwide\"}}]}"}
+{"id": "relevance_146", "result": "\n[]"}
+{"id": "relevance_147", "result": "\n[]"}
+{"id": "relevance_148", "result": "\n{\"tool_calls\": [{\"name\": \"color_complimentary\", \"arguments\": {\"color\": \"blue\"}}]}"}
+{"id": "relevance_149", "result": "\n[]"}
+{"id": "relevance_150", "result": "\n{\"tool_calls\": [{\"name\": \"color_converter.RGB_to_Pantone\", \"arguments\": {\"red\": 255, \"green\": 0, \"blue\": 0}}]}"}
+{"id": "relevance_151", "result": "\n[]"}
+{"id": "relevance_152", "result": "\n[]"}
+{"id": "relevance_153", "result": "\n[]"}
+{"id": "relevance_154", "result": "\n[]"}
+{"id": "relevance_155", "result": "\n[]"}
+{"id": "relevance_156", "result": "\n[]"}
+{"id": "relevance_157", "result": "\n[]"}
+{"id": "relevance_158", "result": "\n[]"}
+{"id": "relevance_159", "result": "\n{\"tool_calls\": [{\"name\": \"artwork_search\", \"arguments\": {\"artwork_name\": \"The Scream\", \"museum_location\": \"Paris, France\", \"specific_details\": \"artist\"}}]}"}
+{"id": "relevance_160", "result": "\n{\"tool_calls\": [{\"name\": \"most_frequent_visitor\", \"arguments\": {\"museum_name\": \"Museum of Modern Art\", \"start_date\": \"2020-01-01\", \"end_date\": \"2020-12-31\"}}]}"}
+{"id": "relevance_161", "result": "\n{\"tool_calls\": [{\"name\": \"museum_data.get_visit_stats\", \"arguments\": {\"city\": \"New York\", \"year\": 2020}}]}"}
+{"id": "relevance_162", "result": "\n{\"tool_calls\": [{\"name\": \"get_museum_artists\", \"arguments\": {\"museum_name\": \"The 19th Century Museum\", \"period\": \"19th Century\"}}]}"}
+{"id": "relevance_163", "result": "\n{\"tool_calls\": [{\"name\": \"tune_instrument\", \"arguments\": {\"instrument_type\": \"acoustic guitar\", \"key\": \"Standard\"}}]}"}
+{"id": "relevance_164", "result": "\n{\"tool_calls\": [{\"name\": \"search_music_instrument_players\", \"arguments\": {\"instrument\": \"singer\", \"genre\": \"Jazz\"}}]}"}
+{"id": "relevance_165", "result": "\n{\"tool_calls\": [{\"name\": \"get_instrument_info\", \"arguments\": {\"instrument_name\": \"cello\", \"detail\": \"type\"}}]}"}
+{"id": "relevance_166", "result": "\n[]"}
+{"id": "relevance_167", "result": "\n[]"}
+{"id": "relevance_168", "result": "\n{\"tool_calls\": [{\"name\": \"concert_availability\", \"arguments\": {\"artist\": \"University\", \"location\": \"Sydney\", \"date\": \"2023-05\"}}]}"}
+{"id": "relevance_169", "result": "\n[]"}
+{"id": "relevance_170", "result": "\n[]"}
+{"id": "relevance_171", "result": "\n[]"}
+{"id": "relevance_172", "result": "\n{\"tool_calls\": [{\"name\": \"music_composer.composition_info\", \"arguments\": {\"composition_name\": \"Don Quixote\", \"need_detailed_info\": true}}]}"}
+{"id": "relevance_173", "result": "\n[]"}
+{"id": "relevance_174", "result": "\n[]"}
+{"id": "relevance_175", "result": "\n[]"}
+{"id": "relevance_176", "result": "\n\"There are no functions provided that can directly answer the question.\""}
+{"id": "relevance_177", "result": "\n[]"}
+{"id": "relevance_178", "result": "\n{\"tool_calls\": [{\"name\": \"sports_analysis.get_top_scorer\", \"arguments\": {\"league\": \"Premier League\", \"season\": \"2020/2021\"}}]}"}
+{"id": "relevance_179", "result": "\n{\"tool_calls\": [{\"name\": \"get_game_results\", \"arguments\": {\"team_1\": \"Clippers\", \"team_2\": \"NBA\", \"date\": \"2020-09-01\"}}]}"}
+{"id": "relevance_180", "result": "\n{\"tool_calls\": [{\"name\": \"sports_analyzer.get_schedule\", \"arguments\": {\"date\": \"today\", \"sport\": \"cricket\"}}]}"}
+{"id": "relevance_181", "result": "\n{\"tool_calls\": [{\"name\": \"soccer_stats.get_last_match_result\", \"arguments\": {\"team1\": \"Los Angeles Lakers\", \"team2\": \"Real Madrid\", \"season\": \"spring\"}}]}"}
+{"id": "relevance_182", "result": "\n{\"tool_calls\": [{\"name\": \"get_nba_player_stats\", \"arguments\": {\"player_name\": \"Michael Jordan\", \"stat_type\": \"championships\"}}]}"}
+{"id": "relevance_183", "result": "\n{\"tool_calls\": [{\"name\": \"find_top_sports_celebrity\", \"arguments\": {\"name\": \"Wimbledon Men's Singles\", \"year\": 2021, \"sports_type\": \"Wimbledon\"}}]}"}
+{"id": "relevance_184", "result": "\n{\"tool_calls\": [{\"name\": \"sports_stats.get_player_stats\", \"arguments\": {\"player_name\": \"NBA Most Valuable Player\", \"season\": \"2020\"}}]}"}
+{"id": "relevance_185", "result": "\n{\"tool_calls\": [{\"name\": \"player_stats.average_scoring\", \"arguments\": {\"player_name\": \"LeBron James\", \"season\": \"2019-20\", \"league\": \"NBA\"}}]}"}
+{"id": "relevance_186", "result": "\n{\"tool_calls\": [{\"name\": \"sports_ranking.get_MVP\", \"arguments\": {\"season\": \"2020\", \"sport_type\": \"football\", \"team\": \"all\"}}]}"}
+{"id": "relevance_187", "result": "\n[]"}
+{"id": "relevance_188", "result": "\n{\"tool_calls\": [{\"name\": \"sports.ranking.get_champion\", \"arguments\": {\"event\": \"World Series\", \"year\": 2020}}]}"}
+{"id": "relevance_189", "result": "\n{\"tool_calls\": [{\"name\": \"sports_ranking.get_top_ranked\", \"arguments\": {\"sport\": \"basketball\", \"gender\": \"male\", \"year\": 2020}}]}"}
+{"id": "relevance_190", "result": "\n[]"}
+{"id": "relevance_191", "result": "\n{\"tool_calls\": [{\"name\": \"get_match_stats\", \"arguments\": {\"team_name\": \"World Cup\", \"tournament\": \"Football\"}}]}"}
+{"id": "relevance_192", "result": "\n[]"}
+{"id": "relevance_193", "result": "\n{\"tool_calls\": [{\"name\": \"get_sport_team_details\", \"arguments\": {\"team_name\": \"Los Angeles Lakers\", \"details\": [\"results\"]}}]}"}
+{"id": "relevance_194", "result": "\n[]"}
+{"id": "relevance_195", "result": "\n[]"}
+{"id": "relevance_196", "result": "\n[]"}
+{"id": "relevance_197", "result": "\n[]"}
+{"id": "relevance_198", "result": "\n[]"}
+{"id": "relevance_199", "result": "\n[]"}
+{"id": "relevance_200", "result": "\n[]"}
+{"id": "relevance_201", "result": "\n[]"}
+{"id": "relevance_202", "result": "\n[]"}
+{"id": "relevance_203", "result": "\n{\"tool_calls\": [{\"name\": \"get_player_score\", \"arguments\": {\"player\": \"A\", \"game\": \"Halo\"}}]}"}
+{"id": "relevance_204", "result": "\n[]"}
+{"id": "relevance_205", "result": "\n[]"}
+{"id": "relevance_206", "result": "\n{\"tool_calls\": [{\"name\": \"game.find_best_weapon\", \"arguments\": {\"player_level\": 10, \"enemy_type\": \"dragon\"}}]}"}
+{"id": "relevance_207", "result": "\n{\"tool_calls\": [{\"name\": \"game_tracker.high_score\", \"arguments\": {\"game_name\": \"Flappy Bird\", \"platform\": \"PC\"}}]}"}
+{"id": "relevance_208", "result": "\n[]"}
+{"id": "relevance_209", "result": "\n[]"}
+{"id": "relevance_210", "result": "\n{\"tool_calls\": [{\"name\": \"recipe_based_restaurants\", \"arguments\": {\"recipe_name\": \"Paris\", \"location\": \"Paris\"}}]}"}
+{"id": "relevance_211", "result": "\n[]"}
+{"id": "relevance_212", "result": "\n{\"tool_calls\": [{\"name\": \"get_cooking_time\", \"arguments\": {\"ingredient_type\": \"egg\", \"ingredient_size\": \"small\", \"cooking_method\": \"boiling\"}}]}"}
+{"id": "relevance_213", "result": "\n{\"tool_calls\": [{\"name\": \"restaurant_finder\", \"arguments\": {\"cuisine\": \"pizza\", \"location\": \"Boston\"}}]}"}
+{"id": "relevance_214", "result": "\n[]"}
+{"id": "relevance_215", "result": "\n[]"}
+{"id": "relevance_216", "result": "\n[]"}
+{"id": "relevance_217", "result": "\n[]"}
+{"id": "relevance_218", "result": "\n{\"tool_calls\": [{\"name\": \"prepare_food.get_recipe\", \"arguments\": {\"ingredients\": [\"chocolate\", \"flour\", \"sugar\", \"eggs\", \"baking powder\", \"salt\"], \"food_type\": \"chocolate cake\"}}]}"}
+{"id": "relevance_219", "result": "\n[]"}
+{"id": "relevance_220", "result": "\n[]"}
+{"id": "relevance_221", "result": "\n[]"}
+{"id": "relevance_222", "result": "\n[]"}
+{"id": "relevance_223", "result": "\n{\"tool_calls\": [{\"name\": \"grocery_shop.find_specific_product\", \"arguments\": {\"city\": \"Chicago\", \"product\": \"sourdough bread\"}}]}"}
+{"id": "relevance_224", "result": "\n{\"tool_calls\": [{\"name\": \"grocery_store.locate_nearby\", \"arguments\": {\"location\": \"Los Angeles, CA\", \"store_type\": [\"Convenience Store\"], \"is_24_hours\": true}}]}"}
+{"id": "relevance_225", "result": "\n[]"}
+{"id": "relevance_226", "result": "\n{\"tool_calls\": [{\"name\": \"get_local_time\", \"arguments\": {\"timezone\": \"Europe/London\", \"date_format\": \"%Y-%m-%d %H:%M:%S\"}}]}"}
+{"id": "relevance_227", "result": "\n{\"tool_calls\": [{\"name\": \"calculate_sunrise\", \"arguments\": {\"location\": \"Beijing\"}}]}"}
+{"id": "relevance_228", "result": "\n{\"tool_calls\": [{\"name\": \"get_local_time\", \"arguments\": {\"location\": \"Sydney\", \"format\": \"12\", \"timezone\": \"Australia\"}}]}"}
+{"id": "relevance_229", "result": "\n[]"}
+{"id": "relevance_230", "result": "\n{\"tool_calls\": [{\"name\": \"find_hotel\", \"arguments\": {\"location\": \"Miami\", \"max_price_per_night\": 100.0, \"pet_friendly\": true}}]}"}
+{"id": "relevance_231", "result": "\n[]"}
+{"id": "relevance_232", "result": "\n{\"tool_calls\": [{\"name\": \"hotel_search.find_hotels\", \"arguments\": {\"location\": \"New York, NY\", \"amenities\": [\"Breakfast\", \"Fitness Centre\"]}}]}"}
+{"id": "relevance_233", "result": "\n[]"}
+{"id": "relevance_234", "result": "\n[]"}
+{"id": "relevance_235", "result": "\n[]"}
+{"id": "relevance_236", "result": "\n{\"tool_calls\": [{\"name\": \"get_flight_duration\", \"arguments\": {\"start_city\": \"London\", \"destination_city\": \"Tokyo\", \"flight_type\": \"non-stop\"}}]}"}
+{"id": "relevance_237", "result": "\n{\"tool_calls\": [{\"name\": \"get_route_to_location\", \"arguments\": {\"start_point\": \"Los Angeles\", \"end_point\": \"pharmacy\", \"transport_method\": \"Driving\"}}]}"}
+{"id": "relevance_238", "result": "\n[]"}
+{"id": "relevance_239", "result": "\n{\"tool_calls\": [{\"name\": \"get_date\", \"arguments\": {\"location_1\": \"San Francisco\", \"location_2\": \"Los Angeles\", \"unit\": \"kilometers\"}}]}"}

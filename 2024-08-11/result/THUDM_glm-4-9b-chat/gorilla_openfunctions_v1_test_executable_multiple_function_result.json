@@ -1,0 +1,50 @@
+{"id": "executable_multiple_function_0", "result": "calc_binomial_probability\n{\"k\": 5, \"n\": 20, \"p\": 0.16666666666666666}"}
+{"id": "executable_multiple_function_1", "result": "calculate_cosine_similarity\n{\"vectorA\": [0.5, 0.7, 0.2, 0.9, 0.1], \"vectorB\": [0.4, 0.6, 0.3, 0.8, 0.2]}"}
+{"id": "executable_multiple_function_2", "result": "calculate_density\n{\"mass\": 50.0, \"volume\": 10.0}"}
+{"id": "executable_multiple_function_3", "result": "calculate_displacement\n{\"initial_velocity\": 15.0, \"acceleration\": 9.8, \"time\": 10.0}"}
+{"id": "executable_multiple_function_4", "result": "calculate_electrostatic_potential_energy\n{\"charge\": 5, \"voltage\": 10}"}
+{"id": "executable_multiple_function_5", "result": "calculate_final_velocity\n{\"initial_velocity\": 0, \"acceleration\": 9.8, \"time\": 12}"}
+{"id": "executable_multiple_function_6", "result": "calculate_future_value\n{\"present_value\": 5000, \"interest_rate\": 0.05, \"periods\": 10}"}
+{"id": "executable_multiple_function_7", "result": "\nTo calculate the average monthly temperature, you can use the `calculate_mean` function that I have access to. Since you've mentioned that the temperatures change by 2 degrees each day and range from 22 to 80 degrees Celsius, we can generate the list of daily temperatures and then calculate the average.\n\nThe temperature on the first day is 22 degrees, and it increases by 2 degrees each subsequent day. So, the temperatures for 30 days can be calculated as:\n\nDay 1: 22\u00b0C\nDay 2: 24\u00b0C\nDay 3: 26\u00b0C\n...\nDay 30: (22 + (29 * 2))\u00b0C\n\nLet's first generate the list of temperatures and then calculate the mean.calculate_mean\n{\"numbers\": [22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54, 56, 58, 60, 62, 64, 66, 68, 70, 72, 74, 76, 78, 80]}"}
+{"id": "executable_multiple_function_8", "result": "calculate_permutations\n{\"k\": 5, \"n\": 26}"}
+{"id": "executable_multiple_function_9", "result": "calculate_standard_deviation\n{\"numbers\": [1000, 2000, 3000, 4000, 5000, 7000, 9000, 15000, 20000, 30000]}"}
+{"id": "executable_multiple_function_10", "result": "calculate_triangle_area\n{\"base\": 500, \"height\": 300}"}
+{"id": "executable_multiple_function_11", "result": "get_zipcode_by_ip_address\n{\"ip_address\": \"123.45.67.89\"}"}
+{"id": "executable_multiple_function_12", "result": "estimate_derivative\n{\"function\": \"3*x**2 + 2*x + 1\", \"x\": 5}"}
+{"id": "executable_multiple_function_13", "result": "find_term_on_urban_dictionary\n{\"term\": \"lit\"}"}
+{"id": "executable_multiple_function_14", "result": "geometry_area_circle\n{\"radius\": 15}"}
+{"id": "executable_multiple_function_15", "result": "get_active_covid_case_by_country\n{\"country\": \"Brazil\"}"}
+{"id": "executable_multiple_function_16", "result": "get_company_name_by_stock_name\n{\"stock_name\": \"AAPL\"}"}
+{"id": "executable_multiple_function_17", "result": "get_coordinate_by_ip_address\n{\"ip_address\": \"192.168.1.1\"}"}
+{"id": "executable_multiple_function_18", "result": "get_coordinates_from_city\n{\"city_name\": \"Paris\"}"}
+{"id": "executable_multiple_function_19", "result": "get_covid_death_by_country\n{\"country\": \"Brazil\"}"}
+{"id": "executable_multiple_function_20", "result": "get_distance\n{\"pointA\": [45.76, 4.85], \"pointB\": [48.85, 2.35]}"}
+{"id": "executable_multiple_function_21", "result": "get_fibonacci_sequence\n{\"n\": 20}"}
+{"id": "executable_multiple_function_22", "result": "get_price_by_amazon_ASIN\n{\"ASIN\": \"B08PPDJWC8\"}"}
+{"id": "executable_multiple_function_23", "result": "get_prime_factors\n{\"number\": 4567}"}
+{"id": "executable_multiple_function_24", "result": "get_product_name_by_amazon_ASIN\n{\"ASIN\": \"B08BHXG144\"}"}
+{"id": "executable_multiple_function_25", "result": "get_rating_by_amazon_ASIN\n{\"ASIN\": \"B07ZPKBL9V\"}"}
+{"id": "executable_multiple_function_26", "result": "get_stock_history\n{\"stock_name\": \"AAPL\", \"interval\": \"1mo\", \"diffandsplits\": \"true\"}"}
+{"id": "executable_multiple_function_27", "result": "get_stock_price_by_stock_name\n{\"stock_name\": \"AAPL\"}"}
+{"id": "executable_multiple_function_28", "result": "get_time_zone_by_coord\n{\"lat\": \"-67.89\", \"long\": \"123.45\"}"}
+{"id": "executable_multiple_function_29", "result": "get_weather_data\n{\"coordinates\": [90.0, 0.0]}"}
+{"id": "executable_multiple_function_30", "result": "get_zipcode_by_ip_address\n{\"ip_address\": \"192.168.1.1\"}"}
+{"id": "executable_multiple_function_31", "result": "mat_mul\n{\"matA\": [[1, 2], [3, 4]], \"matB\": [[5, 6], [7, 8]]}"}
+{"id": "executable_multiple_function_32", "result": "math_factorial\n{\"n\": 7}"}
+{"id": "executable_multiple_function_33", "result": "math_gcd\n{\"a\": 450, \"b\": 300}"}
+{"id": "executable_multiple_function_34", "result": "math_lcm\n{\"a\": 18, \"b\": 24}"}
+{"id": "executable_multiple_function_35", "result": "mortgage_calculator\n{\"loan_amount\": 350000.0, \"interest_rate\": 0.035, \"loan_period\": 30}"}
+{"id": "executable_multiple_function_36", "result": "quadratic_roots\n{\"a\": 3, \"b\": 7, \"c\": -10}"}
+{"id": "executable_multiple_function_37", "result": "retrieve_city_based_on_zipcode\n{\"zipcode\": \"90210\"}"}
+{"id": "executable_multiple_function_38", "result": "retrieve_holiday_by_year\n{\"country\": \"FR\", \"year\": \"2010\"}"}
+{"id": "executable_multiple_function_39", "result": "sort_array\n{\"array\": [34, 2, 56, 7, 9, 12], \"reverse\": true}"}
+{"id": "executable_multiple_function_40", "result": "add_binary_numbers\n{\"a\": \"10011\", \"b\": \"1100\"}"}
+{"id": "executable_multiple_function_41", "result": "calculate_slope\n{\"x\": [1, 2, -3], \"y\": [4, -5, 6]}"}
+{"id": "executable_multiple_function_42", "result": "calculate_investment_value\n{\"initial_investment\": 10000, \"annual_contribution\": 1000, \"years\": 5, \"annual_return\": 0.05, \"inflation_rate\": [0.01, 0.02, 0.03, 0.04, 0.04]}"}
+{"id": "executable_multiple_function_43", "result": "calculate_investment_value\n{\"initial_investment\": 1000000, \"annual_contribution\": 1000, \"annual_return\": 0.1, \"years\": 3, \"inflation_rate\": [0.01, 0.04, 0.04]}"}
+{"id": "executable_multiple_function_44", "result": "calculate_nutritional_needs\n{\"activity_level\": 4.0, \"age\": 80.0, \"gender\": \"female\", \"goal\": \"lose\", \"height\": 170.0, \"weight\": 59.0}"}
+{"id": "executable_multiple_function_45", "result": "book_room\n{\"check_in_date\": \"08-11-2024\", \"check_out_date\": \"08-15-2024\", \"customer_id\": \"123\", \"room_type\": {\"name\": \"Deluxe\", \"price\": 1000}}"}
+{"id": "executable_multiple_function_46", "result": "calculate_total\n{\"prices\": [0.1, 10], \"quantities\": [101, 20]}"}
+{"id": "executable_multiple_function_47", "result": "get_movie_director\n{\"movie_name\": \"Pulp Fiction\"}"}
+{"id": "executable_multiple_function_48", "result": "get_movie_rating\n{\"movie_name\": \"Avatar\"}"}
+{"id": "executable_multiple_function_49", "result": "polygon_area\n{\"vertices\": [[1, 2], [3, 4], [1, 4], [3, 7]]}"}

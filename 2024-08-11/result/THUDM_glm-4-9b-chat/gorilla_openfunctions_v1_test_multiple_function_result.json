@@ -1,0 +1,200 @@
+{"id": "multiple_function_0", "result": "triangle_properties_get\n{\"side1\": 5, \"side2\": 4, \"side3\": 3}"}
+{"id": "multiple_function_1", "result": "math_triangle_area_heron\n{\"side1\": 3, \"side2\": 4, \"side3\": 5}"}
+{"id": "multiple_function_2", "result": "country_info_capital\n{\"country\": \"Brazil\"}"}
+{"id": "multiple_function_3", "result": "EuclideanDistance_calculate\n{\"pointA\": [3, 4], \"pointB\": [1, 2]}"}
+{"id": "multiple_function_4", "result": "kinematics_calculate_displacement\n{\"initial_speed\": 20, \"acceleration\": 10, \"time\": 5}"}
+{"id": "multiple_function_5", "result": "weather_get_by_city_date\n{\"city\": \"Paris\", \"date\": \"2019-12-13\"}"}
+{"id": "multiple_function_6", "result": "capacitance_calculator_calculate\n{\"A\": 10, \"K\": 1.0, \"d\": 0.01}"}
+{"id": "multiple_function_7", "result": "wildlife_population_assess_growth\n{\"species\": \"deer\", \"location\": \"Washington state\", \"duration\": 10}"}
+{"id": "multiple_function_8", "result": "realestate_find_properties\n{\"bedrooms\": 3, \"budget\": {\"max\": 400000.0, \"min\": 300000.0}, \"location\": \"San Diego, CA\", \"propertyType\": \"villa\"}"}
+{"id": "multiple_function_9", "result": "calculate_average\n{\"gradeDict\": {\"math\": 90, \"science\": 75, \"history\": 82, \"music\": 89}}"}
+{"id": "multiple_function_10", "result": "\nI understand that you want to delete the email addresses and social security numbers from the personal_data table in your employees database. In order to do this, we will need to use the `database_modify_columns` function with the operation set to \"delete\" and the columns to be deleted set to \"email\" and \"ssn\". Here is an example of how the function call would look like:\n\n```python\n{\n  \"columns\": [\"email\", \"ssn\"],\n  \"db_name\": \"employees\",\n  \"operation\": \"delete\",\n  \"table\": \"personal_data\"\n}\n```\n\nBefore we proceed with the deletion, it is recommended to create a backup of the database to ensure data integrity. Here is an example of how to create a backup:\n\n```python\n{\n  \"backup_location\": \"/path/to/backup\",\n  \"db_name\": \"employees\",\n  \"timestamp\": false\n}\n```\n\nAfter creating the backup, you can proceed with the deletion of the columns:\n\n```python\n# Delete the email and ssn columns from the personal_data table\ndatabase_modify_columns(\n  {\n    \"columns\": [\"email\", \"ssn\"],\n    \"db_name\": \"employees\",\n    \"operation\": \"delete\",\n    \"table\": \"personal_data\"\n  }\n)\n```\n\nPlease note that this is a Python 3 syntax code snippet. You may need to adjust it according to your specific requirements."}
+{"id": "multiple_function_11", "result": "math_roots_quadratic\n{\"a\": 5, \"b\": 20, \"c\": -25}"}
+{"id": "multiple_function_12", "result": "corporate_finance_calculate_YOY_growth_rate\n{\"company_name\": \"Tech Inc\", \"year1\": 2019, \"year1_revenue\": 1000000, \"year2\": 2020, \"year2_revenue\": 1200000}"}
+{"id": "multiple_function_13", "result": "corporate_finance_revenue_forecast\n{\"company\": \"XYZ\", \"product\": \"A\", \"sales_units_increase_percentage\": 10}"}
+{"id": "multiple_function_14", "result": "finance_property_depreciation\n{\"initial_cost\": 200000, \"depreciation_rate\": 3, \"years\": 5}"}
+{"id": "multiple_function_15", "result": "solarFarm_potential\n{\"coordinates\": [43.653225, -79.383186], \"panelArea\": 80000, \"month\": \"December\"}"}
+{"id": "multiple_function_16", "result": "population_genetics_calculate_ne\n{\"species\": \"tiger\", \"generations\": 100, \"probability\": 0.95}"}
+{"id": "multiple_function_17", "result": "currency_conversion_get_rate\n{\"from_currency\": \"EUR\", \"to_currency\": \"USD\", \"date\": \"2022-01-01\"}"}
+{"id": "multiple_function_18", "result": "european_history_battle_details\n{\"battle\": \"Battle of Stalingrad\"}"}
+{"id": "multiple_function_19", "result": "\nThe three great schisms in Christianity history are:\n\n1. The Great Schism of 1054, also known as the East-West Schism, divided the Christian Church into the Eastern Orthodox Church and the Roman Catholic Church.\n2. The Protestant Reformation, beginning in the 16th century with Martin Luther's 95 Theses, resulted in the creation of Protestantism and the subsequent splitting from the Roman Catholic Church.\n3. The Reformation of the 17th century, often referred to as the English Reformation, led to the establishment of the Anglican Church and further division within Protestantism.\n\nIf you have access to the provided function in Python 3 syntax, you can use it to retrieve more detailed information about these schisms. Here's how you would call the function to get details on the schisms:\n\n```python\n# Assuming the function is named religion_history_get_schisms\nresponse = religion_history_get_schisms(count=3, religion=\"Christianity\")\nprint(response)\n```\n\nThis would return information about the top three schisms in the history of Christianity."}
+{"id": "multiple_function_20", "result": "sculpture_price_calculate\n{\"material\": \"marble\", \"size\": 3}"}
+{"id": "multiple_function_21", "result": "generate_sound_wave\n{\"frequency\": 440, \"duration\": 5}"}
+{"id": "multiple_function_22", "result": "sports_data_basketball_most_points_single_game\n{\"league\": \"NBA\"}"}
+{"id": "multiple_function_23", "result": "basketball_player_stats_get\n{\"player_name\": \"LeBron James\", \"stats_fields\": [\"points\", \"assists\", \"minutes\"]}"}
+{"id": "multiple_function_24", "result": "route_planner_calculate_route\n{\"start\": \"London\", \"destination\": \"Edinburgh\", \"method\": \"fastest\"}"}
+{"id": "multiple_function_25", "result": "\nTo find the cheapest selling price for the game 'Assassins Creed Valhalla' in the PlayStation Store in the United States, I will use the provided function 'video_games_store_price' with the game title 'Assassins Creed Valhalla', platform as 'PlayStation', and region as 'United States'. Let's make the API call and fetch the information.video_games_store_price\n{\"game_title\": \"Assassins Creed Valhalla\", \"platform\": \"PlayStation\", \"region\": \"United States\"}"}
+{"id": "multiple_function_26", "result": "game_rewards_get\n{\"game\": \"Fortnite\", \"platform\": \"Playstation\", \"mission\": \"PvP\"}"}
+{"id": "multiple_function_27", "result": "maps_shortest_path\n{\"start_location\": \"Paris, France\", \"end_location\": \"Rome, Italy\", \"mode\": \"transit\"}"}
+{"id": "multiple_function_28", "result": "\nThe roots of the quadratic equation with coefficients 2, 3, and -4 are %s1 and %s2. The roots are real and distinct.solve_quadratic_equation\n{\"a\": 2, \"b\": 3, \"c\": -4}"}
+{"id": "multiple_function_29", "result": "\nTo find the intersection points of the functions y=3x+2 and y=2x+3, I will use the functions_intersect API.functions_intersect\n{\"function1\": \"3x+2\", \"function2\": \"2x+3\"}"}
+{"id": "multiple_function_30", "result": "rectangle_area\n{\"length\": 12, \"width\": 5}"}
+{"id": "multiple_function_31", "result": "geometry_rectangle_calculate\n{\"width\": 7, \"length\": 10}"}
+{"id": "multiple_function_32", "result": "geometry_calculate_cone_volume\n{\"radius\": 4, \"height\": 7}"}
+{"id": "multiple_function_33", "result": "calculate_integral\n{\"func\": \"3*x**2\", \"a\": 1, \"b\": 2}"}
+{"id": "multiple_function_34", "result": "math_lcm\n{\"num1\": 18, \"num2\": 12}"}
+{"id": "multiple_function_35", "result": "calculate_gcd\n{\"num1\": 128, \"num2\": 256}"}
+{"id": "multiple_function_36", "result": "kinematics_calculate_speed_from_rest\n{\"distance\": 20, \"time\": 4}"}
+{"id": "multiple_function_37", "result": "\nTo find the final velocity of an object thrown up at 40 m/s after 6 seconds, I will use the kinematics_final_velocity function from the physics toolkit. I will set the initial velocity to 40 m/s and the time to 6 seconds. The acceleration will be set to the default value of -9.81 m/s^2 (Earth's gravity).kinematics_final_velocity\n{\"initial_velocity\": 40, \"time\": 6}"}
+{"id": "multiple_function_38", "result": "library_search_book\n{\"book_name\": \"The Alchemist\", \"city\": \"New York\"}"}
+{"id": "multiple_function_39", "result": "ride_hailing_get_rides\n{\"source\": \"New York\", \"destination\": \"Philadelphia\", \"max_cost\": 50}"}
+{"id": "multiple_function_40", "result": "electromagnetism_biot_savart_law\n{\"current\": 12, \"distance\": 8}"}
+{"id": "multiple_function_41", "result": "magnetic_field_calculate\n{\"I\": 10, \"r\": 0.01}"}
+{"id": "multiple_function_42", "result": "calculate_final_temperature\n{\"quantity1\": 2, \"quantity2\": 3, \"temperature1\": 300, \"temperature2\": 400}"}
+{"id": "multiple_function_43", "result": "biological_calc_energy\n{\"mols\": 5, \"substance\": \"C6H12O6\"}"}
+{"id": "multiple_function_44", "result": "calculate_weight_in_space\n{\"weight_earth_kg\": 70, \"planet\": \"Mars\"}"}
+{"id": "multiple_function_45", "result": "geology_get_era\n{\"era_name\": \"Ice age\", \"calculate_years_ago\": true}"}
+{"id": "multiple_function_46", "result": "sort_list\n{\"elements\": [\"Sam\", \"Alice\", \"Jack\"], \"order\": \"asc\"}"}
+{"id": "multiple_function_47", "result": "cosine_similarity_calculate\n{\"vector1\": [3, 2, 1], \"vector2\": [1, 2, 3]}"}
+{"id": "multiple_function_48", "result": "library_find_nearby\n{\"location\": \"New York City, NY\", \"preferences\": [\"Pet-friendly\", \"Disabled Access\"]}"}
+{"id": "multiple_function_49", "result": "calc_Compound_Interest\n{\"annual_rate\": 2.5, \"compound_freq\": 1, \"duration\": 2, \"principle_amount\": 1500}"}
+{"id": "multiple_function_50", "result": "house_price_forecast\n{\"location\": \"New York\", \"months\": 1}"}
+{"id": "multiple_function_51", "result": "dice_roll_probability\n{\"desired_sum\": 7, \"sides_per_die\": 6}"}
+{"id": "multiple_function_52", "result": "currency_conversion\n{\"amount\": 100, \"from_currency\": \"EUR\", \"to_currency\": \"USD\"}"}
+{"id": "multiple_function_53", "result": "\nTo predict the house prices for the next 5 years based on interest rates and unemployment rates, we can use the random forest regression model. Let's define the independent variables as 'interest_rate' and 'unemployment_rate', and the dependent variable as 'house_price'. We'll forecast the prices for 5 years.random_forest_regression\n{\"dependent_var\": \"house_price\", \"forecast_period\": 5, \"independent_var\": [\"interest_rate\", \"unemployment_rate\"]}"}
+{"id": "multiple_function_54", "result": "corporate_finance_dividend_data\n{\"company\": \"Apple Inc\", \"frequency\": \"annually\", \"years\": 5}"}
+{"id": "multiple_function_55", "result": "stock_forecast\n{\"company\": \"Google\", \"days\": 3}"}
+{"id": "multiple_function_56", "result": "avg_closing_price\n{\"company\": \"Apple\", \"days\": 60}"}
+{"id": "multiple_function_57", "result": "financial_compound_interest\n{\"n\": 4, \"principle\": 1000, \"rate\": 0.05, \"time\": 10}"}
+{"id": "multiple_function_58", "result": "lawyer_search\n{\"expertise\": \"Divorce\", \"location\": \"Los Angeles, CA\"}"}
+{"id": "multiple_function_59", "result": "lawyer_finder\n{\"location\": \"New York\", \"specialization\": [\"criminal law\"]}"}
+{"id": "multiple_function_60", "result": "humidity_temperature_forecast\n{\"location\": \"New York City\", \"days\": 7}"}
+{"id": "multiple_function_61", "result": "landscape_architect_find_specialty\n{\"location\": \"Portland, OR\", \"specialization\": \"small space garden design\", \"years_experience\": 5}"}
+{"id": "multiple_function_62", "result": "nature_park_find_nearby\n{\"features\": [\"Camping\", \"Scenic View\"], \"location\": \"Boston, MA\"}"}
+{"id": "multiple_function_63", "result": "air_quality_forecast\n{\"days\": 7, \"location\": \"New York\"}"}
+{"id": "multiple_function_64", "result": "\nSure, I can help you with that. I will use the uv_index_get_future function to retrieve the UV index data for Tokyo for tomorrow. Let me make the API call.uv_index_get_future\n{\"location\": \"Tokyo\"}"}
+{"id": "multiple_function_65", "result": "geodistance_find\n{\"origin\": \"New York City\", \"destination\": \"Los Angeles\", \"unit\": \"miles\"}"}
+{"id": "multiple_function_66", "result": "traffic_estimate\n{\"start_location\": \"Las Vegas\", \"end_location\": \"Los Angeles\", \"time_period\": \"weekend\"}"}
+{"id": "multiple_function_67", "result": "translate\n{\"source_language\": \"en\", \"target_language\": \"fr\", \"text\": \"Hello, how are you?\"}"}
+{"id": "multiple_function_68", "result": "library_search_books\n{\"genre\": \"Historical Fiction\", \"location\": \"New York\"}"}
+{"id": "multiple_function_69", "result": "five_factor_model_analyse\n{\"talkative\": true, \"nervous\": true, \"artistic_interests\": false, \"lazy\": true, \"forgiving\": true}"}
+{"id": "multiple_function_70", "result": "european_history_get_monarchs\n{\"country\": \"France\", \"century\": 18}"}
+{"id": "multiple_function_71", "result": "get_population\n{\"category\": \"veterans\", \"year\": 1954}"}
+{"id": "multiple_function_72", "result": "us_history_population_by_state_year\n{\"state\": \"California\", \"year\": 1970}"}
+{"id": "multiple_function_73", "result": "religion_get_origin\n{\"religion\": \"Buddhism\"}"}
+{"id": "multiple_function_74", "result": "art_auction_fetch_artwork_price\n{\"artist\": \"Vincent Van Gogh\", \"artwork_name\": \"Starry Night\", \"platform\": \"all\"}"}
+{"id": "multiple_function_75", "result": "paint_color_trends\n{\"room\": \"Living room\"}"}
+{"id": "multiple_function_76", "result": "sculpture_create_custom\n{\"item\": \"horse\", \"material\": \"Bronze\"}"}
+{"id": "multiple_function_77", "result": "artwork_search_find\n{\"type\": \"sculpture\", \"location\": \"New York\", \"era\": \"contemporary\"}"}
+{"id": "multiple_function_78", "result": "museum_info\n{\"city\": \"London\", \"features\": [\"timings\", \"exhibitions\", \"accessibility\"], \"museum\": \"Natural History Museum\"}"}
+{"id": "multiple_function_79", "result": "exhibition_info\n{\"museum_name\": \"Museum of Modern Art, New York\", \"month\": 1}"}
+{"id": "multiple_function_80", "result": "music_shop_find_nearby\n{\"location\": \"Nashville, TN\", \"instruments\": [\"Guitars\", \"Violins\"], \"services\": [\"Violin Lessons\"]}"}
+{"id": "multiple_function_81", "result": "concert_book_ticket\n{\"artist\": \"Eminem\", \"location\": \"New York City\", \"add_ons\": [\"Backstage Pass\"]}"}
+{"id": "multiple_function_82", "result": "music_generate\n{\"key\": \"C Major\", \"tempo\": 120}"}
+{"id": "multiple_function_83", "result": "player_stats_get_all_time_goals\n{\"player_name\": \"Lionel Messi\", \"team_name\": \"Barcelona\"}"}
+{"id": "multiple_function_84", "result": "getTopGoalScorers\n{\"competition\": \"UEFA Champions League\", \"team\": \"Barcelona\", \"number\": 10}"}
+{"id": "multiple_function_85", "result": "soccer_scores_get_scores\n{\"team\": \"Real Madrid\", \"league\": \"La Liga\", \"rounds\": 5}"}
+{"id": "multiple_function_86", "result": "BoardGameGeek_recommend\n{\"category\": \"strategy\", \"numPlayers\": 2}"}
+{"id": "multiple_function_87", "result": "games_update_find\n{\"game\": \"Cyberpunk 2077\", \"platform\": \"Xbox\"}"}
+{"id": "multiple_function_88", "result": "video_games_get_player_count\n{\"game_title\": \"World of Warcraft\", \"year\": 2020}"}
+{"id": "multiple_function_89", "result": "recipe_search\n{\"calories\": 500, \"ingredients\": [\"chicken\", \"mushrooms\"], \"meal\": \"lunch\"}"}
+{"id": "multiple_function_90", "result": "restaurant_find_group\n{\"cuisine\": [\"Seafood\"], \"group_size\": 5, \"location\": \"Seattle\"}"}
+{"id": "multiple_function_91", "result": "recipe_find\n{\"mainIngredient\": \"apple\", \"ingredientLimit\": 5}"}
+{"id": "multiple_function_92", "result": "walmart_vegan_products\n{\"categories\": [\"vegan\", \"gluten-free\"], \"location\": \"Denver, CO\"}"}
+{"id": "multiple_function_93", "result": "hotel_book\n{\"location\": \"New York\", \"nights\": 2, \"roomType\": \"deluxe\", \"additional_services\": [\"breakfast\"]}"}
+{"id": "multiple_function_94", "result": "\nI'm sorry, but I am unable to use the provided function in Python 3 syntax to find the pricing for a suite with queen size bed for 3 nights in Hilton New York. The function requires the 'hotel_room_pricing_get_for_python3' function. Could you provide the correct function to use?"}
+{"id": "multiple_function_95", "result": "\nI'm sorry, but I don't have access to the internet and cannot directly access external APIs or databases. However, I can help you with the conversion using a hypothetical exchange rate. Please provide me with the current exchange rate from euros to US dollars and I will perform the conversion for you."}
+{"id": "multiple_function_96", "result": "solve_quadratic_equation\n{\"a\": 2, \"b\": 6, \"c\": 5}"}
+{"id": "multiple_function_97", "result": "geometry_area_circle\n{\"radius\": 10}"}
+{"id": "multiple_function_98", "result": "geometry_circumference\n{\"radius\": 3}"}
+{"id": "multiple_function_99", "result": "\nTo calculate the derivative of the function \\(2x^2\\) at \\(x = 1\\), you can use the `calculus_derivative` function. Here are the parameters:\n\n- `function`: \\(2x^2\\)\n- `function_variable`: \\(x\\)\n- `value`: 1\n\nI will now make the API request to calculate the derivative.calculus_derivative\n{\"function\": \"2*x**2\", \"function_variable\": \"x\", \"value\": 1}"}
+{"id": "multiple_function_100", "result": "math_hcf\n{\"number1\": 36, \"number2\": 24}"}
+{"id": "multiple_function_101", "result": "math_gcd\n{\"num1\": 12, \"num2\": 18}"}
+{"id": "multiple_function_102", "result": "calculate_displacement\n{\"initial_velocity\": 10, \"acceleration\": 9.8, \"time\": 5}"}
+{"id": "multiple_function_103", "result": "calculate_final_speed\n{\"height\": 100}"}
+{"id": "multiple_function_104", "result": "get_shortest_driving_distance\n{\"origin\": \"New York City\", \"destination\": \"Washington D.C.\", \"unit\": \"kilometers\"}"}
+{"id": "multiple_function_105", "result": "calculate_magnetic_field\n{\"current\": 5, \"radius\": 4}"}
+{"id": "multiple_function_106", "result": "calculate_electric_field_strength\n{\"charge\": 0.01, \"distance\": 4}"}
+{"id": "multiple_function_107", "result": "calculate_density\n{\"mass\": 45, \"volume\": 15}"}
+{"id": "multiple_function_108", "result": "calc_heat_capacity\n{\"gas\": \"air\", \"temp\": 298, \"volume\": 10}"}
+{"id": "multiple_function_109", "result": "cellbio_get_proteins\n{\"cell_compartment\": \"plasma membrane\"}"}
+{"id": "multiple_function_110", "result": "mutation_type_find\n{\"snp_id\": \"rs6034464\"}"}
+{"id": "multiple_function_111", "result": "calculate_genotype_frequency\n{\"allele_frequency\": 0.3, \"genotype\": \"AA\"}"}
+{"id": "multiple_function_112", "result": "forest_growth_forecast\n{\"location\": \"Yellowstone National Park\", \"years\": 5, \"include_human_impact\": true}"}
+{"id": "multiple_function_113", "result": "calculate_fitness\n{\"trait_contributions\": [0.4, 0.6], \"trait_values\": [0.8, 0.7]}"}
+{"id": "multiple_function_114", "result": "prediction_evolution\n{\"model\": \"Darwin\", \"species\": \"Homo Sapiens\", \"years\": 50}"}
+{"id": "multiple_function_115", "result": "find_restaurants\n{\"location\": \"Manhattan\", \"food_type\": \"Thai\", \"dietary_requirements\": [\"vegan\"], \"number\": 5}"}
+{"id": "multiple_function_116", "result": "calculate_bmi\n{\"weight\": 85, \"height\": 180}"}
+{"id": "multiple_function_117", "result": "calculate_BMI\n{\"weight_kg\": 70, \"height_m\": 1.75}"}
+{"id": "multiple_function_118", "result": "imdb_find_movies_by_actor\n{\"actor_name\": \"Leonardo DiCaprio\", \"year\": 2010}"}
+{"id": "multiple_function_119", "result": "database_query\n{\"table\": \"user\", \"conditions\": [{\"field\": \"age\", \"operation\": \">\", \"value\": \"25\"}, {\"field\": \"job\", \"operation\": \"==\", \"value\": \"'engineer'\"}]}"}
+{"id": "multiple_function_120", "result": "light_travel_time\n{\"distance_in_light_years\": 4}"}
+{"id": "multiple_function_121", "result": "geometry_area_triangle\n{\"base\": 6, \"height\": 10}"}
+{"id": "multiple_function_122", "result": "run_linear_regression\n{\"predictors\": [\"Age\", \"Income\", \"Education\"], \"standardize\": true, \"target\": \"Purchase_Amount\"}"}
+{"id": "multiple_function_123", "result": "calculate_probability\n{\"favorable_outcomes\": 4, \"total_outcomes\": 52}"}
+{"id": "multiple_function_124", "result": "\nTo calculate the probability of drawing a king from a well shuffled standard deck of 52 cards, we need to find the number of favorable outcomes (drawing a king) and divide it by the total number of possible outcomes (total number of cards). There are 4 kings in a standard deck of 52 cards. So, the number of favorable outcomes is 4. The total number of possible outcomes is 52. The probability can be calculated using the probabilities_calculate_single API.probabilities_calculate_single\n{\"event_outcomes\": 4, \"total_outcomes\": 52}"}
+{"id": "multiple_function_125", "result": "\nTo run a two sample t-test comparing the average of Group A [3, 4, 5, 6, 4] and Group B [7, 8, 9, 8, 7] assuming equal variance, we will use the `run_two_sample_ttest` function with the parameters:\n\n```json\n{\n  \"equal_variance\": true,\n  \"group1\": [3, 4, 5, 6, 4],\n  \"group2\": [7, 8, 9, 8, 7]\n}\n```run_two_sample_ttest\n{\"equal_variance\": true, \"group1\": [3, 4, 5, 6, 4], \"group2\": [7, 8, 9, 8, 7]}"}
+{"id": "multiple_function_126", "result": "t_test\n{\"alpha\": 0.05, \"dataset_A\": [12, 24, 36], \"dataset_B\": [15, 30, 45]}"}
+{"id": "multiple_function_127", "result": "finance_calculate_quarterly_dividend_per_share\n{\"outstanding_shares\": 100000000, \"total_payout\": 50000000}"}
+{"id": "multiple_function_128", "result": "calculate_return_on_equity\n{\"net_income\": 2000000, \"shareholder_equity\": 10000000, \"dividends_paid\": 200000}"}
+{"id": "multiple_function_129", "result": "compound_interest\n{\"annual_rate\": 0.05, \"compounding_freq\": \"monthly\", \"principal\": 10000, \"time_in_years\": 5}"}
+{"id": "multiple_function_130", "result": "calculate_cagr\n{\"initial_value\": 2000, \"final_value\": 3000, \"period_in_years\": 4}"}
+{"id": "multiple_function_131", "result": "market_performance_get_data\n{\"indexes\": [\"S&P 500\", \"Dow Jones\"], \"days\": 5}"}
+{"id": "multiple_function_132", "result": "finance_calculate_future_value\n{\"initial_investment\": 20000, \"rate_of_return\": 0.08, \"years\": 5}"}
+{"id": "multiple_function_133", "result": "calculate_mutual_fund_balance\n{\"investment_amount\": 50000, \"annual_yield\": 0.05, \"years\": 3}"}
+{"id": "multiple_function_134", "result": "crime_record_get_record\n{\"case_number\": \"CA123456\", \"county\": \"San Diego County\"}"}
+{"id": "multiple_function_135", "result": "get_case_info\n{\"court\": \"California\", \"docket\": \"2022/AL2562\", \"info_type\": \"victim\"}"}
+{"id": "multiple_function_136", "result": "get_crime_rate\n{\"city\": \"San Francisco\", \"state\": \"California\", \"type\": \"violent\", \"year\": 2020}"}
+{"id": "multiple_function_137", "result": "lawsuit_search\n{\"company\": \"Google\", \"location\": \"California\", \"start_date\": \"2021-01-01\", \"status\": \"ongoing\"}"}
+{"id": "multiple_function_138", "result": "\nI'm sorry, but I cannot provide that information directly. However, you can use the function `legal_case_fetch` to fetch detailed legal case information. To get the detailed case information of the R vs Adams legal case, you can make a request to the function with the case ID and set `details` to True. Here is an example of how to make the request in Python 3 syntax:\n\n```python\nimport requests\n\ndef get_case_info(case_id):\n    url = 'https://api.example.com/legal_case_fetch'\n    payload = {\n        'case_id': case_id,\n        'details': True\n    }\n    response = requests.get(url, params=payload)\n    return response.json()\n\ncase_id = 'R vs Adams'\ncase_info = get_case_info(case_id)\nprint(case_info)\n```\n\nThis code sends a GET request to the API with the case ID and the `details` parameter set to True. The response will contain the detailed case information of the R vs Adams legal case."}
+{"id": "multiple_function_139", "result": "lawsuit_details_find\n{\"case_type\": \"Patent\", \"company_name\": \"Apple Inc.\", \"year\": 2010}"}
+{"id": "multiple_function_140", "result": "lawsuits_search\n{\"case_type\": \"all\", \"company_name\": \"Google\", \"location\": \"California\", \"year\": 2020}"}
+{"id": "multiple_function_141", "result": "lawsuit_check_case\n{\"case_id\": 1234, \"closed_status\": true}"}
+{"id": "multiple_function_142", "result": "weather_humidity_forecast\n{\"location\": \"Miami, Florida\", \"days\": 7}"}
+{"id": "multiple_function_143", "result": "calculate_slope_gradient\n{\"point1\": [40.7128, -74.006], \"point2\": [34.0522, -118.2437], \"unit\": \"degree\"}"}
+{"id": "multiple_function_144", "result": "\nThe air quality index for London on 2022/08/16 is %s1. The air quality index is calculated based on various pollutants such as PM2.5, PM10, nitrogen dioxide (NO2), sulfur dioxide (SO2), carbon monoxide (CO), ozone (O3), and others. The index ranges from 0 to 500, with higher values indicating worse air quality. The air quality index in London on 2022/08/16 is %s1.air_quality\n{\"date\": \"2022/08/16\", \"location\": \"London\"}"}
+{"id": "multiple_function_145", "result": "calculate_emissions\n{\"distance\": 12000, \"fuel_type\": \"gasoline\", \"fuel_efficiency\": 20}"}
+{"id": "multiple_function_146", "result": "restaurant_find_nearby\n{\"cuisine\": \"Chinese\", \"location\": \"Seattle, WA\", \"max_distance\": 10}"}
+{"id": "multiple_function_147", "result": "map_service_get_directions\n{\"start\": \"New York\", \"end\": \"Los Angeles\", \"avoid\": [\"highways\", \"tolls\"]}"}
+{"id": "multiple_function_148", "result": "get_stock_info\n{\"company_name\": \"Apple Inc.\", \"detail_level\": \"detailed\", \"market\": \"NASDAQ\"}"}
+{"id": "multiple_function_149", "result": "sentiment_analysis\n{\"text\": \"I love the food here! It's always fresh and delicious.\", \"language\": \"en\"}"}
+{"id": "multiple_function_150", "result": "calculate_neuronal_activity\n{\"input_synaptic_rate\": 200, \"weight\": 0.5, \"decay_rate\": 0.1}"}
+{"id": "multiple_function_151", "result": "social_media_analytics_most_followed\n{\"topic\": \"psychology\", \"sub_topics\": [\"behaviour\", \"group dynamics\"]}"}
+{"id": "multiple_function_152", "result": "history_get_key_events\n{\"country\": \"Germany\", \"start_year\": 1871, \"end_year\": 1945, \"event_type\": [\"War\"]}"}
+{"id": "multiple_function_153", "result": "get_event_date\n{\"event\": \"Treaty of Lisbon\"}"}
+{"id": "multiple_function_154", "result": "US_president_in_year\n{\"year\": 1861, \"full_name\": true}"}
+{"id": "multiple_function_155", "result": "get_discoverer\n{\"discovery\": \"neutron\", \"detail\": true}"}
+{"id": "multiple_function_156", "result": "historical_contrib_get_contrib\n{\"category\": \"Science\", \"date\": \"1915-03-17\", \"scientist\": \"Albert Einstein\"}"}
+{"id": "multiple_function_157", "result": "get_earliest_reference\n{\"name\": \"Jesus Christ\", \"source\": \"historical records\"}"}
+{"id": "multiple_function_158", "result": "religious_history_get_papal_biography\n{\"papal_name\": \"Innocent III\", \"include_contributions\": true}"}
+{"id": "multiple_function_159", "result": "calculate_paint_needed\n{\"coverage_rate\": 400, \"height\": 30, \"length\": 12}"}
+{"id": "multiple_function_160", "result": "get_sculpture_info\n{\"artist_name\": \"James Plensa\", \"detail\": true}"}
+{"id": "multiple_function_161", "result": "find_exhibition\n{\"art_form\": \"s sculpture\", \"location\": \"New York\", \"user_ratings\": \"high\"}"}
+{"id": "multiple_function_162", "result": "analyze_structure\n{\"building_id\": \"B1004\", \"floors\": [2, 3, 4], \"mode\": \"dynamic\"}"}
+{"id": "multiple_function_163", "result": "metropolitan_museum_get_top_artworks\n{\"number\": 5, \"sort_by\": \"popularity\"}"}
+{"id": "multiple_function_164", "result": "instrument_price_get\n{\"brand\": \"Fender\", \"model\": \"American Professional II Stratocaster\", \"finish\": \"Rosewood\"}"}
+{"id": "multiple_function_165", "result": "guitar_price_find\n{\"condition\": \"Excellent\", \"location\": \"Chicago\", \"model\": \"Gibson Les Paul\"}"}
+{"id": "multiple_function_166", "result": "concert_search\n{\"date\": \"this weekend\", \"genre\": \"classical\", \"location\": \"Los Angeles\", \"price_range\": \"cheap\"}"}
+{"id": "multiple_function_167", "result": "music_generator_generate_melody\n{\"key\": \"C\", \"length\": 16, \"start_note\": \"C4\", \"tempo\": 120}"}
+{"id": "multiple_function_168", "result": "get_song_lyrics\n{\"artist_name\": \"Queen\", \"song_title\": \"Bohemian Rhapsody\"}"}
+{"id": "multiple_function_169", "result": "musical_scale\n{\"key\": \"C sharp\", \"scale_type\": \"major\"}"}
+{"id": "multiple_function_170", "result": "soccer_stat_get_player_stats\n{\"player_name\": \"Cristiano Ronaldo\", \"season\": \"2019-2020\"}"}
+{"id": "multiple_function_171", "result": "game_result_get_winner\n{\"date\": \"2021-01-28\", \"teams\": [\"Lakers\", \"Clippers\"]}"}
+{"id": "multiple_function_172", "result": "sports_db_find_athlete\n{\"name\": \"LeBron James\", \"sport\": \"Basketball\"}"}
+{"id": "multiple_function_173", "result": "get_defense_ranking\n{\"season\": 2021}"}
+{"id": "multiple_function_174", "result": "sports_ranking\n{\"league\": \"Premier League\", \"team\": \"Manchester United\"}"}
+{"id": "multiple_function_175", "result": "sports_ranking_get_top_player\n{\"sport\": \"tennis\", \"gender\": \"women\"}"}
+{"id": "multiple_function_176", "result": "sports_team_get_schedule\n{\"league\": \"Premier League\", \"team_name\": \"Manchester United\", \"num_of_games\": 6}"}
+{"id": "multiple_function_177", "result": "board_game_chess_get_top_players\n{\"location\": \"New York\", \"minimum_rating\": 2300}"}
+{"id": "multiple_function_178", "result": "find_card_in_deck\n{\"deck\": [{\"suit\": \"Hearts\", \"rank\": \"Queen\"}, {\"suit\": \"Clubs\", \"rank\": \"Ace\"}, {\"suit\": \"Spades\", \"rank\": \"Seven\"}], \"rank\": \"Queen\", \"suit\": \"Hearts\"}"}
+{"id": "multiple_function_179", "result": "\nThe probability of getting a full house in poker can be calculated using the poker_probability_full_house function. It requires two parameters: deck_size and hand_size. The deck_size parameter represents the size of the deck, and the hand_size parameter represents the size of the hand. The default values for these parameters are 52 and 5, respectively. If you want to calculate the probability for a different size of the deck or hand, you can provide the respective values. Please provide the deck_size and hand_size parameters, and I will calculate the probability for you."}
+{"id": "multiple_function_180", "result": "game_stats_fetch_player_statistics\n{\"game\": \"Zelda\", \"platform\": \"Switch\", \"username\": \"Sam\"}"}
+{"id": "multiple_function_181", "result": "soccer_get_last_match\n{\"include_stats\": true, \"team_name\": \"Liverpool F.C.\"}"}
+{"id": "multiple_function_182", "result": "multiplayer_game_finder\n{\"platform\": \"Windows 10\", \"rating\": 4.5}"}
+{"id": "multiple_function_183", "result": "recipe_info_get_calories\n{\"recipe\": \"Beef Lasagna\", \"website\": \"Foodnetwork.com\"}"}
+{"id": "multiple_function_184", "result": "recipe_search\n{\"dietary_restriction\": \"Vegetarian\", \"ingredients\": [\"pasta\", \"cheese\"], \"servings\": 2}"}
+{"id": "multiple_function_185", "result": "restaurant_search_find_closest\n{\"amenities\": [\"Patio\"], \"cuisine\": \"Sushi\", \"location\": \"Boston, MA\"}"}
+{"id": "multiple_function_186", "result": "find_recipe\n{\"dietary_restrictions\": \"vegan\", \"recipe_type\": \"dessert\", \"time\": 30}"}
+{"id": "multiple_function_187", "result": "whole_foods_check_price\n{\"items\": [\"tomatoes\", \"lettuce\"], \"location\": \"Los Angeles\"}"}
+{"id": "multiple_function_188", "result": "grocery_store_find_best\n{\"my_location\": \"Berkeley\", \"products\": [\"tomatoes\", \"pet food\"], \"rating\": 4.5}"}
+{"id": "multiple_function_189", "result": "timezone_convert\n{\"time\": \"3pm\", \"from_timezone\": \"America/New_York\", \"to_timezone\": \"Europe/London\"}"}
+{"id": "multiple_function_190", "result": "book_hotel\n{\"hotel_name\": \"Hilton Hotel\", \"location\": \"Chicago\", \"room_type\": \"single\", \"nights\": 2, \"start_date\": \"2022-12-10\"}"}
+{"id": "multiple_function_191", "result": "book_hotel\n{\"hotel_name\": \"Hotel Paradise\", \"location\": \"Las Vegas\", \"room_type\": \"luxury\", \"start_date\": \"05-12-2022\", \"stay_duration\": 3, \"view\": \"city\"}"}
+{"id": "multiple_function_192", "result": "currency_conversion_convert\n{\"amount\": 150, \"from_currency\": \"EUR\", \"to_currency\": \"CAD\"}"}
+{"id": "multiple_function_193", "result": "maps_get_distance_duration\n{\"start_location\": \"Eiffel Tower, Paris\", \"end_location\": \"Louvre Museum, Paris\"}"}
+{"id": "multiple_function_194", "result": "get_museum_hours\n{\"day\": \"Saturday\", \"museum_name\": \"The Metropolitan Museum of Art\"}"}
+{"id": "multiple_function_195", "result": "calc_heat_capacity\n{\"temp\": 298, \"volume\": 10}"}
+{"id": "multiple_function_196", "result": "cellbio_get_proteins\n{\"cell_compartment\": \"plasma membrane\"}"}
+{"id": "multiple_function_197", "result": "mutation_type_find\n{\"snp_id\": \"rs6034464\"}"}
+{"id": "multiple_function_198", "result": "calculate_genotype_frequency\n{\"allele_frequency\": 0.3, \"genotype\": \"AA\"}"}
+{"id": "multiple_function_199", "result": "forest_growth_forecast\n{\"location\": \"Yellowstone\", \"years\": 5, \"include_human_impact\": true}"}

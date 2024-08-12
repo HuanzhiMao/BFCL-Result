@@ -1,0 +1,240 @@
+{"id": "relevance_0", "result": "\n\n[lambda b, h: 0.5 * b * h, base=10, height=5]"}
+{"id": "relevance_1", "result": "\n\n[math.sqrt((2**2 - 4*1*3)),]"}
+{"id": "relevance_2", "result": "\n\n[math.sqrt((-b + math.sqrt(b**2 - 4*a*c))/(2*a), math.sqrt((-b - math.sqrt(b**2 - 4*a*c))/(2*a))]"}
+{"id": "relevance_3", "result": "\n\n[find_critical_points(function='y=3x+2', variable='x')]"}
+{"id": "relevance_4", "result": "\n\n[find_roots(a=0, b=b, c=-c)]"}
+{"id": "relevance_5", "result": "\n\n[calculate_rectangle_perimeter(length=5, width=4)]"}
+{"id": "relevance_6", "result": "\n\n[calculate_area(length=7, width=5)]"}
+{"id": "relevance_7", "result": "\n\n[math.integral_calculator(function='3*x**2', lower_bound=1, upper_bound=5)]"}
+{"id": "relevance_8", "result": "\n\n[integrate(lambda x: x**3, 1, 5)]"}
+{"id": "relevance_9", "result": "\n\n[integrate.quad(lambda x: x**2, 1, 3)]"}
+{"id": "relevance_10", "result": "\n\n[calculus.compute_definite_integral(function='1*x', interval=[0, 1], num_of_partitions=1000)]"}
+{"id": "relevance_11", "result": "\n\n[get_closest_prime(number=30, skip=0)]"}
+{"id": "relevance_12", "result": "\n\n[None]"}
+{"id": "relevance_13", "result": "\n\n[is_prime_factors(100)]"}
+{"id": "relevance_14", "result": "\n\ncalculate_maximum_height({'initial_velocity': 5, 'gravity': 9.8})"}
+{"id": "relevance_15", "result": "\n\n[None]"}
+{"id": "relevance_16", "result": "\n\n[calculate_projectile_range({'initial_velocity': v, 'angle': theta, 'time': t})]"}
+{"id": "relevance_17", "result": "\n\n[calculate_time({'distance': 0, 'speed': 0})]"}
+{"id": "relevance_18", "result": "\n\n[calculate_vector_angle({'X_component': momentum[0], 'Y_component': momentum[1], 'use_degrees': True})]"}
+{"id": "relevance_19", "result": "\n\n[math.volume_of_cone(base_radius=3, height=5)]"}
+{"id": "relevance_20", "result": "\n\n[None]"}
+{"id": "relevance_21", "result": "\n\n[calculate_wave_amplitude(max_electric_field_strength=0, c=3*10**8, wave_frequency=0)]"}
+{"id": "relevance_22", "result": "\n\n[magnetic_field_intensity({'current': I, 'distance': r})]"}
+{"id": "relevance_23", "result": "\n\n[calculate_magnetic_field(params)]"}
+{"id": "relevance_24", "result": "\n\n[None]"}
+{"id": "relevance_25", "result": "\n\n[thermodynamics.calculate_boiling_point(substance='water', pressure=10, unit='kPa')]"}
+{"id": "relevance_26", "result": "\n\n[thermodynamics.calc_gas_pressure(volume=2, initial_temperature=25, final_temperature=100)]"}
+{"id": "relevance_27", "result": "\n\n[calculate_heat(mass=3, specific_heat=4184, change_in_temp=4)]"}
+{"id": "relevance_28", "result": "\n\ncalculate_boiling_point({'substance': 'hexagon', 'pressure': 1})"}
+{"id": "relevance_29", "result": "\n\n[get_cell_function(cell_part='mitochondria', detail_level='detailed')]"}
+{"id": "relevance_30", "result": "\n\nbloodcell_classification({'cell_shape': 'poly', 'cell_size': 'large', 'cell_function': 'carrying multiple nuclei'})"}
+{"id": "relevance_31", "result": "\n\n[None]"}
+{"id": "relevance_32", "result": "\n\n[cellBiology.getCellType(type={'nucleus_count': 1, 'organism_type': 'mammal'})]"}
+{"id": "relevance_33", "result": "\n\nidentify_species({'sequence': 'ATCG'})"}
+{"id": "relevance_34", "result": "\n\ngenetics.get_variant_frequency(variant_id='LionGeneticTrait', population='KingOfJungle')"}
+{"id": "relevance_35", "result": "\n\nget_genetic_traits({'species': 'Lions', 'dominant_trait': 'F', 'recessive_trait': 'm'})"}
+{"id": "relevance_36", "result": "\n\nget_dominant_trait()"}
+{"id": "relevance_37", "result": "\n\nlocal_fauna({'location': 'Miami', 'species_type': 'birds'})"}
+{"id": "relevance_38", "result": "<|start_header_id|>retrieve_scientific_paper(topic='global warming', year='recent')"}
+{"id": "relevance_39", "result": "\n\n[calculate_population_growth(current_population=0, birth_rate=0.1, death_rate=0.05)]"}
+{"id": "relevance_40", "result": "\n\n[None]"}
+{"id": "relevance_41", "result": "\n\nNone"}
+{"id": "relevance_42", "result": "\n\n[calculate_biodiversity_index({'species_richness': None, 'species_evenness': None, 'region': None})]"}
+{"id": "relevance_43", "result": "\n\nevolve_creatures(population_size=100, mutation_rate=0.01, generations=100)"}
+{"id": "relevance_44", "result": "\n\n[gene_sequencer(species='whale', mutation_rate=0.1, evolution_duration=1000000)]"}
+{"id": "relevance_45", "result": "<|start_header_id|><|start_header_id|>assistant<|end_header_id|>\n\nmath.sin(45)"}
+{"id": "relevance_46", "result": "\n\n[None]"}
+{"id": "relevance_47", "result": "\n\n[None]"}
+{"id": "relevance_48", "result": "<|start_header_id|>finance.fetchGDP(country='United States', year=None, format='USD')"}
+{"id": "relevance_49", "result": "\n\nget_coordinate({\"location\": \"Los Angeles\"}), get_coordinate({\"location\": \"Berlin\"})"}
+{"id": "relevance_50", "result": "\n\n[get_random_movies()]"}
+{"id": "relevance_51", "result": "\n\n[fibonacci(20)]"}
+{"id": "relevance_52", "result": "\n\ntranslate([\"Hello, how are you?\"], \"fr\")"}
+{"id": "relevance_53", "result": "\n\n[database_query.run(database='sports', query='SELECT * FROM WorldSeriesChampions WHERE Year = 2018')]"}
+{"id": "relevance_54", "result": "\n\n[movies.search(title='The highest grossing movie', year=None)]"}
+{"id": "relevance_55", "result": "\n\n[add_product_to_cart({'product_id': 1234, 'quantity': 1, 'cart_id': 0}),]"}
+{"id": "relevance_56", "result": "\n\n[database_connect.select(database_name='bitcoin_price', table_name='current_price')]"}
+{"id": "relevance_57", "result": "\n\n[None]"}
+{"id": "relevance_58", "result": "\n\n[solar_panel.calculate_need(square_footage=2000, average_sunlight_hours=None, usage_efficiency=0.8)]"}
+{"id": "relevance_59", "result": "\n\nmath.pow(2, 5)"}
+{"id": "relevance_60", "result": "\n\ncalculateFinalPrice({'price': 100, 'discount_rate': 0.25, 'sales_tax': 0.1})"}
+{"id": "relevance_61", "result": "\n\nNone"}
+{"id": "relevance_62", "result": "\n\n[create_Recommender_Model(user_data='your_user_data', algorithm='Collaborative')]"}
+{"id": "relevance_63", "result": "\n\n[probability_calculator({'total_outcomes': 2**3, 'event_outcomes': 1, 'return_decimal': False})]"}
+{"id": "relevance_64", "result": "\n\nprobability.coin_toss_heads({'coin_tosses': 52, 'heads_needed': 13, 'coin_type': 'none'})"}
+{"id": "relevance_65", "result": "\n\n[probability.determine_population(probability=0.3, sample_size=20, round=True)]"}
+{"id": "relevance_66", "result": "\n\n[get_standard_deviation(data=[0.5], population=True)]"}
+{"id": "relevance_67", "result": "\n\n[hypothesis_testing.get_p_value(sucsess=50, n=500, prob_null=0.1)]"}
+{"id": "relevance_68", "result": "\n\n[statistics.calculate_p_value(sample_mean=98.2, population_mean=98.6, sample_std_dev=1.4, sample_size=40)]"}
+{"id": "relevance_69", "result": "\n\n[regression_model.predict(features=[house_price, longitude, latitude, ...], model=california_housing_model, scaler=1.2)]"}
+{"id": "relevance_70", "result": "\n\n[calculate_mortgage_payment({'loan_amount': 10000, 'loan_term': 3, 'annual_interest_rate': 5})]"}
+{"id": "relevance_71", "result": "\n\n[calculate_ROI(investment_amount=200000, net_profit=200000-150000)]"}
+{"id": "relevance_72", "result": "\n\n[calculate_internal_rate_of_return(cash_flows=[-100, 40, 60, 80, 120])]"}
+{"id": "relevance_73", "result": "\n\nfinance.predict_revenue(company_name='company XYZ', period='next year')"}
+{"id": "relevance_74", "result": "\n\n[investment_analysis.calculate_profit(total_revenue=15000, total_cost=22000)]"}
+{"id": "relevance_75", "result": "\n\nportfolio.returns(None, initial_investment=1, ending_value=0.45359237, period=None)"}
+{"id": "relevance_76", "result": "\n\n[news_getter()]"}
+{"id": "relevance_77", "result": "\n\nNone"}
+{"id": "relevance_78", "result": "\n\ncalculate_Bond_Price({'Face_Value': 0, 'Coupon_rate': 0, 'Required_return': 0, 'maturity_years': 0})"}
+{"id": "relevance_79", "result": "\n\nstock_market_prediction({\"stock_name\": \"\", \"days\": \"\", \"data_interval\": \"\"})"}
+{"id": "relevance_80", "result": "\n\nstock_ticker({'company_name': 'FIFA World Cup', 'ticker_symbol': '2010'})"}
+{"id": "relevance_81", "result": "\n\n[get_stock_prices]"}
+{"id": "relevance_82", "result": "\n\nNone"}
+{"id": "relevance_83", "result": "\n\ncalculate_mortgage_payment({'loan_amount': 100000, 'annual_rate': 4.5, 'years': 30})"}
+{"id": "relevance_84", "result": "\n\n[None]"}
+{"id": "relevance_85", "result": "\n\n['criminal_case_details.get(case_number=\"2020_presidential_election\", court_id=\"US_Supreme_Court\", include_hearing_details=False)']"}
+{"id": "relevance_86", "result": "\n\nlaw_info.get_penalty(crime='burglary', state='California')"}
+{"id": "relevance_87", "result": "\n\n[None]"}
+{"id": "relevance_88", "result": "\n\n[None]"}
+{"id": "relevance_89", "result": "\n\n[generate_contract(contract_type='rental_agreement', parties=['landlord', 'tenant'], additional_details={'security_deposit': '1000', 'lease_term': '12 months'})]"}
+{"id": "relevance_90", "result": "\n\n[file_complaint(complaint_type='Civil Law', location='local_court', details='Dispute between parties'),]"}
+{"id": "relevance_91", "result": "\n\n[get_law_categories(law_type='noise', country='USA')]"}
+{"id": "relevance_92", "result": "\n\nsearch_lawyer(area='New York', specialization='security guard')"}
+{"id": "relevance_93", "result": "\n\nlaw_firm.get_impactful_cases(firm_name='XYZ', year=2022)"}
+{"id": "relevance_94", "result": "\n\n[case_info.get(case_id='?', case_year='2020')]"}
+{"id": "relevance_95", "result": "\n\ncase_review.retrieve_case_outcome(case_name='Doe vs. Smith', case_year=None)"}
+{"id": "relevance_96", "result": "\n\nNone"}
+{"id": "relevance_97", "result": "\n\n[]"}
+{"id": "relevance_98", "result": "\n\nlawsuit.settlement_estimate({'damage_amount': 1000000, 'incident_type': 'Structural failure'},)"}
+{"id": "relevance_99", "result": "\n\nlawsuit_search({'location': 'Texas', 'subject': 'traffic laws'})"}
+{"id": "relevance_100", "result": "\n\ncalculate_litigation_cost(params_name=params_value, params_name2=params_value2...)"}
+{"id": "relevance_101", "result": "\n\nget_average_monthly_temperature({\"location\": \"Hawaii\", \"month\": \"July\"})"}
+{"id": "relevance_102", "result": "\n\ncalculate_sunrise_and_sunset({'location': 'New York City', 'date': '2021-07-25', 'output_format': '12-hour'})"}
+{"id": "relevance_103", "result": "\n\nweather_forecast.get(location='New York City')"}
+{"id": "relevance_104", "result": "\n\ncalculate_park_area({'radius': 3, 'units': 'units'})"}
+{"id": "relevance_105", "result": "\n\nplot_species('South America', 'flower', 5)"}
+{"id": "relevance_106", "result": "\n\n[soil_analysis.analyze_soil_type(soil_type='clay', parameters_needed=['pH level'])]"}
+{"id": "relevance_107", "result": "<|start_header_id|>[soil_composition_analyze(location=\"Boston\", soil_sample=\"boolean value\", season=\"spring\")]"}
+{"id": "relevance_108", "result": "\n\nemission_estimator({'current_emissions': 1000, 'action': 'switch to electric cars', 'scale': 'community', 'duration': 10})"}
+{"id": "relevance_109", "result": "\n\ncalculate_water_needs({'plant_type': 'cactus', 'location': 'Arizona', 'season': 'summer'})"}
+{"id": "relevance_110", "result": "\n\ncalculate_bmi()"}
+{"id": "relevance_111", "result": "\n\ngeo_location_based_products.fetch_eco_friendly_products(location='your_city', product_category='Yoga Mats', availability='Instore')"}
+{"id": "relevance_112", "result": "\n\ngeocode_address(address=\"New York\")"}
+{"id": "relevance_113", "result": "\n\n[find_pois(location='London', category=['Restaurants'])]"}
+{"id": "relevance_114", "result": "\n\n[get_closest_airport(location='New York', radius=0), get_closest_airport(location='Los Angeles', radius=0)]"}
+{"id": "relevance_115", "result": "\n\n[calculate_distance(origin={'lat': 42.3584, 'lng': -71.0594}, destination={'lat': 40.7128, 'lng': -74.0060}, speed=60)]"}
+{"id": "relevance_116", "result": "\n\n[None]"}
+{"id": "relevance_117", "result": "\n\ndistance.calculate(from_lat=37.6176, from_long=-122.4074, to_lat=34.0522, to_long=-118.2437)"}
+{"id": "relevance_118", "result": "<|start_header_id|><|start_header_id|>assistant<|end_header_id|>\n\n[playoff.brackets(year=1996)]"}
+{"id": "relevance_119", "result": "\n\nsentiment_analysis(text=\"Life is what happens when you're busy making other plans.\", model=\"vader\", language=\"English\")"}
+{"id": "relevance_120", "result": "<|start_header_id|>[caffeine_effect(params={'caffeine_content': 100, 'drinking_frequency': 'daily'})]"}
+{"id": "relevance_121", "result": "\n\n[medical_records.get_disease_info(disease_name='motor neuron disease', include_statistics=True)]"}
+{"id": "relevance_122", "result": "\n\n[get_neural_activity(patient_id='?', start_time='?', end_time='?')]"}
+{"id": "relevance_123", "result": "\n\nNone"}
+{"id": "relevance_124", "result": "\n\nget_social_trends(category='technology', region='worldwide')"}
+{"id": "relevance_125", "result": "\n\n[get_recent_tweets(username='J.K. Rowling', count=-1)]"}
+{"id": "relevance_126", "result": "\n\n[get_happiness_index(country='selected_country', year=latest_year, demographic_group='low income')]"}
+{"id": "relevance_127", "result": "\n\n[sentiment_analysis.twitter(topic='iPhone release', language='en', num_tweets=1000)]"}
+{"id": "relevance_128", "result": "\n\n[None]"}
+{"id": "relevance_129", "result": "\n\npersonality_assessment.evaluate(traits=[{'trait': 'Thinking', 'percentage': 60}, {'trait': 'Intuition', 'percentage': 40}, {'trait': 'Introversion', 'percentage': 80}, {'trait': 'Sensing', 'percentage': 20}], detailed_output=True)"}
+{"id": "relevance_130", "result": "\n\n[calculate_big_five_traits(answers=['question1', 'question2', ...], calculate_percentile=True, average_answers=True)]"}
+{"id": "relevance_131", "result": "\n\npsychology.color_representation(color='purple', context='computer vision')"}
+{"id": "relevance_132", "result": "\n\n['historical_event.get_date(event_name=\"Battle of Waterloo\")']"}
+{"id": "relevance_133", "result": "\n\n[get_battle_details(params_name='NBA final 2023')]"}
+{"id": "relevance_134", "result": "\n\ncalculate_battle_outcome({'battle_name': 'World Cup 2022', 'strategy_type': 'not applicable', 'weather_condition': 'sunny'})"}
+{"id": "relevance_135", "result": "\n\nadd_dates(date='July 4, 1776', days_to_add=0, format='YYYY-MM-DD')"}
+{"id": "relevance_136", "result": "\n\nus_president_in_year({'year': '2021})"}
+{"id": "relevance_137", "result": "\n\nhistorical_event.get_date(event_name='Declaration of Independence', event_location='United States')"}
+{"id": "relevance_138", "result": "\n\ncalculate_age({'birthdate': '1776-07-04', 'current_date': '2022-07-04'})"}
+{"id": "relevance_139", "result": "\n\n[space.star_info(star_name='unknown', information='radius')]"}
+{"id": "relevance_140", "result": "\n\n[calculate_electric_current(voltage=1, resistance=1)]"}
+{"id": "relevance_141", "result": "\n\nlook_up_scientific_contributions({'scientist_name': 'Hydrogen', 'contributions': 1})"}
+{"id": "relevance_142", "result": "\n\nget_element_properties({'element': 'Albert Einstein'})"}
+{"id": "relevance_143", "result": "\n\n[get_historical_figure_info(name='scientist', detail='achievement')]"}
+{"id": "relevance_144", "result": "\n\nsearch_holy_books(book='holy book')"}
+{"id": "relevance_145", "result": "\n\n[religion_history.get_event_year(event_name='Protestant Reformation', period='16th century')]"}
+{"id": "relevance_146", "result": "\n\n[lambda a, b: '#%02X%02X%02X' % tuple(int(a[i:i+2], 16) for i in (0, 2, 4))('#FAEBD7', '#00FFFF')]"}
+{"id": "relevance_147", "result": "\n\n[color_mix.mix_two_colors]"}
+{"id": "relevance_148", "result": "\n\ncolor_complimentary({'color': 'blue', 'color_format': 'RGB'})"}
+{"id": "relevance_149", "result": "\n\n[calculate_paint_mix(params={'target_color': 'sky blue', 'available_colors': ['Pantone 2965C']})]"}
+{"id": "relevance_150", "result": "\n\ncolor_converter.RGB_to_Pantone(red=100, green=50, blue=200)"}
+{"id": "relevance_151", "result": "\n\nsculpture.get_dimensions({'sculpture_name': 'Picasso's painting', 'artist_name': 'Pablo Picasso'})"}
+{"id": "relevance_152", "result": "\n\nsculpture.create(design='garden sculpture', size='large', material='soapstone')"}
+{"id": "relevance_153", "result": "\n\nmaterial_tool_lookup.lookup(material='stone', sculpting_technique='carving')"}
+{"id": "relevance_154", "result": "\n\nsculpture_info()"}
+{"id": "relevance_155", "result": "\n\n[architecture_capacity.evaluate_capacity(structure_name='Not Provided', area_per_person=0)]"}
+{"id": "relevance_156", "result": "\n\ngenerate_architecture_plan({'style': '', 'building_type': '', 'extra_features': []})"}
+{"id": "relevance_157", "result": "\n\nbuilding_information.get_data(building_name='cathedral', info_requested='height')"}
+{"id": "relevance_158", "result": "\n\ncalculate_construction_cost(params={'building_type': 'apartment', 'location': 'New York', 'materials': ['steel', 'cement', 'glass'], 'labor_cost': 100.0})"}
+{"id": "relevance_159", "result": "<|end_header_id|>\n\n[artwork_search({'artwork_name': 'The Scream', 'museum_location': 'Oslo, Norway', 'specific_details': 'artist'})]"}
+{"id": "relevance_160", "result": "\n\n[most_frequent_visitor(params_name='Museum of Modern Art', start_date='2020-01-01', end_date='2021-12-31')]"}
+{"id": "relevance_161", "result": "\n\n[museum_data.get_visit_stats(city='New York')]"}
+{"id": "relevance_162", "result": "\n\n[get_museum_artists(museum_name=' unknown', period='19th Century', country='USA')]"}
+{"id": "relevance_163", "result": "\n\ntune_instrument(instrument_type='acoustic guitar', key='Standard')"}
+{"id": "relevance_164", "result": "\n\n[search_music_instrument_players({'instrument': 'vocal', 'genre': 'Jazz', 'top': 1})]"}
+{"id": "relevance_165", "result": "\n\n[get_instrument_info(instrument_name='cello', detail='type')]"}
+{"id": "relevance_166", "result": "\n\n[instrument_rental_prices(instrument='piano', city='your_city', duration='Monthly')]"}
+{"id": "relevance_167", "result": "\n\nget_concert_info(concert_id=0)"}
+{"id": "relevance_168", "result": "\n\nconcert_availability({'artist': '', 'location': 'University', 'date': '2023-05'})"}
+{"id": "relevance_169", "result": "\n\nconcert_search.find_concerts(venue='Madison Square Garden', date='YYYY-MM-DD', artist='')"}
+{"id": "relevance_170", "result": "\n\n[None]"}
+{"id": "relevance_171", "result": "\n\n[{'name': 'music.search_composer', 'params': {'title': 'Ancient Greek laws', 'epoch': 'Ancient'}}]"}
+{"id": "relevance_172", "result": "\n\nmusic_composer.composition_info(composition_name='Don Quixote', need_detailed_info=False)"}
+{"id": "relevance_173", "result": "\n\n[ music_analysis.find_common_chords(genre='classical', num_chords=3)]"}
+{"id": "relevance_174", "result": "\n\n[music_theory.primary_triads(key_signature=\"C\", include_inversions=True)]"}
+{"id": "relevance_175", "result": "\n\n[None]"}
+{"id": "relevance_176", "result": "\n\n[find_composer(piece_name='Blues Scale in A')]"}
+{"id": "relevance_177", "result": "\n\n[get_song_chord_progression(song_name='Unknown Song', artist_name='Unknown Artist')]"}
+{"id": "relevance_178", "result": "\n\n['sports_analysis.get_top_scorer', {'league': 'Premier League', 'season': '2020/2021'}]"}
+{"id": "relevance_179", "result": "\n\n[get_game_results(params={'team_1': 'Los Angeles Clippers', 'date': 'YYYY-MM-DD'})]"}
+{"id": "relevance_180", "result": "\n\n[sports_analyzer.get_schedule(date='today')]"}
+{"id": "relevance_181", "result": "\n\n[soccer_stats.get_last_match_result(team1='Athletic Club', team2='Real Madrid')]"}
+{"id": "relevance_182", "result": "\n\n[get_nba_player_stats(player_name='Michael Jordan', stat_type='championships')]"}
+{"id": "relevance_183", "result": "\n\nfind_top_sports_celebrity({'name': 'Wimbledon Winner 2021', 'year': 2021, 'sports_type': 'Tennis'})"}
+{"id": "relevance_184", "result": "\n\n[sports_stats.get_player_stats(player_name='LeBron James', season='2020-2021', league='NBA')]"}
+{"id": "relevance_185", "result": "\n\n[{'name': 'player_stats.average_scoring', 'player_name': 'LeBron James', 'season': '20XX-20XX', 'league': 'NBA'}]"}
+{"id": "relevance_186", "result": "\n\n[sports_ranking.get_MVP(season='current', sport_type='football')]"}
+{"id": "relevance_187", "result": "\n\n[sports_ranking.get_team_ranking(team_name=\"??\", sport_league=\"??\", season=??)]"}
+{"id": "relevance_188", "result": "\n\n[sports.ranking.get_champion(event='World Series', year=2020)]"}
+{"id": "relevance_189", "result": "\n\n[sports_ranking.get_top_ranked(sport='basketball', gender='male')]"}
+{"id": "relevance_190", "result": "\n\n[sports_team.standing(team_name='Novak Djokovic', league='ATP')])"}
+{"id": "relevance_191", "result": "\n\nget_match_stats({'team_name': 'France', 'tournament': 'FIFA World Cup', 'year': 2018})"}
+{"id": "relevance_192", "result": "\n\n[sports_team.get_top_scorer(team='Manchester United', season='default', league='Premier League')]"}
+{"id": "relevance_193", "result": "\n\n[get_sport_team_details(team_name='Los Angeles Lakers', details=['roster'])]"}
+{"id": "relevance_194", "result": "\n\n[fetch_game_stats(game_type='chess', year=none)]"}
+{"id": "relevance_195", "result": "\n\n[game.board_analyser(game='chess', position='', player='')]"}
+{"id": "relevance_196", "result": "\n\n[boardgame.calculate_score(player_actions=list(range(1, 2)), initial_scores={1: 0, 2: 0})]"}
+{"id": "relevance_197", "result": "\n\nboard_game.possible_moves(game_name='Monopoly', current_state='...', include_repetitions=False)"}
+{"id": "relevance_198", "result": "\n\n[cards.shuffle_deck(deck='Uno', times=1)]"}
+{"id": "relevance_199", "result": "\n\n[play_poker(number_of_players=2, cards_per_player=7)]"}
+{"id": "relevance_200", "result": "\n\nget_highest_card_holder(game_id='blackjack', suit='')"}
+{"id": "relevance_201", "result": "\n\n[game_guide(game_name=\"Ice Cream Store\", level=None, type=None)]"}
+{"id": "relevance_202", "result": "\n\ngame_score.calculate(team1_points=0, team2_points=0)"}
+{"id": "relevance_203", "result": "\n\n[get_player_score(player='A', game='Halo')]"}
+{"id": "relevance_204", "result": "\n\ngame_functions.solve_jigsaw(puzzle_image='path_to_your_image.jpg', pieces_count=100, solve_method='brute_force')"}
+{"id": "relevance_205", "result": "\n\ncalculate_score({'enemies_defeated': None, 'coins_collected': None})"}
+{"id": "relevance_206", "result": "\n\n[game.find_best_weapon(player_level=100, enemy_type='dragon', inventory=['sword', 'axe', 'shield'])]"}
+{"id": "relevance_207", "result": "\n\n[game_tracker.high_score(game_name='Flappy Bird', platform='Mobile')]"}
+{"id": "relevance_208", "result": "\n\n[calculate_taxi_fare(distance=0, wait_time=0)]"}
+{"id": "relevance_209", "result": "\n\nfetch_recipe({'query': 'build a new PC', 'numberOfResults': 1})"}
+{"id": "relevance_210", "result": "\n\nrecipe_based_restaurants({'recipe_name': '', 'location': 'Paris', 'price_range': ['$$'], 'preferred_rating': 3})"}
+{"id": "relevance_211", "result": "\n\n[recipe_calculator.calculate_time(weight=5, per_unit_time=1, unit_of_time='minutes')]"}
+{"id": "relevance_212", "result": "\n\n[get_cooking_time(ingredient_type='egg', ingredient_size='large', cooking_method='boiling')]"}
+{"id": "relevance_213", "result": "\n\n[restaurant_finder(location='Boston', cuisine='pizza')]"}
+{"id": "relevance_214", "result": "\n\n[calculate_tip(bill_total=0, tip_percentage=0)]"}
+{"id": "relevance_215", "result": "\n\nNone"}
+{"id": "relevance_216", "result": "\n\n[None]"}
+{"id": "relevance_217", "result": "<|start_header_id|>"}
+{"id": "relevance_218", "result": "\n\n[prepare_food.get_recipe(ingredients=['flour', 'sugar', 'eggs', 'chocolate'], food_type='cake', serving_size=1)]"}
+{"id": "relevance_219", "result": "\n\n[get_calories_in_recipe({'ingredients': []})]"}
+{"id": "relevance_220", "result": "\n\nrecipe.getTemperature(dish_name='chocolate cake', oven_type='Conventional')"}
+{"id": "relevance_221", "result": "\n\nNone"}
+{"id": "relevance_222", "result": "\n\ngrocery_store.item_details(item_name='tomato', store_location='default', details_level='simple')"}
+{"id": "relevance_223", "result": "\n\n[grocery_shop.find_specific_product(city='Chicago', product='sourdough bread')]"}
+{"id": "relevance_224", "result": "\n\n[grocery_store.locate_nearby(location='Los Angeles, CA')]"}
+{"id": "relevance_225", "result": "\n\n[None]"}
+{"id": "relevance_226", "result": "\n\n[get_local_time(timezone='Europe/London', date_format='YYYY-MM-DD HH:mm:ss')]"}
+{"id": "relevance_227", "result": "\n\ncalculate_sunrise(location='Beijing', date=datetime.date.today(), format='HH:MM')"}
+{"id": "relevance_228", "result": "<|end_header_id|>\n\n[get_local_time(location='Sydney', format='12', timezone='Australia/Sydney')]"}
+{"id": "relevance_229", "result": "\n\n[book_hotel(location='Tokyo', check_in_date='2023-01-01', check_out_date='2023-01-03')]"}
+{"id": "relevance_230", "result": "\n\nfind_hotel(location=\"Miami\", max_price_per_night=None, pet_friendly=True)"}
+{"id": "relevance_231", "result": "\n\n[hotel_booking.check_availability(params_name=\"Chicago\", params_name2=\"Thai\")]"}
+{"id": "relevance_232", "result": "\n\n[hotel_search.find_hotels(location='New York, NY', amenities=['Breakfast', 'Fitness Centre'])]"}
+{"id": "relevance_233", "result": "\n\n['exchange_rate(20, \"USD\", \"GBP\")']"}
+{"id": "relevance_234", "result": "\n\n[convert_currency(amount=10, from_currency='inch', to_currency='meter')]"}
+{"id": "relevance_235", "result": "\n\n['currency_exchange.calculate']"}
+{"id": "relevance_236", "result": "\n\n[get_flight_duration(start_city='London', destination_city='Tokyo', flight_type='non-stop')]"}
+{"id": "relevance_237", "result": "\n\nget_route_to_location(start_point='Los Angeles', end_point='Nearest Pharmacy', transport_method='Public Transport')"}
+{"id": "relevance_238", "result": "\n\n[map_coordinates.distance_calculate({'pointA': {'latitude': 0, 'longitude': 0}, 'pointB': {'latitude': 0, 'longitude': 0}})]"}
+{"id": "relevance_239", "result": "\n\nget_date({'location_1': 'San Francisco', 'location_2': 'Los Angeles', 'unit': 'kilometers'})"}

@@ -1,0 +1,50 @@
+{"id": "executable_parallel_function_0", "result": "calc_binomial_probability\n{\"k\": 3, \"n\": 10, \"p\": 0.3}"}
+{"id": "executable_parallel_function_1", "result": "calculate_cosine_similarity\n{\"vectorA\": [0.5, 0.7, 0.2, 0.9, 0.1], \"vectorB\": [0.3, 0.6, 0.2, 0.8, 0.1]}"}
+{"id": "executable_parallel_function_2", "result": "calculate_density\n{\"mass\": 0.5, \"volume\": 0.1}"}
+{"id": "executable_parallel_function_3", "result": "calculate_displacement\n{\"initial_velocity\": 20.0, \"acceleration\": -9.8, \"time\": 5.0}"}
+{"id": "executable_parallel_function_4", "result": "calculate_electrostatic_potential_energy\n{\"charge\": 1.6e-19, \"voltage\": 500}"}
+{"id": "executable_parallel_function_5", "result": "calculate_final_velocity\n{\"initial_velocity\": 5, \"acceleration\": 2, \"time\": 10}"}
+{"id": "executable_parallel_function_6", "result": "calculate_future_value\n{\"present_value\": 5000, \"interest_rate\": 0.05, \"periods\": 10}"}
+{"id": "executable_parallel_function_7", "result": "calculate_mean\n{\"numbers\": [35, 40, 45, 50, 55]}"}
+{"id": "executable_parallel_function_8", "result": "calculate_permutations\n{\"k\": 5, \"n\": 20}"}
+{"id": "executable_parallel_function_9", "result": "calculate_standard_deviation\n{\"numbers\": [23, 34, 45, 56, 67, 78, 89]}"}
+{"id": "executable_parallel_function_10", "result": "calculate_triangle_area\n{\"base\": 15, \"height\": 20}"}
+{"id": "executable_parallel_function_11", "result": "convert_currency\n{\"amount\": 5000, \"from_currency\": \"JPY\", \"to_currency\": \"USD\"}"}
+{"id": "executable_parallel_function_12", "result": "estimate_derivative\n{\"function\": \"3*x**2 + 2*x - 1\", \"x\": 4}"}
+{"id": "executable_parallel_function_13", "result": "find_term_on_urban_dictionary\n{\"term\": \"Lit\"}"}
+{"id": "executable_parallel_function_14", "result": "geometry_area_circle\n{\"radius\": 5}"}
+{"id": "executable_parallel_function_15", "result": "get_active_covid_case_by_country\n{\"country\": \"France\"}"}
+{"id": "executable_parallel_function_16", "result": "get_company_name_by_stock_name\n{\"stock_name\": \"AAPL\"}"}
+{"id": "executable_parallel_function_17", "result": "get_coordinate_by_ip_address\n{\"ip_address\": \"192.168.1.1\"}"}
+{"id": "executable_parallel_function_18", "result": "get_coordinates_from_city\n{\"city_name\": \"New York\"}"}
+{"id": "executable_parallel_function_19", "result": "get_covid_death_by_country\n{\"country\": \"Brazil\"}"}
+{"id": "executable_parallel_function_20", "result": "\nSure! I can help you with that. To calculate the distance between two points on a 2D plane, you can use the formula: distance = sqrt((x2 - x1)^2 + (y2 - y1)^2). Let's calculate the distances for the given pairs:\n\nFor the first pair (3, 4) and (7, 9):\nDistance = sqrt((7 - 3)^2 + (9 - 4)^2) = sqrt(16 + 25) = sqrt(41)\n\nFor the second pair (1, 2) and (5, 6):\nDistance = sqrt((5 - 1)^2 + (6 - 2)^2) = sqrt(16 + 16) = sqrt(32)\n\nFor the third pair (0, 0) and (8, 15):\nDistance = sqrt((8 - 0)^2 + (15 - 0)^2) = sqrt(64 + 225) = sqrt(289)\n\nFor the fourth pair (10, 12) and (20, 25):\nDistance = sqrt((20 - 10)^2 + (25 - 12)^2) = sqrt(100 + 169) = sqrt(269)\n\nSo, the distances between the pairs are as follows:\nPair 1: sqrt(41)\nPair 2: sqrt(32)\nPair 3: sqrt(289)\nPair 4: sqrt(269)"}
+{"id": "executable_parallel_function_21", "result": "get_fibonacci_sequence\n{\"n\": 10}"}
+{"id": "executable_parallel_function_22", "result": "get_price_by_amazon_ASIN\n{\"ASIN\": \"B08PPDJWC8\"}"}
+{"id": "executable_parallel_function_23", "result": "get_prime_factors\n{\"number\": 456}"}
+{"id": "executable_parallel_function_24", "result": "get_product_name_by_amazon_ASIN\n{\"ASIN\": \"B075H2B962\"}"}
+{"id": "executable_parallel_function_25", "result": "get_rating_by_amazon_ASIN\n{\"ASIN\": \"B08PPDJWC8\"}"}
+{"id": "executable_parallel_function_26", "result": "get_stock_history\n{\"stock_name\": \"AAPL\", \"interval\": \"1d\"}"}
+{"id": "executable_parallel_function_27", "result": "get_stock_price_by_stock_name\n{\"stock_name\": \"GOOG\"}"}
+{"id": "executable_parallel_function_28", "result": "get_time_zone_by_coord\n{\"lat\": \"28.7041\", \"long\": \"77.1025\"}"}
+{"id": "executable_parallel_function_29", "result": "get_weather_data\n{\"coordinates\": [34.0522, -118.2437]}"}
+{"id": "executable_parallel_function_30", "result": "get_zipcode_by_ip_address\n{\"ip_address\": \"203.0.113.0\"}"}
+{"id": "executable_parallel_function_31", "result": "mat_mul\n{\"matA\": [[1, 2, 3], [4, 5, 6], [7, 8, 9]], \"matB\": [[10, 11, 12], [13, 14, 15], [16, 17, 18]]}"}
+{"id": "executable_parallel_function_32", "result": "math_factorial\n{\"n\": 5}"}
+{"id": "executable_parallel_function_33", "result": "math_gcd\n{\"a\": 45, \"b\": 60}"}
+{"id": "executable_parallel_function_34", "result": "math_lcm\n{\"a\": 35, \"b\": 45}"}
+{"id": "executable_parallel_function_35", "result": "mortgage_calculator\n{\"loan_amount\": 350000, \"interest_rate\": 0.035, \"loan_period\": 30}"}
+{"id": "executable_parallel_function_36", "result": "quadratic_roots\n{\"a\": 3, \"b\": 7, \"c\": 2}"}
+{"id": "executable_parallel_function_37", "result": "retrieve_city_based_on_zipcode\n{\"zipcode\": \"90210\"}"}
+{"id": "executable_parallel_function_38", "result": "retrieve_holiday_by_year\n{\"country\": \"US\", \"year\": \"2018\"}"}
+{"id": "executable_parallel_function_39", "result": "sort_array\n{\"array\": [5, 2, 9, 1, 7], \"reverse\": false}"}
+{"id": "executable_parallel_function_40", "result": "add_binary_numbers\n{\"a\": \"0011\", \"b\": \"1100\"}"}
+{"id": "executable_parallel_function_41", "result": "linear_regression\n{\"x\": [1, 2, 3], \"y\": [4, 5, 6], \"point\": 10}"}
+{"id": "executable_parallel_function_42", "result": "maxPoints([[1,1],[2,2],[3,4],[5,5]])"}
+{"id": "executable_parallel_function_43", "result": "calculate_investment_value\n{\"adjust_for_inflation\": true, \"annual_contribution\": 1000, \"annual_return\": 0.1, \"inflation_rate\": [0.01, 0.04, 0.04], \"initial_investment\": 1000000, \"years\": 3}"}
+{"id": "executable_parallel_function_44", "result": "calculate_nutritional_needs\n{\"weight\": 75.0, \"height\": 180.0, \"age\": 25.0, \"gender\": \"male\", \"activity_level\": 3.0, \"goal\": \"gain\"}"}
+{"id": "executable_parallel_function_45", "result": "order_food\n{\"item\": [\"burger\", \"ice cream\", \"pizza\", \"donut\"], \"price\": [5, 2, 8, 1], \"quantity\": [10, 7, 3, 12]}"}
+{"id": "executable_parallel_function_46", "result": "order_food\n{\"item\": [\"dumplings\", \"rice bowl\", \"spring rolls\", \"noodle soup\"], \"quantity\": [101, 20, 50, 10], \"price\": [0.1, 10, 0.5, 3]}"}
+{"id": "executable_parallel_function_47", "result": "get_movie_director\n{\"movie_name\": \"Pulp Fiction\"}"}
+{"id": "executable_parallel_function_48", "result": "get_movie_rating\n{\"movie_name\": \"Pulp Fiction\"}"}
+{"id": "executable_parallel_function_49", "result": "polygon_area\n{\"vertices\": [[1, 2], [3, 4], [1, 4], [3, 7]]}"}

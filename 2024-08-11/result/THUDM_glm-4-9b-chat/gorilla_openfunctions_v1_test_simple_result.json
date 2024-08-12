@@ -1,0 +1,400 @@
+{"id": "simple_0", "result": "calculate_triangle_area\n{\"base\": 10, \"height\": 5}"}
+{"id": "simple_1", "result": "math_factorial\n{\"number\": 5}"}
+{"id": "simple_2", "result": "math_hypot\n{\"x\": 4, \"y\": 5}"}
+{"id": "simple_3", "result": "algebra_quadratic_roots\n{\"a\": 1, \"b\": -3, \"c\": 2}"}
+{"id": "simple_4", "result": "solve_quadratic_equation\n{\"a\": 2, \"b\": 6, \"c\": 5}"}
+{"id": "simple_5", "result": "\nTo find the roots of the quadratic equation \\( 3x^2 - 11x - 4 = 0 \\), we can use the `solve_quadratic` function. Let's call the function with the provided coefficients.\n\nHere's the function call with the coefficients a = 3, b = -11, and c = -4:\n\n```json\n{\"a\": 3, \"b\": -11, \"c\": -4}\n```solve_quadratic\n{\"a\": 3, \"b\": -11, \"c\": -4}"}
+{"id": "simple_6", "result": "solve_quadratic\n{\"a\": 2, \"b\": 5, \"c\": 3}"}
+{"id": "simple_7", "result": "calculate_circumference\n{\"radius\": 4}"}
+{"id": "simple_8", "result": "geometry_area_circle\n{\"radius\": 10}"}
+{"id": "simple_9", "result": "geometry_calculate_area_circle\n{\"radius\": 5}"}
+{"id": "simple_10", "result": "calculate_area\n{\"base\": 6, \"height\": 10}"}
+{"id": "simple_11", "result": "calculate_triangle_area\n{\"base\": 10, \"height\": 5}"}
+{"id": "simple_12", "result": "geometry_circumference\n{\"radius\": 3}"}
+{"id": "simple_13", "result": "calculate_area_under_curve\n{\"function\": \"x**2\", \"interval\": [1, 3]}"}
+{"id": "simple_14", "result": "calculate_derivative\n{\"function\": \"3*x**2 + 2*x - 1\"}"}
+{"id": "simple_15", "result": "integrate\n{\"function\": \"x^3\", \"start_x\": -2, \"end_x\": 3, \"method\": \"simpson\"}"}
+{"id": "simple_16", "result": "calculus_derivative\n{\"function\": \"2*x**2\", \"value\": 1}"}
+{"id": "simple_17", "result": "get_prime_factors\n{\"number\": 450, \"formatted\": true}"}
+{"id": "simple_18", "result": "number_analysis_prime_factors\n{\"number\": 123456}"}
+{"id": "simple_19", "result": "math_gcd\n{\"num1\": 40, \"num2\": 50}"}
+{"id": "simple_20", "result": "math_hcf\n{\"number1\": 36, \"number2\": 24}"}
+{"id": "simple_21", "result": "number_theory_gcd\n{\"number1\": 36, \"number2\": 48}"}
+{"id": "simple_22", "result": "math_gcd\n{\"num1\": 12, \"num2\": 15}"}
+{"id": "simple_23", "result": "prime_factorize\n{\"number\": 60, \"return_type\": \"dictionary\"}"}
+{"id": "simple_24", "result": "math_gcd\n{\"num1\": 12, \"num2\": 18}"}
+{"id": "simple_25", "result": "calculate_final_velocity\n{\"height\": 150}"}
+{"id": "simple_26", "result": "calculate_velocity\n{\"distance\": 50, \"duration\": 2}"}
+{"id": "simple_27", "result": "final_velocity\n{\"initial_velocity\": 10, \"acceleration\": 2, \"time\": 5}"}
+{"id": "simple_28", "result": "calculate_displacement\n{\"initial_velocity\": 10, \"time\": 5, \"acceleration\": 9.8}"}
+{"id": "simple_29", "result": "calculate_final_speed\n{\"initial_speed\": 0, \"time\": 5}"}
+{"id": "simple_30", "result": "kinematics_final_velocity_from_distance\n{\"acceleration\": 4, \"distance\": 300}"}
+{"id": "simple_31", "result": "calculate_final_velocity\n{\"initial_velocity\": 0, \"acceleration\": 9.8, \"time\": 5}"}
+{"id": "simple_32", "result": "calculate_final_speed\n{\"initial_velocity\": 0, \"height\": 100}"}
+{"id": "simple_33", "result": "get_directions\n{\"start_location\": \"Sydney\", \"end_location\": \"Melbourne\", \"route_type\": \"fastest\"}"}
+{"id": "simple_34", "result": "travel_itinerary_generator\n{\"destination\": \"Tokyo\", \"days\": 7, \"daily_budget\": 100, \"exploration_type\": \"nature\"}"}
+{"id": "simple_35", "result": "vegan_restaurant_find_nearby\n{\"location\": \"New York, NY\", \"operating_hours\": 23}"}
+{"id": "simple_36", "result": "get_shortest_driving_distance\n{\"origin\": \"New York City\", \"destination\": \"Washington D.C.\", \"unit\": \"km\"}"}
+{"id": "simple_37", "result": "route_estimate_time\n{\"start_location\": \"San Francisco\", \"end_location\": \"Los Angeles\", \"stops\": [\"Santa Barbara\", \"Monterey\"]}"}
+{"id": "simple_38", "result": "calculate_electrostatic_potential\n{\"charge1\": 1e-9, \"charge2\": 2e-9, \"distance\": 0.05}"}
+{"id": "simple_39", "result": "calculate_electric_field\n{\"charge\": 2, \"distance\": 3}"}
+{"id": "simple_40", "result": "calculate_magnetic_field\n{\"current\": 5, \"radius\": 4}"}
+{"id": "simple_41", "result": "electromagnetic_force\n{\"charge1\": 5, \"charge2\": 7, \"distance\": 3}"}
+{"id": "simple_42", "result": "calculate_resonant_frequency\n{\"capacitance\": 0.0001, \"inductance\": 0.05}"}
+{"id": "simple_43", "result": "calculate_magnetic_field_strength\n{\"current\": 20, \"distance\": 10}"}
+{"id": "simple_44", "result": "calculate_electric_field_strength\n{\"charge\": 0.01, \"distance\": 4}"}
+{"id": "simple_45", "result": "\nTo calculate the energy absorbed during the phase change of water from liquid to steam at its boiling point, we can use the provided function `thermo_calculate_energy` with the parameters `mass` set to 100g, `phase_transition` set to \"vaporization\", and `substance` set to \"water\". \n\nLet's make the API call:\n\n```python\nthermo_calculate_energy({\"mass\": 100, \"phase_transition\": \"vaporization\", \"substance\": \"water\"})\n```\n\nI will now execute the function using the provided API.thermo_calculate_energy\n{\"mass\": 100, \"phase_transition\": \"vaporization\", \"substance\": \"water\"}"}
+{"id": "simple_46", "result": "calculate_final_temperature\n{\"mass1\": 20, \"temperature1\": 30, \"mass2\": 15, \"temperature2\": 60}"}
+{"id": "simple_47", "result": "get_boiling_melting_points\n{\"substance\": \"water\", \"sea_level\": 5000}"}
+{"id": "simple_48", "result": "calculate_density\n{\"mass\": 45, \"volume\": 15}"}
+{"id": "simple_49", "result": "calc_absolute_pressure\n{\"atm_pressure\": 1, \"gauge_pressure\": 2}"}
+{"id": "simple_50", "result": "entropy_change_calculate\n{\"substance\": \"ice\", \"mass\": 1, \"initial_temperature\": 0, \"final_temperature\": 100, \"pressure\": 1}"}
+{"id": "simple_51", "result": "calculate_entropy_change\n{\"initial_temp\": 300, \"final_temp\": 400, \"heat_capacity\": 5}"}
+{"id": "simple_52", "result": "calc_heat_capacity\n{\"gas\": \"air\", \"temp\": 298, \"volume\": 10}"}
+{"id": "simple_53", "result": "fetch_DNA_sequence\n{\"DNA_id\": \"DNA123\"}"}
+{"id": "simple_54", "result": "get_protein_sequence\n{\"gene\": \"BRCA1\"}"}
+{"id": "simple_55", "result": "biology_get_cell_info\n{\"cell_type\": \"human cell\", \"detailed\": true}"}
+{"id": "simple_56", "result": "\nThe plasma membrane is a complex structure found in all cells and is composed of various proteins that play different roles in cell function. Some of the key proteins found in the plasma membrane include:\n\n1. **Phospholipids** - While not strictly proteins, phospholipids are a major component of the plasma membrane and form a bilayer structure.\n\n2. **Integral Membrane Proteins**:\n   - **Channel Proteins**: These are involved in the selective transport of ions across the membrane.\n   - **Gated Ion Channels**: Examples include voltage-gated, ligand-gated, and mechanically gated channels.\n   - **Transport Proteins**: Facilitate the transport of specific molecules across the membrane, often against their concentration gradient.\n   - **Receptor Proteins**: Bind to specific ligands and can initiate signaling pathways or mediate cell-cell communication.\n   - **Enzymes**: Catalyze chemical reactions within the membrane.\n   - **Cytochrome Proteins**: Involved in electron transport chains and energy production.\n\n3. **Peripheral Membrane Proteins**:\n   - Attach to the surface of the membrane and are often involved in cell signaling and recognition.\n\nHere are some specific examples of proteins found in the plasma membrane:\n\n- **Ion Channels**: Potassium channels (e.g., KIR2.1), Sodium channels (e.g., Nav1.1), Calcium channels (e.g., CACNA1A).\n- **Transporters**: Glucose transporter (GLUT1), Sodium-glucose co-transporter (SGLT1), Na+/H+ exchanger (NHE).\n- **Receptors**: Insulin receptor, LDL receptor, Toll-like receptors (TLRs), G-protein coupled receptors (GPCRs).\n- **Enzymes**: Phospholipase A2, Phospholipase C, Adenylate cyclase.\n- **Cytochromes**: Cytochrome c oxidase, Cytochrome b-c1 complex.\n- **Adaptor Proteins**: AP2 complex, clathrin.\n\nThe list above is not exhaustive, as there are many more proteins that contribute to the complexity and functionality of the plasma membrane. The exact composition can vary between different cell types and even within different subcellular regions of the same cell."}
+{"id": "simple_57", "result": "calculate_cell_density\n{\"optical_density\": 0.6, \"dilution\": 5}"}
+{"id": "simple_58", "result": "cell_biology_function_lookup\n{\"molecule\": \"ATP synthase\", \"organelle\": \"mitochondria\", \"specific_function\": true}"}
+{"id": "simple_59", "result": "calculate_molecular_weight\n{\"compound\": \"C6H12O6\", \"to_unit\": \"g/mol\"}"}
+{"id": "simple_60", "result": "mutation_type_find\n{\"snp_id\": \"rs6034464\", \"species\": \"Homo sapiens\"}"}
+{"id": "simple_61", "result": "diabetes_prediction\n{\"activity_level\": \"lightly active\", \"height\": 70, \"weight\": 68}"}
+{"id": "simple_62", "result": "analyze_dna_sequence\n{\"mutation_type\": \"substitution\", \"reference_sequence\": \"AGTCCATCGAACGTACGTACG\", \"sequence\": \"AGTCGATCGAACGTACGTACG\"}"}
+{"id": "simple_63", "result": "genetics_calculate_similarity\n{\"species1\": \"Homo sapiens\", \"species2\": \"Pan troglodytes\"}"}
+{"id": "simple_64", "result": "calculate_genotype_frequency\n{\"allele_frequency\": 0.3, \"genotype\": \"AA\"}"}
+{"id": "simple_65", "result": "calculate_density\n{\"country\": \"Brazil\", \"land_area\": 8500000, \"population\": 213000000, \"year\": \"2022\"}"}
+{"id": "simple_66", "result": "ecology_data_precipitation_stats\n{\"location\": \"Amazon rainforest\", \"time_frame\": \"six_months\"}"}
+{"id": "simple_67", "result": "identify_bird\n{\"color\": \"green\", \"habitat\": \"forest\", \"size\": \"small\"}"}
+{"id": "simple_68", "result": "forest_growth_forecast\n{\"location\": \"Yellowstone National Park\", \"years\": 5, \"include_human_impact\": true}"}
+{"id": "simple_69", "result": "ecology_get_turtle_population\n{\"location\": \"Mississippi River\", \"year\": 2020, \"species\": true}"}
+{"id": "simple_70", "result": "calculate_vehicle_emission\n{\"emission_factor\": 355.48, \"miles_driven\": 1500, \"vehicle_type\": \"gas\"}"}
+{"id": "simple_71", "result": "generate_DNA_sequence\n{\"length\": 100, \"preferences\": [\"G\", \"C\"]}"}
+{"id": "simple_72", "result": "calculate_fitness\n{\"trait_contributions\": [0.4, 0.6], \"trait_values\": [0.8, 0.7]}"}
+{"id": "simple_73", "result": "population_projections\n{\"country\": \"United States\", \"years\": 20}"}
+{"id": "simple_74", "result": "calculate_bacteria_evolution_rate\n{\"start_population\": 5000, \"duplication_frequency\": 1, \"duration\": 6}"}
+{"id": "simple_75", "result": "elephant_population_estimate\n{\"current_population\": 35000, \"growth_rate\": 0.015, \"years\": 5}"}
+{"id": "simple_76", "result": "prediction_evolution\n{\"model\": \"Darwin\", \"species\": \"Homo Sapiens\", \"years\": 50}"}
+{"id": "simple_77", "result": "restaurant_find_nearby\n{\"dietary_preference\": [\"Vegan\"], \"location\": \"Los Angeles, CA\"}"}
+{"id": "simple_78", "result": "average_temperature\n{\"days\": 3, \"location\": \"Austin\", \"temp_unit\": \"Celsius\"}"}
+{"id": "simple_79", "result": "create_histogram\n{\"bins\": 5, \"data\": [85, 90, 88, 92, 86, 89, 91]}"}
+{"id": "simple_80", "result": "find_restaurants\n{\"dietary_requirements\": [\"vegan\"], \"food_type\": \"Thai\", \"location\": \"Manhattan\", \"number\": 5}"}
+{"id": "simple_81", "result": "map_routing_fastest_route\n{\"start_location\": \"San Francisco\", \"end_location\": \"Los Angeles\", \"avoid_tolls\": true}"}
+{"id": "simple_82", "result": "calculate_average\n{\"numbers\": [12, 15, 18, 20, 21, 26, 30]}"}
+{"id": "simple_83", "result": "calculate_distance\n{\"coord1\": [33.4484, -112.074], \"coord2\": [34.0522, -118.2437], \"unit\": \"miles\"}"}
+{"id": "simple_84", "result": "calculate_bmi\n{\"height\": 180, \"weight\": 85}"}
+{"id": "simple_85", "result": "geo_distance_calculate\n{\"start_location\": \"Boston, MA\", \"end_location\": \"Washington, D.C.\", \"units\": \"miles\"}"}
+{"id": "simple_86", "result": "city_distance_find_shortest\n{\"start_city\": \"New York\", \"end_city\": \"Los Angeles\", \"allow_transfer\": true, \"transportation\": \"train\"}"}
+{"id": "simple_87", "result": "array_sort\n{\"list\": [5, 3, 4, 1, 2], \"order\": \"ascending\"}"}
+{"id": "simple_88", "result": "calculate_BMI\n{\"weight_kg\": 70, \"height_m\": 1.75}"}
+{"id": "simple_89", "result": "\nI will use the provided API to fetch all records for students studying Science in 'Bluebird High School' from the StudentDB. The query parameters are as follows: database_name: StudentDB, table_name: students, conditions: {\"department\": \"Science\", \"school\": \"Bluebird High School\"}.db_fetch_records\n{\"database_name\": \"StudentDB\", \"table_name\": \"students\", \"conditions\": {\"department\": \"Science\", \"school\": \"Bluebird High School\"}}"}
+{"id": "simple_90", "result": "employee_fetch_data\n{\"company_name\": \"ABC Ltd.\", \"employee_id\": 345, \"data_field\": [\"Personal Info\", \"Job History\"]}"}
+{"id": "simple_91", "result": "get_restaurant\n{\"cuisine\": \"sushi\", \"location\": \"Boston\", \"condition\": \"operating days: Sunday\"}"}
+{"id": "simple_92", "result": "imdb_find_movies_by_actor\n{\"actor_name\": \"Leonardo DiCaprio\", \"year\": 2010}"}
+{"id": "simple_93", "result": "get_theater_movie_releases\n{\"location\": \"LA\", \"timeframe\": 7, \"format\": \"IMAX\"}"}
+{"id": "simple_94", "result": "update_user_info\n{\"user_id\": 43523, \"update_info\": {\"name\": \"John Doe\", \"email\": \"johndoe@email.com\"}}"}
+{"id": "simple_95", "result": "calc_area_triangle\n{\"base\": 5, \"height\": 3}"}
+{"id": "simple_96", "result": "\nI can help you with that. The query you need to run is %s. Here is the Python 3 syntax for the same: %sdatabase_query\n{\"table\": \"user\", \"conditions\": [{\"field\": \"age\", \"operation\": \">\", \"value\": \"25\"}, {\"field\": \"job\", \"operation\": \"==\", \"value\": \"'engineer'\"}]}"}
+{"id": "simple_97", "result": "math_factorial\n{\"number\": 5}"}
+{"id": "simple_98", "result": "calculate_clock_angle\n{\"hours\": 18, \"minutes\": 30}"}
+{"id": "simple_99", "result": "plot_sine_wave\n{\"start_range\": 0, \"end_range\": 6.2832, \"frequency\": 5}"}
+{"id": "simple_100", "result": "light_travel_time\n{\"distance_in_light_years\": 4}"}
+{"id": "simple_101", "result": "calculate_speed\n{\"distance\": 450, \"time\": 20, \"to_unit\": \"km/h\"}"}
+{"id": "simple_102", "result": "calculate_distance\n{\"body1\": \"Earth\", \"body2\": \"Moon\", \"unit\": \"mi\"}"}
+{"id": "simple_103", "result": "\nTo calculate the area under the curve y=3x^2 + 2x - 4 between x = -1 and x = 2, I will use the provided API called `mathematics_calculate_area_under_curve`. The coefficients of the polynomial are [3, 2, -4], and the limits of integration are [-1, 2]. Let's make the API call.mathematics_calculate_area_under_curve\n{\"limits\": [-1, 2], \"polynomial\": [3, 2, -4]}"}
+{"id": "simple_104", "result": "geometry_area_triangle\n{\"base\": 6, \"height\": 10}"}
+{"id": "simple_105", "result": "math_power\n{\"base\": 3, \"exponent\": 4}"}
+{"id": "simple_106", "result": "train_random_forest_classifier\n{\"dataset\": \"your_dataset_name\", \"max_depth\": 5, \"n_estimators\": 100}"}
+{"id": "simple_107", "result": "calculate_bmi\n{\"weight\": 70, \"height\": 175}"}
+{"id": "simple_108", "result": "run_linear_regression\n{\"predictors\": [\"Age\", \"Income\", \"Education\"], \"standardize\": true, \"target\": \"Purchase_Amount\"}"}
+{"id": "simple_109", "result": "random_forest_train\n{\"data\": \"my_data\", \"max_depth\": 5, \"n_estimators\": 100}"}
+{"id": "simple_110", "result": "predict_house_price\n{\"bedrooms\": 3, \"bathrooms\": 2, \"area\": 1800, \"location\": \"San Francisco\"}"}
+{"id": "simple_111", "result": "random_normalvariate\n{\"mu\": 0, \"sigma\": 1}"}
+{"id": "simple_112", "result": "\nTo calculate the probability of drawing a king from a deck of cards, we need to consider the number of favorable outcomes (drawing a king) and the total number of possible outcomes (drawing any card from the deck).\n\nIn a standard deck of cards, there are 52 cards and 4 kings (one for each suit). So, the number of favorable outcomes is 4 and the total number of outcomes is 52.\n\nLet's use the provided Python function to calculate the probability:\n\n```python\ndef calculate_probability(favorable_outcomes, total_outcomes):\n    probability = favorable_outcomes / total_outcomes\n    return probability\n```\n\nNow, we can plug in the values to calculate the probability:\n\n```python\nprobability = calculate_probability(4, 52)\n```\n\nLet's calculate the probability.calculate_probability\n{\"favorable_outcomes\": 4, \"total_outcomes\": 52}"}
+{"id": "simple_113", "result": "probability_dice_roll\n{\"desired_number\": 6, \"number_of_rolls\": 2, \"die_sides\": 6}"}
+{"id": "simple_114", "result": "\nTo find the probability of getting exactly 5 heads in 10 fair coin tosses, we can use the binomial distribution formula. The probability of success (getting heads) on any given trial (coin toss) is 0.5 (since the coin is fair). The number of successes we want is 5, and the total number of trials is 10.\n\nLet's use the provided function `prob_dist_binomial` with the parameters `p=0.5`, `successes=5`, and `trials=10` to calculate this probability.prob_dist_binomial\n{\"p\": 0.5, \"successes\": 5, \"trials\": 10}"}
+{"id": "simple_115", "result": "calculate_binomial_probability\n{\"number_of_successes\": 5, \"number_of_trials\": 8}"}
+{"id": "simple_116", "result": "probabilities_calculate_single\n{\"event_outcomes\": 4, \"total_outcomes\": 52}"}
+{"id": "simple_117", "result": "probability_of_event\n{\"format_as_ratio\": true, \"success_outcomes\": 13, \"total_outcomes\": 52}"}
+{"id": "simple_118", "result": "stats_t_test\n{\"alpha\": 0.05, \"array_1\": [10, 15, 12, 14, 11], \"array_2\": [18, 16, 17, 20, 22]}"}
+{"id": "simple_119", "result": "hypothesis_testing_ttest_ind\n{\"sample1\": [22, 33, 42, 12, 34], \"sample2\": [23, 45, 44, 14, 38], \"significance_level\": 0.05}"}
+{"id": "simple_120", "result": "run_two_sample_ttest\n{\"equal_variance\": true, \"group1\": [3, 4, 5, 6, 4], \"group2\": [7, 8, 9, 8, 7]}"}
+{"id": "simple_121", "result": "calc_binomial_prob\n{\"num_success\": 60, \"num_trials\": 100, \"prob_success\": 0.5}"}
+{"id": "simple_122", "result": "chi_squared_test\n{\"table\": [[10, 20], [30, 40]]}"}
+{"id": "simple_123", "result": "hypothesis_testing_two_sample_t_test\n{\"alpha\": 0.05, \"group1\": [12.4, 15.6, 11.2, 18.9], \"group2\": [10.5, 9.8, 15.2, 13.8]}"}
+{"id": "simple_124", "result": "t_test\n{\"dataset_A\": [12, 24, 36], \"dataset_B\": [15, 30, 45]}"}
+{"id": "simple_125", "result": "predict_house_price\n{\"area\": 2500, \"location\": \"San Francisco\", \"rooms\": 5, \"year\": 1990}"}
+{"id": "simple_126", "result": "\nTo calculate the coefficient of determination (R-squared) for a model using `engine_size` and `fuel_economy` variables to predict `car_price` with a dataset in the path `C:/data/cars.csv`, I will call the `linear_regression_get_r_squared` function. \n\nThe function requires the following parameters:\n- `dataset_path`: The path to the CSV dataset file (C:/data/cars.csv).\n- `dependent_variable`: The dependent variable to predict in the regression model (car_price).\n- `independent_variables`: The independent variables to use in the regression model (engine_size, fuel_economy).\n\nLet's proceed with the API call.linear_regression_get_r_squared\n{\"dataset_path\": \"C:/data/cars.csv\", \"dependent_variable\": \"car_price\", \"independent_variables\": [\"engine_size\", \"fuel_economy\"]}"}
+{"id": "simple_127", "result": "calculate_NPV\n{\"cash_flows\": [200, 300, 400, 500], \"discount_rate\": 0.1, \"initial_investment\": 2000}"}
+{"id": "simple_128", "result": "finance_calculate_quarterly_dividend_per_share\n{\"total_payout\": 50000000, \"outstanding_shares\": 100000000}"}
+{"id": "simple_129", "result": "calculate_discounted_cash_flow\n{\"coupon_payment\": 100, \"period\": 5, \"discount_rate\": 0.04}"}
+{"id": "simple_130", "result": "finance_calculator_npv\n{\"cash_flows\": [-50000, 10000, 15000, 20000, 25000, 30000], \"discount_rate\": 0.08}"}
+{"id": "simple_131", "result": "calculate_compound_interest\n{\"n\": 4, \"principal\": 10000, \"rate\": 0.05, \"time\": 10}"}
+{"id": "simple_132", "result": "calculate_return_on_equity\n{\"net_income\": 2000000, \"shareholder_equity\": 10000000, \"dividends_paid\": 200000}"}
+{"id": "simple_133", "result": "finance_predict_future_value\n{\"annual_interest_rate\": 0.05, \"compounding_periods_per_year\": 12, \"present_value\": 5000, \"time_years\": 3}"}
+{"id": "simple_134", "result": "investment_predictProfit\n{\"annual_return\": 0.07, \"investment_amount\": 5000, \"years\": 5}"}
+{"id": "simple_135", "result": "calculate_return_on_investment\n{\"purchase_price\": 20, \"sale_price\": 25, \"dividend\": 2}"}
+{"id": "simple_136", "result": "compound_interest\n{\"annual_rate\": 0.05, \"compounding_freq\": \"monthly\", \"principal\": 10000, \"time_in_years\": 5}"}
+{"id": "simple_137", "result": "calculate_stock_return\n{\"investment_amount\": 5000, \"annual_growth_rate\": 0.06, \"holding_period\": 5}"}
+{"id": "simple_138", "result": "portfolio_future_value\n{\"expected_annual_return\": 0.05, \"invested_amount\": 5000, \"stock\": \"X\", \"years\": 7}"}
+{"id": "simple_139", "result": "estimate_mutual_fund_return\n{\"investment_amount\": 2000, \"yearly_yield\": 5, \"years\": 3}"}
+{"id": "simple_140", "result": "calculate_cagr\n{\"initial_value\": 2000, \"final_value\": 3000, \"period_in_years\": 4}"}
+{"id": "simple_141", "result": "get_metal_price\n{\"measure\": \"ounce\", \"metal\": \"gold\"}"}
+{"id": "simple_142", "result": "get_stock_price\n{\"company_name\": \"Amazon\", \"date\": \"2022-03-11\", \"exchange\": \"NASDAQ\"}"}
+{"id": "simple_143", "result": "get_stock_price\n{\"company\": \"AAPL\", \"days\": 5, \"exchange\": \"NASDAQ\"}"}
+{"id": "simple_144", "result": "market_performance_get_data\n{\"indexes\": [\"S&P 500\", \"Dow Jones\"], \"days\": 5}"}
+{"id": "simple_145", "result": "calculate_compounded_interest\n{\"compounding_frequency\": \"Annually\", \"interest_rate\": 0.05, \"period\": 10, \"principal\": 5000}"}
+{"id": "simple_146", "result": "stock_price\n{\"company\": \"Amazon\", \"days\": 3}"}
+{"id": "simple_147", "result": "get_stock_prices\n{\"companies\": [\"Microsoft\", \"Google\"], \"duration\": \"2 weeks\"}"}
+{"id": "simple_148", "result": "finance_calculate_future_value\n{\"initial_investment\": 20000, \"rate_of_return\": 0.08, \"years\": 5}"}
+{"id": "simple_149", "result": "get_stock_price\n{\"company_names\": [\"Apple\", \"Microsoft\"]}"}
+{"id": "simple_150", "result": "calculate_roi\n{\"deposit\": 1000, \"annual_interest_rate\": 3, \"years\": 1}"}
+{"id": "simple_151", "result": "highest_grossing_banks\n{\"country\": \"U.S\", \"year\": 2020, \"top_n\": 1}"}
+{"id": "simple_152", "result": "calculate_mutual_fund_balance\n{\"investment_amount\": 50000, \"annual_yield\": 0.05, \"years\": 3}"}
+{"id": "simple_153", "result": "calculate_compounded_interest\n{\"principal\": 5000, \"rate\": 0.03, \"time\": 5, \"n\": 4}"}
+{"id": "simple_154", "result": "calculate_future_value\n{\"present_value\": 5000, \"annual_interest_rate\": 0.05, \"years\": 10}"}
+{"id": "simple_155", "result": "calculate_future_value\n{\"initial_investment\": 1000, \"interest_rate\": 0.05, \"duration\": 2}"}
+{"id": "simple_156", "result": "crime_record_get_record\n{\"case_number\": \"CA123456\", \"county\": \"San Diego County\", \"details\": true}"}
+{"id": "simple_157", "result": "criminal_history_check_felonies\n{\"full_name\": \"John Doe\", \"birth_date\": \"01-01-1980\", \"state\": \"California\"}"}
+{"id": "simple_158", "result": "get_criminal_records\n{\"name\": \"Mr. X\", \"location\": \"New York, NY\", \"from_year\": 2012, \"to_year\": 2015}"}
+{"id": "simple_159", "result": "get_act_details\n{\"act_name\": \"Criminal Law Amendment Act\", \"amendment_year\": 2013}"}
+{"id": "simple_160", "result": "get_case_info\n{\"court\": \"California\", \"docket\": \"2022/AL2562\", \"info_type\": \"victim\"}"}
+{"id": "simple_161", "result": "crime_statute_lookup\n{\"crime\": \"theft\", \"detail_level\": \"detailed\", \"jurisdiction\": \"California\"}"}
+{"id": "simple_162", "result": "generate_law_contract\n{\"contract_type\": \"rental agreement\", \"location\": \"California\", \"parties\": [\"John\", \"Alice\"]}"}
+{"id": "simple_163", "result": "property_records_get\n{\"address\": \"123 Main Street\", \"parcel_number\": \"1234567890\", \"county\": \"Santa Clara\", \"include_owner\": true}"}
+{"id": "simple_164", "result": "get_crime_rate\n{\"city\": \"San Francisco\", \"state\": \"California\", \"type\": \"violent\", \"year\": 2020}"}
+{"id": "simple_165", "result": "civil_cases_retrieve\n{\"crime_type\": \"theft\", \"location\": \"Los Angeles, California\", \"year\": 2020}"}
+{"id": "simple_166", "result": "lawyer_find_nearby\n{\"city\": \"Chicago, IL\", \"specialty\": [\"Divorce\"], \"fee\": {\"$lt\": 400}}"}
+{"id": "simple_167", "result": "law_civil_get_case_details\n{\"case_title\": \"Roe v. Wade\", \"include_dissent\": true}"}
+{"id": "simple_168", "result": "lawsuit_search\n{\"company\": \"Google\", \"location\": \"California\", \"start_date\": \"01-01-2021\", \"status\": \"ongoing\"}"}
+{"id": "simple_169", "result": "court_case_search\n{\"docket_number\": \"123456\", \"location\": \"Texas\", \"full_text\": false}"}
+{"id": "simple_170", "result": "law_case_search_find_historical\n{\"subject\": \"fraud\", \"from_year\": 2010, \"to_year\": 2015}"}
+{"id": "simple_171", "result": "fetch_law_case_details\n{\"case_number\": 43403, \"court\": \"New York\", \"year\": 2018}"}
+{"id": "simple_172", "result": "\nTo obtain the detailed case information of the 'R vs Adams' legal case using the provided Python 3 function, you would need to execute the function `legal_case_fetch` with the appropriate parameters. Since the function requires the `case_id` and `details` parameters, you would set `case_id` to `'R vs Adams'` and `details` to `True`.\n\nHere's how you would call the function:\n\n```python\nimport legal_case_fetch\n\n# Define the parameters\ncase_id = 'R vs Adams'\ndetails = True\n\n# Call the function\ncase_info = legal_case_fetch.legal_case_fetch(case_id, details)\n\n# The function will return the detailed case information of the 'R vs Adams' case\nprint(case_info)\n```\n\nWhen you run this code, it will send a request to the database to fetch the detailed case information for the 'R vs Adams' legal case, assuming that the database and the `legal_case_fetch` function are properly configured and accessible. The returned `case_info` variable will contain the details of the case."}
+{"id": "simple_173", "result": "law_case_search\n{\"judicial_system\": \"state\", \"location\": \"New York\", \"topic\": \"land disputes\", \"year_range\": [2015, 2021]}"}
+{"id": "simple_174", "result": "get_top_cases\n{\"country\": \"China\", \"field_of_law\": \"constitutional law\", \"top_number\": 10}"}
+{"id": "simple_175", "result": "lawyer_get_experience\n{\"name\": \"John Doe\", \"law_type\": \"Bankruptcy\"}"}
+{"id": "simple_176", "result": "lawsuit_details_find\n{\"case_type\": \"Patent\", \"company_name\": \"Apple Inc.\", \"year\": 2010}"}
+{"id": "simple_177", "result": "get_lawsuit_cases\n{\"company_name\": \"Facebook\", \"status\": \"all\", \"year\": 2018}"}
+{"id": "simple_178", "result": "get_lawsuit_details\n{\"case_number\": \"LAX2019080202\", \"court_location\": \"Los Angeles\"}"}
+{"id": "simple_179", "result": "find_latest_court_case\n{\"company1\": \"Apple\", \"company2\": \"Samsung\", \"country\": \"USA\"}"}
+{"id": "simple_180", "result": "lawsuits_search\n{\"case_type\": \"all\", \"company_name\": \"Google\", \"location\": \"California\", \"year\": 2020}"}
+{"id": "simple_181", "result": "get_lawsuit_details\n{\"case_number\": \"123456-ABC\", \"court_location\": \"Los Angeles\", \"with_verdict\": true}"}
+{"id": "simple_182", "result": "lawsuit_info\n{\"case_number\": \"XYZ123\"}"}
+{"id": "simple_183", "result": "lawsuit_search\n{\"county\": \"Santa Clara\", \"entity\": \"Apple\"}"}
+{"id": "simple_184", "result": "lawsuit_check_case\n{\"case_id\": 1234, \"closed_status\": true}"}
+{"id": "simple_185", "result": "detailed_weather_forecast\n{\"duration\": 72, \"include_precipitation\": true, \"location\": \"New York\"}"}
+{"id": "simple_186", "result": "current_weather_condition\n{\"city\": \"Tokyo\", \"country\": \"Japan\", \"measurement\": \"c\"}"}
+{"id": "simple_187", "result": "get_current_weather\n{\"location\": \"Seattle, Washington\"}"}
+{"id": "simple_188", "result": "weather_humidity_forecast\n{\"location\": \"Miami, Florida\", \"days\": 7}"}
+{"id": "simple_189", "result": "weather_forecast_detailed\n{\"days\": 3, \"location\": \"New York, USA\", \"details\": true}"}
+{"id": "simple_190", "result": "park_information\n{\"information\": [\"Elevation\", \"Area\"], \"park_name\": \"Yellowstone National Park\"}"}
+{"id": "simple_191", "result": "locate_tallest_mountains\n{\"amount\": 5, \"location\": \"Denver\", \"radius\": 50}"}
+{"id": "simple_192", "result": "calculate_slope_gradient\n{\"point1\": [40.7128, -74.006], \"point2\": [34.0522, -118.2437], \"unit\": \"degree\"}"}
+{"id": "simple_193", "result": "local_nursery_find\n{\"location\": \"Toronto\", \"plant_types\": [\"Annual\"]}"}
+{"id": "simple_194", "result": "get_plants_for_slope\n{\"slope_type\": \"hill\", \"num_results\": 3}"}
+{"id": "simple_195", "result": "calculate_carbon_footprint\n{\"daily_miles\": 20, \"meat_meals_per_week\": 3, \"annual_trash_weight\": 500}"}
+{"id": "simple_196", "result": "air_quality\n{\"date\": \"2022-08-16\", \"location\": \"London\"}"}
+{"id": "simple_197", "result": "get_air_quality_index\n{\"location\": \"San Diego\", \"time\": \"12:00\"}"}
+{"id": "simple_198", "result": "calculate_daily_water_intake\n{\"weight\": 70}"}
+{"id": "simple_199", "result": "environmental_data_air_quality_index\n{\"location\": \"San Jose\", \"days\": 3}"}
+{"id": "simple_200", "result": "calculate_emissions\n{\"distance\": 12000, \"fuel_efficiency\": 25.0, \"fuel_type\": \"gasoline\"}"}
+{"id": "simple_201", "result": "estimate_population\n{\"species\": \"pandas\", \"country\": \"China\"}"}
+{"id": "simple_202", "result": "calculate_emission_savings\n{\"energy_type\": \"renewable\", \"region\": \"California\", \"usage_duration\": 3}"}
+{"id": "simple_203", "result": "get_air_quality\n{\"location\": \"Chicago\"}"}
+{"id": "simple_204", "result": "restaurant_find_nearby\n{\"cuisine\": \"Chinese\", \"location\": \"Seattle, WA\", \"max_distance\": 10}"}
+{"id": "simple_205", "result": "get_traffic_info\n{\"start_location\": \"Boston\", \"end_location\": \"New York\", \"mode\": \"driving\"}"}
+{"id": "simple_206", "result": "parks_find_nearby\n{\"amenities\": [\"Tennis Court\"], \"location\": \"London\"}"}
+{"id": "simple_207", "result": "calculate_shortest_distance\n{\"start_location\": \"New York, USA\", \"end_location\": \"Miami, USA\", \"route_preference\": \"Shortest\"}"}
+{"id": "simple_208", "result": "map_service_get_directions\n{\"start\": \"New York\", \"end\": \"Los Angeles\", \"avoid\": [\"highways\", \"tolls\"]}"}
+{"id": "simple_209", "result": "public_library_find_nearby\n{\"location\": \"Boston, MA\", \"facilities\": [\"Fiction\", \"Wi-Fi\"]}"}
+{"id": "simple_210", "result": "get_news\n{\"topic\": \"Bitcoin\", \"quantity\": 5, \"region\": \"US\"}"}
+{"id": "simple_211", "result": "send_email\n{\"to\": \"john.doe@example.com\", \"subject\": \"Meeting\", \"body\": \"Let's meet at 10 AM tomorrow\"}"}
+{"id": "simple_212", "result": "get_stock_info\n{\"company_name\": \"Apple Inc.\", \"detail_level\": \"detailed\"}"}
+{"id": "simple_213", "result": "flight_book\n{\"date\": \"2022-04-27\", \"departure_location\": \"San Francisco\", \"destination_location\": \"London\", \"direct_flight\": true, \"time\": \"afternoon\"}"}
+{"id": "simple_214", "result": "event_finder_find_upcoming\n{\"days_ahead\": 30, \"genre\": \"rock\", \"location\": \"New York, NY\"}"}
+{"id": "simple_215", "result": "movie_details_brief\n{\"title\": \"Interstellar\"}"}
+{"id": "simple_216", "result": "sentiment_analysis\n{\"language\": \"en\", \"text\": \"I love the food here! It's always fresh and delicious.\"}"}
+{"id": "simple_217", "result": "fMRI_analyze\n{\"data_source\": \"/home/data/myfMRI.nii\", \"sequence_type\": \"multi-band\", \"smooth\": 6, \"voxel_size\": 2}"}
+{"id": "simple_218", "result": "patient_get_mri_report\n{\"mri_type\": \"brain\", \"patient_id\": \"546382\", \"status\": \"concluded\"}"}
+{"id": "simple_219", "result": "get_neuron_coordinates\n{\"brain_region\": \"All\", \"neuron_type\": \"GABA\"}"}
+{"id": "simple_220", "result": "calculate_neuronal_activity\n{\"input_synaptic_rate\": 200, \"weight\": 0.5, \"decay_rate\": 0.1}"}
+{"id": "simple_221", "result": "population_growth_estimate\n{\"location\": \"London\", \"years\": 5}"}
+{"id": "simple_222", "result": "calculate_bmi\n{\"weight\": 70, \"height\": 180}"}
+{"id": "simple_223", "result": "group_dynamics_pattern\n{\"extroverts\": 15, \"introverts\": 35, \"total\": 50}"}
+{"id": "simple_224", "result": "social_media_analytics_most_followed\n{\"topic\": \"psychology\", \"sub_topics\": [\"behaviour\", \"group dynamics\"]}"}
+{"id": "simple_225", "result": "psych_research_get_preference\n{\"category\": \"reading\", \"demographic\": \"all\", \"option_one\": \"digital reading\", \"option_two\": \"physical books\"}"}
+{"id": "simple_226", "result": "get_zodiac_compatibility\n{\"scale\": \"percentage\", \"sign1\": \"Aries\", \"sign2\": \"Gemini\"}"}
+{"id": "simple_227", "result": "get_personality_traits\n{\"traits\": [\"strengths\", \"weaknesses\"], \"type\": \"ENFJ\"}"}
+{"id": "simple_228", "result": "get_personality_traits\n{\"hobby\": \"jogging\", \"trait_count\": 3}"}
+{"id": "simple_229", "result": "get_bigfive_scores\n{\"characteristics\": [\"efficient\", \"organized\", \"easy going\", \"compassionate\"]}"}
+{"id": "simple_230", "result": "historic_leader_search\n{\"location\": \"France\", \"date\": 1510, \"title\": \"King\"}"}
+{"id": "simple_231", "result": "history_get_key_events\n{\"country\": \"Germany\", \"start_year\": 1871, \"end_year\": 1945, \"event_type\": [\"War\"]}"}
+{"id": "simple_232", "result": "monarch_getMonarchOfYear\n{\"fullName\": true, \"location\": \"England\", \"year\": 1800}"}
+{"id": "simple_233", "result": "european_history_get_event_date\n{\"event_name\": \"Treaty of Tordesillas\"}"}
+{"id": "simple_234", "result": "history_eu_fetch_events\n{\"category\": \"Wars\", \"century\": 19, \"region\": \"All\"}"}
+{"id": "simple_235", "result": "get_event_date\n{\"event\": \"Treaty of Lisbon\"}"}
+{"id": "simple_236", "result": "us_history_get_event_info\n{\"event_name\": \"American Civil War\", \"specific_info\": \"Start Date\"}"}
+{"id": "simple_237", "result": "get_historical_GDP\n{\"country\": \"United States\", \"start_year\": 1960, \"end_year\": 2000}"}
+{"id": "simple_238", "result": "us_history_get_president\n{\"event\": \"American Civil War\", \"year\": 1861}"}
+{"id": "simple_239", "result": "US_president_in_year\n{\"year\": 1861, \"full_name\": true}"}
+{"id": "simple_240", "result": "history_api_get_president_by_year\n{\"year\": 1940}"}
+{"id": "simple_241", "result": "US_President_During_Event\n{\"event\": \"Civil War\"}"}
+{"id": "simple_242", "result": "get_scientist_for_discovery\n{\"discovery\": \"evolution\"}"}
+{"id": "simple_243", "result": "get_discoverer\n{\"discovery\": \"neutron\", \"detail\": true}"}
+{"id": "simple_244", "result": "publication_year_find\n{\"author\": \"Isaac Newton\", \"work_title\": \"Law of Universal Gravitation\"}"}
+{"id": "simple_245", "result": "discoverer_get\n{\"element_name\": \"radium\"}"}
+{"id": "simple_246", "result": "science_history_get_discovery_details\n{\"discovery\": \"Gravity\"}"}
+{"id": "simple_247", "result": "\nTo find out Albert Einstein's contribution to science on March 17, 1915, we can use the provided function `historical_contrib_get_contrib` with the scientist's name as \"Albert Einstein\" and the date as \"1915-03-17\". Let's make the API call.historical_contrib_get_contrib\n{\"category\": \"all\", \"date\": \"1915-03-17\", \"scientist\": \"Albert Einstein\"}"}
+{"id": "simple_248", "result": "science_history_get_invention\n{\"invention_name\": \"Theory of Relativity\", \"want_year\": true}"}
+{"id": "simple_249", "result": "religion_history_info\n{\"religion\": \"Christianity\", \"till_century\": 14}"}
+{"id": "simple_250", "result": "get_time_difference\n{\"place1\": \"San Francisco\", \"place2\": \"Sydney\"}"}
+{"id": "simple_251", "result": "get_earliest_reference\n{\"name\": \"Jesus Christ\", \"source\": \"historical records\"}"}
+{"id": "simple_252", "result": "get_religion_history\n{\"century\": 16, \"count\": 10, \"religion\": \"Christianity\", \"sort_by\": \"importance\"}"}
+{"id": "simple_253", "result": "retrieve_religion_info\n{\"religion_name\": \"Buddhism\", \"detail_level\": \"full\"}"}
+{"id": "simple_254", "result": "get_religion_history\n{\"religion\": \"Christianity\", \"start_year\": 300, \"end_year\": 400}"}
+{"id": "simple_255", "result": "religious_history_get_papal_biography\n{\"include_contributions\": true, \"papal_name\": \"Innocent III\"}"}
+{"id": "simple_256", "result": "generate_circle_image\n{\"radius\": 50, \"color\": \"Red\"}"}
+{"id": "simple_257", "result": "identify_color_rgb\n{\"color_name\": \"Sea Green\", \"standard\": \"basic\"}"}
+{"id": "simple_258", "result": "mix_paint_color\n{\"color1\": \"yellow\", \"color2\": \"blue\", \"lightness\": 60}"}
+{"id": "simple_259", "result": "calculate_paint_needed\n{\"coverage_rate\": 400, \"length\": 30, \"height\": 12}"}
+{"id": "simple_260", "result": "paint_requirement_calculate\n{\"area\": {\"height\": 12, \"width\": 20}, \"exclusion\": {\"area\": 15, \"type\": \"window\"}, \"paint_coverage\": 350}"}
+{"id": "simple_261", "result": "draw_rectangle\n{\"color\": \"red\", \"width\": 20, \"height\": 10}"}
+{"id": "simple_262", "result": "modify_painting\n{\"medium\": \"oil\", \"size\": \"12x18\", \"dominant_color\": \"red\"}"}
+{"id": "simple_263", "result": "get_sculpture_info\n{\"artist_name\": \"James Plensa\", \"detail\": true}"}
+{"id": "simple_264", "result": "sculpture_get_details\n{\"artist\": \"Michelangelo\", \"title\": \"David\", \"detail\": \"size\"}"}
+{"id": "simple_265", "result": "sculpture_search\n{\"location\": \"Chicago\", \"time_frame\": \"19th century\"}"}
+{"id": "simple_266", "result": "get_sculpture_value\n{\"artist\": \"Rodin\", \"sculpture\": \"The Thinker\"}"}
+{"id": "simple_267", "result": "find_exhibition\n{\"art_form\": \"sculpture\", \"location\": \"New York, NY\", \"user_ratings\": \"high\"}"}
+{"id": "simple_268", "result": "sculpture_locator_find_by_artist\n{\"artist\": \"Michelangelo\", \"material\": \"Marble\", \"location\": \"Rome, Italy\"}"}
+{"id": "simple_269", "result": "calculate_compound_interest\n{\"principle\": 10000, \"interest_rate\": 0.05, \"time\": 10}"}
+{"id": "simple_270", "result": "building_get_dimensions\n{\"building_name\": \"Empire State Building\", \"unit\": \"feet\"}"}
+{"id": "simple_271", "result": "analyze_structure\n{\"building_id\": \"B1004\", \"floors\": [2, 3, 4], \"mode\": \"dynamic\"}"}
+{"id": "simple_272", "result": "calculate_circle_dimensions\n{\"radius\": 5}"}
+{"id": "simple_273", "result": "museum_get_hours\n{\"name\": \"Louvre Museum\", \"location\": \"Paris\"}"}
+{"id": "simple_274", "result": "museum_info\n{\"museum_name\": \"Metropolitan Museum of Art\"}"}
+{"id": "simple_275", "result": "metropolitan_museum_get_top_artworks\n{\"number\": 5, \"sort_by\": \"popularity\"}"}
+{"id": "simple_276", "result": "museum_working_hours_get\n{\"day\": \"Monday\", \"location\": \"Paris\", \"museum\": \"Louvre Museum\"}"}
+{"id": "simple_277", "result": "museum_info\n{\"date\": \"this weekend\", \"information\": [\"opening_hours\", \"ticket_price\"], \"museum\": \"The British Museum\"}"}
+{"id": "simple_278", "result": "get_instrument_details\n{\"instrument\": \"piano\", \"manufacturer\": \"Yamaha\", \"features\": [\"price\", \"rating\"]}"}
+{"id": "simple_279", "result": "instrument_price_get\n{\"brand\": \"Fender\", \"model\": \"American Professional II Stratocaster\", \"finish\": \"Rosewood\"}"}
+{"id": "simple_280", "result": "find_instrument\n{\"budget\": 1000, \"type\": \"acoustic\"}"}
+{"id": "simple_281", "result": "get_instrument_info\n{\"name\": \"Violin\", \"maker\": \"Stradivarius\", \"year\": 1721}"}
+{"id": "simple_282", "result": "find_flute\n{\"brand\": \"Yamaha\", \"specs\": [\"open hole\", \"C foot\", \"silver headjoint\"]}"}
+{"id": "simple_283", "result": "guitar_price_find\n{\"model\": \"Gibson Les Paul\", \"condition\": \"Excellent\", \"location\": \"Chicago\"}"}
+{"id": "simple_284", "result": "concert_info_get\n{\"date\": \"next month\", \"genre\": \"Pop\", \"location\": \"New York\"}"}
+{"id": "simple_285", "result": "find_concert\n{\"genre\": \"Rock\", \"location\": \"Chicago\", \"price\": 100}"}
+{"id": "simple_286", "result": "concert_get_details\n{\"artist\": \"Beyonce\", \"location\": \"San Diego\", \"date\": \"04-2022\"}"}
+{"id": "simple_287", "result": "concert_search\n{\"date\": \"this weekend\", \"genre\": \"classical\", \"location\": \"Los Angeles\", \"price_range\": \"cheap\"}"}
+{"id": "simple_288", "result": "concert_booking_book_ticket\n{\"artist\": \"Eminem\", \"city\": \"New York City\", \"num_tickets\": 2}"}
+{"id": "simple_289", "result": "concert_find_nearby\n{\"genre\": \"jazz\", \"location\": \"Seattle, WA\"}"}
+{"id": "simple_290", "result": "concert_find_details\n{\"artist\": \"The Weeknd\", \"month\": \"December\"}"}
+{"id": "simple_291", "result": "music_generator_generate_melody\n{\"key\": \"C\", \"length\": 16, \"start_note\": \"C4\", \"tempo\": 120}"}
+{"id": "simple_292", "result": "compose_melody\n{\"instrument\": \"Piano\", \"measures\": 4, \"progression\": [\"C\", \"F\", \"G\"]}"}
+{"id": "simple_293", "result": "music_composer_create_mix\n{\"note_duration\": \"quarter\", \"scale\": \"C Major\", \"track_length\": 180}"}
+{"id": "simple_294", "result": "music_generation_create_chord_progression\n{\"key\": \"C\", \"chords\": 4}"}
+{"id": "simple_295", "result": "get_song_lyrics\n{\"artist_name\": \"Queen\", \"song_title\": \"Bohemian Rhapsody\"}"}
+{"id": "simple_296", "result": "music_generator_generate_scale_progression\n{\"duration\": 4, \"key\": \"C\", \"scale_type\": \"major\", \"tempo\": 80}"}
+{"id": "simple_297", "result": "music_theory_chordProgression\n{\"progression\": [\"I\", \"V\", \"vi\", \"IV\"]}"}
+{"id": "simple_298", "result": "music_theory_key_signature\n{\"key\": \"C#\", \"scale_type\": \"major\"}"}
+{"id": "simple_299", "result": "musical_scale\n{\"key\": \"C sharp\", \"scale_type\": \"major\"}"}
+{"id": "simple_300", "result": "music_calculate_note_duration\n{\"first_note_frequency\": 440, \"second_note_frequency\": 880}"}
+{"id": "simple_301", "result": "get_third_chord\n{\"key\": \"C\", \"type\": \"major\"}"}
+{"id": "simple_302", "result": "calculate_batting_average\n{\"at_bats\": 600, \"hits\": 180, \"decimal_places\": 3}"}
+{"id": "simple_303", "result": "soccer_stat_get_player_stats\n{\"player_name\": \"Cristiano Ronaldo\", \"season\": \"2019-2020\"}"}
+{"id": "simple_304", "result": "player_stats_getLastGame\n{\"player_name\": \"LeBron James\", \"team\": \"Los Angeles Lakers\", \"metrics\": [\"Points\", \"Rebounds\"]}"}
+{"id": "simple_305", "result": "\nTo calculate the overall goals and assists of soccer player Messi (Lionel Messi) in the La Liga 2020-2021 season, I would need to use the `sports_stats_get_performance` API function you provided. However, since I cannot directly execute Python code, I will guide you through the process of how you would do it.\n\nFirst, you would need to call the API with the following parameters:\n\n- `player_name`: \"Lionel Messi\"\n- `season`: \"2020-2021\"\n- `tournament`: \"La Liga\"\n- `performance_indicator`: An array containing \"Goals Scored\" and \"Assists Made\"\n\nHere's what the function call would look like in Python:\n\n```python\nimport sports_stats_get_performance\n\n# Define the parameters\nplayer_name = \"Lionel Messi\"\nseason = \"2020-2021\"\ntournament = \"La Liga\"\nperformance_indicators = [\"Goals Scored\", \"Assists Made\"]\n\n# Call the function\nstats = sports_stats_get_performance.get_performance(\n    performance_indicator=performance_indicators,\n    player_name=player_name,\n    tournament=tournament,\n    season=season\n)\n\n# Extract the goals and assists from the response\ngoals = stats[\"Goals Scored\"]\nassists = stats[\"Assists Made\"]\n\n# Print the overall goals and assists\nprint(f\"Goals in {season} {tournament}: {goals}\")\nprint(f\"Assists in {season} {tournament}: {assists}\")\n```\n\nPlease note that the actual implementation would require you to have the `sports_stats_get_performance` function properly set up and available in your Python environment. The above code is a hypothetical example of how you would call the function and extract the data.\n\nAfter running this code, you should get the total number of goals and assists that Messi scored in the 2020-2021 La Liga season."}
+{"id": "simple_306", "result": "average_batting_score\n{\"match_format\": \"T20\", \"matches\": 10, \"player_name\": \"Virat Kohli\"}"}
+{"id": "simple_307", "result": "game_result_get_winner\n{\"date\": \"2021-01-28\", \"teams\": [\"Lakers\", \"Clippers\"]}"}
+{"id": "simple_308", "result": "sports_match_schedule\n{\"league\": \"English Premier League\", \"num_matches\": 5, \"team_name\": \"Manchester United\"}"}
+{"id": "simple_309", "result": "nfl_data_player_record\n{\"player_name\": \"Tom Brady\", \"season_year\": 2020}"}
+{"id": "simple_310", "result": "get_career_stats\n{\"player_name\": \"LeBron James\"}"}
+{"id": "simple_311", "result": "sports_db_find_athlete\n{\"name\": \"LeBron James\", \"sport\": \"Basketball\"}"}
+{"id": "simple_312", "result": "player_statistic\n{\"player_name\": \"Cristiano Ronaldo\", \"year\": 2021}"}
+{"id": "simple_313", "result": "celebrity_net_worth_get\n{\"name\": \"Lionel Messi\", \"currency\": \"EUR\"}"}
+{"id": "simple_314", "result": "sports_celebrity_get_major_achievements\n{\"celebrity_name\": \"Lionel Messi\", \"sports\": \"Football\"}"}
+{"id": "simple_315", "result": "get_defense_ranking\n{\"season\": 2021, \"top\": 1}"}
+{"id": "simple_316", "result": "get_sport_ranking\n{\"sport\": \"Tennis\", \"player_name\": \"Serena Williams\"}"}
+{"id": "simple_317", "result": "get_team_rank\n{\"league\": \"NBA\", \"season\": \"2021\", \"team_name\": \"LA Lakers\", \"type\": \"regular\"}"}
+{"id": "simple_318", "result": "get_team_ranking\n{\"team_name\": \"Germany\", \"year\": 2021, \"gender\": \"men\"}"}
+{"id": "simple_319", "result": "\nI'm sorry, but as an AI text-based model, I don't have real-time access to external databases or the internet to fetch the latest ranking of Manchester United in the Premier League. However, I can provide you with historical information based on previously known data or guide you on how to check the current ranking using a hypothetical API function like the one you mentioned.\n\nIf you have access to the `sports_ranking` function that you described, you would use it like this in Python 3 syntax:\n\n```python\nimport sports_ranking\n\n# Call the function with the appropriate parameters\nleague_name = \"Premier League\"\nteam_name = \"Manchester United\"\n# Optionally, specify the season if you want historical data\nseason = 2022  # Replace with the current or specific season you're interested in\n\n# The following line assumes that the function call is valid and the API is accessible\nresponse = sports_ranking.sports_ranking(league=league_name, team=team_name, season=season)\n\n# Print the response which should include the ranking information\nprint(response)\n```\n\nIf you don't have access to the API and need to find the current ranking, you can check the official Premier League website, sports news websites, or use a search engine to look up the latest information."}
+{"id": "simple_320", "result": "sports_ranking_get_team_position\n{\"team\": \"Golden State Warriors\", \"season\": \"2022-2023\", \"detailed\": true}"}
+{"id": "simple_321", "result": "sports_ranking\n{\"league\": \"La Liga\", \"season\": \"2021\", \"team\": \"Barcelona\"}"}
+{"id": "simple_322", "result": "sports_ranking_get_current\n{\"league\": \"Premier League\", \"team\": \"Liverpool Football Club\"}"}
+{"id": "simple_323", "result": "sports_ranking_get_top_player\n{\"sport\": \"tennis\", \"gender\": \"women\"}"}
+{"id": "simple_324", "result": "team_score_get_latest\n{\"include_opponent\": true, \"team\": \"Los Angeles Lakers\"}"}
+{"id": "simple_325", "result": "\nI don't have access to real-time data or APIs that provide specific match results. However, you can use the `sports_match_results` function to retrieve the results of a recent match between the Chicago Bulls and Los Angeles Lakers. Please note that you will need to provide the specific season of the match you're interested in. Here is an example of how you can use the function:\n\n```python\nmatch_result = sports_match_results(season=\"2023\", team1=\"Chicago Bulls\", team2=\"Los Angeles Lakers\")\n```\n\nThis will return the results of the match that occurred in the 2023 season between the Chicago Bulls and the Los Angeles Lakers. If you want the results of a different season, simply change the `season` parameter accordingly."}
+{"id": "simple_326", "result": "get_team_score\n{\"league\": \"NBA\", \"team_name\": \"Los Angeles Lakers\"}"}
+{"id": "simple_327", "result": "sports_team_get_schedule\n{\"league\": \"Premier League\", \"team_name\": \"Manchester United\", \"num_of_games\": 6}"}
+{"id": "simple_328", "result": "boardgame_get_info\n{\"name\": \"Ticket to Ride\", \"parameters\": [\"rating\", \"player count\"]}"}
+{"id": "simple_329", "result": "monopoly_odds_calculator\n{\"dice_faces\": 6, \"dice_number\": 2, \"number\": 7}"}
+{"id": "simple_330", "result": "board_game_info\n{\"game_name\": \"Catan\", \"info_required\": [\"average_review_rating\", \"age_range\"]}"}
+{"id": "simple_331", "result": "board_game_chess_get_top_players\n{\"location\": \"New York\", \"minimum_rating\": 2300}"}
+{"id": "simple_332", "result": "chess_rating\n{\"player_name\": \"Magnus Carlsen\", \"variant\": \"classical\"}"}
+{"id": "simple_333", "result": "detailed_weather_forecast\n{\"days\": 3, \"details\": [\"high_low_temperature\", \"humidity\", \"precipitation\"], \"location\": \"London, United Kingdom\"}"}
+{"id": "simple_334", "result": "blackjack_check_winner\n{\"ace_value\": 1, \"player_cards\": [\"A\", \"10\"], \"dealer_cards\": [\"10\", \"9\"]}"}
+{"id": "simple_335", "result": "find_card_in_deck\n{\"deck\": [{\"rank\": \"Ace\", \"suit\": \"Hearts\"}, {\"rank\": \"Two\", \"suit\": \"Hearts\"}, {\"rank\": \"Queen\", \"suit\": \"Hearts\"}, {\"rank\": \"King\", \"suit\": \"Spades\"}, {\"rank\": \"Ten\", \"suit\": \"Diamonds\"}], \"rank\": \"Queen\", \"suit\": \"Hearts\"}"}
+{"id": "simple_336", "result": "cards_shuffle_and_draw\n{\"num_cards\": 3}"}
+{"id": "simple_337", "result": "poker_game_winner\n{\"players\": [\"Alex\", \"Sam\", \"Robert\", \"Steve\"], \"cards\": {\"Alex\": [\"A of spades\", \"K of spades\"], \"Sam\": [\"2 of diamonds\", \"3 of clubs\"], \"Robert\": [\"Q of hearts\", \"10 of hearts\"], \"Steve\": [\"4 of spades\", \"5 of spades\"]}}"}
+{"id": "simple_338", "result": "\nThe probability of drawing a heart card from a deck of 52 cards can be calculated using the provided function. In this case, the number of desired heart cards is 13 (since there are 13 heart cards in a standard deck) and the total number of cards in the deck is 52. So, the function call would be:\n\n```\ncalculate_probability(cards_drawn=1, desired_cards=13, total_cards=52)\n```\n\nLet's retrieve the probability using this function.card_game_probability_calculate\n{\"cards_drawn\": 1, \"desired_cards\": 13, \"total_cards\": 52}"}
+{"id": "simple_339", "result": "\nI'm sorry, but I don't have direct access to external Python functions or libraries, including the one you've mentioned for calculating the probability of getting a full house in poker. However, I can explain how to calculate the probability of getting a full house in poker manually.\n\nIn poker, a full house is a hand consisting of three of a kind and a pair. To calculate the probability of getting a full house, we need to consider the following steps:\n\n1. Choose the rank of the three-of-a-kind: There are 13 possible ranks in a standard deck of 52 cards.\n2. Choose the three suits for the three-of-a-kind: For each rank, there are 4 suits to choose from, so there are 4C3 ways to choose the three suits.\n3. Choose the rank of the pair: After choosing the three-of-a-kind rank, there are 12 remaining ranks to choose from.\n4. Choose the two suits for the pair: For each rank, there are 4 suits to choose from, but we already have one card of this rank accounted for by the three-of-a-kind, so there are 3 suits left to choose from. There are 4C2 ways to choose the two suits.\n5. Calculate the total number of ways to form a full house: Multiply the number of ways to choose the ranks and suits from steps 1-4.\n6. Calculate the total number of possible 5-card hands: There are 52C5 ways to choose any 5 cards from a 52-card deck.\n\nThe probability of getting a full house is then the number of ways to form a full house divided by the total number of possible 5-card hands:\n\nP(full house) = (Number of ways to form a full house) / (Total number of possible 5-card hands)\n\nLet's calculate it step by step:\n\n1. Choose the rank of the three-of-a-kind: 13 possible ranks.\n2. Choose the three suits for the three-of-a-kind: 4C3 = 4.\n3. Choose the rank of the pair: 12 possible ranks.\n4. Choose the two suits for the pair: 4C2 = 6.\n5. Total number of ways to form a full house: 13 * 4 * 12 * 6 = 3744.\n6. Total number of possible 5-card hands: 52C5 = 2,598,960.\n\nNow, calculate the probability:\n\nP(full house) = 3744 / 2,598,960 \u2248 0.001440\n\nSo, the probability of getting a full house in poker is approximately 0.1440% or 1 in 694.8."}
+{"id": "simple_340", "result": "card_games_poker_determine_winner\n{\"hand1\": [\"8\u2665\", \"10\u2665\", \"J\u2665\", \"Q\u2665\", \"K\u2665\"], \"hand2\": [\"9\u2660\", \"J\u2660\", \"10\u2660\", \"Q\u2660\", \"K\u2660\"], \"player1\": \"John\", \"player2\": \"Mike\"}"}
+{"id": "simple_341", "result": "deck_of_cards_odds\n{\"deck_type\": \"without_joker\", \"suit\": \"hearts\"}"}
+{"id": "simple_342", "result": "game_list_get_games\n{\"release_year\": 2019, \"multiplayer\": true, \"ESRB_rating\": \"Everyone\"}"}
+{"id": "simple_343", "result": "game_stats_fetch_player_statistics\n{\"game\": \"Zelda\", \"platform\": \"Switch\", \"username\": \"Sam\"}"}
+{"id": "simple_344", "result": "get_game_item_stats\n{\"game\": \"The Legend of Zelda: Breath of the Wild\", \"item\": \"Guardian Sword+\", \"stat\": \"power rating\"}"}
+{"id": "simple_345", "result": "game_valuation\n{\"game_name\": \"Super Mario Bros.\", \"release_year\": 1985, \"condition\": \"Like New\"}"}
+{"id": "simple_346", "result": "get_collectables_in_season\n{\"game_name\": \"Animal Crossing: New Horizons\", \"season\": \"Spring\"}"}
+{"id": "simple_347", "result": "soccer_get_last_match\n{\"include_stats\": true, \"team_name\": \"Liverpool F.C.\"}"}
+{"id": "simple_348", "result": "create_player_profile\n{\"player_name\": \"StarPlayer\", \"_class\": \"Mage\", \"starting_level\": 5}"}
+{"id": "simple_349", "result": "game_score_highest\n{\"game\": \"Overwatch\", \"platform\": \"PC\"}"}
+{"id": "simple_350", "result": "get_highest_scoring_player\n{\"game\": \"Valorant\", \"season\": \"2022\"}"}
+{"id": "simple_351", "result": "multiplayer_game_finder\n{\"platform\": \"Windows 10\", \"rating\": 4.5}"}
+{"id": "simple_352", "result": "gamespot_getAverageUserScore\n{\"game_name\": \"The Legend of Zelda: Breath of the Wild\", \"platform\": \"all platforms\"}"}
+{"id": "simple_353", "result": "\nSure! To find gluten-free recipes for dinner, we can use the provided function with the appropriate parameters. Let's set the `diet` parameter to \"gluten-free\" and the `meal_type` parameter to \"dinner\". I'll call the function now.find_recipes\n{\"diet\": \"gluten-free\", \"meal_type\": \"dinner\"}"}
+{"id": "simple_354", "result": "get_vegan_recipe\n{\"dish_type\": \"soup\", \"cooking_time\": 30}"}
+{"id": "simple_355", "result": "recipe_info_get_calories\n{\"recipe\": \"Beef Lasagna\", \"website\": \"Foodnetwork.com\"}"}
+{"id": "simple_356", "result": "recipe_finder_find\n{\"diet\": \"vegan\", \"servings\": 2, \"prep_time\": 30}"}
+{"id": "simple_357", "result": "get_recipe\n{\"diet_preference\": \"vegan\", \"dish_name\": \"chocolate cake\"}"}
+{"id": "simple_358", "result": "recipe_search\n{\"diet\": [\"Gluten Free\"], \"dish\": \"cookie\", \"time_limit\": 30}"}
+{"id": "simple_359", "result": "recipe_search\n{\"dietary_restriction\": \"Vegetarian\", \"ingredients\": [\"pasta\", \"cheese\"], \"servings\": 2}"}
+{"id": "simple_360", "result": "find_recipe\n{\"recipeName\": \"pasta carbonara\", \"maxCalories\": 500}"}
+{"id": "simple_361", "result": "restaurant_finder\n{\"city\": \"New York\", \"cuisine\": \"Italian\", \"diet\": \"Gluten-free\"}"}
+{"id": "simple_362", "result": "get_best_sushi_places\n{\"city\": \"Tokyo\", \"review_rate\": 4.00, \"top\": 5}"}
+{"id": "simple_363", "result": "restaurant_search_find_closest\n{\"amenities\": [\"Patio\"], \"cuisine\": \"Sushi\", \"location\": \"Boston, MA\"}"}
+{"id": "simple_364", "result": "find_restaurant\n{\"diet_option\": \"Gluten-free\", \"location\": \"Brooklyn\", \"type\": \"Italian\"}"}
+{"id": "simple_365", "result": "\nTo convert pounds of butter to ounces, you can use the following conversion factor: 1 pound = 16 ounces. To convert 2 pounds to ounces, you simply multiply 2 by 16. Let's do the calculation.cooking_conversion_convert\n{\"from_unit\": \"pound\", \"item\": \"butter\", \"quantity\": 2, \"to_unit\": \"ounce\"}"}
+{"id": "simple_366", "result": "recipe_unit_conversion\n{\"value\": 2, \"from_unit\": \"tablespoon\", \"to_unit\": \"teaspoon\"}"}
+{"id": "simple_367", "result": "find_recipe\n{\"dietary_restrictions\": \"vegan\", \"recipe_type\": \"dessert\", \"time\": 30}"}
+{"id": "simple_368", "result": "calculate_cooking_time\n{\"weight_kg\": 1.5}"}
+{"id": "simple_369", "result": "grocery_store_find_nearby\n{\"categories\": [\"Organic\", \"Vegetables\", \"Fruits\"], \"location\": \"Houston, TX\"}"}
+{"id": "simple_370", "result": "safeway_order\n{\"items\": [\"olive oil\", \"rice\"], \"location\": \"Palo Alto, CA\", \"quantity\": [3, 1]}"}
+{"id": "simple_371", "result": "whole_foods_check_price\n{\"items\": [\"tomatoes\", \"lettuce\"], \"location\": \"Los Angeles\"}"}
+{"id": "simple_372", "result": "whole_foods_find_top_brands\n{\"number\": 5, \"organic\": true, \"product\": \"bananas\"}"}
+{"id": "simple_373", "result": "walmart_purchase\n{\"loc\": \"San Jose\", \"product_list\": [\"apples\", \"rice\", \"12 pack of bottled water\"]}"}
+{"id": "simple_374", "result": "grocery_info_nutritional_info\n{\"food\": \"avocado\", \"information\": [\"Protein\", \"Calories\", \"Carbohydrates\"], \"store\": \"Walmart\"}"}
+{"id": "simple_375", "result": "walmart_check_price\n{\"items\": [\"3 pumpkins\", \"2 dozen eggs\"], \"quantities\": [3, 2]}"}
+{"id": "simple_376", "result": "time_zone_converter\n{\"city\": \"London\", \"country\": \"UK\", \"display_format\": \"24h\"}"}
+{"id": "simple_377", "result": "get_current_time\n{\"city\": \"Sydney\", \"country\": \"Australia\"}"}
+{"id": "simple_378", "result": "timezone_convert\n{\"from_timezone\": \"New York\", \"time\": \"3pm\", \"to_timezone\": \"London\"}"}
+{"id": "simple_379", "result": "get_current_time\n{\"country\": \"Australia\", \"location\": \"Sydney\", \"timezone\": \"\"}"}
+{"id": "simple_380", "result": "\nTo book a single room at a pet friendly hotel near Manhattan, New York for 3 nights starting from March 10th, 2023, I will use the provided API function `hotel_booking`. Here are the parameters I will pass to the function:\n\n- `location`: \"Manhattan, New York\"\n- `room_type`: \"single\"\n- `duration`: 3\n- `start_date`: \"2023-03-10\"\n- `preferences`: [\"pet_friendly\"]\n\nNow I'll call the `hotel_booking` API function to book the hotel room.hotel_booking\n{\"location\": \"Manhattan, New York\", \"room_type\": \"single\", \"duration\": 3, \"start_date\": \"2023-03-10\", \"preferences\": [\"pet_friendly\"]}"}
+{"id": "simple_381", "result": "hilton_hotel_check_availability\n{\"check_in_date\": \"2023-04-04\", \"check_out_date\": \"2023-04-08\", \"location\": \"Paris\", \"no_of_adults\": 2, \"hotel_chain\": \"Hilton\"}"}
+{"id": "simple_382", "result": "book_hotel\n{\"hotel_name\": \"Hilton\", \"location\": \"Chicago\", \"room_type\": \"single\", \"start_date\": \"2022-12-10\", \"nights\": 2}"}
+{"id": "simple_383", "result": "book_room\n{\"hotel_name\": \"The Plaza\", \"num_nights\": 2, \"room_type\": \"single\"}"}
+{"id": "simple_384", "result": "\nI will book a hotel room for two adults and one child in Paris, France from July 10, 2022 to July 20, 2022. The room type is standard. Is this correct?hotel_booking_book\n{\"adults\": 2, \"children\": 1, \"city\": \"Paris\", \"from_date\": \"07-10-2022\", \"to_date\": \"07-20-2022\", \"room_type\": \"Standard\"}"}
+{"id": "simple_385", "result": "hotel_bookings_book_room\n{\"location\": \"Los Angeles, CA\", \"room_type\": \"king size\", \"check_in_date\": \"15-10-2023\", \"no_of_nights\": 2}"}
+{"id": "simple_386", "result": "book_hotel\n{\"hotel_name\": \"Hotel Paradise\", \"location\": \"Las Vegas\", \"room_type\": \"luxury\", \"start_date\": \"05-12-2022\", \"stay_duration\": 3, \"view\": \"city\"}"}
+{"id": "simple_387", "result": "hotel_booking\n{\"hotel_name\": \"Plaza Hotel\", \"location\": \"New York, NY\", \"start_date\": \"2022-06-01\", \"end_date\": \"2022-06-04\", \"rooms\": 1}"}
+{"id": "simple_388", "result": "currency_exchange_convert\n{\"amount\": 500, \"base_currency\": \"USD\", \"target_currency\": \"CAD\"}"}
+{"id": "simple_389", "result": "\nTo calculate the current cost in British Pounds if you need to convert 200 US dollars, I'll use the `currency_converter` function. Let's make the API call with the specified parameters.currency_converter\n{\"amount\": 200, \"base_currency\": \"USD\", \"target_currency\": \"GBP\"}"}
+{"id": "simple_390", "result": "currency_conversion_convert\n{\"amount\": 150, \"from_currency\": \"EUR\", \"to_currency\": \"CAD\"}"}
+{"id": "simple_391", "result": "get_exchange_rate_with_fee\n{\"base_currency\": \"GBP\", \"target_currency\": \"JPY\", \"fee\": 0.02}"}
+{"id": "simple_392", "result": "latest_exchange_rate\n{\"source_currency\": \"GBP\", \"target_currency\": \"JPY\"}"}
+{"id": "simple_393", "result": "convert_currency\n{\"amount\": 20000, \"base_currency\": \"JPY\", \"target_currency\": \"USD\"}"}
+{"id": "simple_394", "result": "maps_get_distance_duration\n{\"start_location\": \"Eiffel Tower, Paris\", \"end_location\": \"Louvre Museum, Paris\"}"}
+{"id": "simple_395", "result": "parking_lot_find_nearest\n{\"location\": \"Central Park, NY\", \"radius\": 2}"}
+{"id": "simple_396", "result": "hospital_locate\n{\"location\": \"Denver, CO\", \"radius\": 5, \"department\": \"Pediatrics\"}"}
+{"id": "simple_397", "result": "distance_calculator_calculate\n{\"origin\": \"New York\", \"destination\": \"Boston\", \"consider_terrain\": true}"}
+{"id": "simple_398", "result": "get_museum_hours\n{\"museum_name\": \"Metropolitan Museum of Art\", \"day\": \"Saturday\"}"}
+{"id": "simple_399", "result": "restaurant_search\n{\"cuisine\": \"Italian\", \"location\": \"New York City\", \"rating\": 4, \"accepts_credit_cards\": true}"}
