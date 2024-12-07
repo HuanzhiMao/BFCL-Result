@@ -1,0 +1,240 @@
+{"id": "irrelevance_0", "result": "```\n[]\n```", "input_token_count": 379, "output_token_count": 5, "latency": 0.8716518878936768}
+{"id": "irrelevance_1", "result": "```\n[]\n```", "input_token_count": 393, "output_token_count": 5, "latency": 0.6083521842956543}
+{"id": "irrelevance_2", "result": "```\n[]\n```", "input_token_count": 406, "output_token_count": 5, "latency": 0.47126221656799316}
+{"id": "irrelevance_3", "result": "```\n[]\n```", "input_token_count": 428, "output_token_count": 5, "latency": 1.054560899734497}
+{"id": "irrelevance_4", "result": "```\n[{\"name\": \"find_roots\", \"arguments\": {\"a\": 1.0, \"b\": 0.0, \"c\": 1.0}}]\n```", "input_token_count": 396, "output_token_count": 41, "latency": 1.4182319641113281}
+{"id": "irrelevance_5", "result": "```\n[]\n```", "input_token_count": 411, "output_token_count": 5, "latency": 0.5530619621276855}
+{"id": "irrelevance_6", "result": "```\n[]\n```", "input_token_count": 392, "output_token_count": 5, "latency": 0.4337320327758789}
+{"id": "irrelevance_7", "result": "```\n[{\"name\": \"math.integral_calculator\", \"arguments\": {\"function\": \"3*x**2\", \"lower_bound\": 1.0, \"upper_bound\": 5.0}}]\n```", "input_token_count": 424, "output_token_count": 46, "latency": 1.1773896217346191}
+{"id": "irrelevance_8", "result": "```\n[]\n```", "input_token_count": 344, "output_token_count": 5, "latency": 0.43881654739379883}
+{"id": "irrelevance_9", "result": "```\n[]\n```", "input_token_count": 407, "output_token_count": 5, "latency": 0.5451440811157227}
+{"id": "irrelevance_10", "result": "```\n[]\n```", "input_token_count": 422, "output_token_count": 5, "latency": 0.8370280265808105}
+{"id": "irrelevance_11", "result": "```\n[]\n```", "input_token_count": 384, "output_token_count": 5, "latency": 0.869434118270874}
+{"id": "irrelevance_12", "result": "```\n[]\n```", "input_token_count": 413, "output_token_count": 5, "latency": 0.47153782844543457}
+{"id": "irrelevance_13", "result": "```\n[]\n```", "input_token_count": 467, "output_token_count": 5, "latency": 0.6702227592468262}
+{"id": "irrelevance_14", "result": "```\n[{\"name\": \"calculate_maximum_height\", \"arguments\": {\"initial_velocity\": 5.0}}]\n```", "input_token_count": 403, "output_token_count": 26, "latency": 0.9706034660339355}
+{"id": "irrelevance_15", "result": "```\n[]\n```", "input_token_count": 410, "output_token_count": 5, "latency": 0.3631305694580078}
+{"id": "irrelevance_16", "result": "```\n[]\n```", "input_token_count": 443, "output_token_count": 5, "latency": 0.7403130531311035}
+{"id": "irrelevance_17", "result": "```\n[]\n```", "input_token_count": 410, "output_token_count": 5, "latency": 0.509418249130249}
+{"id": "irrelevance_18", "result": "```\n[]\n```", "input_token_count": 417, "output_token_count": 5, "latency": 0.6386570930480957}
+{"id": "irrelevance_19", "result": "```\n[]\n```", "input_token_count": 404, "output_token_count": 5, "latency": 0.5484511852264404}
+{"id": "irrelevance_20", "result": "```\n[]\n```", "input_token_count": 400, "output_token_count": 5, "latency": 0.5819501876831055}
+{"id": "irrelevance_21", "result": "```\n[]\n```", "input_token_count": 435, "output_token_count": 5, "latency": 0.6330764293670654}
+{"id": "irrelevance_22", "result": "```\n[{\"name\": \"magnetic_field_intensity\", \"arguments\": {\"current\": \"I\", \"distance\": \"r\"}}]\n```", "input_token_count": 440, "output_token_count": 30, "latency": 0.9638478755950928}
+{"id": "irrelevance_23", "result": "```\n[]\n```", "input_token_count": 448, "output_token_count": 5, "latency": 0.8198206424713135}
+{"id": "irrelevance_24", "result": "```\n[]\n```", "input_token_count": 393, "output_token_count": 5, "latency": 0.448289155960083}
+{"id": "irrelevance_25", "result": "```\n[{\"name\": \"thermodynamics.calculate_boiling_point\", \"arguments\": {\"substance\": \"water\", \"pressure\": 10.0, \"unit\": \"kPa\"}}]\n```", "input_token_count": 416, "output_token_count": 44, "latency": 1.0436413288116455}
+{"id": "irrelevance_26", "result": "```\n[{\"name\": \"thermodynamics.calc_gas_pressure\", \"arguments\": {\"volume\": 2.0, \"initial_temperature\": 25.0, \"final_temperature\": 100.0}}]\n```", "input_token_count": 456, "output_token_count": 49, "latency": 1.0553982257843018}
+{"id": "irrelevance_27", "result": "```\n[{\"name\": \"calculate_heat\", \"arguments\": {\"mass\": 3.0, \"specific_heat\": 4.184, \"change_in_temp\": 4.0}}]\n```", "input_token_count": 445, "output_token_count": 45, "latency": 1.023465633392334}
+{"id": "irrelevance_28", "result": "```\n[]\n```", "input_token_count": 380, "output_token_count": 5, "latency": 0.25467944145202637}
+{"id": "irrelevance_29", "result": "```\n[{\"name\": \"get_cell_function\", \"arguments\": {\"cell_part\": \"mitochondria\", \"detail_level\": \"basic\"}}]\n```", "input_token_count": 389, "output_token_count": 33, "latency": 0.9787554740905762}
+{"id": "irrelevance_30", "result": "```\n[]\n```", "input_token_count": 433, "output_token_count": 5, "latency": 0.2896583080291748}
+{"id": "irrelevance_31", "result": "```\n[]\n```", "input_token_count": 410, "output_token_count": 5, "latency": 0.4619910717010498}
+{"id": "irrelevance_32", "result": "```\n[]\n```", "input_token_count": 440, "output_token_count": 5, "latency": 0.7406051158905029}
+{"id": "irrelevance_33", "result": "```\n[{\"name\": \"identify_species\", \"arguments\": {\"sequence\": \"ATCG\", \"database\": \"GenBank\"}}]\n```", "input_token_count": 377, "output_token_count": 30, "latency": 0.9563796520233154}
+{"id": "irrelevance_34", "result": "```\n[]\n```", "input_token_count": 373, "output_token_count": 5, "latency": 0.4585247039794922}
+{"id": "irrelevance_35", "result": "```\n[]\n```", "input_token_count": 401, "output_token_count": 5, "latency": 0.41185832023620605}
+{"id": "irrelevance_36", "result": "```\n[]\n```", "input_token_count": 424, "output_token_count": 5, "latency": 0.3007645606994629}
+{"id": "irrelevance_37", "result": "```\n[]\n```", "input_token_count": 404, "output_token_count": 5, "latency": 0.20340466499328613}
+{"id": "irrelevance_38", "result": "```\n[]\n```", "input_token_count": 422, "output_token_count": 5, "latency": 0.5545296669006348}
+{"id": "irrelevance_39", "result": "```\n[{\"name\": \"calculate_population_growth\", \"arguments\": {\"current_population\": 1000, \"birth_rate\": 0.05, \"death_rate\": 0.02}}]\n```", "input_token_count": 405, "output_token_count": 47, "latency": 1.18129301071167}
+{"id": "irrelevance_40", "result": "```\n[]\n```", "input_token_count": 404, "output_token_count": 5, "latency": 0.34174513816833496}
+{"id": "irrelevance_41", "result": "```\n[]\n```", "input_token_count": 381, "output_token_count": 5, "latency": 0.563668966293335}
+{"id": "irrelevance_42", "result": "```\n[]\n```", "input_token_count": 446, "output_token_count": 5, "latency": 0.6345038414001465}
+{"id": "irrelevance_43", "result": "```\n[{\"name\": \"evolve_creatures\", \"arguments\": {\"population_size\": 100, \"mutation_rate\": 0.1, \"generations\": 100, \"fitness_goal\": 10}}]\n```", "input_token_count": 443, "output_token_count": 54, "latency": 1.141890525817871}
+{"id": "irrelevance_44", "result": "```\n[{\"name\": \"gene_sequencer\", \"arguments\": {\"species\": \"whale\", \"mutation_rate\": 0.001, \"evolution_duration\": 100, \"mutation_factors\": [\"genetic_drift\", \"gene_flow\"]}}]\n```", "input_token_count": 479, "output_token_count": 61, "latency": 0.9701178073883057}
+{"id": "irrelevance_45", "result": "```\n[]\n```", "input_token_count": 418, "output_token_count": 5, "latency": 0.6126437187194824}
+{"id": "irrelevance_46", "result": "```\n[]\n```", "input_token_count": 364, "output_token_count": 5, "latency": 0.48346447944641113}
+{"id": "irrelevance_47", "result": "```\n[]\n```", "input_token_count": 416, "output_token_count": 5, "latency": 0.6478800773620605}
+{"id": "irrelevance_48", "result": "```\n[]\n```", "input_token_count": 416, "output_token_count": 5, "latency": 0.6789600849151611}
+{"id": "irrelevance_49", "result": "```\n[]\n```", "input_token_count": 343, "output_token_count": 5, "latency": 0.6579198837280273}
+{"id": "irrelevance_50", "result": "```\n[]\n```", "input_token_count": 380, "output_token_count": 5, "latency": 0.5319569110870361}
+{"id": "irrelevance_51", "result": "```\n[]\n```", "input_token_count": 400, "output_token_count": 5, "latency": 1.0152647495269775}
+{"id": "irrelevance_52", "result": "```\n[]\n```", "input_token_count": 409, "output_token_count": 5, "latency": 1.1819562911987305}
+{"id": "irrelevance_53", "result": "```\n[]\n```", "input_token_count": 410, "output_token_count": 5, "latency": 0.6681866645812988}
+{"id": "irrelevance_54", "result": "```\n[]\n```", "input_token_count": 392, "output_token_count": 5, "latency": 1.1782712936401367}
+{"id": "irrelevance_55", "result": "```\n[]\n```", "input_token_count": 418, "output_token_count": 5, "latency": 1.0364794731140137}
+{"id": "irrelevance_56", "result": "```\n[]\n```", "input_token_count": 397, "output_token_count": 5, "latency": 1.1475119590759277}
+{"id": "irrelevance_57", "result": "```\n[]\n```", "input_token_count": 458, "output_token_count": 5, "latency": 1.0844073295593262}
+{"id": "irrelevance_58", "result": "```\n[{\"name\": \"solar_panel.calculate_need\", \"arguments\": {\"square_footage\": 2000.0, \"average_sunlight_hours\": 3000.0, \"usage_efficiency\": 0.8}}]\n```", "input_token_count": 437, "output_token_count": 56, "latency": 2.110239267349243}
+{"id": "irrelevance_59", "result": "```\n[]\n```", "input_token_count": 364, "output_token_count": 5, "latency": 0.9377090930938721}
+{"id": "irrelevance_60", "result": "```\n[{\"name\": \"calculateFinalPrice\", \"arguments\": {\"price\": 100.0, \"discount_rate\": 0.25, \"sales_tax\": 0.1}}]\n```", "input_token_count": 449, "output_token_count": 46, "latency": 2.109285354614258}
+{"id": "irrelevance_61", "result": "```\n[]\n```", "input_token_count": 430, "output_token_count": 5, "latency": 1.0863704681396484}
+{"id": "irrelevance_62", "result": "```\n[]\n```", "input_token_count": 459, "output_token_count": 5, "latency": 0.9260101318359375}
+{"id": "irrelevance_63", "result": "```\n[{\"name\": \"probability_calculator\", \"arguments\": {\"total_outcomes\": 3, \"event_outcomes\": 2, \"return_decimal\": false}}]\n```", "input_token_count": 408, "output_token_count": 39, "latency": 2.123939275741577}
+{"id": "irrelevance_64", "result": "```\n[]\n```", "input_token_count": 460, "output_token_count": 5, "latency": 1.8266587257385254}
+{"id": "irrelevance_65", "result": "```\n[{\"name\": \"probability.determine_population\", \"arguments\": {\"probability\": 0.3, \"sample_size\": 20, \"round\": false}}]\n```", "input_token_count": 414, "output_token_count": 39, "latency": 2.4991650581359863}
+{"id": "irrelevance_66", "result": "```\n[]\n```", "input_token_count": 395, "output_token_count": 5, "latency": 2.5344889163970947}
+{"id": "irrelevance_67", "result": "```\n[{\"name\": \"hypothesis_testing.get_p_value\", \"arguments\": {\"successes\": 50, \"n\": 500, \"prob_null\": 0.1, \"alternative\": \"less\"}}]\n```", "input_token_count": 521, "output_token_count": 52, "latency": 2.8307247161865234}
+{"id": "irrelevance_68", "result": "```\n[{\"name\": \"statistics.calculate_p_value\", \"arguments\": {\"sample_mean\": 98.2, \"population_mean\": 98.6, \"sample_std_dev\": 1.4, \"sample_size\": 40, \"two_tailed\": true}}]\n```", "input_token_count": 498, "output_token_count": 63, "latency": 2.5785748958587646}
+{"id": "irrelevance_69", "result": "```\n[]\n```", "input_token_count": 416, "output_token_count": 5, "latency": 0.9097309112548828}
+{"id": "irrelevance_70", "result": "```\n[]\n```", "input_token_count": 439, "output_token_count": 5, "latency": 1.8845834732055664}
+{"id": "irrelevance_71", "result": "```\n[]\n```", "input_token_count": 428, "output_token_count": 5, "latency": 1.063028335571289}
+{"id": "irrelevance_72", "result": "```\n[{\"name\": \"calculate_internal_rate_of_return\", \"arguments\": {\"cash_flows\": [-100.0, 40.0, 60.0, 80.0, 120.0]}}]\n```", "input_token_count": 423, "output_token_count": 57, "latency": 2.1895229816436768}
+{"id": "irrelevance_73", "result": "```\n[{\"name\": \"finance.predict_revenue\", \"arguments\": {\"company_name\": \"XYZ\", \"period\": \"next year\", \"industry_trends\": false}}]\n```", "input_token_count": 415, "output_token_count": 39, "latency": 3.9136366844177246}
+{"id": "irrelevance_74", "result": "```\n[{\"name\": \"investment_analysis.calculate_profit\", \"arguments\": {\"total_revenue\": 15000.0, \"total_cost\": 22000.0}}]\n```", "input_token_count": 420, "output_token_count": 45, "latency": 2.821768283843994}
+{"id": "irrelevance_75", "result": "```\n[]\n```", "input_token_count": 413, "output_token_count": 5, "latency": 1.049961805343628}
+{"id": "irrelevance_76", "result": "```\n[]\n```", "input_token_count": 419, "output_token_count": 5, "latency": 1.717125415802002}
+{"id": "irrelevance_77", "result": "```\n[]\n```", "input_token_count": 452, "output_token_count": 5, "latency": 2.9630184173583984}
+{"id": "irrelevance_78", "result": "```\n[]\n```", "input_token_count": 438, "output_token_count": 5, "latency": 2.680853843688965}
+{"id": "irrelevance_79", "result": "```\n[]\n```", "input_token_count": 400, "output_token_count": 5, "latency": 2.888657331466675}
+{"id": "irrelevance_80", "result": "```\n[]\n```", "input_token_count": 433, "output_token_count": 5, "latency": 1.656862735748291}
+{"id": "irrelevance_81", "result": "```\n[]\n```", "input_token_count": 415, "output_token_count": 5, "latency": 1.4557232856750488}
+{"id": "irrelevance_82", "result": "```\n[]\n```", "input_token_count": 433, "output_token_count": 5, "latency": 2.5475921630859375}
+{"id": "irrelevance_83", "result": "```\n[]\n```", "input_token_count": 402, "output_token_count": 5, "latency": 1.7984247207641602}
+{"id": "irrelevance_84", "result": "```\n[]\n```", "input_token_count": 375, "output_token_count": 5, "latency": 1.4604759216308594}
+{"id": "irrelevance_85", "result": "```\n[]\n```", "input_token_count": 409, "output_token_count": 5, "latency": 1.7088429927825928}
+{"id": "irrelevance_86", "result": "```\n[{\"name\": \"law_info.get_penalty\", \"arguments\": {\"crime\": \"burglary\", \"state\": \"California\"}}]\n```", "input_token_count": 372, "output_token_count": 32, "latency": 2.7312188148498535}
+{"id": "irrelevance_87", "result": "```\n[]\n```", "input_token_count": 407, "output_token_count": 5, "latency": 2.4898252487182617}
+{"id": "irrelevance_88", "result": "```\n[]\n```", "input_token_count": 430, "output_token_count": 5, "latency": 3.02691912651062}
+{"id": "irrelevance_89", "result": "```\n[]\n```", "input_token_count": 419, "output_token_count": 5, "latency": 3.067754030227661}
+{"id": "irrelevance_90", "result": "```\n[]\n```", "input_token_count": 414, "output_token_count": 5, "latency": 1.797170877456665}
+{"id": "irrelevance_91", "result": "```\n[]\n```", "input_token_count": 409, "output_token_count": 5, "latency": 1.803912878036499}
+{"id": "irrelevance_92", "result": "```\n[]\n```", "input_token_count": 427, "output_token_count": 5, "latency": 2.913557291030884}
+{"id": "irrelevance_93", "result": "```\n[]\n```", "input_token_count": 402, "output_token_count": 5, "latency": 2.547065258026123}
+{"id": "irrelevance_94", "result": "```\n[]\n```", "input_token_count": 413, "output_token_count": 5, "latency": 1.3663005828857422}
+{"id": "irrelevance_95", "result": "```\n[{\"name\": \"case_review.retrieve_case_outcome\", \"arguments\": {\"case_name\": \"Doe vs. Smith\", \"case_year\": 2020, \"location\": \"CA\"}}]\n```", "input_token_count": 420, "output_token_count": 47, "latency": 1.9930908679962158}
+{"id": "irrelevance_96", "result": "```\n[]\n```", "input_token_count": 415, "output_token_count": 5, "latency": 3.642472505569458}
+{"id": "irrelevance_97", "result": "```\n[]\n```", "input_token_count": 412, "output_token_count": 5, "latency": 2.3798229694366455}
+{"id": "irrelevance_98", "result": "```\n[]\n```", "input_token_count": 404, "output_token_count": 5, "latency": 0.9341621398925781}
+{"id": "irrelevance_99", "result": "```\n[{\"name\": \"lawsuit_search\", \"arguments\": {\"location\": \"Texas\", \"subject\": \"traffic laws\", \"year\": 2024}}]\n```", "input_token_count": 402, "output_token_count": 39, "latency": 2.9161875247955322}
+{"id": "irrelevance_100", "result": "```\n[]\n```", "input_token_count": 426, "output_token_count": 5, "latency": 0.9580011367797852}
+{"id": "irrelevance_101", "result": "```\n[]\n```", "input_token_count": 377, "output_token_count": 5, "latency": 1.8630335330963135}
+{"id": "irrelevance_102", "result": "```\n[{\"name\": \"calculate_sunrise_and_sunset\", \"arguments\": {\"location\": \"New York City\", \"date\": \"2023-03-15\", \"output_format\": \"12-hour\"}}]\n```", "input_token_count": 433, "output_token_count": 52, "latency": 1.958935022354126}
+{"id": "irrelevance_103", "result": "```\n[{\"name\": \"weather_forecast.get\", \"arguments\": {\"location\": \"New York City\"}}]\n```", "input_token_count": 390, "output_token_count": 26, "latency": 2.6309735774993896}
+{"id": "irrelevance_104", "result": "```\n[]\n```", "input_token_count": 404, "output_token_count": 5, "latency": 1.5353233814239502}
+{"id": "irrelevance_105", "result": "```\n[]\n```", "input_token_count": 409, "output_token_count": 5, "latency": 1.754551887512207}
+{"id": "irrelevance_106", "result": "```\n[]\n```", "input_token_count": 421, "output_token_count": 5, "latency": 2.88582706451416}
+{"id": "irrelevance_107", "result": "```\n[]\n```", "input_token_count": 426, "output_token_count": 5, "latency": 1.3793480396270752}
+{"id": "irrelevance_108", "result": "```\n[{\"name\": \"emission_estimator\", \"arguments\": {\"current_emissions\": 1000.0, \"action\": \"plant trees\", \"scale\": \"individual\", \"duration\": 10}}]\n```", "input_token_count": 459, "output_token_count": 50, "latency": 2.1468138694763184}
+{"id": "irrelevance_109", "result": "```\n[{\"name\": \"calculate_water_needs\", \"arguments\": {\"plant_type\": \"cactus\", \"location\": \"Arizona\", \"season\": \"summer\"}}]\n```", "input_token_count": 436, "output_token_count": 38, "latency": 2.400907516479492}
+{"id": "irrelevance_110", "result": "```\n[]\n```", "input_token_count": 399, "output_token_count": 5, "latency": 5.409823894500732}
+{"id": "irrelevance_111", "result": "```\n[{\"name\": \"geo_location_based_products.fetch_eco_friendly_products\", \"arguments\": {\"location\": \"Seattle, WA\", \"product_category\": \"GMO Yoga Mats\", \"availability\": \"Instore\"}}]\n```", "input_token_count": 443, "output_token_count": 49, "latency": 2.0055224895477295}
+{"id": "irrelevance_112", "result": "```\n[]\n```", "input_token_count": 396, "output_token_count": 5, "latency": 1.5259172916412354}
+{"id": "irrelevance_113", "result": "```\n[{\"name\": \"find_pois\", \"arguments\": {\"location\": \"London\", \"category\": \"Restaurants\", \"rating\": 3.0}}]\n```", "input_token_count": 429, "output_token_count": 38, "latency": 2.4380712509155273}
+{"id": "irrelevance_114", "result": "```\n[]\n```", "input_token_count": 418, "output_token_count": 5, "latency": 1.7489993572235107}
+{"id": "irrelevance_115", "result": "```\n[{\"name\": \"calculate_distance\", \"arguments\": {\"origin\": {\"lat\": 42.3688, \"lon\": -71.0068}, \"destination\": {\"lat\": 40.7128, \"lon\": -74.0060}, \"speed\": 60.0}}]\n```", "input_token_count": 404, "output_token_count": 79, "latency": 2.082075595855713}
+{"id": "irrelevance_116", "result": "```\n[]\n```", "input_token_count": 372, "output_token_count": 5, "latency": 1.5939557552337646}
+{"id": "irrelevance_117", "result": "```\n[]\n```", "input_token_count": 456, "output_token_count": 5, "latency": 2.583185911178589}
+{"id": "irrelevance_118", "result": "```\n[]\n```", "input_token_count": 389, "output_token_count": 5, "latency": 2.1472725868225098}
+{"id": "irrelevance_119", "result": "```\n[]\n```", "input_token_count": 388, "output_token_count": 5, "latency": 1.2339913845062256}
+{"id": "irrelevance_120", "result": "```\n[]\n```", "input_token_count": 416, "output_token_count": 5, "latency": 1.7810122966766357}
+{"id": "irrelevance_121", "result": "```\n[{\"name\": \"medical_records.get_disease_info\", \"arguments\": {\"disease_name\": \"motor neuron diseases\"}}]\n```", "input_token_count": 374, "output_token_count": 30, "latency": 2.1841073036193848}
+{"id": "irrelevance_122", "result": "```\n[]\n```", "input_token_count": 446, "output_token_count": 5, "latency": 2.305208921432495}
+{"id": "irrelevance_123", "result": "```\n[]\n```", "input_token_count": 411, "output_token_count": 5, "latency": 1.4673709869384766}
+{"id": "irrelevance_124", "result": "```\n[{\"name\": \"get_social_trends\", \"arguments\": {\"category\": \"technology\", \"region\": \"worldwide\"}}]\n```", "input_token_count": 371, "output_token_count": 31, "latency": 1.9472179412841797}
+{"id": "irrelevance_125", "result": "```\n[]\n```", "input_token_count": 394, "output_token_count": 5, "latency": 1.269690990447998}
+{"id": "irrelevance_126", "result": "```\n[{\"name\": \"get_happiness_index\", \"arguments\": {\"country\": \"United States\", \"year\": 2022, \"demographic_group\": \"high income\"}}]\n```", "input_token_count": 451, "output_token_count": 43, "latency": 1.7168400287628174}
+{"id": "irrelevance_127", "result": "```\n[{\"name\": \"sentiment_analysis.twitter\", \"arguments\": {\"topic\": \"iPhone release\", \"language\": \"en\", \"num_tweets\": 100}}]\n```", "input_token_count": 400, "output_token_count": 40, "latency": 1.669008731842041}
+{"id": "irrelevance_128", "result": "```\n[{\"name\": \"personality_assessment.calculate_score\", \"arguments\": {\"user_responses\": [3, 4, 5, 6, 7], \"weighted_score\": false}}]\n```", "input_token_count": 419, "output_token_count": 45, "latency": 1.883901834487915}
+{"id": "irrelevance_129", "result": "```\n[]\n```", "input_token_count": 453, "output_token_count": 5, "latency": 1.12214994430542}
+{"id": "irrelevance_130", "result": "```\n[{\"name\": \"calculate_big_five_traits\", \"arguments\": {\"answers\": [1, 2, 3, 4, 5], \"calculate_percentile\": true, \"average_answers\": false}}]\n```", "input_token_count": 436, "output_token_count": 49, "latency": 2.5795624256134033}
+{"id": "irrelevance_131", "result": "```\n[{\"name\": \"psychology.color_representation\", \"arguments\": {\"color\": \"purple\", \"context\": \"computer vision\", \"individual_traits\": \"traits\"}}]\n```", "input_token_count": 417, "output_token_count": 38, "latency": 1.8100285530090332}
+{"id": "irrelevance_132", "result": "```\n[]\n```", "input_token_count": 370, "output_token_count": 5, "latency": 1.3137552738189697}
+{"id": "irrelevance_133", "result": "```\n[]\n```", "input_token_count": 411, "output_token_count": 5, "latency": 2.5238821506500244}
+{"id": "irrelevance_134", "result": "```\n[]\n```", "input_token_count": 414, "output_token_count": 5, "latency": 2.4492099285125732}
+{"id": "irrelevance_135", "result": "```\n[]\n```", "input_token_count": 400, "output_token_count": 5, "latency": 1.7379400730133057}
+{"id": "irrelevance_136", "result": "```\n[{\"name\": \"us_president_in_year\", \"arguments\": {\"year\": 2023, \"state\": \"\"}}]\n```", "input_token_count": 373, "output_token_count": 33, "latency": 1.781189203262329}
+{"id": "irrelevance_137", "result": "```\n[]\n```", "input_token_count": 419, "output_token_count": 5, "latency": 1.2043938636779785}
+{"id": "irrelevance_138", "result": "```\n[]\n```", "input_token_count": 380, "output_token_count": 5, "latency": 2.15529727935791}
+{"id": "irrelevance_139", "result": "```\n[]\n```", "input_token_count": 382, "output_token_count": 5, "latency": 2.231529712677002}
+{"id": "irrelevance_140", "result": "```\n[]\n```", "input_token_count": 406, "output_token_count": 5, "latency": 0.6011338233947754}
+{"id": "irrelevance_141", "result": "```\n[]\n```", "input_token_count": 385, "output_token_count": 5, "latency": 1.1018998622894287}
+{"id": "irrelevance_142", "result": "```\n[]\n```", "input_token_count": 351, "output_token_count": 5, "latency": 1.2557079792022705}
+{"id": "irrelevance_143", "result": "```\n[]\n```", "input_token_count": 420, "output_token_count": 5, "latency": 2.507103204727173}
+{"id": "irrelevance_144", "result": "```\n[{\"name\": \"search_holy_books\", \"arguments\": {\"book\": \"Holy Book\", \"chapter\": 1, \"content\": \"book\"}}]\n```", "input_token_count": 396, "output_token_count": 37, "latency": 2.4625425338745117}
+{"id": "irrelevance_145", "result": "```\n[{\"name\": \"religion_history.get_event_year\", \"arguments\": {\"event_name\": \"Protestant Reformation\", \"period\": \"16th century\", \"location\": \"Europe\"}}]\n```", "input_token_count": 403, "output_token_count": 46, "latency": 1.8744516372680664}
+{"id": "irrelevance_146", "result": "```\n[]\n```", "input_token_count": 418, "output_token_count": 5, "latency": 2.3193325996398926}
+{"id": "irrelevance_147", "result": "```\n[]\n```", "input_token_count": 429, "output_token_count": 5, "latency": 1.7298908233642578}
+{"id": "irrelevance_148", "result": "```\n[{\"name\": \"color_complimentary\", \"arguments\": {\"color\": \"blue\", \"color_format\": \"RGB\"}}]\n```", "input_token_count": 400, "output_token_count": 31, "latency": 1.8475534915924072}
+{"id": "irrelevance_149", "result": "```\n[]\n```", "input_token_count": 419, "output_token_count": 5, "latency": 1.4571616649627686}
+{"id": "irrelevance_150", "result": "```\n[]\n```", "input_token_count": 438, "output_token_count": 5, "latency": 0.8008010387420654}
+{"id": "irrelevance_151", "result": "```\n[]\n```", "input_token_count": 401, "output_token_count": 5, "latency": 2.222625494003296}
+{"id": "irrelevance_152", "result": "```\n[{\"name\": \"sculpture.create\", \"arguments\": {\"design\": \"rock\", \"material\": \"rock\", \"size\": \"large\"}}]\n```", "input_token_count": 404, "output_token_count": 36, "latency": 1.9481220245361328}
+{"id": "irrelevance_153", "result": "```\n[]\n```", "input_token_count": 420, "output_token_count": 5, "latency": 1.7742879390716553}
+{"id": "irrelevance_154", "result": "```\n[]\n```", "input_token_count": 416, "output_token_count": 5, "latency": 1.5916035175323486}
+{"id": "irrelevance_155", "result": "```\n[]\n```", "input_token_count": 404, "output_token_count": 5, "latency": 2.02992582321167}
+{"id": "irrelevance_156", "result": "```\n[]\n```", "input_token_count": 448, "output_token_count": 5, "latency": 1.9821221828460693}
+{"id": "irrelevance_157", "result": "```\n[]\n```", "input_token_count": 382, "output_token_count": 5, "latency": 0.9248888492584229}
+{"id": "irrelevance_158", "result": "```\n[]\n```", "input_token_count": 452, "output_token_count": 5, "latency": 1.8486926555633545}
+{"id": "irrelevance_159", "result": "```\n[{\"name\": \"artwork_search\", \"arguments\": {\"artwork_name\": \"The Scream\", \"museum_location\": \"Paris, France\", \"specific_details\": \"artist\"}}]\n```", "input_token_count": 418, "output_token_count": 44, "latency": 1.6259522438049316}
+{"id": "irrelevance_160", "result": "```\n[{\"name\": \"most_frequent_visitor\", \"arguments\": {\"museum_name\": \"Museum of Modern Art\", \"start_date\": \"2022-01-01\", \"end_date\": \"2022-12-31\", \"minimum_visits\": 100}}]\n```", "input_token_count": 445, "output_token_count": 72, "latency": 0.9738178253173828}
+{"id": "irrelevance_161", "result": "```\n[]\n```", "input_token_count": 409, "output_token_count": 5, "latency": 1.096019983291626}
+{"id": "irrelevance_162", "result": "```\n[{\"name\": \"get_museum_artists\", \"arguments\": {\"museum_name\": \"Museum of Modern Art\", \"period\": \"19th Century\", \"country\": \"USA\"}}]\n```", "input_token_count": 425, "output_token_count": 46, "latency": 3.184018850326538}
+{"id": "irrelevance_163", "result": "```\n[{\"name\": \"tune_instrument\", \"arguments\": {\"instrument_type\": \"acoustic guitar\", \"key\": \"Standard\"}}]\n```", "input_token_count": 400, "output_token_count": 33, "latency": 1.2449300289154053}
+{"id": "irrelevance_164", "result": "```\n[{\"name\": \"search_music_instrument_players\", \"arguments\": {\"instrument\": \"singer\", \"genre\": \"Jazz\"}}]\n```", "input_token_count": 412, "output_token_count": 33, "latency": 1.9626903533935547}
+{"id": "irrelevance_165", "result": "```\n[{\"name\": \"get_instrument_info\", \"arguments\": {\"instrument_name\": \"cello\", \"detail\": \"type\"}}]\n```", "input_token_count": 394, "output_token_count": 32, "latency": 3.5292046070098877}
+{"id": "irrelevance_166", "result": "```\n[]\n```", "input_token_count": 400, "output_token_count": 5, "latency": 2.062012195587158}
+{"id": "irrelevance_167", "result": "```\n[]\n```", "input_token_count": 403, "output_token_count": 5, "latency": 2.3729820251464844}
+{"id": "irrelevance_168", "result": "```\n[{\"name\": \"concert_availability\", \"arguments\": {\"artist\": \"class\", \"location\": \"University, Sydney\", \"date\": \"2023-05\"}}]\n```", "input_token_count": 401, "output_token_count": 43, "latency": 2.968949317932129}
+{"id": "irrelevance_169", "result": "```\n[]\n```", "input_token_count": 425, "output_token_count": 5, "latency": 4.2648820877075195}
+{"id": "irrelevance_170", "result": "```\n[]\n```", "input_token_count": 382, "output_token_count": 5, "latency": 3.292585611343384}
+{"id": "irrelevance_171", "result": "```\n[]\n```", "input_token_count": 397, "output_token_count": 5, "latency": 2.438425302505493}
+{"id": "irrelevance_172", "result": "```\n[{\"name\": \"music_composer.composition_info\", \"arguments\": {\"composition_name\": \"Don Quixote\", \"need_detailed_info\": false}}]\n```", "input_token_count": 394, "output_token_count": 38, "latency": 4.682737112045288}
+{"id": "irrelevance_173", "result": "```\n[]\n```", "input_token_count": 384, "output_token_count": 5, "latency": 4.137315034866333}
+{"id": "irrelevance_174", "result": "```\n[]\n```", "input_token_count": 385, "output_token_count": 5, "latency": 2.3624629974365234}
+{"id": "irrelevance_175", "result": "```\n[]\n```", "input_token_count": 376, "output_token_count": 5, "latency": 2.317528009414673}
+{"id": "irrelevance_176", "result": "```\n[]\n```", "input_token_count": 386, "output_token_count": 5, "latency": 4.801623821258545}
+{"id": "irrelevance_177", "result": "```\n[]\n```", "input_token_count": 412, "output_token_count": 5, "latency": 2.2570455074310303}
+{"id": "irrelevance_178", "result": "```\n[{\"name\": \"sports_analysis.get_top_scorer\", \"arguments\": {\"league\": \"Premier League\", \"season\": \"2022/2023\", \"team\": \"Manchester United\"}}]\n```", "input_token_count": 425, "output_token_count": 50, "latency": 5.348879814147949}
+{"id": "irrelevance_179", "result": "```\n[]\n```", "input_token_count": 428, "output_token_count": 5, "latency": 2.314866781234741}
+{"id": "irrelevance_180", "result": "```\n[{\"name\": \"sports_analyzer.get_schedule\", \"arguments\": {\"date\": \"today\", \"sport\": \"cricket\"}}]\n```", "input_token_count": 414, "output_token_count": 32, "latency": 5.495657444000244}
+{"id": "irrelevance_181", "result": "```\n[]\n```", "input_token_count": 399, "output_token_count": 5, "latency": 4.1961281299591064}
+{"id": "irrelevance_182", "result": "```\n[{\"name\": \"get_nba_player_stats\", \"arguments\": {\"player_name\": \"Michael Jordan\", \"stat_type\": \"championships\"}}]\n```", "input_token_count": 415, "output_token_count": 36, "latency": 2.6892330646514893}
+{"id": "irrelevance_183", "result": "```\n[]\n```", "input_token_count": 434, "output_token_count": 5, "latency": 3.2284603118896484}
+{"id": "irrelevance_184", "result": "```\n[{\"name\": \"sports_stats.get_player_stats\", \"arguments\": {\"player_name\": \"NBA Most Valuable Player\", \"season\": \"2020-2021\", \"league\": \"NBA\"}}]\n```", "input_token_count": 432, "output_token_count": 52, "latency": 5.327131748199463}
+{"id": "irrelevance_185", "result": "```\n[{\"name\": \"player_stats.average_scoring\", \"arguments\": {\"player_name\": \"LeBron James\", \"season\": \"2019-2020\", \"league\": \"NBA\"}}]\n```", "input_token_count": 405, "output_token_count": 49, "latency": 4.609132766723633}
+{"id": "irrelevance_186", "result": "```\n[{\"name\": \"sports_ranking.get_MVP\", \"arguments\": {\"season\": \"football\", \"sport_type\": \"football\", \"team\": \"team\"}}]\n```", "input_token_count": 397, "output_token_count": 39, "latency": 2.6492724418640137}
+{"id": "irrelevance_187", "result": "```\n[]\n```", "input_token_count": 424, "output_token_count": 5, "latency": 3.1439576148986816}
+{"id": "irrelevance_188", "result": "```\n[{\"name\": \"sports.ranking.get_champion\", \"arguments\": {\"event\": \"World Series\", \"year\": 2020}}]\n```", "input_token_count": 375, "output_token_count": 36, "latency": 2.530256748199463}
+{"id": "irrelevance_189", "result": "```\n[{\"name\": \"sports_ranking.get_top_ranked\", \"arguments\": {\"sport\": \"basketball\", \"gender\": \"male\", \"year\": 2022}}]\n```", "input_token_count": 402, "output_token_count": 43, "latency": 4.56814432144165}
+{"id": "irrelevance_190", "result": "```\n[]\n```", "input_token_count": 420, "output_token_count": 5, "latency": 2.1569371223449707}
+{"id": "irrelevance_191", "result": "```\n[]\n```", "input_token_count": 412, "output_token_count": 5, "latency": 3.0523619651794434}
+{"id": "irrelevance_192", "result": "```\n[]\n```", "input_token_count": 415, "output_token_count": 5, "latency": 3.2803738117218018}
+{"id": "irrelevance_193", "result": "```\n[{\"name\": \"get_sport_team_details\", \"arguments\": {\"team_name\": \"Los Angeles Lakers\", \"details\": {\"results\": \"top\"}}}\n```", "input_token_count": 404, "output_token_count": 37, "latency": 3.977367877960205}
+{"id": "irrelevance_194", "result": "```\n[]\n```", "input_token_count": 412, "output_token_count": 5, "latency": 2.1178386211395264}
+{"id": "irrelevance_195", "result": "```\n[]\n```", "input_token_count": 471, "output_token_count": 5, "latency": 2.1245129108428955}
+{"id": "irrelevance_196", "result": "```\n[]\n```", "input_token_count": 521, "output_token_count": 5, "latency": 3.0396549701690674}
+{"id": "irrelevance_197", "result": "```\n[]\n```", "input_token_count": 419, "output_token_count": 5, "latency": 2.075814723968506}
+{"id": "irrelevance_198", "result": "```\n[]\n```", "input_token_count": 406, "output_token_count": 5, "latency": 3.963303565979004}
+{"id": "irrelevance_199", "result": "```\n[]\n```", "input_token_count": 400, "output_token_count": 5, "latency": 2.065310001373291}
+{"id": "irrelevance_200", "result": "```\n[]\n```", "input_token_count": 391, "output_token_count": 5, "latency": 3.019848108291626}
+{"id": "irrelevance_201", "result": "```\n[]\n```", "input_token_count": 416, "output_token_count": 5, "latency": 2.074434757232666}
+{"id": "irrelevance_202", "result": "```\n[]\n```", "input_token_count": 416, "output_token_count": 5, "latency": 3.9918408393859863}
+{"id": "irrelevance_203", "result": "```\n[]\n```", "input_token_count": 369, "output_token_count": 5, "latency": 2.0736324787139893}
+{"id": "irrelevance_204", "result": "```\n[{\"name\": \"game_functions.solve_jigsaw\", \"arguments\": {\"puzzle_image\": \"jigsaw_image.jpg\", \"pieces_count\": 10, \"solve_method\": \"brute_force\"}}]\n```", "input_token_count": 428, "output_token_count": 47, "latency": 2.8647475242614746}
+{"id": "irrelevance_205", "result": "```\n[]\n```", "input_token_count": 429, "output_token_count": 5, "latency": 3.0972909927368164}
+{"id": "irrelevance_206", "result": "```\n[{\"name\": \"game.find_best_weapon\", \"arguments\": {\"player_level\": 10, \"enemy_type\": \"dragon\", \"inventory\": \"[]\"}}]\n```", "input_token_count": 438, "output_token_count": 39, "latency": 4.07455849647522}
+{"id": "irrelevance_207", "result": "```\n[{\"name\": \"game_tracker.high_score\", \"arguments\": {\"game_name\": \"Flappy Bird\", \"username\": \"user\", \"platform\": \"PC\"}}]\n```", "input_token_count": 417, "output_token_count": 39, "latency": 3.232419967651367}
+{"id": "irrelevance_208", "result": "```\n[]\n```", "input_token_count": 400, "output_token_count": 5, "latency": 2.062243938446045}
+{"id": "irrelevance_209", "result": "```\n[{\"name\": \"fetch_recipe\", \"arguments\": {\"query\": \"How to build a new PC\", \"numberOfResults\": 1, \"includeIngredients\": [\"PC\"]}}]\n```", "input_token_count": 421, "output_token_count": 42, "latency": 2.712895154953003}
+{"id": "irrelevance_210", "result": "```\n[]\n```", "input_token_count": 452, "output_token_count": 5, "latency": 3.0631797313690186}
+{"id": "irrelevance_211", "result": "```\n[{\"name\": \"recipe_calculator.calculate_time\", \"arguments\": {\"weight\": 5.0, \"per_unit_time\": 10, \"unit_of_time\": \"minutes\"}}]\n```", "input_token_count": 410, "output_token_count": 44, "latency": 2.710845947265625}
+{"id": "irrelevance_212", "result": "```\n[{\"name\": \"get_cooking_time\", \"arguments\": {\"ingredient_type\": \"egg\", \"ingredient_size\": \"medium\", \"cooking_method\": \"boiling\"}}]\n```", "input_token_count": 431, "output_token_count": 42, "latency": 4.01226806640625}
+{"id": "irrelevance_213", "result": "```\n[{\"name\": \"restaurant_finder\", \"arguments\": {\"cuisine\": \"pizza\", \"location\": \"Boston\", \"rating\": 4}}]\n```", "input_token_count": 401, "output_token_count": 35, "latency": 2.5601508617401123}
+{"id": "irrelevance_214", "result": "```\n[]\n```", "input_token_count": 395, "output_token_count": 5, "latency": 1.957991361618042}
+{"id": "irrelevance_215", "result": "```\n[]\n```", "input_token_count": 411, "output_token_count": 5, "latency": 3.007960319519043}
+{"id": "irrelevance_216", "result": "```\n[]\n```", "input_token_count": 392, "output_token_count": 5, "latency": 3.810363531112671}
+{"id": "irrelevance_217", "result": "```\n[]\n```", "input_token_count": 414, "output_token_count": 5, "latency": 4.208193063735962}
+{"id": "irrelevance_218", "result": "```\n[]\n```", "input_token_count": 414, "output_token_count": 5, "latency": 1.9251708984375}
+{"id": "irrelevance_219", "result": "```\n[{\"name\": \"get_calories_in_recipe\", \"arguments\": {\"ingredients\": {\"name\": \"lasagna\", \"quantity\": 1, \"unit\": \"cup\"}, \"servings\": 4}}]\n```", "input_token_count": 458, "output_token_count": 48, "latency": 3.857835054397583}
+{"id": "irrelevance_220", "result": "```\n[]\n```", "input_token_count": 408, "output_token_count": 5, "latency": 3.7394769191741943}
+{"id": "irrelevance_221", "result": "```\n[]\n```", "input_token_count": 436, "output_token_count": 5, "latency": 2.0400168895721436}
+{"id": "irrelevance_222", "result": "```\n[]\n```", "input_token_count": 430, "output_token_count": 5, "latency": 1.9342327117919922}
+{"id": "irrelevance_223", "result": "```\n[{\"name\": \"grocery_shop.find_specific_product\", \"arguments\": {\"city\": \"Chicago\", \"product\": \"sourdough bread\"}}]\n```", "input_token_count": 416, "output_token_count": 35, "latency": 2.9885666370391846}
+{"id": "irrelevance_224", "result": "```\n[{\"name\": \"grocery_store.locate_nearby\", \"arguments\": {\"location\": \"Los Angeles, CA\", \"store_type\": \"Pet Store\", \"is_24_hours\": true}}]\n```", "input_token_count": 448, "output_token_count": 47, "latency": 3.824100971221924}
+{"id": "irrelevance_225", "result": "```\n[]\n```", "input_token_count": 476, "output_token_count": 5, "latency": 1.8742475509643555}
+{"id": "irrelevance_226", "result": "```\n[{\"name\": \"get_local_time\", \"arguments\": {\"timezone\": \"Europe/London\", \"date_format\": \"%Y-%m-%d %H:%M:%S\"}}]\n```", "input_token_count": 387, "output_token_count": 42, "latency": 3.6675972938537598}
+{"id": "irrelevance_227", "result": "```\n[{\"name\": \"calculate_sunrise\", \"arguments\": {\"location\": \"Beijing\", \"date\": \"2023-03-15\"}}]\n```", "input_token_count": 435, "output_token_count": 39, "latency": 3.742335319519043}
+{"id": "irrelevance_228", "result": "```\n[{\"name\": \"get_local_time\", \"arguments\": {\"location\": \"Sydney, Australia\", \"format\": \"12\", \"timezone\": \"\"}}]\n```", "input_token_count": 434, "output_token_count": 38, "latency": 2.4756133556365967}
+{"id": "irrelevance_229", "result": "```\n[]\n```", "input_token_count": 441, "output_token_count": 5, "latency": 4.070061445236206}
+{"id": "irrelevance_230", "result": "```\n[{\"name\": \"find_hotel\", \"arguments\": {\"location\": \"Miami\", \"max_price_per_night\": 100.0, \"pet_friendly\": true}}]\n```", "input_token_count": 408, "output_token_count": 44, "latency": 2.526714324951172}
+{"id": "irrelevance_231", "result": "```\n[]\n```", "input_token_count": 455, "output_token_count": 5, "latency": 2.837259292602539}
+{"id": "irrelevance_232", "result": "```\n[{\"name\": \"hotel_search.find_hotels\", \"arguments\": {\"location\": \"New York\", \"amenities\": [\"Breakfast\", \"Fitness Centre\"]}}]\n```", "input_token_count": 408, "output_token_count": 39, "latency": 2.512566089630127}
+{"id": "irrelevance_233", "result": "```\n[]\n```", "input_token_count": 393, "output_token_count": 5, "latency": 3.58847713470459}
+{"id": "irrelevance_234", "result": "```\n[]\n```", "input_token_count": 396, "output_token_count": 5, "latency": 2.9160547256469727}
+{"id": "irrelevance_235", "result": "```\n[]\n```", "input_token_count": 400, "output_token_count": 5, "latency": 2.7953033447265625}
+{"id": "irrelevance_236", "result": "```\n[{\"name\": \"get_flight_duration\", \"arguments\": {\"start_city\": \"London\", \"destination_city\": \"Tokyo\", \"flight_type\": \"non-stop\"}}]\n```", "input_token_count": 419, "output_token_count": 40, "latency": 2.3941235542297363}
+{"id": "irrelevance_237", "result": "```\n[]\n```", "input_token_count": 425, "output_token_count": 5, "latency": 3.945302963256836}
+{"id": "irrelevance_238", "result": "```\n[]\n```", "input_token_count": 492, "output_token_count": 5, "latency": 1.9112181663513184}
+{"id": "irrelevance_239", "result": "```\n[{\"name\": \"get_date\", \"arguments\": {\"location_1\": \"San Francisco\", \"location_2\": \"Los Angeles\", \"unit\": \"kilometers\"}}]\n```", "input_token_count": 404, "output_token_count": 41, "latency": 3.9634203910827637}
