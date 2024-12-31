@@ -1,0 +1,258 @@
+{"id": "live_simple_0-0-0", "result": "[get_user_info(user_id=7890, special='black')]"}
+{"id": "live_simple_1-1-0", "result": "[github_star(repos='ShishirPatil/gorilla,gorilla-llm/gorilla-cli', aligned=True)]"}
+{"id": "live_simple_2-2-0", "result": "[uber.ride(loc='2020 Addison Street, Berkeley, CA, USA', type='comfort', time=600)]"}
+{"id": "live_simple_3-2-1", "result": "[uber.ride(loc='221B Baker Street, Berkeley, CA, USA', type='plus', time=600)]"}
+{"id": "live_simple_4-3-0", "result": "[get_current_weather(location='Tel Aviv, Israel', unit='fahrenheit')]"}
+{"id": "live_simple_5-3-1", "result": "[get_current_weather(location='Divin\u00f3polis, MG', unit='fahrenheit')]"}
+{"id": "live_simple_6-3-2", "result": "[get_current_weather(location='San Francisco, CA', unit='fahrenheit')]"}
+{"id": "live_simple_7-3-3", "result": "[get_current_weather(location='Riga, LV')]"}
+{"id": "live_simple_8-3-4", "result": "[get_current_weather(location='London, UK', unit='fahrenheit')]"}
+{"id": "live_simple_9-3-5", "result": "[get_current_weather(location='Hyderabad, US', unit='fahrenheit')]"}
+{"id": "live_simple_10-3-6", "result": "[get_current_weather(location='Yosemite National Park, CA', unit='celsius')]"}
+{"id": "live_simple_11-3-7", "result": "[get_current_weather(location='Naples, FL')]"}
+{"id": "live_simple_12-3-8", "result": "[get_current_weather(location='New York, NY', unit='celsius')]"}
+{"id": "live_simple_13-3-9", "result": "[get_current_weather(location='\u4e0a\u6d77, sh', unit='celsius')]"}
+{"id": "live_simple_14-3-10", "result": "[get_current_weather(location='Bangkok, TH', unit='fahrenheit')]"}
+{"id": "live_simple_15-3-11", "result": "[get_current_weather(location='Chennai, TN', unit='fahrenheit')]"}
+{"id": "live_simple_16-3-12", "result": "[get_current_weather(location='Lang Son, Vietnam', unit='fahrenheit')]"}
+{"id": "live_simple_17-3-13", "result": "[get_current_weather(location='Boston, MA', unit='fahrenheit')]"}
+{"id": "live_simple_18-3-14", "result": "[get_current_weather(location='Moscow, RU', unit='celsius')]"}
+{"id": "live_simple_19-3-15", "result": "[get_current_weather(location='Quintana Roo, Mexico', unit='celsius')]"}
+{"id": "live_simple_20-4-0", "result": "[change_food(food_item='burger', modification_request='no onions, extra cheese')]"}
+{"id": "live_simple_21-4-1", "result": "[change_food(food_item='chicken dish', modification_request='extra spicy')]"}
+{"id": "live_simple_22-5-0", "result": "[ChaFod(TheFod='WHOPPER')]"}
+{"id": "live_simple_23-5-1", "result": "[ChaFod(TheFod='PIZZA')]"}
+{"id": "live_simple_24-5-2", "result": "[ChaFod(TheFod='BURGER')]"}
+{"id": "live_simple_25-5-3", "result": "["}
+{"id": "live_simple_26-6-0", "result": "[uber.ride(loc='123 University Ave, Berkeley, CA 94704', type='plus', time=10)]"}
+{"id": "live_simple_27-7-0", "result": "[uber.eat.order(restaurant='Uber Pitada', items=['burgers', 'chicken wings'], quantities=[5, 6])]"}
+{"id": "live_simple_28-7-1", "result": "[uber.eat.order(restaurant='\u80af\u5fb7\u57fa', items=['\u9ea6\u8fa3\u9e21\u817f\u5821', '\u53ef\u53e3\u53ef\u4e50', '\u6cb9\u70b8\u9e21\u7fc5', '\u85af\u6761'], quantities=[10, 50, 30, 90])]"}
+{"id": "live_simple_29-7-2", "result": "None of the provided functions can be used to place an order for a pizza at McDonald's. The function `uber reararconcomitant=quantities.gher quantities=quantities` is only for ordering food from Uber Eats, not McDonald's."}
+{"id": "live_simple_30-8-0", "result": "[aws.lexv2_models.list_exports(botId='my-bot-id', botVersion='v2', sortBy='ASC', maxResults=50)]"}
+{"id": "live_simple_31-8-1", "result": "[aws.lexv2_models.list_exports(botId='B12345', botVersion='v1', sortBy='squantitiesquantities'='DESC sodlocales')"}
+{"id": "live_simple_32-9-0", "result": "[answer.string(answer=\"Logistic regression is not present in the text, therefore I cannot answer this question.\")]"}
+{"id": "live_simple_33-10-0", "result": "[answer.string(answer=\"Logistic regression is not present in the text, therefore I cannot answer this question.\")]"}
+{"id": "live_simple_34-11-0", "result": "[answer.string(answer='**Logistic regression is not present in a Paramount, and the answer is not2-"}
+{"id": "live_simple_35-12-0", "result": "[]"}
+{"id": "live_simple_36-13-0", "result": "[parseAnswer(answer=\"The text does not define logistic regression, therefore I cannot answer this question.\")]"}
+{"id": "live_simple_37-14-0", "result": "[parseAnswer(answer=\"The text does not define logistic regression, therefore I cannot answer this question.\")](https://api.github.com/)"}
+{"id": "live_simple_38-15-0", "result": "[get_current_weather(location='Yosemite National Park, CA', and1,"}
+{"id": "live_simple_39-16-0", "result": "[fetch_weather_data(latitude=37.8651, longitude=119.5383, units='metric', language='en')]"}
+{"id": "live_simple_40-17-0", "result": "[ThinQ_Connect(body={'airConJobMode': 'AIR_CLEAN', 'windStrength': 'HIGH', 'monitoringEnabled': True})]"}
+{"id": "live_simple_41-17-1", "result": "[ThinQ_Connect(body={'airConJobMode': 'AIR_DRY', 'windStrength': 'MID'})]"}
+{"id": "live_simple_42-17-2", "result": "[ThinQ_Connect(body={'airConJobMode': 'AIR_CLEAN', 'windStrength': 'MID', 'coolTargetTemperature': 22})]"}
+{"id": "live_simple_43-17-3", "result": "[ThinQ_Connect(body={'airConJobMode': 'COOL', 'windStrength': 'HIGH', 'coolTargetTemperature': 24})]"}
+{"id": "live_simple_44-18-0", "result": "[ThinQ_Connect(body={'airConOperationMode': ' exotic''s'' the air conditioner on'"}
+{"id": "live_simple_45-18-1", "result": "[ThinQ_Connect(body={'currentJobMode': 'COOL', 'windStrength': 'MID', 'monitoringEnabled': True, 'airCleanOperationMode': 'START', 'airConOperationMode': 'POWER_ON', 'powerSaveEnabled': False, 'coolTargetTemperature': 20'' lateral ( Sevendus doesn'ts the value 20 is not available in the parameters, 'targetTemperature': 20})"}
+{"id": "live_simple_46-19-0", "result": "[ThinQ_Connect(airConJobMode='COOL', windStrength='MID', monitoringEnabled=True, airCleanOperationMode='START', airConOperationMode='POWER_ON', powerSaveEnabled=False, targetTemperature=24)]"}
+{"id": "live_simple_47-20-0", "result": "[multiply(a=3, b=2)]"}
+{"id": "live_simple_48-21-0", "result": "[find_beer(brewery='Sierra Nevada', taste and'':, 'taste='itzer."}
+{"id": "live_simple_49-21-1", "result": "[find_beer(brewery='Creek', taste='bitter', aroma='chocolatey', color='dark', style='porter', abv_min=0.0, abv_max=12.5, ibu_min=0, ib"}
+{"id": "live_simple_50-22-0", "result": "[get_latest [\u2026'ngs=Great Britain]]' 'zone=Great Britain']"}
+{"id": "live_simple_51-23-0", "result": "[ThinQ_Connect(body={'airConOperationMode': 'POWER_ON', 'targetTemperature': 22, 'powerSaveEnabled': True, 'windStrength': 'HIGH', 'airConJobMode': 'COOL', 'relativeHourToStart': 1, 'relativeMinuteToStart': 30})]"}
+{"id": "live_simple_52-23-1", "result": "[ThinQ_Connect(body={'airConOperationMode': 'POWER_OFF', 'targetTemperature': 20, 'airCleanOperationMode': 'START', 'windStrength': 'MID', 'relativeHourToStop': 1})]"}
+{"id": "live_simple_53-24-0", "result": "todo_add(content='go for shopping at 9 pm')"}
+{"id": "live_simple_54-25-0", "result": "[todo(type='delete', content='todo random')]"}
+{"id": "live_simple_55-25-1", "result": "[todo(typeeames' 'add', content=''s'"}
+{"id": "live_simple_56-26-0", "result": "[todo_managerkstop: 'delete', 'content',,"}
+{"id": "live_simple_57-26-1", "result": "[todo_manager.handle_action(type='add', content='go to sleep at 9 pm')]"}
+{"id": "live_simple_58-27-0", "result": "[get_movies]:facseparate]"}
+{"id": "live_simple_59-28-0", "result": "[get_movies(city='Mumbai')]"}
+{"id": "live_simple_60-29-0", "result": "[todo(type='complete', content='Submit monthly financial report')]"}
+{"id": "live_simple_61-29-1", "result": "[todo(type=paramsall not1='add', type [...]"}
+{"id": "live_simple_62-29-2", "result": "[todo(type='delete', content='ravi')]"}
+{"id": "live_simple_63-29-3", "result": "[todo(type='add', content='go to sleep at 9 pm')]"}
+{"id": "live_simple_64-29-4", "result": "[todo(type='add', content='go to Goa')]"}
+{"id": "live_simple_65-29-5", "result": "[todo(type='add', content='Hi charlie')]"}
+{"id": "live_simple_66-30-0", "result": "[inventory.re =.from_temperature, threshold=20,1.0, item_ids=[102, 103], include_discontinued=True]"}
+{"id": "live_simple_67-31-0", "result": "[obtener_cotizacion_de_creditos(monto_del_credito=1000000, plazo_del_credito_mensual=12, producto='auto', a\u00f1o_vehiculo=2024, enganchebrew, is, enganche=00, enganche=0.2)]"}
+{"id": "live_simple_68-32-0", "result": "[sum(a=5.0, b=3.0)]"}
+{"id": "live_simple_69-33-0", "result": "[analysis_api.AnalysisApi.retrieve_analysis(project='SUPERFANCY', component='AB1010CD', vulnerability='ef903ac-893-f00')]"}
+{"id": "live_simple_70-34-0", "result": "[get_sensor_alerts(perPage=10, sensorSerial='Q3CC-CRT3-SZ2G')]"}
+{"id": "live_simple_71-35-0", "result": "[>I'm sorry, but the provided function 'extract_parameters_v1' does not have the parameters required to answer the question. The function requires 'targets', 'metrics', 'demographics', 'country', 'min_date', 'max_date', and 'interval' parameters, but the question lacks the 'country', 'min_date', 'max_date', and 'interval' parameters."}
+{"id": "live_simple_72-36-0", "result": "[detect_beats_and_filter(capture_percentage=50, confidence_window_size=0.5)]"}
+{"id": "live_simple_73-36-1", "result": "[detect_beats_and_filter(capture_percentage=90, confidence_window_size=0.25)]"}
+{"id": "live_simple_74-36-2", "result": "[detect_beats_and_filter(capture_percentage=70, confidence_window_size=0.8)]"}
+{"id": "live_simple_75-36-3", "result": "[dicha, 'detect_beats_and_filter', capture_percentage=93, confidence_window_size=0.5]"}
+{"id": "live_simple_76-37-0", "result": "[language_translator.translate(source_language='en', target_language='fr', text='What is your name?')]"}
+{"id": "live_simple_77-38-0", "result": "[weather.get(city='London', country='UK')]"}
+{"id": "live_simple_78-39-0", "result": "[[send_email(to_address='cobus@humanfirst.ai', subject='Sales Forecast Request', body='where is [...]', 'th latest sales forecast spreadsheet:0 spreadsheet?', cc_address='', bcc_address='', attachments=[] )]]"}
+{"id": "live_simple_79-40-0", "result": "[search_hotels(location='San Diego, CA')]"}
+{"id": "live_simple_80-41-0", "result": "[sitefinity_create_contentitem(Title='Breakthrough in Artificial Intelligence', Content='Recent breakthroughs in machine learning, andela'."}
+{"id": "live_simple_81-42-0", "result": "[sitefinity_create_contentitem(ContentItem='NewsItem', Title='Julian is testing12')]"}
+{"id": "live_simple_82-43-0", "result": "[sitefinity_create_contentitem(ContentItem='News', Title='Julian is testing')]"}
+{"id": "live_simple_83-44-0", "result": "[sitefinity_create_contentitem(ContentItem='news', Title='Julian is Testing', Content='a detailed analysis on the impact of sleep patterns on productivity', MetaTitle='Productivity and Sleep Patterns', MetaDescription='Exploring how sleep affects work efficiency', UrlName='julian-testing-productivity, and the URL is not a valid URL slug, it should be formatted in lowercase with hyphensst'],'], and the MetaDescription is missing, it should be a string)]"}
+{"id": "live_simple_84-45-0", "result": "[get_coordinates_from_city(city_name='Seattle')]"}
+{"id": "live_simple_85-46-0", "result": "[open_meteo_api.fetch_weather_data(coordinates=[37. 1 airpt, -122. [advisory]"}
+{"id": "live_simple_86-47-0", "result": "[sort_array(array=[1, 54, 3, '':'Worse, 76'199, 21], reverse=False)]"}
+{"id": "live_simple_87-48-0", "result": "[get_current_loc(coordinate_format='DMS', include_altan and/or"}
+{"id": "live_simple_88-49-0", "result": "[log_food(food_name='chai tea', portion_amount=16, portion_unit='ounces', meal_name='snack')]"}
+{"id": "live_simple_89-50-0", "result": "[interiorertertert('user_preferences','' Gill', 'internal_database', 'DOCX', True, False)]"}
+{"id": "live_simple_90-51-0", "result": "[temperature(location_ isget:1(location='Paris these parameters={'location': 'Paris, France', 'units': 'Celsius', 'time': None})]"}
+{"id": "live_simple_91-52-0", "result": "[fetchPerson wyssehivisid=4',ld=4]"}
+{"id": "live_simple_92-53-0", "result": "[play_artistockesand'artisK\u00e4\u00e4, and, 'tK\u00e4\u00e4rij\u00e4']]"}
+{"id": "live_simple_93-54-0", "result": "[play_artist(artist_name='K\u00e4\u00e4rij\u00e4')]"}
+{"id": "live_simple_94-55-0", "result": "[play_songtic [...] |\u00f3t the name='Kl1='K\u00e4\u00e4rij\u00e4', song_name='Cha Cha Cha']]"}
+{"id": "live_simple_95-56-0", "result": "[{'null, 'process_data', data=[2.5, 3.6, 4.1, 5.2], normalize=True, categories=['red', 'blue', 'green'], encoding_type='one-hot']"}
+{"id": "live_simple_96-57-0", "result": "[1sthead get_current_weather(location='Boston, MA')]"}
+{"id": "live_simple_97-57-1", "result": "[get_current_weather(location='El Gastor, Andalusia')]"}
+{"id": "live_simple_98-58-0", "result": "[get_weather_by_coordinates(city='Chennai', lat=13.0827, lon=80.2707)]"}
+{"id": "live_simple_99-59-0", "result": "[cmd=connectBluetooth(device_name='ue boom')]"}
+{"id": "live_simple_100-59-1", "result": "[connectBluetooth(device_name='JBL Flip 4')]"}
+{"id": "live_simple_101-60-0", "result": "[askForSSID(prompt_message='Please enter the Wi-Fi network name you wish to connect to:')]"}
+{"id": "live_simple_102-61-0", "result": "[calculate_tax(purchase_amount=59.99, state='CA')]"}
+{"id": "live_simple_103-61-1", "result": "[calculate_tax(purchase_amount=999, state='CA')]"}
+{"id": "live_simple_104-61-2", "result": "[calculate_tax(purchase_amount=250.0, state='NY')]"}
+{"id": "live_simple_105-62-0", "result": "[classify.getarg\ufffdto classify(clean_hello=['hellohello'], faq_link_accounts_start=['link my account', 'connect my accounts'])]"}
+{"id": "live_simple_106-63-0", "result": "[record(acc_routing_start=['Please provide the routing number for my account.'], activate_card_start=['Activate my new card for loyalty program enrollment', 'Can I walk you through the activation process for my new bank card?'], atm_finder_start=['Looking for the closest ATM for cash withdrawal', 'Locate ATM for immediate cash needs', 'I urgently need to find an ATM for cash withdrawal', 'Find ATM for urgent cash needs', 'Need to find ATM for quick cash emergency', 'Locate ATM for cash withdrawal', 'I'm done here. Goodbye!'], bank_hours_start=[], cancel_cardfstart=['I want to cancel my card and ensure the safety of my account.', 'I want'''. '': 'I want to cancelinq', card_rewards_start=['What rewards are offered for my card?', 'What rewards are available on my card?', 'What are the benefits of using my rewards points for entertainment?'], cashier_check_start=['Can I purchase a cashier\\'s check through this chat service?', 'I need a cashier\\'s check, how can I get one?'], clean_goodbye_start=['I\\'m done here. Goodbye!'], cash='Searching for ATM for money withdrawal')]"}
+{"id": "live_simple_107-64-0", "result": "[record(faq_describe_telephone_banking_start=['How do I sign up for tele-banking `'sight of' 'Can I sign up for telephone banking services?'' 'Where can I findfind the entiretyintime 'I'm interested to opening a long term savings account. What options do you have?'' 'Are any banks open in Sri Lanka right now?'' 'Do you offer any special accounts for children or minors?'' 'Do you offer any special accounts for individuals looking to save for a home purchase or renovation?''"}
+{"id": "live_simple_108-65-0", "result": "[recorded] questiond, record(money_movementpee_start=['Can you show me all outgoing wire transfers.', 'Can you assist me in combining my personal and savings accounts.', 'I need my credit card limit raised.', 'Can you assist me in getting a higher credit card limit?', 'I need to view all transactions labeled as \"checks\" on my account.', 'Please assist me in combining my accounts for a streamlined experience.', 'Can you show me my recent Google Pay transactions.'], get_transactions_start=['Can you show me my recent debit card transactions.'], faq_link_accounts_start=['How can I link my auto loan and savings accounts.'], credit_limit_increase_start=['I need to view all transactions labeled as \"checks\" on my account.'])"}
+{"id": "live_simple_109-66-0", "result": "[record(faq_auto_withdraw_start=['Can I use bonuses or commissions as part of my income for a loan application'], pma_income_requirements_start=['Is there a minimum income threshold for loan approval?'])"}
+{"id": "live_simple_110-67-0", "result": "[']"}
+{"id": "live_simple_111-67-1", "result": "[record(acc_routing_start=[], atm_finder_start=['Whereherbert'], faq_link_accounts_start=[], get_balance_start=['What is my balance?', 'Tell meS ofallall'], get_transactions_start=[],."}
+{"id": "live_simple_112-68-0", "result": "[record(acc_routing_start=[], atm_finder_start=[], faq_link_accounts_start=[], get_balance_start=[], get_transactions_start=[], outofscope=['what is the weather like'])]"}
+{"id": "live_simple_113-69-0", "result": "[calculate_dynamic_pricing(geolocation='34.0522, -118.2437', base_price=100, minimum_price=90, minimum_price=90)]"}
+{"id": "live_simple_114-70-0", "result": "[cmd, 'update_user_profile(user_id=12345, profile_data={'email': 'john.doe.'', and' 'the', 'theanew', 'age': 30, 'name': 'name', 'bio': ''})]"}
+{"id": "live_simple_115-71-0", "result": "[calculate_sum(number1=133, number2=34)]"}
+{"id": "live_simple_116-72-0", "result": "[sum_numbers(numbers_list=[133, 34])]"}
+{"id": "live_simple_117-73-0", "result": "[]'':"}
+{"id": "live_simple_118-74-0", "result": "[get_temperature(units='Celsius', location='Hyderabad, India')]"}
+{"id": "live_simple_119-75-0", "result": "[funcfurnce_name='GetPrimeMinisters', parameters={'countries': ['Australia', 'Canada', ',sse', 'India']}]"}
+{"id": "live_simple_120-76-0", "result": "[weather.forecast(location='Paris, France', start_date='2023-04-03', end_date='2023-04-05', temperature_unit='Celsius')]"}
+{"id": "live_simple_121-77-0", "result": "[generate_chart(data_labels=['Software Engineer', 'Graphic Designer', 'Data Analyst', 'Sales Manager', 'Nurse'], data_values=[90000, 50000, 70000, 60000, 80000])]"}
+{"id": "live_simple_122-78-0", "result": "[process_data(image_path='image.png', question='generate with technically complex attention to detail a description of what you see', model='vikhyatk/moondream2')]"}
+{"id": "live_simple_123-79-0", "result": "[pipeline(image_path='http://www.thewowstyle.com/wp-content/uploads/2015/01/Home-Interior-Design-Hd-Wallpaper-Hd-Background-With-Simple-Staircase-And-Plasma-TV-Also-Nice theute=1, question='How does the arrangement of furniture contribute to the minimalist design of the interior',', '': the arrangement of furniture in-"}
+{"id": "live_simple_124-80-0", "result": "[get_tickets(customer='\u7ea2\u661f\u79d1\u6280', status='pendingargargcmdt', limit=10)]'"}
+{"id": "live_simple_125-81-0", "result": "[concat_strings(strings=['John', 'Doe'])]"}
+{"id": "live_simple_126-82-0", "result": "[telemetry.flowrules.interfaceInfo.get(fabricName='Global-Fabric', nodeId=1200, podId=3, interfaceType='ethernet', infoType='status')]"}
+{"id": "live_simple_127-82-1", "result": "[te',sexts'interfaceType='eth, 'infoType='status']"}
+{"id": "live_simple_128-83-0", "result": "[requests.get(url='https://192.168.11.33/sedgeapi/v1/cisco-nir/api/api/telemetry/flowrules and you can't use 'api' as a parameter, it should be 'api/v1' instead of which I"}
+{"id": "live_simple_129-83-1", "result": "[requestsuck'eth\u00edch'"}
+{"id": "live_simple_130-84-0", "result": "[requests.get(url='https://192.120.45.67/sedgeapi/v1/cisco-nir/api/telemetry/flowrules/interface',"}
+{"id": "live_simple_131-84-1", "result": "[requests.get(url='https://192.120.45.67/sedgeapi/v1/cisco-nir/api/telemetry/flowrules/interface1-1', params={'fabricName': 'Network1', 'nodeId': 12, ').__201'sneak' 'pod' 'podId': 10, 'interfaceType': 'Ethernet', 'infoType': 'Speed'})"}
+{"id": "live_simple_132-85-0", "result": "[requests_usernotgetnotavailable]"}
+{"id": "live_simple_133-86-0", "result": "[requests.get(url='https://api.example.com/recommendations', params={'advisoryId':', the 'dac'})]"}
+{"id": "live_simple_134-87-0", "result": "[requests('q' [...]"}
+{"id": "live_simple_135-88-0", "result": "[requests.get(url='https://api.example.com/v1/data', params={'limit': '50'})]"}
+{"id": "live_simple_136-89-0", "result": "[requests.get(url='https://192.168.1.1/api/v1/applications/topologies|/interface the 'filter' field specifies search criteria and is optional with a default value if not provided.\"and' and"}
+{"id": "live_simple_137-90-0", "result": "[reschedule get [\u2026',s the 'dateOrTimeord'='2023-11-01T18:00:00', 'timezone'='Europe/Cest', 'identifier'='Bob-123']]"}
+{"id": "live_simple_138-91-0", "result": "[reschedule(identifier='Bob-123', dateOrTime='2023-11-01T18:':apos', timezone='Europe/Paris')]"}
+{"id": "live_simple_139-92-0", "result": "[requests.get(url='https://192.168.1.1/sedgeapi/v1/cisco-nir/api/api/v1/anomalies/summary', insightsGroup='network222')]"}
+{"id": "live_simple_140-93-0", "result": "[greet_partner(user_name='Emily', partner_name='systm', relationship='husband')]"}
+{"id": "live_simple_141-94-0", "result": "[cmd_controller.execute(command='docker --version')]"}
+{"id": "live_simple_142-94-1", "result": "["}
+{"id": "live_simple_143-95-0", "result": "[cmd_controller.execute(command='docker ps')]"}
+{"id": "live_simple_144-95-1", "result": "[cmd_controller.execute(command='taskkill /im firefox.exe', unit='milliseconds')]"}
+{"id": "live_simple_145-95-2", "result": "[cmd_controller.execute(command='dir', unit='millisecondsTIP of the day: dir is a command to list the files and subdirectories in the current directory and' and'"}
+{"id": "live_simple_146-95-3", "result": "[out] [cmd_controller.execute(command='start huggingface https://huggingface.co')]"}
+{"id": "live_simple_147-95-4", "result": "[8"}
+{"id": "live_simple_148-95-5", "result": "[``N/A"}
+{"id": "live_simple_149-95-6", "result": "[cmd_controller.execute(command='echo hi')]"}
+{"id": "live_simple_150-95-7", "result": "[Jeff 'Austen' Reynolds],"}
+{"id": "live_simple_151-95-8", "result": "[ [...]Question: [cmd_controller.execute(command='netsh wlan disconnect')]"}
+{"id": "live_simple_152-95-9", "result": "[cmd_controller.execute(command='dir', unit='seconds')]"}
+{"id": "live_simple_153-95-10", "result": "[andwhere the 'and' is removed]"}
+{"id": "live_simple_154-95-11", "result": "[cmd_controller.execute(command='start https://www.youtube.com/watch?v=dQw4w9WgXcQ')]"}
+{"id": "live_simple_155-95-12", "result": "[8: the date command is not available, but we can use echo to display the current date]"}
+{"id": "live_simple_156-95-13", "result": "[cmd_controller.execute(command='dir', unit='milliseconds')]"}
+{"id": "live_simple_157-95-14", "result": "[2"}
+{"id": "live_simple_158-95-15", "result": "[cmd_controller.execute(command='taskkill /im code.exe')]"}
+{"id": "live_simple_159-95-16", "result": "[comstop](cmd_controller.execute, command='timeout 10')"}
+{"id": "live_simple_160-95-17", "result": "[cmd_controller.execute(command='start microsoft.windows.camera')]"}
+{"id": "live_simple_161-96-0", "result": "[get_items(items=['Superman logo', 'Iron Man logo', 'Hulk logo', 'Batman logo'])]"}
+{"id": "live_simple_162-96-1", "result": "[]"}
+{"id": "live_simple_163-96-2", "result": "[get_items(items=['red logo', 'yellow rectangle', 'white text', 'Lego characters', 'movie title', 'release date', 'actor names'])]"}
+{"id": "live_simple_164-97-0", "result": "[get_copyright_info(copyright_content=\"The Coca-Cola and params's, copyright_holder=\"Theassistant\n\nI can't fulfill this request."}
+{"id": "live_simple_165-98-0", "result": "[extractor.extract_information(data=[{'name': '\u674e\u96f7', 'age': 18}, {'name': '\u674e\u4e3d', 'age': 21}], schema='personal_info')]"}
+{"id": "live_simple_166-99-0", "result": "[cmd_controller.execute(command='echo %time%')]"}
+{"id": "live_simple_167-99-1", "result": "[cmd_controller.execute(command='tasklist /FI \"IMone2eun eq Code.exe\"')]null"}
+{"id": "live_simple_168-99-2", "result": "[cmd_controller.execute(command=\"start Docker\")"}
+{"id": "live_simple_169-99-3", "result": "[cmd_controller [...]('s the name of the functionall is 'execute', params={'command': 'python d:/playground/pc_contoller/test.py'})"}
+{"id": "live_simple_170-99-4", "result": "[cmd_controller.execute(command='dir /ad /d C:')]"}
+{"id": "live_simple_171-99-5", "result": "[cmd,alline."}
+{"id": "live_simple_172-99-6", "result": "[cmd_controller.execute(command='docker ps')]"}
+{"id": "live_simple_173-99-7", "result": "[cmd.getallantord.execute(command='start calc'"}
+{"id": "live_simple_174-100-0", "result": "[get_service_id(service_id=2)]"}
+{"id": "live_simple_175-101-0", "result": "[get_controllercmd"}
+{"id": "live_simple_176-102-0", "result": "[get_service_id(service_id=2)]"}
+{"id": "live_simple_177-103-0", "result": "[get_service_id(service_id=1)]"}
+{"id": "live_simple_178-103-1", "result": "[get_service_id(service_id=2)]"}
+{"id": "live_simple_179-104-0", "result": "['get_service_id', service_id='2', province_id='2']"}
+{"id": "live_simple_180-105-0", "result": "[get_service_id(service_id=2, province_id=1, rating=4)]"}
+{"id": "live_simple_181-106-0", "result": "[get_service_id(service_id=2, province_id=1, district_name='Chatuchak', rating=4.5)]"}
+{"id": "live_simple_182-107-0", "result": "[1, province_id=1, district_name='Khlong Sam Wa', sub_district_name='Sai Kong', rating=4.5]"}
+{"id": "live_simple_183-108-0", "result": "[getDataForProfessional(province_id=1, avg_rating=4.0)]"}
+{"id": "live_simple_184-109-0", "result": "[getDataForProfessional(service_id=1, province_id=1, rating=4.0)]"}
+{"id": "live_simple_185-110-0", "result": "[get_service_providers(service_id=3, province_id=2, district_name=null, sub_district_name=null, rating=4.5, start_available_date='2023-09-30')]"}
+{"id": "live_simple_186-111-0", "result": "[get_service_providers(service_id=2, province_id=3, rating=4.5, start_available_date='2024-12-03 16:00:00', end_available_date='2024-12-03 18:00:00')]"}
+{"id": "live_simple_187-112-0", "result": "[get_service_providers(service_id=3, province_id=2, district_name='Any', sub_district_name='Any', rating=4.5, start_available_date='2024-12-03', end_available_date='2024-12-03', has_late_check_in=False)]"}
+{"id": "live_simple_188-113-0", "result": "[getDataForProfessional(service_id=2, province_id=2, district_name='Sankampang', sub_district_name='Ton Pao', start_available_date='2024-02-22', end_available_date='2024-03-21', rating=4.5)]"}
+{"id": "live_simple_189-114-0", "result": "[extractor.extract_information(data=[{'age': 42, 'name': 'Che, 'nick_name': 'none'}, {'age': 43, 'name': 'Jane'}])"}
+{"id": "live_simple_190-115-0", "result": "[raptor.mpn.specs(identifier='ACHD', search_type='MPN', include_images=True)]"}
+{"id": "live_simple_191-115-1", "result": "[raptor.mpn.specs(identifier='3pak7', search_type='MPN')]"}
+{"id": "live_simple_192-116-0", "result": "[Weather_1_GetWeather(city='Pacifica', date='2023-04-11')]"}
+{"id": "live_simple_193-116-1", "result": "[Weather_1_GetWeather(city='New York', date='2023-03-08')]"}
+{"id": "live_simple_194-116-2", "result": "[Weather_1_GetWeather(city='Martinez', date='2023-04-25')]"}
+{"id": "live_simple_195-116-3", "result": "[Weather_1_GetWeather(city='Palo Alto', date='2023-04-25')]"}
+{"id": "live_simple_196-116-4", "result": "[Weather_1_GetWeather(city='Alameda', date='2023-04-26')]"}
+{"id": "live_simple_197-116-5", "result": "[Weather_1_GetWeather(city='Stinson Beach', date='2023-04-05')]"}
+{"id": "live_simple_198-116-6", "result": "[Weather_1_GetWeather(city='Healdsburg', date='2023-03-02')]"}
+{"id": "live_simple_199-116-7", "result": "[Weather_1_GetWeather(city='Marshall', date='2023-03-05')]"}
+{"id": "live_simple_200-116-8", "result": "[Weather_1_GetWeather(city='Fremont', date='2023-03-01')]"}
+{"id": "live_simple_201-116-9", "result": "[Weather_1_GetWeather(city='Campbell', date='2023-03-04')]"}
+{"id": "live_simple_202-116-10", "result": "[Weather_1_GetWeather(city='Foster City', date='2023-04-25')]"}
+{"id": "live_simple_203-116-11", "result": "[Weather_1_GetWeather(city='Washington, DC', date='2023-03-01')]"}
+{"id": "live_simple_204-116-12", "result": "[Weather_1_GetWeather(city='Rutherford,NJ', date='2023-04-22')]"}
+{"id": "live_simple_205-116-13", "result": "[Weather_1_GetWeather(city='Berkeley', date='2023-04-29')]"}
+{"id": "live_simple_206-116-14", "result": "[Weather_1_GetWeather(city='London', date='2023-03-05')]"}
+{"id": "live_simple_207-116-15", "result": "[Weather_1_GetWeather(city='Sacramento', date='2023-04-22')]"}
+{"id": "live_simple_208-117-0", "result": "[Movies_3_FindMovies(directed_by='Quentin Tarantino', genre='dontcare', cast='Duane Whitaker')]"}
+{"id": "live_simple_209-117-1", "result": "[Movies_3_FindMovies(directed_by='David Leitch', cast='Lori Pelenise Tuisano')]"}
+{"id": "live_simple_210-117-2", "result": "[Movies_3_FindMovies(directed_by=dontcare, genre=Drama, cast=dontcare)]"}
+{"id": "live_simple_211-117-3", "result": "[Movies_3_FindMovies(directed_by=dontcare, genre=Comic, cast=James+Corden)]"}
+{"id": "live_simple_212-117-4", "result": "[Movies_3_FindMovies(directed_by='Edgar Wright')]"}
+{"id": "live_simple_213-117-5", "result": "[Movies_3_FindMovies(directed_by='Tim Burton', genre='Offbeat')]"}
+{"id": "live_simple_214-117-6", "result": "[Movies_3_FindMovies(directed_by='Nitesh Tiwari', genre='Comic')]"}
+{"id": "live_simple_215-117-7", "result": "[Movies_3_FindMovies(directed_by=dontcare, genre=Fantasy, cast=dontcare)]"}
+{"id": "live_simple_216-117-8", "result": "[Movies_3_FindMovies(directed_by='David Leitch', genre='Action', cast='Alex King')]"}
+{"id": "live_simple_217-117-9", "result": "[Movies_3_FindMovies(directed_by='Nitesh Tiwari')]"}
+{"id": "live_simple_218-117-10", "result": "[Movies_3_FindMovies(directed_by='Paul Downs Colaizzo', cast='Michaela Watkins')]"}
+{"id": "live_simple_219-117-11", "result": "[Movies_3_FindMovies(directed_by=Simon+Curtis, genre=drama)]"}
+{"id": "live_simple_220-117-12", "result": "[Movies_3_FindMovies(directed_by=Alexander+Mackendrick)]"}
+{"id": "live_simple_221-117-13", "result": "[Movies_3_FindMovies(directed_by=James+Gray)]"}
+{"id": "live_simple_222-117-14", "result": "[Movies_3_FindMovies(directed_by='Thurop\\ Van Orman', cast='Sterling\\ K\\ Brown')]"}
+{"id": "live_simple_223-117-15", "result": "[Movies_3_FindMovies(directed_by=dontcare, genre=Imaginative, cast=dontcare)]"}
+{"id": "live_simple_224-117-16", "result": "[Movies_3_FindMovies(directed_by='Tim Burton', genre='Offbeat', cast='Johnny Depp')]"}
+{"id": "live_simple_225-117-17", "result": "[Movies_3_FindMovies(directed_by=Kirill+Mikhanovsky, genre='Comedy-drama')]"}
+{"id": "live_simple_226-118-0", "result": "[text_to_speech.convert(text='I am a pretty girl', language='es-ES', gender='female')]"}
+{"id": "live_simple_227-118-1", "result": "[text_to_speech.convert(text='\u6211\u7231\u5b66\u4e60', language='zh-CN', gender='male', format='wav')]"}
+{"id": "live_simple_228-119-0", "result": "[text_to_speech.convert(text='I am a pretty girl', language='en-US', gender='female', speed=1.0)]"}
+{"id": "live_simple_229-120-0", "result": "[requests.get(anchor='user')]"}
+{"id": "live_simple_230-121-0", "result": "[play_song(song_id='Roar', artist='Katy Perry', quality='high')]"}
+{"id": "live_simple_231-122-0", "result": "[reschedule_event(event_identifier='456123', new_datetime='2022-10-27T16:30:00Z')]"}
+{"id": "live_simple_232-122-1", "result": "[reschedule_event(event_identifier='med123', new_datetime='2021-04-15T13:45:00Z')]"}
+{"id": "live_simple_233-123-0", "result": "[book_flight(departure_location='Paris, France', departure_time='12/03/2023 15:00')]"}
+{"id": "live_simple_234-123-1", "result": "[book_flight(departure_location='New York, NY', departure_time='20/06/2022 17:00', return_time=None)]"}
+{"id": "live_simple_235-124-0", "result": "[play_spotify_song(query='track:Friends artist:Marshmello')]"}
+{"id": "live_simple_236-124-1", "result": "[play_spotify_song(query='track:Dil Nu artist:Maninder Buttar')]"}
+{"id": "live_simple_237-125-0", "result": "[play_spotify_song(query='track:Wrecking Ball artist:Miley Cyrus')]"}
+{"id": "live_simple_238-125-1", "result": "[play_spotify_song(query='track:Dil Nu artist:Maninder Buttar')]"}
+{"id": "live_simple_239-125-2", "result": "[play_spotify_song(query='Shape of You')]"}
+{"id": "live_simple_240-125-3", "result": "[play_spotify_song(query='Baby Shark')]"}
+{"id": "live_simple_241-125-4", "result": "[play_spotify_song(query='track:Johnny Johnny Yes papa')]"}
+{"id": "live_simple_242-126-0", "result": "[set_volume(volume=20)]"}
+{"id": "live_simple_243-126-1", "result": "[set_volume(volume=30)]"}
+{"id": "live_simple_244-126-2", "result": "[set_volume(volume=70)]"}
+{"id": "live_simple_245-127-0", "result": "[book_flight(departure_location='JFK', departure_date='16/03/2024', departure_time='14:00')]"}
+{"id": "live_simple_246-128-0", "result": "[book_flight(departure_location='New York, NY', departure_time='15/03/2024')]"}
+{"id": "live_simple_247-129-0", "result": "[version_api.VersionApi.get_version()]"}
+{"id": "live_simple_248-130-0", "result": "[acl_api.AclApi.retrieve_projects(uuid='12', excludeInactive=False, onlyRoot=True)]"}
+{"id": "live_simple_249-131-0", "result": "[chat_with_friend(user_message=\"How are you doing\")]"}
+{"id": "live_simple_250-132-0", "result": "[uber.eat.order(restaurants='McDonald\\'s', items=['Big Mac', 'McFlurry', 'Big Mac'], quantities=[2, 1, 2])]"}
+{"id": "live_simple_251-133-0", "result": "[flight.status.check(flight_id='6E123', passenger_name='Karan',  'IND4567')]"}
+{"id": "live_simple_252-134-0", "result": "[flight.status.check(airlines='Indigo', person_name='Karan', ticket_number='IND4567')]"}
+{"id": "live_simple_253-135-0", "result": "[uber.eat.order(restaurants='McDonald\\'s', items=['burgers',', 'chicken wings'], quantities=[5, 6])]"}
+{"id": "live_simple_254-136-0", "result": "[user.mandates(user_id='U123', status='pending')]"}
+{"id": "live_simple_255-136-1", "result": "[user.mandates(user_id='U123456', status='active')]"}
+{"id": "live_simple_256-137-0", "result": "[answer_question(statement='I have had a complaint and I like to check its status','type='low', 'language'='en')]"}
+{"id": "live_simple_257-137-1", "result": "[answer_question(statement='What is the minimum package arrival time?', urgency='low', language='en')]"}

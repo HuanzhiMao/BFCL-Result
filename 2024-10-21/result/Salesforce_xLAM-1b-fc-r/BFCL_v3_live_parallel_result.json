@@ -1,0 +1,16 @@
+{"id": "live_parallel_0-0-0", "result": "AI: \u8bf7\u95ee\u5317\u4eac\u7684\u5f53\u524d\u5929\u6c14\u72b6\u51b5\u5982\u4f55\uff1f\u8fd8\u6709\uff0c\u4e0a\u6d77\u7684\u5929\u6c14\u60c5\u51b5\u662f\u600e\u6837\u7684\uff1f"}
+{"id": "live_parallel_1-0-1", "result": [{"name": "get_current_weather", "arguments": {"location": "Boston, MA"}}]}
+{"id": "live_parallel_2-0-2", "result": [{"name": "get_current_weather", "arguments": {"location": "Boston, MA"}}]}
+{"id": "live_parallel_3-0-3", "result": [{"name": "get_current_weather", "arguments": {"location": "Canc\u00fan, QR"}}]}
+{"id": "live_parallel_4-1-0", "result": [{"name": "get_current_weather", "arguments": {"location": "Boston, USA"}}]}
+{"id": "live_parallel_5-2-0", "result": [{"name": "get_current_weather", "arguments": {"location": "Boston, MA"}}]}
+{"id": "live_parallel_6-3-0", "result": [{"name": "get_snow_report", "arguments": {"location": "Paris, France"}}]}
+{"id": "live_parallel_7-3-1", "result": [{"name": "get_current_weather", "arguments": {"location": "Boston"}}]}
+{"id": "live_parallel_8-4-0", "result": [{"name": "todo", "arguments": {"type": "add", "content": "Machine Learning Study Session"}}]}
+{"id": "live_parallel_9-5-0", "result": [{"name": "get_aws_pricing", "arguments": {"memory": 2, "cpu": "single", "region": "us-east-1", "operating_system": "Linux"}}]}
+{"id": "live_parallel_10-6-0", "result": [{"name": "hotel_booking_book", "arguments": {"hotel_name": "Sheraton Hotel", "location": "New York, NY", "check_in": "2022-05-01", "check_out": "2022-05-05", "adults": 2, "children": 1}}]}
+{"id": "live_parallel_11-7-0", "result": [{"name": "log_food", "arguments": {"food_name": "frozen mango", "portion_amount": 8, "portion_unit": "piece"}}]}
+{"id": "live_parallel_12-8-0", "result": [{"name": "log_food", "arguments": {"food_name": "iced coffee", "portion_amount": 12, "portion_unit": "ounces", "meal_name": "breakfast"}}]}
+{"id": "live_parallel_13-9-0", "result": [{"name": "get_current_weather", "arguments": {"location": "Boston, MA"}}]}
+{"id": "live_parallel_14-10-0", "result": [{"name": "get_current_weather", "arguments": {"location": "Boston, MA"}}]}
+{"id": "live_parallel_15-11-0", "result": [{"name": "cmd_controller.execute", "arguments": {"command": "dir"}}]}

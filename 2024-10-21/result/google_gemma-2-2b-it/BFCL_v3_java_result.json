@@ -1,0 +1,100 @@
+{"id": "java_0", "result": "```tool_code\n[GeometryPresentation.createPresentation(controller='mapController', parent='mapArea')]\n```"}
+{"id": "java_1", "result": "```json\n[SQLCompletionAnalyzer.makeProposalsFromObject({'object': 'Customers', 'useShortName': 'true', 'params': {'limit': '50', 'schema': 'public'}})\n```"}
+{"id": "java_2", "result": "```sql\n[FireBirdUtils.getViewSourceWithHeader(monitor=dbMonitor, view='EmployeeView', source='SELECT * FROM Employee WHERE status = \\'active\\'')]\n```"}
+{"id": "java_3", "result": "```json\n[DB2Tablespace.resolveTablespaceReference(reference='USERSPACE1', dataSource=db2DataSource, monitor=dbMonitor)]\n```"}
+{"id": "java_4", "result": "```json\n[DB2ViewBaseDepCache.prepareObjectsStatement(session=jdbcSession, db2ViewBase='EmployeeView',)]\n```"}
+{"id": "java_5", "result": "```json\n[PlainTextPresentation.createPresentation(controller='dataController', parent='compositeParent', properties={'readOnly': True, 'multiline': True, 'horizontalScrolling': True, 'verticalScrolling': True})]\n```"}
+{"id": "java_6", "result": "```json\n[SpreadsheetPresentation.refreshData(refreshMetadata='true', append='true', keepState='true')]\n```"}
+{"id": "java_7", "result": "```tool_code\n[EFSNIOResource.copy({'destination': '/backup/data.txt', 'force': 'true', 'monitor': 'progressTracker' })]\n```"}
+{"id": "java_8", "result": "```tool_code\n[EFSNIOFile.setContents(source={'type': 'string', 'description': 'The InputStream from which file contents are read.'}, force='true', keepHistory='false', monitor={'type': 'string', 'description': 'The IProgressMonitor to report progress of the operation.'}, fileStream=fileStream)]\n```"}
+{"id": "java_9", "result": "```tool_code\n[writeMultiPoint(multiPoint={'x': [1, 3, 5, 7, 9], 'y': [2, 4, 6, 8, 10], 'xyzmMode': 'XYZ'}, buffer='ByteBuffer.allocate(1024)')]\n```"}
+{"id": "java_10", "result": "```tool_code\n[JNIBridge.setLauncherInfo(launcher='/usr/local/bin/dbeaver', name='DBeaverLauncher')]\n```"}
+{"id": "java_11", "result": "[BasePolicyDataProvider.getRegistryPolicyValue(root='HKEY_LOCAL_MACHINE', property='EnableExtensions')] \n"}
+{"id": "java_12", "result": "```json\n[ExasolExecutionContext.setCurrentSchema(monitor=progressMonitor, schemaName='AnalyticsDB')]\n```"}
+{"id": "java_13", "result": "```json\n[AltibaseGrantee.prepareObjectsStatement(session='JDBC_session', owner='JohnDoe')]\n```"}
+{"id": "java_14", "result": "```tool_code\nFunGameBase.onFinish({'layout': 'gameLayout', 'success': 'true'})\n```"}
+{"id": "java_15", "result": "```tool_code\n[Res9patchStreamDecoder.decode(input=imageInputStream, out=imageOutputStream)]\n```"}
+{"id": "java_16", "result": "```tool_code\nInsnDecoder.invokePolymorphic({'insn': instructionData, 'isRange': 'true'})\n```"}
+{"id": "java_17", "result": "```tool_code\n[GenericTypesVisitor.attachGenericTypesInfo({'mth': 'initMethod', 'insn': 'newConstructorInsn' })]\n```"}
+{"id": "java_18", "result": "```json\n[SysRoleController.queryPageRoleCount(pageNo=3, pageSize=20)]\n```"}
+{"id": "java_19", "result": "[PersonController.personal(model=webModel, request=userRequest)] \n"}
+{"id": "java_20", "result": "```json\n[HbaseAdapter.updateConfig(fileName='user-mapping.yml', config=newMappingConfig)]\n```"}
+{"id": "java_21", "result": "```tool_code\n[SessionHandler.exceptionCaught({'ctx': 'nettyChannelContext', 'e': 'ioExceptionEvent' }, 'something goes wrong with channel?')]\n```"}
+{"id": "java_22", "result": "```json\n[PmsProductServiceImpl.updateNewStatus({'ids': '101,202,303', 'newStatus': '2' })]\n```"}
+{"id": "java_23", "result": "```json\n[\n  'SmsHomeNewProductServiceImpl.list',\n  {'productName': 'LED TV', 'recommendStatus': '1', 'pageSize': '20', 'pageNum': '3'}\n]\n```"}
+{"id": "java_24", "result": "```json\n[PmsProductCategoryController.updateShowStatus({'ids': '101,102,103', 'showStatus': '0'}),]\n```"}
+{"id": "java_25", "result": "```json\n[SmsHomeRecommendSubjectController.updateSort(id='42', sort='5')]\n```"}
+{"id": "java_26", "result": "```tool_code\n[ProxyConnection.prepareCall(\"CALL totalSales(?)\", resultSetType=ResultSet.TYPE_SCROLL_INSENSITIVE, concurrency=ResultSet.CONCUR_READ_ONLY, holdability=ResultSet.HOLD_CURSORS_OVER_COMMIT)]\n```"}
+{"id": "java_27", "result": "[TwoSum.twoSum({'nums': [2, 7, 11, 15], 'target': 9})] \n"}
+{"id": "java_28", "result": "```tool_code\n[configStorage.dynamicCredentialsScheduledExecutorService(credentialsFile='es_credentials.properties', credentialsRefreshInterval='30', basicCredentials=basicAuthCredentials)]\n```"}
+{"id": "java_29", "result": "```tool_code\n[zipkin.collector.activemq.concurrency = 10]\n```"}
+{"id": "java_30", "result": "```json\n[RedissonAsyncCache.putIfAbsent(key='answer', value='42')]\n```"}
+{"id": "java_31", "result": "```json\n[RedissonRx.getQueue(name='taskQueue', codec='jsonCodec')]\n```"}
+{"id": "java_32", "result": "```tool_code\nRedissonPermitExpirableSemaphore.tryAcquireAsync(waitTime='5', leaseTime='120', unit='SECONDS')\n```"}
+{"id": "java_33", "result": "```json\n[RedissonMapCache.putOperationAsync(key='employee:1234', value='John Doe')]\n```"}
+{"id": "java_34", "result": "```tool_code\n[ServiceManager.newTimeout({'task': 'cleanupTask', 'delay': '300', 'unit': 'SECONDS'})]\n```"}
+{"id": "java_35", "result": "```json\n[RedissonConnection.bitOp(op='AND', destination='user:online:both', keys=['user:online:today', 'user:online:yesterday'])\n```"}
+{"id": "java_36", "result": "```tool_code\nObjectMapEntryReplayDecoder.decode(['userID', 42, 'username', 'johndoe', 'isActive', true], processingState)\n```"}
+{"id": "java_37", "result": "```tool_code\n[ConsoleAnnotator.annotate({'context': 'jenkinsBuild', 'text': 'buildOutput'},)]\n```"}
+{"id": "java_38", "result": "```json\n[NestedValueFetcher.createSourceMapStub({'filteredSource': docFields})]\n```"}
+{"id": "java_39", "result": "```json\n[NodeIdConverter.format(event=logEvent, toAppendTo=logBuilder)]\n```"}
+{"id": "java_40", "result": "```json\n[RoutingNodesChangedObserver.shardInitialized(unassignedShard='shardA', initializedShard='shardB')]\n```"}
+{"id": "java_41", "result": "```json\n[SearchHit.declareInnerHitsParseFields(parser='searchHitParser')]\n```"}
+{"id": "java_42", "result": "```json\n[TermQueryBuilderTests.termQuery(mapper='usernameField', value='JohnDoe', caseInsensitive='true')]\n```"}
+{"id": "java_43", "result": "```json\n[SecureMockMaker.createSpy(settings=mockSettings, handler=mockHandler, object=testObject)]\n```"}
+{"id": "java_44", "result": "```json\n[DesAPITest.init(crypt='DESede', mode='CBC', padding='PKCS5Padding')]\n```"}
+{"id": "java_45", "result": "```tool_code\n[Basic.checkSizes({'environ': envVariables, 'size': '5' })]\n```"}
+{"id": "java_46", "result": "```tool_code\n[MethodInvokeTest.checkInjectedInvoker({'csm': 'csmInstance', 'expected': 'MyExpectedClass.class'})]\n```"}
+{"id": "java_47", "result": "```tool_code\n[LargeHandshakeTest.format({'name': 'CERTIFICATE', 'value': 'MIIFdTCCBF2gAwIBAgISESG' })]\n```"}
+{"id": "java_48", "result": "```json\n[CookieHeaderTest.create({'sa': '192.168.1.10', 'sslContext': 'testSSLContext'}, {'port': 8080})]\n```"}
+{"id": "java_49", "result": "```tool_code\n[Http2TestExchangeImpl.sendResponseHeaders({'rCode': '404', 'responseLength': '1500'}, 'non-HEAD request')]\n```"}
+{"id": "java_50", "result": "```tool_code\n[TransformIndexerStateTests.doDeleteByQuery(deleteQueryRequest={'query': 'your_query'}, responseListener='testListener')]\n```"}
+{"id": "java_51", "result": "```json\n[CCRUsageTransportAction.masterOperation(task='get_ccr_usage', request={'type': 'XPackUsageRequest'}, state='current', listener='actionListener')]\n```"}
+{"id": "java_52", "result": "```json\n[SamlObjectSignerTests.getChildren(node=SAMLAssertionNode, node_type='Element')]\n```"}
+{"id": "java_53", "result": "```tool_code\n[VotingOnlyNodePlugin.fullMasterWithOlderState(localAcceptedTerm='42', localAcceptedVersion='7')]\n```"}
+{"id": "java_54", "result": "```json\n[AbstractTransportSearchableSnapshotsAction.shardOperation(request=snapshotRequest, shardRouting=shardRouteInfo, task=snapshotTask, listener=operationListener)]\n```"}
+{"id": "java_55", "result": "```json\n[SearchableSnapshotDirectory.create(repositories='daily-snapshots', indexSettingsForLogs='logs', shardPath='/data/nodes/0/indices/logs/5', currentTimeNanosSupplier=None, threadPool=None, blobStoreCacheService=None, sharedBlobCacheService=None)]\n```"}
+{"id": "java_56", "result": "```json\n[CCSDuelIT.parseEntity(entity=httpResponseEntity, entityParser='responseParser', parserConfig=defaultParserConfig)]\n```"}
+{"id": "java_57", "result": "```tool_code\nBooleans.parseBooleanLenient(enableLogging)\n```"}
+{"id": "java_58", "result": "```json\n[XContentBuilder.map(userProfile={'name': 'John Doe', 'age': 30, 'email': 'john.doe@example.com'}, ensureNoSelfReferences='true', writeStartAndEndHeaders='true')]\n```"}
+{"id": "java_59", "result": "```json\n[TruncateTranslogAction.execute(terminal={'type': 'string', 'description': 'The Terminal interface used for standard I/O interactions. This parameter can be of any type of Java object in string representation.'}, shardPath='/var/data/elasticsearch/nodes/0/indices/1shard', indexDirectory='/var/data/elasticsearch/nodes/0/indices/1shard/index')]\n```"}
+{"id": "java_60", "result": "```json\n[NestedQueryBuilder.doBuild({'parentSearchContext': mainSearchContext, 'innerHitsContext': '{\"_source\": \"user.address\"}', 'ignoreUnmapped': True})]\n```"}
+{"id": "java_61", "result": "```json\n[ScoreFunctionBuilders.exponentialDecayFunction({'fieldName': 'timestamp', 'origin': 'now', 'scale': '10d', 'offset': '2d', 'decay': '0.5' })]\n```"}
+{"id": "java_62", "result": "```json\n[dvRangeQuery(field='temperature', queryType='FLOAT', from='20.5', to='30.0', includeFrom='true', includeTo='false')]\n```"}
+{"id": "java_63", "result": "```json\n[{'name': 'withinQuery', 'params': {'field': 'age', 'from': '30', 'to': '40', 'includeFrom': 'true', 'includeTo': 'false'}}]\n```"}
+{"id": "java_64", "result": "```json\n[DateScriptFieldType.createFieldType(name='timestamp', factory='dateFactory', script='dateScript', meta={'format': 'epoch_millis'}, onScriptError='FAIL')]\n```"}
+{"id": "java_65", "result": "```json\n[RootObjectMapper.doXContent({'builder': 'builder', 'params': '{\"dynamic_date_formats\": true, \"dynamic_templates\": true, \"date_detection\": true, \"numeric_detection\": true, \"skip_runtime_fields\": true}' },)]\n```"}
+{"id": "java_66", "result": "```json\n[CompositeRuntimeField.createChildRuntimeField(parserContext='mappingParserContext', parent='compositeField1', parentScriptFactory='compositeScriptFactory', onScriptError='IGNORE')]\n```"}
+{"id": "java_67", "result": "```tool_code\n[MacDmgBundler.prepareDMGSetupScript(appLocation='/Applications/PhotoEditor.app', params={'app_name': 'PhotoEditor', 'images_root': '/path/to/images', 'background_image': '/path/to/background.png', 'install_dir': '/Applications/PhotoEditor.app/Contents/Resources' })]\n```"}
+{"id": "java_68", "result": "```json\n[MacBaseInstallerBundler.validateAppImageAndBundler({'params': {'application_image_path': '/Applications/MyApp.app', 'application_name': 'MyApp'}})\n```"}
+{"id": "java_69", "result": "```tool_code\n[DurationImpl.alignSigns({'buf': durations, 'start': '2', 'end': '5'})]\n```"}
+{"id": "java_70", "result": "```tool_code\nXMLNamespaceBinder.endElement({'element': 'ex:item', 'augs': 'augmentations'})\n```"}
+{"id": "java_71", "result": "```tool_code\nCoroutineManager.co_exit_to({'arg_object': 'resultData', 'thisCoroutine': '5', 'toCoroutine': '10'})\n```"}
+{"id": "java_72", "result": "```tool_code\n[ToTextStream.characters({'ch': 'textBuffer', 'start': '5', 'length': '10' }, 'textStream')]\n```"}
+{"id": "java_73", "result": "```json\n[Encodings.getEncodingInfo(encoding='UTF-8', allowJavaNames='true')]\n```"}
+{"id": "java_74", "result": "```tool_code\n[BaseMarkupSerializer.surrogates({'high': '55357', 'low': '56832', 'inContent': False})]\n```"}
+{"id": "java_75", "result": "```tool_code\n[JdkXmlFeatures.getSystemProperty(feature='XML_SECURITY', sysPropertyName='enableXmlSecurityFeature')]\n```"}
+{"id": "java_76", "result": "```tool_code\nIntro.step(w='800', h='600')\n```"}
+{"id": "java_77", "result": "[JndiLoginModule.verifyPassword(encryptedPassword='e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', password='P@ssw0rd!')] \n"}
+{"id": "java_78", "result": "```tool_code\nOptionSpecBuilder.requiredUnless({'dependent': 'output-format', 'otherDependents': ['quiet', 'verbose']})\n```"}
+{"id": "java_79", "result": "```tool_code\n[SAXFilterFactoryImpl.resolveEntity({'publicid': '1234', 'sysId': 'http://astro.com/stylesheets/toptemplate' })]\n```"}
+{"id": "java_80", "result": "```tool_code\n[RegexConstraint.initIRPattern({'category': 'failOn', 'ruleIdx': '42' })]\n```"}
+{"id": "java_81", "result": "```json\n[TestObjectGraphAfterGC.doTesting(testcaseData='humongous-test-case.json', doGC='', checker='referenceChecker', gcLogName='gc-analysis.log', shouldContain='GC pause', shouldNotContain='OutOfMemoryError')]\n```"}
+{"id": "java_82", "result": "```tool_code\n[clear001a.runIt(args=testArgs, out=System.out)]\n```"}
+{"id": "java_83", "result": "```tool_code\n[thrcputime002.runIt(argv=['-waitTime', '120', '-iterations', '500'], out=System.out)]\n```"}
+{"id": "java_84", "result": "```tool_code\n[checkInnerFields(redefCls=myRedefClass, expValue='100')]\n```"}
+{"id": "java_85", "result": "```tool_code\n[classfloadhk005.runIt(argv=['/path/to/classes', '60'], out=logStream)]\n```"}
+{"id": "java_86", "result": "```tool_code\nargumenttypes001.runThis(argv=['-v', '--no-strict'], out=debugOutput)\n```"}
+{"id": "java_87", "result": "```tool_code\n[suspendpolicy017.settingVMDeathRequest(suspendPolicy='EVENT_THREAD', property='testProperty') ]\n```"}
+{"id": "java_88", "result": "```json\n[filter_s002.setting22MethodEntryRequest(thread='mainThread', testedClass='com.example.MainClass', suspendPolicy='EventRequest.SUSPEND_ALL', property='testProperty')]\n```"}
+{"id": "java_89", "result": "```json\n[runThis(argv=['-waitTime', '120', '-debuggeeName', 'TestDebuggee'], out=testLogStream)]\n```"}
+{"id": "java_90", "result": "```tool_code\nsourcepaths002.runIt(args=['-v', '-p'], out=System.out)\n```"}
+{"id": "java_91", "result": "```tool_code\ninvokemethod007.runIt(args=['suspend', 'log'], out=debugLog)\n```"}
+{"id": "java_92", "result": "```json\n[ClassFileFinder.findClassFile({'name': 'com.example.MyClass', 'classPath': '/usr/local/classes:/home/user/java/libs'})]\n```"}
+{"id": "java_93", "result": "```tool_code\n[AbstractJarAgent.runJarAgent(options='trace log', inst=appInstrumentation)]\n```"}
+{"id": "java_94", "result": "```tool_code\n[NFILibrary.isMemberReadable({'symbol': 'getVersion', 'recursive': None})]\n```"}
+{"id": "java_95", "result": "```json\n[ExportNodeTest.doGeneric(receiver=ExportInlinedObject1Instance, argument='HelloWorld', node='InlinableNodeInstance', library='NodeLibraryInstance')]\n```"}
+{"id": "java_96", "result": "```tool_code\n[InstrumentableProcessor.createCallConverter({'converterMethod': 'convertValue', 'frameParameterName': 'frameVar', 'returnName': 'returnValueCode'})]\n```"}
+{"id": "java_97", "result": "```tool_code\n[FlatNodeGenFactory.generateIntrospectionInfo(clazz='NodeClass', inlined='false')]\n```"}
+{"id": "java_98", "result": "[LoopConditionProfile.calculateProbability({'trueCountLocal': '150', 'falseCountLocal': '50' })] \n"}
+{"id": "java_99", "result": "```json\n[LibraryExport.createDelegate({'factory': 'myFactory', 'delegate': 'existingDelegate' })]\n```"}

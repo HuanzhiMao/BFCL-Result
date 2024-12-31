@@ -1,0 +1,16 @@
+{"id": "live_parallel_0-0-0", "result": "[get_current_weather(location='Beijing, China', unit='celsius), get_current_weather(location='Shanghai, China', unit='celsius')]"}
+{"id": "live_parallel_1-0-1", "result": "[get_current_weather(location='Boston, MA', unit='celsius), get_current_weather(location='San Francisco, CA', unit='fahrenheit')]"}
+{"id": "live_parallel_2-0-2", "result": "[get_current_weather(location='Boston, MA')]\n\n[get_current_weather(location='San Francisco, CA')]"}
+{"id": "live_parallel_3-0-3", "result": "[get_current_weather(location='Cancun, QR', unit='celsius')]"}
+{"id": "live_parallel_4-1-0", "result": "[get_current_weather(location='Boston, USA', url='https://api.open-meteo.com/v1/forecast?latitude=42.3584&longitude=-71.0597&hourly=1&period=12&units=metric')]\n\n[get_current_weather(location='San Francisco, USA', url='https://api.open-meteo.com/v1/forecast?latitude=37.7749&longitude=-122.4194&hourly=1&period=12&units=metric')]"}
+{"id": "live_parallel_5-2-0", "result": "[get_current_weather(location='Boston, MA', unit='celsius), get_current_weather(location='San Francisco, CA', unit='celsius')]"}
+{"id": "live_parallel_6-3-0", "result": "['get_snow_report', location='Paris, France', unit='celsius']"}
+{"id": "live_parallel_7-3-1", "result": "[get_current_weather(location='Boston, MA'), get_current_weather(location='San Francisco, CA')]"}
+{"id": "live_parallel_8-4-0", "result": "[func_name1(params_name1=params1, params_name2=params2, func_name2='todo', parameters={'type': 'dict', 'required': ['type', 'content'], 'properties': {'type': {'type': 'string', 'description': 'The action to be performed on the todo list.', 'enum': ['add', 'delete', 'update']}, 'content': {'type': 'string', 'description': 'The details of the todo item relevant to the action being performed.'}}})]"}
+{"id": "live_parallel_9-5-0", "result": "[get_aws_pricing(memory=2, cpu='single', region='us-east-1', operating_system='Linux')]"}
+{"id": "live_parallel_10-6-0", "result": "[hotel_booking_book(hotel_name='Sheraton Hotel', location='New York', check_in='2022-05-01', check_out='2022-05-05', adults=2, children=1), hotel_booking_book(hotel_name='Marriott', location='Los Angeles', check_in='2022-06-01', check_out='2022-06-10', adults=1, children=2)]"}
+{"id": "live_parallel_11-7-0", "result": "[log_food(food_name='mango', portion_amount=8, portion_unit='pieces', meal_type='snack', log_date=None)]"}
+{"id": "live_parallel_12-8-0", "result": "[log_food(food_name='iced coffee', portion_amount=12, meal_name='breakfast'), log_food(food_name='banana', portion_amount=1, meal_name='breakfast'), log_food(food_name='asparagus', portion_amount=4, meal_name='breakfast'), log_food(food_name='gluten free bread', portion_amount=2, meal_name='lunch')]"}
+{"id": "live_parallel_13-9-0", "result": "[get_current_weather(location='Boston, MA', unit='celsius), get_current_weather(location='San Francisco, CA', unit='fahrenheit')]"}
+{"id": "live_parallel_14-10-0", "result": "[get_current_weather(location='Boston, MA', unit='celsius), get_current_weather(location='San Francisco, CA', unit='celsius')]"}
+{"id": "live_parallel_15-11-0", "result": "[cmd_controller.execute(command=['cmd /k', 'dir /a /b /w /v testing.txt'])"}

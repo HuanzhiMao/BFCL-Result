@@ -1,0 +1,50 @@
+{"id": "exec_multiple_0", "result": "<|python_tag|>{\"name\": \"calc_binomial_probability\", \"parameters\": {\"n\": \"20\", \"k\": \"5\", \"p\": \"0\"}}"}
+{"id": "exec_multiple_1", "result": "<|python_tag|>{\"name\": \"calculate_cosine_similarity\", \"parameters\": {\"vectorA\": \"[0.5, 0.7, 0.2, 0.9, 0.1]\", \"vectorB\": \"[0.4, 0.6, 0.3, 0.8, 0.2]\"}}"}
+{"id": "exec_multiple_2", "result": "<|python_tag|>{\"name\": \"calculate_density\", \"parameters\": {\"mass\": \"50\", \"volume\": \"10\"}}"}
+{"id": "exec_multiple_3", "result": "<|python_tag|>{\"name\": \"calculate_displacement\", \"parameters\": {\"initial_velocity\": \"15\", \"acceleration\": \"9.8\", \"time\": \"10\"}}"}
+{"id": "exec_multiple_4", "result": "<|python_tag|>{\"name\": \"calculate_electrostatic_potential_energy\", \"parameters\": {\"charge\": \"5\", \"voltage\": \"10\"}}"}
+{"id": "exec_multiple_5", "result": "<|python_tag|>{\"name\": \"calculate_final_velocity\", \"parameters\": {\"initial_velocity\": \"0\", \"acceleration\": \"9.8\", \"time\": \"12\"}}"}
+{"id": "exec_multiple_6", "result": "<|python_tag|>{\"name\": \"calculate_future_value\", \"parameters\": {\"interest_rate\": \"0\", \"periods\": \"10\", \"present_value\": \"5000\"}}"}
+{"id": "exec_multiple_7", "result": "<|python_tag|>{\"name\": \"calculate_mean\", \"parameters\": {\"numbers\": \"[22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54, 56, 58, 60, 62, 64, 66, 68, 70, 72, 74, 76, 78, 80]\"}}"}
+{"id": "exec_multiple_8", "result": "<|python_tag|>{\"name\": \"calculate_permutations\", \"parameters\": {\"n\": \"26\", \"k\": \"5\"}}"}
+{"id": "exec_multiple_9", "result": "<|python_tag|>{\"name\": \"calculate_standard_deviation\", \"parameters\": {\"numbers\": \"[1000, 2000, 3000, 4000, 5000, 7000, 9000, 15000, 20000, 30000]\"}}"}
+{"id": "exec_multiple_10", "result": "<|python_tag|>{\"name\": \"calculate_triangle_area\", \"parameters\": {\"base\": \"500\", \"height\": \"300\"}}"}
+{"id": "exec_multiple_11", "result": "<|python_tag|>{\"name\": \"convert_currency\", \"parameters\": {\"from_currency\": \"EUR\", \"amount\": \"5000\", \"to_currency\": \"JPY\"}}"}
+{"id": "exec_multiple_12", "result": "<|python_tag|>{\"name\": \"estimate_derivative\", \"parameters\": {\"function\": \"lambda t: 3*t**2 + 2*t + 1\", \"x\": \"5\"}}"}
+{"id": "exec_multiple_13", "result": "<|python_tag|>{\"name\": \"find_term_on_urban_dictionary\", \"parameters\": {\"term\": \"lit\"}}"}
+{"id": "exec_multiple_14", "result": "<|python_tag|>{\"name\": \"geometry_area_circle\", \"parameters\": {\"radius\": \"15\"}}"}
+{"id": "exec_multiple_15", "result": "<|python_tag|>{\"name\": \"get_active_covid_case_by_country\", \"parameters\": {\"country\": \"Brazil\"}}"}
+{"id": "exec_multiple_16", "result": "<|python_tag|>{\"name\": \"get_company_name_by_stock_name\", \"parameters\": {\"stock_name\": \"AAPL\"}}"}
+{"id": "exec_multiple_17", "result": "<|python_tag|>{\"name\": \"get_coordinate_by_ip_address\", \"parameters\": {\"ip_address\": \"192.168.1.1\"}}"}
+{"id": "exec_multiple_18", "result": "<|python_tag|>{\"name\": \"get_coordinates_from_city\", \"parameters\": {\"city_name\": \"Paris\"}}"}
+{"id": "exec_multiple_19", "result": "<|python_tag|>{\"name\": \"get_covid_death_by_country\", \"parameters\": {\"country\": \"Brazil\"}}"}
+{"id": "exec_multiple_20", "result": "<|python_tag|>{\"name\": \"get_distance\", \"parameters\": {}}"}
+{"id": "exec_multiple_21", "result": "<|python_tag|>{\"name\": \"get_fibonacci_sequence\", \"parameters\": {\"n\": \"20\"}}"}
+{"id": "exec_multiple_22", "result": "<|python_tag|>{\"name\": \"get_price_by_amazon_ASIN\", \"parameters\": {\"ASIN\": \"B08PPDJWC8\"}}"}
+{"id": "exec_multiple_23", "result": "<|python_tag|>{\"name\": \"get_prime_factors\", \"parameters\": {\"number\": \"4567\"}}"}
+{"id": "exec_multiple_24", "result": "<|python_tag|>{\"name\": \"get_product_name_by_amazon_ASIN\", \"parameters\": {\"ASIN\": \"B08BHXG144\"}}"}
+{"id": "exec_multiple_25", "result": "<|python_tag|>{\"name\": \"get_rating_by_amazon_ASIN\", \"parameters\": {\"ASIN\": \"B07ZPKBL9V\"}}"}
+{"id": "exec_multiple_26", "result": "<|python_tag|>{\"name\": \"get_stock_history\", \"parameters\": {\"stock_name\": \"AAPL\", \"interval\": \"1mo\", \"diffandsplits\": \"true\"}}"}
+{"id": "exec_multiple_27", "result": "<|python_tag|>{\"name\": \"get_stock_price_by_stock_name\", \"parameters\": {\"stock_name\": \"AAPL\"}}"}
+{"id": "exec_multiple_28", "result": "<|python_tag|>{\"name\": \"get_time_zone_by_coord\", \"parameters\": {\"long\": \"123.45\", \"lat\": \"-67.89\"}}"}
+{"id": "exec_multiple_29", "result": "<|python_tag|>{\"name\": \"get_weather_data\", \"parameters\": {\"coordinates\": \"[90.0, 0.0]\"}}"}
+{"id": "exec_multiple_30", "result": "<|python_tag|>{\"name\": \"get_zipcode_by_ip_address\", \"parameters\": {\"ip_address\": \"192.168.1.1\"}}"}
+{"id": "exec_multiple_31", "result": "<|python_tag|>{\"name\": \"mat_mul\", \"parameters\": {\"matA\": \"[[1, 2], [3, 4]]\", \"matB\": \"[[5, 6], [7, 8]]\"}}"}
+{"id": "exec_multiple_32", "result": "<|python_tag|>{\"name\": \"math_factorial\", \"parameters\": {\"n\": \"7\"}}"}
+{"id": "exec_multiple_33", "result": "<|python_tag|>{\"name\": \"math_gcd\", \"parameters\": {\"a\": \"450\", \"b\": \"300\"}}"}
+{"id": "exec_multiple_34", "result": "<|python_tag|>{\"name\": \"math_lcm\", \"parameters\": {\"a\": \"24\", \"b\": \"18\"}}"}
+{"id": "exec_multiple_35", "result": "<|python_tag|>{\"name\": \"mortgage_calculator\", \"parameters\": {\"loan_amount\": \"350000\", \"interest_rate\": \"0\", \"loan_period\": \"30\"}}"}
+{"id": "exec_multiple_36", "result": "<|python_tag|>{\"name\": \"quadratic_roots\", \"parameters\": {\"a\": \"3\", \"b\": \"7\", \"c\": \"-10\"}}"}
+{"id": "exec_multiple_37", "result": "<|python_tag|>{\"name\": \"retrieve_city_based_on_zipcode\", \"parameters\": {\"zipcode\": \"90210\"}}"}
+{"id": "exec_multiple_38", "result": "<|python_tag|>{\"name\": \"retrieve_holiday_by_year\", \"parameters\": {\"year\": \"2010\", \"country\": \"FR\"}}"}
+{"id": "exec_multiple_39", "result": "<|python_tag|>{\"name\": \"sort_array\", \"parameters\": {\"array\": \"[34, 2, 56, 7, 9, 12]\", \"reverse\": \"true\"}}"}
+{"id": "exec_multiple_40", "result": "<|python_tag|>{\"name\": \"add_binary_numbers\", \"parameters\": {\"a\": \"10011\", \"b\": \"1100\"}}"}
+{"id": "exec_multiple_41", "result": "<|python_tag|>{\"name\": \"predict_value\", \"parameters\": {\"slope\": \"calculate_slope\", \"x\": \"10\", \"y\": \"[4, -5, 6]\", \"intercept\": \"calculate_intercept\"}}"}
+{"id": "exec_multiple_42", "result": "<|python_tag|>{\"name\": \"calculate_investment_value\", \"parameters\": {\"initial_investment\": \"10000\", \"annual_contribution\": \"1000\", \"years\": \"5\", \"annual_return\": \"0\", \"inflation_rate\": \"[0.01, 0.02, 0.03, 0.04, 0.04]\", \"adjust_for_inflation\": \"true\"}}"}
+{"id": "exec_multiple_43", "result": "<|python_tag|>{\"name\": \"calculate_investment_value\", \"parameters\": {\"annual_contribution\": \"1000\", \"initial_investment\": \"1000000\", \"annual_return\": \"0\", \"years\": \"3\", \"inflation_rate\": \"[0.01, 0.04, 0.04]\", \"adjust_for_inflation\": \"true\"}}"}
+{"id": "exec_multiple_44", "result": "<|python_tag|>{\"name\": \"calculate_nutritional_needs\", \"parameters\": {\"age\": \"80\", \"gender\": \"female\", \"height\": \"170\", \"weight\": \"59\", \"activity_level\": \"4\", \"goal\": \"lose\"}}"}
+{"id": "exec_multiple_45", "result": "<|python_tag|>{\"name\": \"book_room\", \"parameters\": {\"check_in_date\": \"08-11-2024\", \"check_out_date\": \"08-15-2024\", \"customer_id\": \"123\", \"room_type\": \"deluxe\"}}"}
+{"id": "exec_multiple_46", "result": "<|python_tag|>{\"name\": \"calculate_total\", \"parameters\": {\"quantities\": \"[101, 20]\", \"prices\": \"[0.1, 10.0]\"}}"}
+{"id": "exec_multiple_47", "result": "<|python_tag|>{\"name\": \"get_movie_director\", \"parameters\": {\"movie_name\": \"Pulp Fiction\"}}"}
+{"id": "exec_multiple_48", "result": "<|python_tag|>{\"name\": \"get_movie_rating\", \"parameters\": {\"movie_name\": \"Avatar\"}}"}
+{"id": "exec_multiple_49", "result": "<|python_tag|>{\"name\": \"polygon_area\", \"parameters\": {\"vertices\": \"[[1, 2], [3, 4], [1, 4], [3, 7]]\"}}"}

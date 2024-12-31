@@ -1,0 +1,50 @@
+{"id": "exec_multiple_0", "result": [{"calc_binomial_probability": "{\"n\": 20, \"k\": 5, \"p\": 0.10000000000000002}"}], "input_token_count": 331, "output_token_count": 59, "latency": 2.6033730506896973}
+{"id": "exec_multiple_1", "result": [{"calculate_cosine_similarity": "{\"vectorA\": [0.5, 0.7, 0.2, 0.9, 0.1], \"vectorB\": [0.4, 0.6, 0.3, 0.8, 0.2]}"}], "input_token_count": 355, "output_token_count": 79, "latency": 1.8343291282653809}
+{"id": "exec_multiple_2", "result": [{"calculate_density": "{\"mass\": 50, \"volume\": 10}"}], "input_token_count": 579, "output_token_count": 29, "latency": 1.103929042816162}
+{"id": "exec_multiple_3", "result": [{"calculate_displacement": "{\"initial_velocity\": 15, \"acceleration\": 9.8, \"time\": 10}"}], "input_token_count": 418, "output_token_count": 44, "latency": 1.2892189025878906}
+{"id": "exec_multiple_4", "result": [{"calculate_electrostatic_potential_energy": "{\"charge\": 5, \"voltage\": 10}"}], "input_token_count": 331, "output_token_count": 36, "latency": 0.8643600940704346}
+{"id": "exec_multiple_5", "result": [{"calculate_final_velocity": "{\"initial_velocity\": 0, \"acceleration\": 9.8, \"time\": 12}"}], "input_token_count": 572, "output_token_count": 45, "latency": 1.350135087966919}
+{"id": "exec_multiple_6", "result": [{"calculate_future_value": "{\"present_value\": 5000, \"interest_rate\": 0.05, \"periods\": 10}"}], "input_token_count": 470, "output_token_count": 47, "latency": 1.432814121246338}
+{"id": "exec_multiple_7", "result": [{"calculate_mean": "{\"numbers\": [22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54, 56, 58, 60, 62, 64, 66, 68, 70, 72, 74, 76, 78, 80]}"}], "input_token_count": 289, "output_token_count": 140, "latency": 2.8039166927337646}
+{"id": "exec_multiple_8", "result": [{"calculate_permutations": "{\"n\": 26, \"k\": 5}"}], "input_token_count": 463, "output_token_count": 30, "latency": 0.8465471267700195}
+{"id": "exec_multiple_9", "result": [{"calculate_standard_deviation": "{\"numbers\": [1000, 2000, 3000, 4000, 5000, 7000, 9000, 15000, 20000, 30000]}"}], "input_token_count": 342, "output_token_count": 86, "latency": 2.090069055557251}
+{"id": "exec_multiple_10", "result": [{"calculate_triangle_area": "{\"base\": 500, \"height\": 300}"}], "input_token_count": 416, "output_token_count": 34, "latency": 1.4218671321868896}
+{"id": "exec_multiple_11", "result": [{"convert_currency": "{\"amount\": 5000, \"from_currency\": \"EUR\", \"to_currency\": \"JPY\"}"}], "input_token_count": 565, "output_token_count": 42, "latency": 1.3468520641326904}
+{"id": "exec_multiple_12", "result": [{"estimate_derivative": "{\"function\": \"lambda t: 3*t**2 + 2*t + 1\", \"x\": 5}"}], "input_token_count": 347, "output_token_count": 45, "latency": 1.2385287284851074}
+{"id": "exec_multiple_13", "result": [{"find_term_on_urban_dictionary": "{\"term\": \"lit\"}"}], "input_token_count": 560, "output_token_count": 29, "latency": 1.1514031887054443}
+{"id": "exec_multiple_14", "result": [{"geometry_area_circle": "{\"radius\": 15}"}], "input_token_count": 323, "output_token_count": 23, "latency": 0.6257538795471191}
+{"id": "exec_multiple_15", "result": [{"get_active_covid_case_by_country": "{\"country\": \"Brazil\"}"}], "input_token_count": 305, "output_token_count": 32, "latency": 1.081719160079956}
+{"id": "exec_multiple_16", "result": [{"get_company_name_by_stock_name": "{\"stock_name\": \"AAPL\"}"}], "input_token_count": 525, "output_token_count": 33, "latency": 1.0398938655853271}
+{"id": "exec_multiple_17", "result": [{"get_coordinate_by_ip_address": "{\"ip_address\": \"192.168.1.1\"}"}], "input_token_count": 321, "output_token_count": 40, "latency": 1.0017039775848389}
+{"id": "exec_multiple_18", "result": [{"get_coordinates_from_city": "{\"city_name\": \"Paris\"}"}], "input_token_count": 473, "output_token_count": 29, "latency": 0.9447216987609863}
+{"id": "exec_multiple_19", "result": [{"get_covid_death_by_country": "{\"country\": \"Brazil\"}"}], "input_token_count": 553, "output_token_count": 31, "latency": 0.8467977046966553}
+{"id": "exec_multiple_20", "result": [{"get_distance": "{\"pointA\": [45.76, 4.85], \"pointB\": [48.85, 2.35]}"}], "input_token_count": 409, "output_token_count": 49, "latency": 1.0492222309112549}
+{"id": "exec_multiple_21", "result": [{"get_fibonacci_sequence": "{\"n\": 20}"}], "input_token_count": 249, "output_token_count": 26, "latency": 0.6736240386962891}
+{"id": "exec_multiple_22", "result": [{"get_price_by_amazon_ASIN": "{\"ASIN\": \"B08PPDJWC8\"}"}], "input_token_count": 387, "output_token_count": 36, "latency": 1.2604339122772217}
+{"id": "exec_multiple_23", "result": [{"get_prime_factors": "{\"number\": 4567}"}], "input_token_count": 558, "output_token_count": 26, "latency": 0.9099042415618896}
+{"id": "exec_multiple_24", "result": [{"get_product_name_by_amazon_ASIN": "{\"ASIN\": \"B08BHXG144\"}"}], "input_token_count": 559, "output_token_count": 40, "latency": 1.2946569919586182}
+{"id": "exec_multiple_25", "result": [{"get_rating_by_amazon_ASIN": "{\"ASIN\": \"B07ZPKBL9V\"}"}], "input_token_count": 492, "output_token_count": 36, "latency": 1.0762319564819336}
+{"id": "exec_multiple_26", "result": [{"get_stock_history": "{\"stock_name\": \"AAPL\", \"interval\": \"1mo\", \"diffandsplits\": \"true\"}"}], "input_token_count": 602, "output_token_count": 43, "latency": 1.2727720737457275}
+{"id": "exec_multiple_27", "result": [{"get_stock_price_by_stock_name": "{\"stock_name\": \"AAPL\"}"}], "input_token_count": 418, "output_token_count": 33, "latency": 0.979356050491333}
+{"id": "exec_multiple_28", "result": [{"get_time_zone_by_coord": "{\"long\": \"123.45\", \"lat\": \"-67.89\"}"}], "input_token_count": 383, "output_token_count": 42, "latency": 1.2229290008544922}
+{"id": "exec_multiple_29", "result": [{"get_weather_data": "{\"coordinates\": [90.0, 0.0]}"}], "input_token_count": 455, "output_token_count": 35, "latency": 0.849175214767456}
+{"id": "exec_multiple_30", "result": [{"get_zipcode_by_ip_address": "{\"ip_address\": \"192.168.1.1\"}"}], "input_token_count": 484, "output_token_count": 40, "latency": 1.128467082977295}
+{"id": "exec_multiple_31", "result": [{"mat_mul": "{\"matA\": [[1, 2], [3, 4]], \"matB\": [[5, 6], [7, 8]]}"}], "input_token_count": 324, "output_token_count": 47, "latency": 1.3202791213989258}
+{"id": "exec_multiple_32", "result": [{"math_factorial": "{\"n\": 7}"}], "input_token_count": 296, "output_token_count": 21, "latency": 0.7393190860748291}
+{"id": "exec_multiple_33", "result": [{"math_gcd": "{\"a\": 450, \"b\": 300}"}], "input_token_count": 435, "output_token_count": 31, "latency": 1.3111858367919922}
+{"id": "exec_multiple_34", "result": [{"math_lcm": "{\"a\": 18, \"b\": 24}"}], "input_token_count": 643, "output_token_count": 29, "latency": 1.1973381042480469}
+{"id": "exec_multiple_35", "result": [{"mortgage_calculator": "{\"loan_amount\": 350000, \"interest_rate\": 0.035, \"loan_period\": 30}"}], "input_token_count": 589, "output_token_count": 54, "latency": 1.562725305557251}
+{"id": "exec_multiple_36", "result": [{"quadratic_roots": "{\"a\": 3, \"b\": 7, \"c\": -10}"}], "input_token_count": 448, "output_token_count": 36, "latency": 1.236180067062378}
+{"id": "exec_multiple_37", "result": [{"retrieve_city_based_on_zipcode": "{\"zipcode\": \"90210\"}"}], "input_token_count": 564, "output_token_count": 34, "latency": 1.0139000415802002}
+{"id": "exec_multiple_38", "result": [{"retrieve_holiday_by_year": "{\"year\": \"2010\", \"country\": \"FR\"}"}], "input_token_count": 349, "output_token_count": 36, "latency": 1.1529772281646729}
+{"id": "exec_multiple_39", "result": [{"sort_array": "{\"array\": [34, 2, 56, 7, 9, 12], \"reverse\": true}"}], "input_token_count": 621, "output_token_count": 43, "latency": 1.1243982315063477}
+{"id": "exec_multiple_40", "result": [{"add_binary_numbers": "{\"a\": \"10011\", \"b\": \"1100\"}"}], "input_token_count": 320, "output_token_count": 37, "latency": 1.3092279434204102}
+{"id": "exec_multiple_41", "result": [{"calculate_slope": "{\"x\": [1, 2, -3], \"y\": [4, -5, 6]}"}], "input_token_count": 705, "output_token_count": 41, "latency": 1.130544900894165}
+{"id": "exec_multiple_42", "result": [{"calculate_investment_value": "{\"initial_investment\": 10000, \"annual_contribution\": 1000, \"years\": 5, \"annual_return\": 0.05, \"inflation_rate\": [0.01, 0.02, 0.03, 0.04, 0.04]}"}], "input_token_count": 794, "output_token_count": 103, "latency": 2.4761459827423096}
+{"id": "exec_multiple_43", "result": [{"calculate_investment_value": "{\"initial_investment\": 1000000, \"annual_contribution\": 1000, \"years\": 3, \"annual_return\": 0.1, \"inflation_rate\": [0.01, 0.04, 0.04]}"}], "input_token_count": 764, "output_token_count": 92, "latency": 1.8441007137298584}
+{"id": "exec_multiple_44", "result": [{"calculate_basal_metabolic_rate": "{\"weight\": 59, \"height\": 170, \"age\": 80, \"gender\": \"female\"}"}], "input_token_count": 829, "output_token_count": 52, "latency": 1.346379041671753}
+{"id": "exec_multiple_45", "result": [{"book_room": "{\"room_type\": {\"type\": \"deluxe\"}, \"check_in_date\": \"08-11-2024\", \"check_out_date\": \"08-15-2024\", \"customer_id\": \"123\"}"}], "input_token_count": 622, "output_token_count": 76, "latency": 1.660987138748169}
+{"id": "exec_multiple_46", "result": [{"order_food": "{\"item\": [\"dumplings\", \"rice bowls\"], \"quantity\": [101, 20], \"price\": [0.1, 10]}"}], "input_token_count": 499, "output_token_count": 54, "latency": 1.5001680850982666}
+{"id": "exec_multiple_47", "result": [{"get_movie_director": "{\"movie_name\": \"Pulp Fiction\"}"}], "input_token_count": 609, "output_token_count": 31, "latency": 0.8780694007873535}
+{"id": "exec_multiple_48", "result": [{"get_movie_rating": "{\"movie_name\": \"Avatar\"}"}], "input_token_count": 370, "output_token_count": 28, "latency": 1.1932988166809082}
+{"id": "exec_multiple_49", "result": [{"convert_coordinates": "{\"coordinates\": [[1, 2], [3, 4], [1, 4], [3, 7]]}"}], "input_token_count": 512, "output_token_count": 44, "latency": 1.1433711051940918}

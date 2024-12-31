@@ -1,0 +1,200 @@
+{"id": "parallel_multiple_0", "result": [{"name": "math_toolkit.sum_of_multiples", "arguments": {"lower_limit": 1, "upper_limit": 1000, "multiples": [3, 5]}}]}
+{"id": "parallel_multiple_1", "result": [{"name": "area_rectangle.calculate", "arguments": {"length": 7, "breadth": 3}}]}
+{"id": "parallel_multiple_2", "result": [{"name": "circle.calculate_area", "arguments": {"radius": 5}}]}
+{"id": "parallel_multiple_3", "result": [{"name": "get_rectangle_property", "arguments": {"perimeter": 14, "area": 15, "property": "length"}}]}
+{"id": "parallel_multiple_4", "result": [{"name": "integral", "arguments": {"function": "x**2", "a": 1, "b": 5}}]}
+{"id": "parallel_multiple_5", "result": [{"name": "gcd", "arguments": {"num1": 96, "num2": 128}}]}
+{"id": "parallel_multiple_6", "result": [{"name": "find_prime_numbers", "arguments": {"start": 50, "end": 150}}]}
+{"id": "parallel_multiple_7", "result": [{"name": "kinematics.calculate_time", "arguments": {"velocity": 50, "distance": 600}}]}
+{"id": "parallel_multiple_8", "result": [{"name": "kinematics.final_velocity", "arguments": {"initial_velocity": 20.0, "acceleration": 5.0, "time": 6.0}}]}
+{"id": "parallel_multiple_9", "result": [{"name": "flight_book", "arguments": {"_from": "Seattle", "to": "Boston", "airlines": "American Airlines"}}]}
+{"id": "parallel_multiple_10", "result": [{"name": "musical_ticket.buy", "arguments": {"show": "Mamma Mia", "date": "2023-06-30"}}]}
+{"id": "parallel_multiple_11", "result": [{"name": "physics.electric_field", "arguments": {"charge": 4.0, "distance": 3.0}}]}
+{"id": "parallel_multiple_12", "result": [{"name": "calculate_magnetic_field", "arguments": {"current": 4.0, "distance": 2.0}}]}
+{"id": "parallel_multiple_13", "result": [{"name": "energy_calculator.calculate", "arguments": {"substance": "water", "mass": 100, "initial_temperature": 25, "final_temperature": 100, "unit": "joules"}}]}
+{"id": "parallel_multiple_14", "result": [{"name": "animal_population.get_history", "arguments": {"country": "Bangladesh", "species": "tigers", "years": 5}}]}
+{"id": "parallel_multiple_15", "result": [{"name": "restaurant.search", "arguments": {"location": "New York, NY", "cuisine": "Chinese", "rating": 1.0}}]}
+{"id": "parallel_multiple_16", "result": [{"name": "calculate_factorial", "arguments": {"number": 8}}]}
+{"id": "parallel_multiple_17", "result": [{"name": "steps_calorie_calculation", "arguments": {"calorie": 500.0}}]}
+{"id": "parallel_multiple_18", "result": [{"name": "currency_conversion", "arguments": {"amount": 10.0, "from_currency": "dollar", "to_currency": "euro"}}]}
+{"id": "parallel_multiple_19", "result": [{"name": "math.gaussian_integral", "arguments": {"function": "math.exp(-x**2)", "lower_limit": -2, "upper_limit": 2}}]}
+{"id": "parallel_multiple_20", "result": [{"name": "statistics.median", "arguments": {"data": [3, 4, 5, 2, 8, 5]}}]}
+{"id": "parallel_multiple_21", "result": [{"name": "linear_regression_fit", "arguments": {"x": "data['sales']", "y": "data['future_sales']", "return_residuals": true}}]}
+{"id": "parallel_multiple_22", "result": [{"name": "sales_growth.calculate", "arguments": {"company": "XYZ", "years": 3}}]}
+{"id": "parallel_multiple_23", "result": [{"name": "financial_ratio.net_profit_margin", "arguments": {"net_income": 20000, "total_revenue": 100000}}]}
+{"id": "parallel_multiple_24", "result": [{"name": "investment.invest", "arguments": {"company": "Google", "amount": 2000.0}}]}
+{"id": "parallel_multiple_25", "result": [{"name": "stock_invest.calculate_investment_cost", "arguments": {"company": "Apple", "shares": 50}}]}
+{"id": "parallel_multiple_26", "result": [{"name": "bank.get_transaction_history", "arguments": {"account": "00125648", "days": 7}}]}
+{"id": "parallel_multiple_27", "result": [{"name": "bank_account.transfer", "arguments": {"from_account": "checking", "to_account": "saving", "amount": 5000.0}}]}
+{"id": "parallel_multiple_28", "result": [{"name": "criminal_record.get_status", "arguments": {"criminal_name": "John Doe", "region": "New York"}}]}
+{"id": "parallel_multiple_29", "result": [{"name": "court_records.search_cases", "arguments": {"location": "New York", "query": "Theft", "year": 2021}}]}
+{"id": "parallel_multiple_30", "result": [{"name": "legal_case.find_parties", "arguments": {"party_name": "Charles Dickens", "city": "Boston"}}]}
+{"id": "parallel_multiple_31", "result": [{"name": "lawsuit.fetch_details", "arguments": {"company_name": "Pacific Gas and Electric"}}]}
+{"id": "parallel_multiple_32", "result": [{"name": "weather_forecast_temperature", "arguments": {"location": "Boston, USA", "days": 10}}]}
+{"id": "parallel_multiple_33", "result": [{"name": "supermarket.find_in_city", "arguments": {"city": "Los Angeles", "state": "", "openNow": true}}]}
+{"id": "parallel_multiple_34", "result": [{"name": "translate_text", "arguments": {"text": "Hello World", "from_lang": "English", "to_lang": "Spanish"}}]}
+{"id": "parallel_multiple_35", "result": [{"name": "image_processing.object_identification", "arguments": {"image_url": "my_backyard_image_url"}}]}
+{"id": "parallel_multiple_36", "result": [{"name": "euro_history.battle_details", "arguments": {"battle_name": "Battle of Waterloo", "specific_info": ["overview"]}}]}
+{"id": "parallel_multiple_37", "result": [{"name": "history.get_timeline", "arguments": {"event": "World War II", "region": "Europe"}}]}
+{"id": "parallel_multiple_38", "result": [{"name": "us_history.life_expectancy", "arguments": {"year": 1900}}]}
+{"id": "parallel_multiple_39", "result": [{"name": "scientist_info.get_birthdate", "arguments": {"name": "Nikola Tesla"}}]}
+{"id": "parallel_multiple_40", "result": [{"name": "scienceFacts.getWeight", "arguments": {"particle": "Neutron", "unit": "amu"}}]}
+{"id": "parallel_multiple_41", "result": [{"name": "painting.create", "arguments": {"shape": "square", "background_color": "blue", "dimensions": [16, 16]}}]}
+{"id": "parallel_multiple_42", "result": [{"name": "artwork.find", "arguments": {"museum": "Modern Arts Museum", "type": "bronze statue"}}]}
+{"id": "parallel_multiple_43", "result": [{"name": "get_artwork_price", "arguments": {"museum_location": "Philadelphia", "sculpture_material": "marble", "sculpture_size": [4, 4]}}]}
+{"id": "parallel_multiple_44", "result": [{"name": "house_designer.design", "arguments": {"bedrooms": 3, "bathrooms": 2, "garden": true}}]}
+{"id": "parallel_multiple_45", "result": [{"name": "calcVolume.cuboid", "arguments": {"height": 10, "width": 5, "depth": 8}}]}
+{"id": "parallel_multiple_46", "result": [{"name": "museum.get_hours", "arguments": {"museum_name": "Louvre Museum"}}]}
+{"id": "parallel_multiple_47", "result": [{"name": "lowest_price", "arguments": {"city": "Austin", "product": "Yamaha Acoustic Guitar"}}]}
+{"id": "parallel_multiple_48", "result": [{"name": "note_conversion.indian", "arguments": {"note": "C"}}]}
+{"id": "parallel_multiple_49", "result": [{"name": "beat_generator", "arguments": {"genre": "Hip Hop", "bpm": 95, "scale": "Major"}}]}
+{"id": "parallel_multiple_50", "result": [{"name": "sport_analysis.last_game_performance", "arguments": {"team": "L.A Lakers", "details": ["field goal %", "free throw %"]}}]}
+{"id": "parallel_multiple_51", "result": [{"name": "get_player_record", "arguments": {"player": "Michael Jordan", "stat": "highest_scoring_game"}}]}
+{"id": "parallel_multiple_52", "result": [{"name": "game_of_life.play", "arguments": {"rounds": 3, "start_board": []}}]}
+{"id": "parallel_multiple_53", "result": [{"name": "board_game_search", "arguments": {"complexity": 2.5, "player_count": 6}}]}
+{"id": "parallel_multiple_54", "result": [{"name": "BattleReignGameAPI.update_player_equipment", "arguments": {"attribute": "armor", "level": 5}}]}
+{"id": "parallel_multiple_55", "result": [{"name": "recipe_search", "arguments": {"ingredient": "spaghetti", "dietary_requirements": ["gluten_free"], "isHomemade": true}}]}
+{"id": "parallel_multiple_56", "result": [{"name": "time_zones.get_current_time", "arguments": {"location": "Beijing"}}]}
+{"id": "parallel_multiple_57", "result": [{"name": "hotel.find", "arguments": {"location": "Paris, France", "stars": 4, "amenities": ["Free WiFi", "Breakfast Included", "Gym"]}}]}
+{"id": "parallel_multiple_58", "result": [{"name": "triangle_properties.get", "arguments": {"side1": 5.0, "side2": 7.0, "side3": 9.0, "get_area": true, "get_perimeter": true, "get_angles": true}}]}
+{"id": "parallel_multiple_59", "result": [{"name": "math.triangle_area_heron", "arguments": {"side1": 7, "side2": 10, "side3": 5}}]}
+{"id": "parallel_multiple_60", "result": [{"name": "country_info.capital", "arguments": {"country": "Australia"}}]}
+{"id": "parallel_multiple_61", "result": [{"name": "EuclideanDistance.calculate", "arguments": {"pointA": [3, 2], "pointB": [7, 5], "rounding": 2}}]}
+{"id": "parallel_multiple_62", "result": [{"name": "kinematics.calculate_displacement", "arguments": {"initial_speed": 5.0, "acceleration": 2.0, "time": 10.0}}]}
+{"id": "parallel_multiple_63", "result": [{"name": "weather.get_by_city_date", "arguments": {"city": "New York City", "date": "2020-12-25"}}]}
+{"id": "parallel_multiple_64", "result": [{"name": "ecological_impact.analyze", "arguments": {"species": "African Elephant", "ecosystem": "Serengeti ecosystem", "location": "Serengeti", "timeframe": 5}}]}
+{"id": "parallel_multiple_65", "result": [{"name": "realestate.find_properties", "arguments": {"location": "San Francisco, CA", "propertyType": "condo", "bedrooms": 2, "budget": {"min": 500000.0, "max": 800000.0}}}, {"name": "property_valuation.get", "arguments": {"location": "Los Angeles, CA", "propertyType": "villa", "bedrooms": 3, "age": 5}}, {"name": "property_valuation.get", "arguments": {"location": "New York, NY", "propertyType": "apartment", "bedrooms": 1, "age": 10}}]}
+{"id": "parallel_multiple_66", "result": [{"name": "calculate_average", "arguments": {"gradeDict": {"Math": 85, "English": 90, "Science": 88, "History": 92, "Art": 89}}}]}
+{"id": "parallel_multiple_67", "result": [{"name": "math_roots.quadratic", "arguments": {"a": 3, "b": 4, "c": -7}}]}
+{"id": "parallel_multiple_68", "result": [{"name": "corporate_finance.calculate_YOY_growth_rate", "arguments": {"company_name": "Tech Innovators", "year1": 2018, "year1_revenue": 500000, "year2": 2019, "year2_revenue": 750000}}]}
+{"id": "parallel_multiple_69", "result": [{"name": "finance.property_depreciation", "arguments": {"initial_cost": 500000.0, "depreciation_rate": 0.02, "years": 5, "monthly": true}}]}
+{"id": "parallel_multiple_70", "result": [{"name": "solarFarm.potential", "arguments": {"coordinates": [-122.4194, 37.7749], "panelArea": 50000.0, "month": "July"}}]}
+{"id": "parallel_multiple_71", "result": [{"name": "sculpture_availability.check", "arguments": {"sculpture_name": "The Thinker", "material": "bronze"}}]}
+{"id": "parallel_multiple_72", "result": [{"name": "generate_sound_wave", "arguments": {"frequency": 440.0, "duration": 5, "wave_type": "sine"}}]}
+{"id": "parallel_multiple_73", "result": [{"name": "sports_data.basketball.most_points_single_game", "arguments": {"league": "NBA"}}]}
+{"id": "parallel_multiple_74", "result": [{"name": "basketball.player_stats.get", "arguments": {"player_name": "LeBron James", "stats_fields": ["points", "assists", "rebounds", "minutes"]}}]}
+{"id": "parallel_multiple_75", "result": [{"name": "route_planner.calculate_route", "arguments": {"start": "home", "destination": "Knight Gambit", "method": "fastest"}}]}
+{"id": "parallel_multiple_76", "result": [{"name": "video_games.store_price", "arguments": {"game_title": "The Legend of Zelda: Breath of the Wild", "platform": "Nintendo Switch", "region": "United States"}}]}
+{"id": "parallel_multiple_77", "result": [{"name": "game_rewards.get", "arguments": {"game": "Call of Duty", "platform": "Playstation"}}]}
+{"id": "parallel_multiple_78", "result": [{"name": "maps.shortest_path", "arguments": {"start_location": "home in New York City", "end_location": "Metropolitan Museum of Art", "mode": "walk"}}]}
+{"id": "parallel_multiple_79", "result": [{"name": "solve.quadratic_equation", "arguments": {"a": 5, "b": 6, "c": 1}}]}
+{"id": "parallel_multiple_80", "result": [{"name": "functions.intersect", "arguments": {"function1": "4x+7", "function2": "2x+5"}}]}
+{"id": "parallel_multiple_81", "result": [{"name": "geometry_rectangle.calculate", "arguments": {"width": 30, "length": 50}}]}
+{"id": "parallel_multiple_82", "result": [{"name": "geometry.calculate_cone_volume", "arguments": {"radius": 10, "height": 30, "round_off": 2}}]}
+{"id": "parallel_multiple_83", "result": [{"name": "calculate_integral", "arguments": {"func": "3*x**2 - 2*x + 1", "a": 1, "b": 4}}]}
+{"id": "parallel_multiple_84", "result": [{"name": "math.lcm", "arguments": {"num1": 36, "num2": 48}}]}
+{"id": "parallel_multiple_85", "result": [{"name": "calculate_gcd", "arguments": {"num1": 56, "num2": 98, "algorithm": "euclidean"}}, {"name": "calculate_gcd", "arguments": {"num1": 81, "num2": 27, "algorithm": "binary"}}, {"name": "calculate_lcm", "arguments": {"num1": 15, "num2": 25, "method": "standard"}}, {"name": "calculate_lcm", "arguments": {"num1": 21, "num2": 14, "method": "reduced"}}]}
+{"id": "parallel_multiple_86", "result": [{"name": "kinematics.calculate_speed_from_rest", "arguments": {"distance": 120.0, "time": 10.0}}]}
+{"id": "parallel_multiple_87", "result": [{"name": "kinematics.final_velocity", "arguments": {"initial_velocity": 0.0, "time": 5.0, "acceleration": 3.0}}]}
+{"id": "parallel_multiple_88", "result": [{"name": "library.search_book", "arguments": {"book_name": "To Kill a Mockingbird", "city": "New York", "genre": "Fiction"}}]}
+{"id": "parallel_multiple_89", "result": [{"name": "ride_hailing.get_rides", "arguments": {"source": "123 Main Street", "destination": "456 Park Avenue", "max_cost": 30.0}}]}
+{"id": "parallel_multiple_90", "result": [{"name": "calculate_final_temperature", "arguments": {"quantity1": 5, "temperature1": 300, "quantity2": 3, "temperature2": 500}}]}
+{"id": "parallel_multiple_91", "result": [{"name": "biological.calc_energy", "arguments": {"mols": 5.0, "substance": "C6H12O6", "joules_per_mol": 2800.0}}]}
+{"id": "parallel_multiple_92", "result": [{"name": "unit_conversion.convert", "arguments": {"value": 24, "from_unit": "inches", "to_unit": "centimeters"}}]}
+{"id": "parallel_multiple_93", "result": [{"name": "geology.get_era", "arguments": {"era_name": "Jurassic", "calculate_years_ago": true}}]}
+{"id": "parallel_multiple_94", "result": [{"name": "sort_list", "arguments": {"elements": ["apple", "banana", "cherry", "date", "elderberry"], "order": "desc"}}]}
+{"id": "parallel_multiple_95", "result": [{"name": "cosine_similarity.calculate", "arguments": {"vector1": [1, 2, 3], "vector2": [4, 5, 6], "rounding": 2}}]}
+{"id": "parallel_multiple_96", "result": [{"name": "library.find_nearby", "arguments": {"location": "New York City, NY", "preferences": ["Pet-friendly", "Cafe Inside"]}}]}
+{"id": "parallel_multiple_97", "result": [{"name": "calc_Simple_Interest", "arguments": {"principle_amount": 5000.0, "duration": 5.0, "annual_rate": 4.0}}]}
+{"id": "parallel_multiple_98", "result": "I need to convert 5000 Japanese Yen into US Dollars and then convert 15 kilometers into miles. Can you tell me the answer?"}
+{"id": "parallel_multiple_99", "result": [{"name": "corporate_finance.dividend_data", "arguments": {"company": "Microsoft", "years": 5, "frequency": "quarterly"}}]}
+{"id": "parallel_multiple_100", "result": [{"name": "stock_forecast", "arguments": {"company": "Apple Inc.", "days": 30, "model": "ARIMA"}}]}
+{"id": "parallel_multiple_101", "result": [{"name": "avg_closing_price", "arguments": {"company": "Microsoft", "days": 30, "data_source": "yahoo finance"}}]}
+{"id": "parallel_multiple_102", "result": [{"name": "financial.compound_interest", "arguments": {"principle": 5000, "rate": 0.04, "time": 5, "n": 4}}]}
+{"id": "parallel_multiple_103", "result": [{"name": "lawyer.search", "arguments": {"location": "New York, NY", "expertise": "Divorce"}}]}
+{"id": "parallel_multiple_104", "result": [{"name": "air_quality_forecast", "arguments": {"location": "New York", "days": 5}}]}
+{"id": "parallel_multiple_105", "result": [{"name": "geodistance.find", "arguments": {"origin": "New York", "destination": "London"}}]}
+{"id": "parallel_multiple_106", "result": [{"name": "traffic_estimate", "arguments": {"start_location": "San Francisco", "end_location": "Palo Alto"}}]}
+{"id": "parallel_multiple_107", "result": [{"name": "library.search_books", "arguments": {"location": "New York City", "genre": "mystery novel"}}]}
+{"id": "parallel_multiple_108", "result": [{"name": "five_factor_model.analyse", "arguments": {"talkative": true, "nervous": false, "artistic_interests": true, "lazy": false, "forgiving": true}}]}
+{"id": "parallel_multiple_109", "result": [{"name": "european_history.get_monarchs", "arguments": {"country": "France", "century": 17}}]}
+{"id": "parallel_multiple_110", "result": [{"name": "us_history.population_by_state_year", "arguments": {"state": "California", "year": 1980}}]}
+{"id": "parallel_multiple_111", "result": [{"name": "religion.get_origin", "arguments": {"religion": "Buddhism"}}]}
+{"id": "parallel_multiple_112", "result": [{"name": "library.search_book", "arguments": {"title": "Starry Night", "author": "Vincent Van Gogh", "platform": "Sotheby"}}, {"name": "art_auction.fetch_artwork_price", "arguments": {"artwork_name": "The Scream", "artist": "Edvard Munch", "platform": "Christie"}}, {"name": "library.search_book", "arguments": {"title": "To Kill a Mockingbird", "author": "Harper Lee", "platform": "New York Public Library"}}, {"name": "library.search_book", "arguments": {"title": "1984", "author": "George Orwell", "platform": "British Library"}}]}
+{"id": "parallel_multiple_113", "result": [{"name": "paint_color.trends", "arguments": {"room": "living room", "period": "Monthly"}}]}
+{"id": "parallel_multiple_114", "result": [{"name": "sculpture.create_custom", "arguments": {"item": "horse", "material": "Marble", "size": 20}}, {"name": "sculpture.create_custom", "arguments": {"item": "dog", "material": "Wood", "size": 15}}, {"name": "painting.create_custom", "arguments": {"subject": "sunset", "color": "Red", "size": 30}}, {"name": "painting.create_custom", "arguments": {"subject": "cityscape", "color": "Blue", "size": 25}}]}
+{"id": "parallel_multiple_115", "result": [{"name": "artwork_search.find", "arguments": {"type": "modern art installation"}}]}
+{"id": "parallel_multiple_116", "result": [{"name": "exhibition_info", "arguments": {"museum_name": "Louvre", "month": 3}}]}
+{"id": "parallel_multiple_117", "result": [{"name": "concert.book_ticket", "arguments": {"artist": "Taylor Swift", "location": "New York", "add_ons": ["VIP Seating"]}}]}
+{"id": "parallel_multiple_118", "result": [{"name": "music.generate", "arguments": {"key": "D Minor", "tempo": 120}}]}
+{"id": "parallel_multiple_119", "result": [{"name": "player_stats.get_all_time_goals", "arguments": {"player_name": "Cristiano Ronaldo", "team_name": "Manchester United", "competition": "Premier League"}}]}
+{"id": "parallel_multiple_120", "result": [{"name": "soccer_scores.get_scores", "arguments": {"team": "Manchester United", "league": "English Premier League", "rounds": 5}}]}
+{"id": "parallel_multiple_121", "result": [{"name": "BoardGameGeek.recommend", "arguments": {"numPlayers": 6, "category": "strategy"}}, {"name": "BoardGameGeek.recommend", "arguments": {"numPlayers": 4, "category": "party"}}]}
+{"id": "parallel_multiple_122", "result": [{"name": "games.update.find", "arguments": {"game": "Call of Duty", "platform": "Playstation", "region": "European"}}]}
+{"id": "parallel_multiple_123", "result": [{"name": "video_games.get_player_count", "arguments": {"game_title": "Call of Duty: Modern Warfare", "year": 2019, "platform": "Playstation"}}]}
+{"id": "parallel_multiple_124", "result": [{"name": "recipe_search", "arguments": {"ingredients": ["eggs", "milk", "bread"], "calories": 300}}]}
+{"id": "parallel_multiple_125", "result": [{"name": "restaurant.find_group", "arguments": {"location": "Seattle, WA", "cuisine": ["Seafood", "Italian"], "group_size": 10}}]}
+{"id": "parallel_multiple_126", "result": [{"name": "recipe.find", "arguments": {"mainIngredient": "chicken", "ingredientLimit": 5}}]}
+{"id": "parallel_multiple_127", "result": [{"name": "hotel.book", "arguments": {"location": "Paris", "roomType": "deluxe", "nights": 5, "additional_services": ["breakfast", "spa"]}}]}
+{"id": "parallel_multiple_128", "result": [{"name": "hotel_room_pricing.get", "arguments": {"hotelName": "Hilton New York", "roomType": "deluxe", "nights": 5}}]}
+{"id": "parallel_multiple_129", "result": [{"name": "unit_conversion.convert", "arguments": {"value": 5000, "from_unit": "Euros", "to_unit": "US Dollars"}}]}
+{"id": "parallel_multiple_130", "result": "To solve the quadratic equation, I need to call the solve_quadratic_equation function with the provided coefficients.\n\n```python\n# Call the solve_quadratic_equation function\nsolve_quadratic_equation(a=5, b=-20, c=15)\n```"}
+{"id": "parallel_multiple_131", "result": [{"name": "geometry.area_circle", "arguments": {"radius": 5.6}}]}
+{"id": "parallel_multiple_132", "result": [{"name": "calculus.derivative", "arguments": {"function": "3x^2 + 2x - 1", "value": 2, "function_variable": "x"}}]}
+{"id": "parallel_multiple_133", "result": [{"name": "music_generator.generate_scale_progression", "arguments": {"key": "D", "tempo": 120, "duration": 2, "scale_type": "minor"}}]}
+{"id": "parallel_multiple_134", "result": [{"name": "get_top_cases", "arguments": {"field_of_law": "constitutional law", "top_number": 5, "country": "United Kingdom"}}]}
+{"id": "parallel_multiple_135", "result": [{"name": "musical_scale", "arguments": {"key": "C"}}]}
+{"id": "parallel_multiple_136", "result": [{"name": "court_case.search", "arguments": {"docket_number": "12345", "location": "Dallas, TX"}}]}
+{"id": "parallel_multiple_137", "result": [{"name": "cell_biology.function_lookup", "arguments": {"molecule": "ATP", "organelle": "mitochondria", "specific_function": true}}]}
+{"id": "parallel_multiple_138", "result": [{"name": "calculate_magnetic_field", "arguments": {"current": 5, "radius": 0.02}}]}
+{"id": "parallel_multiple_139", "result": [{"name": "group_dynamics.pattern", "arguments": {"total": 30, "extroverts": 15, "introverts": 15}}]}
+{"id": "parallel_multiple_140", "result": [{"name": "calculate_density", "arguments": {"mass": 10, "volume": 2}}]}
+{"id": "parallel_multiple_141", "result": [{"name": "mutation_type.find", "arguments": {"snp_id": "rs123456", "species": "Homo sapiens"}}]}
+{"id": "parallel_multiple_142", "result": [{"name": "get_collectables_in_season", "arguments": {"game_name": "Animal Crossing", "season": "Summer"}}]}
+{"id": "parallel_multiple_143", "result": [{"name": "math.factorial", "arguments": {"number": 7}}]}
+{"id": "parallel_multiple_144", "result": [{"name": "get_scientist_for_discovery", "arguments": {"discovery": "relativity"}}]}
+{"id": "parallel_multiple_145", "result": "\"Sure, let's start with the first task. The 'calculate_fitness' function can be used to calculate the evolutionary fitness of a creature. The arguments used are trait_values with values 0.7, 0.8, and 0.9, and trait_contributions with corresponding values 0.3, 0.4, and 0.3. You can use the 'calculate_fitness' function to find the fitness of the creature.\n\nNext, I'll need to find a lawyer in New York, NY who specializes in Civil and Divorce cases and charges less than $300 per hour. The 'lawyer.find_nearby' function can be used to find the required lawyer. The arguments needed are city as New York, NY, specialty as Civil and Divorce, and fee as 300. You can use the 'lawyer.find_nearby' function to find the lawyer.\n\nThird, I'm curious about the current classical chess rating of a player named Magnus Carlsen. The 'chess.rating' function can be used to fetch the chess rating for this player. The argument needed is player_name as Magnus Carlsen. You can use the 'chess.rating' function to get the chess rating.\n\nLastly, I'm planning to go shopping at Walmart. I want to purchase 'Milk', 'Bread', and 'Eggs' from the nearest Walmart in Los Angeles, CA. The pack sizes I'm looking for are 1, 2, and 12 respectively. The 'walmart.purchase' function can be used to check the availability for me. The arguments needed are loc as Los Angeles, CA, product_list as Milk, Bread, and Eggs, and pack_size as 1, 2, and 12 respectively. You can use the 'walmart.purchase' function to check the availability.\""}
+{"id": "parallel_multiple_146", "result": [{"name": "modify_painting", "arguments": {"size": "30x40", "medium": "oil", "dominant_color": "red"}}]}
+{"id": "parallel_multiple_147", "result": [{"name": "find_restaurants", "arguments": {"location": "San Francisco", "food_type": "Italian", "number": 5, "dietary_requirements": ["vegan"]}}]}
+{"id": "parallel_multiple_148", "result": [{"name": "celebrity_net_worth.get", "arguments": {"name": "Lionel Messi", "currency": "EUR"}}]}
+{"id": "parallel_multiple_149", "result": [{"name": "hotel_booking", "arguments": {"location": "Paris", "room_type": "deluxe", "duration": 5, "start_date": "2022-06-20", "preferences": ["gym", "free_breakfast"]}}]}
+{"id": "parallel_multiple_150", "result": [{"name": "imdb.find_movies_by_actor", "arguments": {"actor_name": "Leonardo DiCaprio", "year": 2010, "category": "Drama"}}]}
+{"id": "parallel_multiple_151", "result": [{"name": "book_hotel", "arguments": {"hotel_name": "Hotel Le Bristol Paris", "location": "Paris, France", "room_type": "suite", "start_date": "12-01-2022", "stay_duration": 10, "view": "city view"}}]}
+{"id": "parallel_multiple_152", "result": [{"name": "geometry.area_triangle", "arguments": {"base": 12, "height": 15, "unit": "square meters"}}]}
+{"id": "parallel_multiple_153", "result": [{"name": "travel_itinerary_generator", "arguments": {"destination": "Paris", "days": 7, "daily_budget": 200, "exploration_type": "urban"}}]}
+{"id": "parallel_multiple_154", "result": [{"name": "predict_house_price", "arguments": {"area": 2000, "rooms": 4, "year": 1985, "location": "San Francisco, California"}}]}
+{"id": "parallel_multiple_155", "result": [{"name": "math.power", "arguments": {"base": 7, "exponent": 3}}]}
+{"id": "parallel_multiple_156", "result": [{"name": "run_two_sample_ttest", "arguments": {"group1": [12, 15, 18, 22, 25], "group2": [20, 23, 26, 29, 32], "equal_variance": true}}]}
+{"id": "parallel_multiple_157", "result": [{"name": "t_test", "arguments": {"dataset_A": [12, 15, 18, 20, 22, 25], "dataset_B": [14, 16, 19, 21, 23, 26], "alpha": 0.05}}]}
+{"id": "parallel_multiple_158", "result": [{"name": "finance.calculate_quarterly_dividend_per_share", "arguments": {"total_payout": 1000000, "outstanding_shares": 500000}}]}
+{"id": "parallel_multiple_159", "result": "I'm sorry, but the function \"calculate_return_on_equity\" is not appropriate for this task. The function is specifically designed to calculate the return on equity for a company, not for finding the lyrics of a song. I suggest using another function to fulfill the user's request.\n\nTo find the lyrics of the song 'Bohemian Rhapsody' by the artist 'Queen' in English, you can use the function \"get_song_lyrics\" with the arguments: {\"song_title\": \"Bohemian Rhapsody\", \"artist_name\": \"Queen\", \"lang\": \"English\"}.\n\nFor the historical law case related to 'fraud' that took place between the years 1990 and 2000, you can use the function \"law_case_search.find_historical\" with the arguments: {\"subject\": \"fraud\", \"from_year\": 1990, \"to_year\": 2000}.\n\nFor a public library in 'Boston, MA' that has both a 'Reading Room' and 'Wi-Fi' facilities, you can use the function \"public_library.find_nearby\" with the arguments: {\"location\": \"Boston, MA\", \"facilities\": [\"Reading Room\", \"Wi-Fi\"]}."}
+{"id": "parallel_multiple_160", "result": [{"name": "compound_interest", "arguments": {"principal": 5000, "annual_rate": 5.0, "compounding_freq": "quarterly", "time_in_years": 7}}]}
+{"id": "parallel_multiple_161", "result": [{"name": "chess.rating", "arguments": {"player_name": "Magnus Carlsen", "variant": "classical"}}]}
+{"id": "parallel_multiple_162", "result": [{"name": "finance.calculate_future_value", "arguments": {"initial_investment": 5000, "rate_of_return": 0.07, "years": 10, "contribution": 200}}]}
+{"id": "parallel_multiple_163", "result": [{"name": "calculate_mutual_fund_balance", "arguments": {"investment_amount": 5000, "annual_yield": 0.07, "years": 10}}]}
+{"id": "parallel_multiple_164", "result": [{"name": "get_case_info", "arguments": {"docket": "12345", "court": "Supreme Court", "info_type": "accused"}}]}
+{"id": "parallel_multiple_165", "result": [{"name": "event_finder.find_upcoming", "arguments": {"location": "San Francisco, CA", "genre": "jazz", "days_ahead": 5}}]}
+{"id": "parallel_multiple_166", "result": [{"name": "park_information", "arguments": {"park_name": "Yellowstone National Park", "information": ["elevation", "area"]}}]}
+{"id": "parallel_multiple_167", "result": [{"name": "get_collectables_in_season", "arguments": {"game_name": "Animal Crossing", "season": "Summer", "item_type": "fish"}}]}
+{"id": "parallel_multiple_168", "result": [{"name": "lawsuits_search", "arguments": {"company_name": "TechCorp", "location": "San Francisco", "year": 2018, "case_type": "civil"}}]}
+{"id": "parallel_multiple_169", "result": [{"name": "get_team_score", "arguments": {"team_name": "Los Angeles Lakers", "league": "NBA"}}]}
+{"id": "parallel_multiple_170", "result": [{"name": "create_player_profile", "arguments": {"player_name": "DragonSlayer", "class_type": "Warrior", "starting_level": 5}}]}
+{"id": "parallel_multiple_171", "result": [{"name": "sports_ranking", "arguments": {"team": "New York Yankees", "league": "Major League Baseball", "season": 2019}}]}
+{"id": "parallel_multiple_172", "result": [{"name": "grocery_store.find_best", "arguments": {"my_location": "123 Main Street, New York", "rating": 4.5, "products": ["milk", "bread", "eggs"]}}]}
+{"id": "parallel_multiple_173", "result": [{"name": "restaurant.find_nearby", "arguments": {"location": "New York, NY", "cuisine": "Thai", "max_distance": 10.0}}]}
+{"id": "parallel_multiple_174", "result": [{"name": "convert_currency", "arguments": {"base_currency": "Euro", "target_currency": "US Dollar", "amount": 5000}}]}
+{"id": "parallel_multiple_175", "result": [{"name": "get_current_time", "arguments": {"location": "Tokyo, Japan", "country": "Japan", "timezone": "Asia/Tokyo"}}]}
+{"id": "parallel_multiple_176", "result": [{"name": "calculate_bmi", "arguments": {"weight": 75, "height": 180, "system": "metric"}}]}
+{"id": "parallel_multiple_177", "result": [{"name": "history.get_key_events", "arguments": {"country": "France", "start_year": 1800, "end_year": 1900, "event_type": ["War", "Economy"]}}]}
+{"id": "parallel_multiple_178", "result": [{"name": "locate_tallest_mountains", "arguments": {"location": "Tokyo", "radius": 200, "amount": 5}}]}
+{"id": "parallel_multiple_179", "result": [{"name": "update_user_info", "arguments": {"user_id": 12345, "update_info": {"name": "John Doe", "email": "johndoe@example.com"}}}]}
+{"id": "parallel_multiple_180", "result": [{"name": "get_discoverer", "arguments": {"discovery": "Higgs Boson", "detail": true}}]}
+{"id": "parallel_multiple_181", "result": [{"name": "math.gcd", "arguments": {"num1": 48, "num2": 36}}]}
+{"id": "parallel_multiple_182", "result": [{"name": "calculate_paint_needed", "arguments": {"coverage_rate": 350, "length": 12, "height": 8}}]}
+{"id": "parallel_multiple_183", "result": ""}
+{"id": "parallel_multiple_184", "result": [{"name": "analyze_structure", "arguments": {"building_id": "B1234", "floors": [1, 2, 3, 4], "mode": "dynamic"}}]}
+{"id": "parallel_multiple_185", "result": [{"name": "metropolitan_museum.get_top_artworks", "arguments": {"number": 10, "sort_by": "popularity"}}]}
+{"id": "parallel_multiple_186", "result": [{"name": "identify_color_rgb", "arguments": {"color_name": "Cerulean", "standard": "pantone"}}]}
+{"id": "parallel_multiple_187", "result": [{"name": "get_defense_ranking", "arguments": {"season": 2018, "top": 5}}]}
+{"id": "parallel_multiple_188", "result": [{"name": "calculate_binomial_probability", "arguments": {"number_of_trials": 20, "number_of_successes": 5, "probability_of_success": 0.25}}]}
+{"id": "parallel_multiple_189", "result": [{"name": "vegan_restaurant.find_nearby", "arguments": {"location": "San Francisco, CA", "operating_hours": 22}}]}
+{"id": "parallel_multiple_190", "result": [{"name": "maps.get_distance_duration", "arguments": {"start_location": "New York", "end_location": "Boston", "traffic": true}}]}
+{"id": "parallel_multiple_191", "result": [{"name": "local_nursery.find", "arguments": {"location": "San Francisco", "plant_types": ["Annual", "Tree"]}}]}
+{"id": "parallel_multiple_192", "result": [{"name": "find_recipe", "arguments": {"dietary_restrictions": "vegan", "recipe_type": "main course", "time": 45}}]}
+{"id": "parallel_multiple_193", "result": [{"name": "get_scientist_for_discovery", "arguments": {"discovery": "Relativity Theory"}}]}
+{"id": "parallel_multiple_194", "result": [{"name": "plot_sine_wave", "arguments": {"start_range": 0, "end_range": 10, "frequency": 5, "amplitude": 2, "phase_shift": 1}}]}
+{"id": "parallel_multiple_195", "result": [{"name": "multiplayer_game_finder", "arguments": {"platform": "Windows 10", "rating": 4, "genre": "Action"}}]}
+{"id": "parallel_multiple_196", "result": [{"name": "recipe_info.get_calories", "arguments": {"website": "AllRecipes", "recipe": "Chicken Alfredo", "optional_meal_time": "dinner"}}]}
+{"id": "parallel_multiple_197", "result": [{"name": "recipe_search", "arguments": {"dietary_restriction": "Vegetarian", "ingredients": ["potatoes", "carrots", "onions"], "servings": 4}}]}
+{"id": "parallel_multiple_198", "result": [{"name": "find_recipe", "arguments": {"dietary_restrictions": "vegan, main course", "recipe_type": "main course", "time": 30}}]}
+{"id": "parallel_multiple_199", "result": [{"name": "calculate_emission_savings", "arguments": {"energy_type": "solar", "usage_duration": 12, "region": "California"}}]}

@@ -1,0 +1,100 @@
+{"id": "java_0", "result": [{"name": "GeometryPresentation.createPresentation", "arguments": {"controller": "mapController", "parent": "mapArea"}}]}
+{"id": "java_1", "result": [{"name": "SQLCompletionAnalyzer.makeProposalsFromObject", "arguments": {"object": "\"Customers\"", "useShortName": "true", "params": "{\"limit\": \"50\", \"schemaFilter\": \"public\"}"}}]}
+{"id": "java_2", "result": [{"name": "FireBirdUtils.getViewSourceWithHeader", "arguments": {"monitor": "dbMonitor", "view": "EmployeeView", "source": "SELECT * FROM Employee WHERE status = 'active'"}}]}
+{"id": "java_3", "result": [{"name": "DB2Tablespace.resolveTablespaceReference", "arguments": {"monitor": "dbMonitor", "dataSource": "db2DataSource", "reference": "USERSPACE1"}}]}
+{"id": "java_4", "result": [{"name": "DB2ViewBaseDepCache.prepareObjectsStatement", "arguments": {"session": "jdbcSession", "db2ViewBase": "HR.EmployeeView"}}]}
+{"id": "java_5", "result": [{"name": "PlainTextPresentation.createPresentation", "arguments": {"controller": "dataController", "parent": "compositeParent"}}]}
+{"id": "java_6", "result": [{"name": "SpreadsheetPresentation.refreshData", "arguments": {"refreshMetadata": "true", "append": "true", "keepState": "true"}}]}
+{"id": "java_7", "result": [{"name": "EFSNIOResource.copy", "arguments": {"destination": "/backup/data.txt", "force": "true", "monitor": "progressTracker"}}]}
+{"id": "java_8", "result": [{"name": "EFSNIOFile.setContents", "arguments": {"source": "fileStream", "force": "true", "keepHistory": "false", "monitor": "progressMonitor"}}]}
+{"id": "java_9", "result": [{"name": "writeMultiPoint", "arguments": {"multiPoint": "[1,2),(3,4),(5,6),(7,8),(9,10)]", "xyzmMode": "XyzmMode.XYZ"}}]}
+{"id": "java_10", "result": [{"name": "JNIBridge.setLauncherInfo", "arguments": {"launcher": "/usr/local/bin/dbeaver", "name": "DBeaverLauncher"}}]}
+{"id": "java_11", "result": [{"name": "BasePolicyDataProvider.getRegistryPolicyValue", "arguments": {"root": "HKEY_LOCAL_MACHINE", "property": "EnableExtensions"}}]}
+{"id": "java_12", "result": [{"name": "ExasolExecutionContext.setCurrentSchema", "arguments": {"monitor": "progressMonitor", "schemaName": "AnalyticsDB"}}]}
+{"id": "java_13", "result": [{"name": "AltibaseGrantee.prepareObjectsStatement", "arguments": {"session": "JDBC_session", "owner": "JohnDoe"}}]}
+{"id": "java_14", "result": [{"name": "FunGameBase.onFinish", "arguments": {"layout": "gameLayout", "success": "true"}}]}
+{"id": "java_15", "result": [{"name": "Res9patchStreamDecoder.decode", "arguments": {"input": "imageInputStream", "out": "imageOutputStream"}}]}
+{"id": "java_16", "result": [{"name": "InsnDecoder.invokePolymorphic", "arguments": {"insn": "instructionData", "isRange": "true"}}]}
+{"id": "java_17", "result": [{"name": "GenericTypesVisitor.attachGenericTypesInfo", "arguments": {"mth": "initMethod", "insn": "newConstructorInsn"}}]}
+{"id": "java_18", "result": [{"name": "SysRoleController.queryPageRoleCount", "arguments": {"pageNo": "3", "pageSize": "20"}}]}
+{"id": "java_19", "result": [{"name": "PersonController.personal", "arguments": {"model": "webModel", "request": "userRequest"}}]}
+{"id": "java_20", "result": [{"name": "HbaseAdapter.updateConfig", "arguments": {"fileName": "user-mapping.yml", "config": "newMappingConfig"}}]}
+{"id": "java_21", "result": [{"name": "SessionHandler.exceptionCaught", "arguments": {"ctx": "nettyChannelContext", "e": "ioExceptionEvent"}}]}
+{"id": "java_22", "result": [{"name": "PmsProductServiceImpl.updateNewStatus", "arguments": {"ids": "[101, 202, 303]", "newStatus": "2"}}]}
+{"id": "java_23", "result": [{"name": "SmsHomeNewProductServiceImpl.list", "arguments": {"productName": "LED TV", "recommendStatus": "1", "pageSize": "20", "pageNum": "3"}}]}
+{"id": "java_24", "result": [{"name": "PmsProductCategoryController.updateShowStatus", "arguments": {"ids": "101,102,103", "showStatus": "0"}}]}
+{"id": "java_25", "result": [{"name": "SmsHomeRecommendSubjectController.updateSort", "arguments": {"id": "42", "sort": "5"}}]}
+{"id": "java_26", "result": [{"name": "ProxyConnection.prepareCall", "arguments": {"sql": "CALL totalSales(?)", "resultSetType": "ResultSet.TYPE_SCROLL_INSENSITIVE", "concurrency": "ResultSet.CONCUR_READ_ONLY", "holdability": "ResultSet.CLOSE_CURSORS_AT_COMMIT"}}]}
+{"id": "java_27", "result": [{"name": "TwoSum.twoSum", "arguments": {"nums": "[2, 7, 11, 15]", "target": "9"}}]}
+{"id": "java_28", "result": [{"name": "configStorage.dynamicCredentialsScheduledExecutorService", "arguments": {"credentialsFile": "es_credentials.properties", "credentialsRefreshInterval": "30", "basicCredentials": "basicAuthCredentials"}}]}
+{"id": "java_29", "result": [{"name": "propertyTransferredToCollectorBuilder", "arguments": {"property": "zipkin.collector.activemq.concurrency", "value": "10", "builderExtractor": "getConcurrency()"}}]}
+{"id": "java_30", "result": [{"name": "RedissonAsyncCache.putIfAbsent", "arguments": {"key": "answer", "value": "42"}}]}
+{"id": "java_31", "result": [{"name": "RedissonRx.getQueue", "arguments": {"name": "taskQueue", "codec": "jsonCodec"}}]}
+{"id": "java_32", "result": [{"name": "RedissonPermitExpirableSemaphore.tryAcquireAsync", "arguments": {"waitTime": "5", "leaseTime": "2", "unit": "SECONDS"}}]}
+{"id": "java_33", "result": [{"name": "RedissonMapCache.putOperationAsync", "arguments": {"key": "employee:1234", "value": "John Doe"}}]}
+{"id": "java_34", "result": [{"name": "ServiceManager.newTimeout", "arguments": {"task": "cleanupTask", "delay": "5", "unit": "MINUTES"}}]}
+{"id": "java_35", "result": [{"name": "RedissonConnection.bitOp", "arguments": {"op": "AND", "destination": "user:online:both", "keys": "user:online:today,user:online:yesterday"}}]}
+{"id": "java_36", "result": [{"name": "ObjectMapEntryReplayDecoder.decode", "arguments": {"parts": "['userID', 42, 'username', 'johndoe', 'isActive', true]", "state": "processingState"}}]}
+{"id": "java_37", "result": [{"name": "ConsoleAnnotator.annotate", "arguments": {"context": "jenkinsBuild", "text": "buildOutput"}}]}
+{"id": "java_38", "result": [{"name": "NestedValueFetcher.createSourceMapStub", "arguments": {"filteredSource": "{ \"name\": \"filter\", \"address\": \"filter\" }"}}]}
+{"id": "java_39", "result": [{"name": "NodeIdConverter.format", "arguments": {"event": "logEvent", "toAppendTo": "logBuilder"}}]}
+{"id": "java_40", "result": [{"name": "RoutingNodesChangedObserver.shardInitialized", "arguments": {"unassignedShard": "shardA", "initializedShard": "shardB"}}]}
+{"id": "java_41", "result": [{"name": "SearchHit.declareInnerHitsParseFields", "arguments": {"parser": "searchHitParser"}}]}
+{"id": "java_42", "result": [{"name": "TermQueryBuilderTests.termQuery", "arguments": {"mapper": "usernameField", "value": "JohnDoe", "caseInsensitive": "true"}}]}
+{"id": "java_43", "result": [{"name": "SecureMockMaker.createSpy", "arguments": {"settings": "mockSettings", "handler": "mockHandler", "object": "testObject"}}]}
+{"id": "java_44", "result": [{"name": "DesAPITest.init", "arguments": {"crypt": "DESede", "mode": "CBC", "padding": "PKCS5Padding"}}]}
+{"id": "java_45", "result": [{"name": "Basic.checkSizes", "arguments": {"environ": "envVariables", "size": "5"}}]}
+{"id": "java_46", "result": [{"name": "MethodInvokeTest.checkInjectedInvoker", "arguments": {"csm": "csmInstance", "expected": "MyExpectedClass.class"}}]}
+{"id": "java_47", "result": [{"name": "LargeHandshakeTest.format", "arguments": {"name": "CERTIFICATE", "value": "MIIFdTCCBF2gAwIBAgISESG"}}]}
+{"id": "java_48", "result": [{"name": "CookieHeaderTest.create", "arguments": {"sa": "192.168.1.10:8080", "sslContext": "testSSLContext"}}]}
+{"id": "java_49", "result": [{"name": "Http2TestExchangeImpl.sendResponseHeaders", "arguments": {"rCode": "404", "responseLength": "1500"}}]}
+{"id": "java_50", "result": [{"name": "TransformIndexerStateTests.doDeleteByQuery", "arguments": {"deleteByQueryRequest": "deleteQueryRequest", "responseListener": "testListener"}}]}
+{"id": "java_51", "result": [{"name": "CCRUsageTransportAction.masterOperation", "arguments": {"task": "usage request", "request": "usageRequest", "state": "clusterState", "listener": "actionListener"}}]}
+{"id": "java_52", "result": [{"name": "SamlObjectSignerTests.getChildren", "arguments": {"node": "SAMLAssertionNode", "node_type": "java.util.LinkedHashMap"}}]}
+{"id": "java_53", "result": [{"name": "VotingOnlyNodePlugin.fullMasterWithOlderState", "arguments": {"localAcceptedTerm": "42", "localAcceptedVersion": "7"}}]}
+{"id": "java_54", "result": [{"name": "AbstractTransportSearchableSnapshotsAction.shardOperation", "arguments": {"request": "snapshotRequest", "shardRouting": "shardRouteInfo", "task": "snapshotTask", "listener": "operationListener"}}]}
+{"id": "java_55", "result": [{"name": "SearchableSnapshotDirectory.create", "arguments": {"repositories": "daily-snapshots", "cache": "cacheService", "indexSettings": "indexSettingsForLogs", "shardPath": "/data/nodes/0/indices/logs/5", "currentTimeNanosSupplier": "currentTimeNanos", "threadPool": "threadPool", "blobStoreCacheService": "blobStoreCacheService", "sharedBlobCacheService": "sharedBlobCacheService"}}]}
+{"id": "java_56", "result": [{"name": "CCSDuelIT.parseEntity", "arguments": {"entity": "httpResponseEntity", "entityParser": "responseParser", "parserConfig": "defaultParserConfig"}}]}
+{"id": "java_57", "result": [{"name": "Booleans.parseBooleanLenient", "arguments": {"value": "yes"}}]}
+{"id": "java_58", "result": [{"name": "XContentBuilder.map", "arguments": {"values": "userProfile", "ensureNoSelfReferences": "true", "writeStartAndEndHeaders": "false"}}]}
+{"id": "java_59", "result": [{"name": "TruncateTranslogAction.execute", "arguments": {"terminal": "terminalInterface", "shardPath": "shardPath", "indexDirectory": "indexDirectory"}}]}
+{"id": "java_60", "result": [{"name": "NestedQueryBuilder.doBuild", "arguments": {"parentSearchContext": "mainSearchContext", "innerHitsContext": "hitsContext"}}]}
+{"id": "java_61", "result": [{"name": "ScoreFunctionBuilders.exponentialDecayFunction", "arguments": {"fieldName": "timestamp", "origin": "now", "scale": "10d", "offset": "2d", "decay": "0.5"}}]}
+{"id": "java_62", "result": [{"name": "dvRangeQuery", "arguments": {"field": "temperature", "queryType": "FLOAT", "from": "20.5", "to": "30.0", "includeFrom": "TRUE", "includeTo": "FALSE"}}]}
+{"id": "java_63", "result": [{"name": "withinQuery", "arguments": {"field": "age", "from": "30", "to": "40", "includeFrom": "true", "includeTo": "false"}}]}
+{"id": "java_64", "result": [{"name": "DateScriptFieldType.createFieldType", "arguments": {"name": "timestamp", "factory": "dateFactory", "script": "dateScript", "meta": "{\"format\": \"epoch_millis\"}", "onScriptError": "FAIL"}}]}
+{"id": "java_65", "result": [{"name": "RootObjectMapper.doXContent", "arguments": {"builder": "xContentBuilderInstance", "params": "includeDefaults=true;skipRuntimeFields=true;dynamicDateFormats=true;dynamicTemplates=true;dateDetection=true;numericDetection=true"}}]}
+{"id": "java_66", "result": [{"name": "CompositeRuntimeField.createChildRuntimeField", "arguments": {"parserContext": "mappingParserContext", "parent": "compositeField1", "parentScriptFactory": "compositeScriptFactory", "onScriptError": "onScriptError.IGNORE"}}]}
+{"id": "java_67", "result": [{"name": "MacDmgBundler.prepareDMGSetupScript", "arguments": {"appLocation": "/Applications/PhotoEditor.app", "params": "{\"appName\": \"PhotoEditor\", \"imagesRoot\": \"\", \"backgroundImageFolder\": \"\"}"}}]}
+{"id": "java_68", "result": [{"name": "MacBaseInstallerBundler.validateAppImageAndBundeler", "arguments": {"params": "{\"params\": \"/Applications/MyApp.app\"}"}}]}
+{"id": "java_69", "result": [{"name": "DurationImpl.alignSigns", "arguments": {"buf": "[1.23, 3.45, 5.67, 6.54, 7.11]", "start": "2", "end": "5"}}]}
+{"id": "java_70", "result": [{"name": "XMLNamespaceBinder.endElement", "arguments": {"element": "{namespaceURI='http://www.example.com', localPart='item', prefix='ex'}", "augs": "augmentations"}}]}
+{"id": "java_71", "result": [{"name": "CoroutineManager.co_exit_to", "arguments": {"arg_object": "resultData", "thisCoroutine": "5", "toCoroutine": "10"}}]}
+{"id": "java_72", "result": [{"name": "ToTextStream.characters", "arguments": {"ch": "textBuffer", "start": "5", "length": "10"}}]}
+{"id": "java_73", "result": [{"name": "Encodings.getEncodingInfo", "arguments": {"encoding": "UTF-8", "allowJavaNames": "true"}}]}
+{"id": "java_74", "result": [{"name": "BaseMarkupSerializer.surrogates", "arguments": {"high": "55357", "low": "56832", "inContent": "false"}}]}
+{"id": "java_75", "result": [{"name": "JdkXmlFeatures.getSystemProperty", "arguments": {"feature": "XML_SECURITY", "sysPropertyName": "enableXmlSecurityFeature"}}]}
+{"id": "java_76", "result": [{"name": "Intro.step", "arguments": {"w": "800", "h": "600"}}]}
+{"id": "java_77", "result": [{"name": "JndiLoginModule.verifyPassword", "arguments": {"encryptedPassword": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855", "password": "P@ssw0rd!"}}]}
+{"id": "java_78", "result": [{"name": "OptionSpecBuilder.requiredUnless", "arguments": {"dependent": "output-format", "otherDependents": "quiet,verbose"}}]}
+{"id": "java_79", "result": [{"name": "SAXFilterFactoryImpl.resolveEntity", "arguments": {"publicid": "1234", "sysId": "http://astro.com/stylesheets/toptemplate"}}]}
+{"id": "java_80", "result": [{"name": "RegexConstraint.initIRPattern", "arguments": {"category": "failOn", "ruleIdx": "42"}}]}
+{"id": "java_81", "result": [{"name": "TestObjectGraphAfterGC.doTesting", "arguments": {"testcaseData": "humongous-test-case.json", "doGC": "customGarbageCollector", "checker": "referenceChecker", "gcLogName": "gc-analysis.log", "shouldContain": ["GC pause"], "shouldNotContain": ["OutOfMemoryError"]}}]}
+{"id": "java_82", "result": [{"name": "clear001a.runIt", "arguments": {"args": "testArgs", "out": "System.out"}}]}
+{"id": "java_83", "result": [{"name": "thrcputime002.runIt", "arguments": {"argv": "-waitTime,2 minutes, -iterations, 500"}}]}
+{"id": "java_84", "result": [{"name": "checkInnerFields", "arguments": {"redefCls": "myRedefClass", "expValue": "100"}}]}
+{"id": "java_85", "result": [{"name": "classfloadhk005.runIt", "arguments": {"argv": "/path/to/classes 60", "out": "logStream"}}]}
+{"id": "java_86", "result": [{"name": "argumenttypes001.runThis", "arguments": {"argv": "['-v', '--no-strict']", "out": "debugOutput"}}]}
+{"id": "java_87", "result": [{"name": "suspendpolicy017.settingVMDeathRequest", "arguments": {"suspendPolicy": "EVENT_THREAD", "property": "testProperty"}}]}
+{"id": "java_88", "result": [{"name": "filter_s002.setting22MethodEntryRequest", "arguments": {"thread": "mainThread", "testedClass": "com.example.MainClass", "suspendPolicy": "EventRequest.SUSPEND_ALL", "property": "testProperty"}}]}
+{"id": "java_89", "result": [{"name": "runThis", "arguments": {"argv": "-waitTime, 120, -debuggeeName, TestDebuggee", "out": "testLogStream"}}]}
+{"id": "java_90", "result": [{"name": "sourcepaths002.runIt", "arguments": {"args": "[-v, -p]", "out": "System.out"}}]}
+{"id": "java_91", "result": [{"name": "invokemethod007.runIt", "arguments": {"args": "suspend,log", "out": "debugLog"}}]}
+{"id": "java_92", "result": [{"name": "ClassFileFinder.findClassFile", "arguments": {"name": "com.example.MyClass", "classPath": "/usr/local/classes:/home/user/java/libs"}}]}
+{"id": "java_93", "result": [{"name": "AbstractJarAgent.runJarAgent", "arguments": {"options": "trace log", "inst": "appInstrumentation"}}]}
+{"id": "java_94", "result": [{"name": "NFILibrary.isMemberReadable", "arguments": {"symbol": "getVersion"}}]}
+{"id": "java_95", "result": [{"name": "ExportNodeTest.doGeneric", "arguments": {"receiver": "ExportInlinedObject1Instance", "argument": "HelloWorld", "node": "InlinableNodeInstance", "library": "NodeLibraryInstance"}}]}
+{"id": "java_96", "result": [{"name": "InstrumentableProcessor.createCallConverter", "arguments": {"converterMethod": "returnValueCode", "frameParameterName": "frameVar", "returnName": "returnValueCode"}}]}
+{"id": "java_97", "result": [{"name": "FlatNodeGenFactory.generateIntrospectionInfo", "arguments": {"clazz": "NodeClass", "inlined": "false"}}]}
+{"id": "java_98", "result": [{"name": "LoopConditionProfile.calculateProbability", "arguments": {"trueCountLocal": "150", "falseCountLocal": "50"}}]}
+{"id": "java_99", "result": [{"name": "LibraryExport.createDelegate", "arguments": {"factory": "myFactory", "delegate": "existingDelegate"}}]}

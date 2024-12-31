@@ -1,0 +1,50 @@
+{"id": "javascript_0", "result": "```json\n[validateUserInput({'inputField': 'userInputField', 'isComplete': 'true'})]\n```"}
+{"id": "javascript_1", "result": "```json\n[{'name': 'getActiveDataEntries', 'params': {'listElement': 'listElement', 'attribute': 'data-active', 'value': True}}]\n```"}
+{"id": "javascript_2", "result": "```json\n[{'name': 'extractLastTransactionId', 'params': {'filepath': '/var/log/db.log', 'status': ['completed', 'failed'], 'encoding': 'utf-8', 'processFunction': 'None' } }]\n```"}
+{"id": "javascript_3", "result": "```tool_code\n[submitAtCoordinate(action='submit', formId='loginForm', coordinates='[0.6, 0.3]')\n```"}
+{"id": "javascript_4", "result": "```json\n[emailFormatValidator({'email': 'example@domain.com', 'domain': 'domain.com' })]\n```"}
+{"id": "javascript_5", "result": "```javascript\n[manageReactState(store={'initialState': initialStateObject, 'reducers':reducersMap, 'middlewares': [loggerMiddleware], 'enhancers': ['applyMiddleware('myMiddleWare')]}, context=context, hooks={'useStateSelectorHook':useStateSelectorHook, 'useDispatchActionHook':useDispatchActionHook})\n```"}
+{"id": "javascript_6", "result": "```json\n[mapTransitions(category='transition', limit=4)]\n```"}
+{"id": "javascript_7", "result": "```json\n[getNextKeyValues(ctx={'dataAnalysisContext': 'userId'}, currentKey='userId')]\n```"}
+{"id": "javascript_8", "result": "```json\n[doesEmailInputExist(formElem='emailForm', inputName='emailAddress')]\n```"}
+{"id": "javascript_9", "result": "```tool_code\n[validateApiResponse(jsonPayload=responseData, keyToCheck='expectedKey', processingCallback=processKeyFunction)]\n```"}
+{"id": "javascript_10", "result": "```json\n[{'name': 'fetchSalesDepartmentRecords', 'description': \"This function asynchronously fetches a collection of records from a specified database where the 'department' field matches a given criterion, using a custom query function. Note that the provided function is in JavaScript syntax.\", 'parameters': {'type': 'dict', 'properties': {'databaseName': {'type': 'string', 'description': 'The name of the database from which to retrieve the records. This is JavaScript String type parameter in string representation.'}, 'queryFunction': {'type': 'string', 'description': \"A function used to query the database. It should take a record as input and return a boolean indicating whether the record should be included in the results based on the 'department' field. This parameter can be of any type of JavaScript object in string representation.\"}}, 'required': ['databaseName', 'queryFunction']}}]\n```"}
+{"id": "javascript_11", "result": "```json\n[prioritizeAndSort({'items': myItemList, 'priorityStatus': 'urgent', 'ascending': 'true'})\n```"}
+{"id": "javascript_12", "result": "```json\n[performDataFetch(apiEndpoint='https://api.example.com/data', requestConfig={'method': 'GET'}, expectedResponse='{\"key\": \"value\"}', handleErrors=False)]\n```"}
+{"id": "javascript_13", "result": "```json\n[DynamicChartGenerator(userData=userDataArray, scalingFactor=3, dashboard=dashboardElement)]\n```"}
+{"id": "javascript_14", "result": "```json\n[chartDataAccessorFactory(chart='BarChart', mn='chartModule', library='visualizationLibrary', configObject='config')]\n```"}
+{"id": "javascript_15", "result": "```json\n[ChartSeriesGenerator(labels=axisLabelsArray, data=dataPointsArray, color=defaultColor, chartLayout=chartLayoutObject)]\n```"}
+{"id": "javascript_16", "result": "```tool_code\n[rotateVertices({'vertices': '[10, 15]', 'pivot': '[12, 17]', 'angle': '30'}, {'vertices': '[10, 15]', 'pivot': '[12, 17]', 'angle': '30' })]\n```"}
+{"id": "javascript_17", "result": "```json\n[generateNotificationHandler({'app': 'app', 'priorityLevel': '3', 'messagingService': 'messagingSvc', 'notificationType': '2' })]\n```"}
+{"id": "javascript_18", "result": "[calculateFinalVelocity(time=5, gravity='9.81', initialVelocity=0)] \n"}
+{"id": "javascript_19", "result": "```json\n[configureShaderMaterial(property={'materialProps': '...' }, textures=textureList, object3D=meshObject)]\n```"}
+{"id": "javascript_20", "result": "```json\n[buttonAddClickHandler({'element': 'myButton', 'callback': 'handleButtonClick', 'options': {'stopPropagation': True}} )]\n```"}
+{"id": "javascript_21", "result": "```json\n[findProductById(products=['Product A', 'Product B', 'Product C'], id='123')]\n```"}
+{"id": "javascript_22", "result": "```json\n[resetStateProperty({'stateProperty': 'userSession' })]\n```"}
+{"id": "javascript_23", "result": "```json\n[createAuthToken(username='johndoe', validity='3600', issuer='myapp.net', role='admin', algorithm='HS256')]\n```"}
+{"id": "javascript_24", "result": "```tool_code\n[getUniqueSorted({'array': '3 1 2 1 4 3' })]\n```"}
+{"id": "javascript_25", "result": "```tool_code\n[trackSubmitWithValidation(obj={'submitForm': 'formHandler'}, validationFlags=['isRequired', 'isValidEmail'])\n```"}
+{"id": "javascript_26", "result": "```tool_code\n[contentUpdater(elementID='contentBox', newContent='Hello World', action='update')]\n```"}
+{"id": "javascript_27", "result": "```json\n[validateReactProp(obj={'serviceProvider': 'serviceProvider'}, componentName='UserProfile')]\n```"}
+{"id": "javascript_28", "result": "```json\n[{'name': 'filterBooksByAuthor', 'description': 'This function filters through a collection of books within a library to find all books that are written by a specific author, returning a list of books that match the criteria. Note that the provided function is in JavaScript syntax.', 'parameters': {'type': 'dict', 'properties': {'library': {'type': 'string', 'description': 'The collection of book objects to filter through. This is JavaScript array type parameter in string representation. The list elements are of type String; they are not in string representation.'}, 'author': {'type': 'string', 'description': 'The name of the author whose books you want to find. This is JavaScript String type parameter in string representation.'}}, 'required': ['library', 'author']}}]\n```"}
+{"id": "javascript_29", "result": "```json\n[EventScheduler({'events': {'setupStage': 'setupStageFunction', 'cleanupStage': 'cleanStageFunction'}, 'concurrencyLimit': '3.0'}, {'callback': 'callbackFunction'}]\n```"}
+{"id": "javascript_30", "result": "```json\n[setText({'newText': 'Hello, World!', 'start': '5', 'length': '7' })]\n```"}
+{"id": "javascript_31", "result": "```json\n[{'name': 'transformAllDecoratorsOfDeclaration', 'params': {'node': 'myNode', 'container': 'myContainer'}}]\n```"}
+{"id": "javascript_32", "result": "```json\n[pollQueue(queue='fileWatchQueue', pollingInterval='500', pollIndex='0', chunkSize='10')]\n```"}
+{"id": "javascript_33", "result": "```tool_code\n[emitNewLineBeforeLeadingComments(lineMap={'tsLineMap': '...', node='42', leadingComments=[]}, writer={'tsWriter': '...'})\n```"}
+{"id": "javascript_34", "result": "```json\n[forEachType(unionTypeObj.type, processType)]\n```"}
+{"id": "javascript_35", "result": "```json\n[areDeclarationFlagsIdentical(parameterObject, variableDeclarationObject)]\n```"}
+{"id": "javascript_36", "result": "```tool_code\n[updateBreak({'node': 'break_node', 'label': 'loopEnd' })]\n```"}
+{"id": "javascript_37", "result": "```json\n[addInitializedPropertyStatements({'statements': 'shapeStatements', 'property': ['width', 'height'], 'receiver': 'shape' })]\n```"}
+{"id": "javascript_38", "result": "```json\n[getDirectoryToWatchFromFailedLookupLocationDirectory({'dir': '/projects/myApp/node_modules', 'dirPath': '/projects/myApp/node_modules/react' })]\n```"}
+{"id": "javascript_39", "result": "```json\n[maybeAddJsSyntheticRestParameter({'declaration': 'funcDeclaration', 'parameters': 'funcParameters' })]\n```"}
+{"id": "javascript_40", "result": "```tool_code\n[assignOwnDefaults({'object': 'config', 'key': 'maxItems', 'objectValue': 12, 'sourceValue': 10}, {'object': 'config'})]\n```"}
+{"id": "javascript_41", "result": "```json\n[queue_1({'worker': 'myWorkerFunction', 'concurrency': '5', 'payload': '0.0'})]\n```"}
+{"id": "javascript_42", "result": "```tool_code\n[queue.create({'e': 'log_message', 't': '5', 'n': '0.0'}), queue.on('saturated', 'Queue is saturated'), queue.on('unsaturated', 'Queue is unsaturated')]\n```"}
+{"id": "javascript_43", "result": "```json\n[invokeCallback({'callback': 'processResult', 'error': null, 'value': 'Operation successful'})]\n```"}
+{"id": "javascript_44", "result": "```json\n[skipThrough({'node': 'currentNode', 'st': 'nodeState', 'c': 'processNode'})]\n```"}
+{"id": "javascript_45", "result": "```tool_code\n[Sde(t='https://github.com/yarnpkg/berry', e={'startingCwd': '/home/user/projects'})]\n```"}
+{"id": "javascript_46", "result": "```json\n[vOe(r=packageInfo, e='version', t='1.2.3')]\n```"}
+{"id": "javascript_47", "result": "[sTe(r='2023-04-01', e='2023-04-15', t='days')] \n"}
+{"id": "javascript_48", "result": "```json\n[updateDOMListeners({'oldVnode': 'oldVirtualNode', 'vnode': 'newVirtualNode'})]\n```"}
+{"id": "javascript_49", "result": "```tool_code\n[convertEnumeratedValue(key='contenteditable', value='plaintext-only')]\n```"}
