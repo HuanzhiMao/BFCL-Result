@@ -93,7 +93,7 @@ if __name__ == "__main__":
             raise ValueError(f"Environment variable {var} is not set.")
         PLACEHOLDERS[os.getenv(var)] = f"REDACTED_{var}"
 
-    input_path = output_path = "./"
+    input_path = output_path = "./2025-03-22"
 
     if os.path.isdir(input_path):
         process_dir(input_path, output_path)
