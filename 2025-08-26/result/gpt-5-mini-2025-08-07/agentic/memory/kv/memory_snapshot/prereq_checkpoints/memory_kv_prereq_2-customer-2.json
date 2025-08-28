@@ -1,0 +1,36 @@
+{
+    "core_memory": {
+        "user_name": "Michael",
+        "conversation_stage": "awaiting_order_number_and_zip",
+        "product_order_description": "sleek stainless-steel espresso maker with steam wand",
+        "order_issue_status": "delivery date passed; tracking stuck 'in transit' outside Washington; no updates for several days; user refreshed tracking link, copied tracking number, and tried different browsers; order placed ~1 week ago; user anxious.",
+        "last_user_input": "Michael: order placed ~1 week ago; tracking hasn't updated for days and shows 'in transit' outside Washington; tried refreshing tracking link, copying tracking number, and using different browsers; anxious about missing espresso machine.",
+        "requested_missing_delivery_info": "Please provide your order number and shipping ZIP code so I can check tracking, contact the carrier, or open a claim/refund/replacement.",
+        "last_assistant_prompt": "Please provide your order number and shipping ZIP code so I can check the tracking, contact the carrier if needed, or open a claim/refund/replacement."
+    },
+    "archival_memory": {
+        "user_name": "Michael",
+        "first_time_user": "yes",
+        "user_intro_status": "Michael introduced himself; first interaction; ready to ask questions.",
+        "conversation_stage": "user_introduced_awaiting_questions",
+        "last_user_input": "Hey there! Thanks for getting back to me so quickly. I really appreciate having the chance to talk to someone who actually knows about your products. My name is Michael, and this is my first time interacting with your company in any way\u2014so I'd love to start with a bit of an introduction and then dive into my questions.",
+        "assistant_last_reply": "Hi Michael \u2014 thanks for the introduction. I'm ready to help; tell me a bit about what you're looking for or ask any questions.",
+        "ready_to_order": "user is ready to order an espresso machine",
+        "preferred_finish": "stainless-steel",
+        "aesthetic_preference": "sleek, modern models to match kitchen design",
+        "hobbies_design_tinkering": "user tinkers with design daily and values aesthetics and details",
+        "requested_finish_availability_confirmation": "User asked to confirm availability of stainless-steel finish for espresso machine",
+        "preferred_finish_confirmed": "stainless-steel",
+        "action_confirm_finish_availability": "Follow up: confirm availability of stainless-steel finish for espresso machine for Michael",
+        "support_task_confirm_finish_availability_for_michael": "Check inventory and confirm availability of stainless-steel finish for espresso machines for user Michael; follow up with confirmation and ordering options.",
+        "pending_info_for_inventory_check": "Need user's shipping ZIP code and preferred model to check stainless-steel finish availability for Michael",
+        "requested_user_shipping_zip_and_model": "Asked user to provide shipping ZIP code and preferred espresso model to check stainless-steel finish availability",
+        "user_age": "35",
+        "user_occupation": "freelance graphic designer",
+        "family_size": "small family",
+        "user_emotional_state": "anxious about missing package",
+        "user_profile_summary": "Michael \u2014 35, Seattle-based freelance graphic designer, coffee enthusiast, small family; prefers sleek stainless-steel espresso machines with steam wand",
+        "order_issue_summary": "Delivery date passed; tracking stuck 'in transit' outside Washington; user checked tracking link, refreshed page, copied tracking number, tried different browsers; order placed ~1 week ago; user anxious about missing espresso machine",
+        "missing_delivery_details": "Order placed ~1 week ago; delivery date passed; tracking not updated for several days and shows 'in transit' outside Washington; user refreshed tracking link, copied tracking number, and tried different browsers; user anxious; awaiting order number and shipping ZIP to investigate."
+    }
+}
