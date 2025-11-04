@@ -1,0 +1,13 @@
+{
+    "core_memory": {
+        "next_id": 0,
+        "store": {}
+    },
+    "archival_memory": {
+        "next_id": 2,
+        "store": {
+            "0": "I\u2019ve been dabbling in undergrad research since the end of my sophomore year, and honestly, it\u2019s been one of the most eye-opening parts of my college experience. It\u2019s given me this glimpse into how knowledge is actually created in the tech world, and it\u2019s pretty cool to be part of that.",
+            "1": "The lab I\u2019m in is this interdisciplinary space where computer scientists partner with scientists from all sorts of backgrounds\u2014astronomy, environmental science, even neuroscience\u2014to figure out how we can make massive amounts of data more comprehensible. You know how in classes you\u2019ll sometimes do small data projects or maybe tackle a 1GB dataset for a machine learning project? Well, in our lab, we deal with datasets that are tens of terabytes in size. Trying to visualize that so that a domain expert(like an astrophysicist) can quickly glean insights is no joke. So one of my main tasks is working on front-end prototypes that take slices of data and present them in dynamic, interactive dashboards. It\u2019s a combination of advanced JavaScript frameworks, a bit of D3.js for custom visualizations, and sometimes specialized libraries for volumetric rendering if we\u2019re dealing with 3D data."
+        }
+    }
+}
