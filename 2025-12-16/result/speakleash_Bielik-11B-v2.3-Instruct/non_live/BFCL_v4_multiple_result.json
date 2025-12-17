@@ -1,0 +1,200 @@
+{"id": "multiple_0", "result": "[triangle_properties.get(side1=5, side2=4, side3=3)]", "input_token_count": 967, "output_token_count": 24, "latency": 5.518373727798462}
+{"id": "multiple_1", "result": "[math.triangle_area_heron(side1=3, side2=4, side3=5)]", "input_token_count": 824, "output_token_count": 27, "latency": 5.924278736114502}
+{"id": "multiple_2", "result": "[country_info.capital(country=\"Brazil\")]", "input_token_count": 637, "output_token_count": 15, "latency": 3.8377845287323}
+{"id": "multiple_3", "result": "[EuclideanDistance.calculate(pointA=[3, 4], pointB=[1, 2])]", "input_token_count": 804, "output_token_count": 29, "latency": 6.632423162460327}
+{"id": "multiple_4", "result": "[kinematics.calculate_displacement(initial_speed=20, acceleration=10, time=5)]", "input_token_count": 913, "output_token_count": 29, "latency": 6.444151878356934}
+{"id": "multiple_5", "result": "[weather.get_by_coordinates_date(coordinates=(46.603354,1.8883340), date=\"2019-12-13\")]", "input_token_count": 966, "output_token_count": 50, "latency": 11.813148736953735}
+{"id": "multiple_6", "result": "[capacitance_calculator.calculate(A=10, d=0.01, K=1.0)]", "input_token_count": 921, "output_token_count": 32, "latency": 7.4415528774261475}
+{"id": "multiple_7", "result": "[\n    wildlife_population.assess_growth(species=\"deer\", location=\"Washington state\", duration=10),\n    ecological_impact.analyze(species=\"deer\", ecosystem=\"woodland\", location=\"Washington state\", timeframe=10)\n]", "input_token_count": 787, "output_token_count": 68, "latency": 16.730338096618652}
+{"id": "multiple_8", "result": "[realestate.find_properties(location=\"San Diego, CA\", propertyType=\"villa\", bedrooms=3, budget={\"min\": 300000, \"max\": 400000})]", "input_token_count": 922, "output_token_count": 53, "latency": 12.652407169342041}
+{"id": "multiple_9", "result": "[calculate_average(gradeDict={'math':90, 'science':75, 'history':82, 'music':89})]", "input_token_count": 709, "output_token_count": 36, "latency": 8.365485668182373}
+{"id": "multiple_10", "result": "[\n  \"database.create_backup(db_name='employees', backup_location='/path/to/backup/', timestamp=True)\",\n  \"database.modify_columns(db_name='employees', table='personal_data', operation='delete', columns=['email', 'social_security_number'])\"\n]", "input_token_count": 812, "output_token_count": 78, "latency": 19.485761642456055}
+{"id": "multiple_11", "result": "[math_roots.quadratic(a=5, b=20, c=-25)]", "input_token_count": 945, "output_token_count": 25, "latency": 5.624692440032959}
+{"id": "multiple_12", "result": "[corporate_finance.calculate_YOY_growth_rate(company_name=\"Tech Inc\", year1=2019, year1_revenue=1000000, year2=2020, year2_revenue=1200000)]", "input_token_count": 1005, "output_token_count": 73, "latency": 18.431785345077515}
+{"id": "multiple_13", "result": "[corporate_finance.product_price(company=\"XYZ\", product=\"A\"),\n corporate_finance.revenue_forecast(company=\"XYZ\", product=\"A\", sales_units_increase_percentage=10)]", "input_token_count": 709, "output_token_count": 57, "latency": 13.939920902252197}
+{"id": "multiple_14", "result": "[finance.property_depreciation(initial_cost=200000, depreciation_rate=3, years=5)]", "input_token_count": 1058, "output_token_count": 36, "latency": 8.114420175552368}
+{"id": "multiple_15", "result": "[solarFarm.potential(coordinates=[43.653225, -79.383186], panelArea=80000, month=\"December\")]", "input_token_count": 843, "output_token_count": 48, "latency": 11.546182870864868}
+{"id": "multiple_16", "result": "[population_genetics.calculate_ne(species=\"tiger\", generations=100, probability=0.95)]", "input_token_count": 1012, "output_token_count": 32, "latency": 6.990110874176025}
+{"id": "multiple_17", "result": "[currency_conversion.get_rate(from_currency=\"EUR\", to_currency=\"USD\", date=\"2022-01-01\")]", "input_token_count": 927, "output_token_count": 38, "latency": 8.46744704246521}
+{"id": "multiple_18", "result": "[european_history.battle_details(battle=\"Battle of Stalingrad\")]", "input_token_count": 663, "output_token_count": 22, "latency": 4.510818243026733}
+{"id": "multiple_19", "result": "[religion_history.get_schisms(religion=\"Christianity\", count=3)]", "input_token_count": 844, "output_token_count": 25, "latency": 5.584448337554932}
+{"id": "multiple_20", "result": "[sculpture_price.calculate(material=\"marble\", size=3)]", "input_token_count": 840, "output_token_count": 20, "latency": 4.303298234939575}
+{"id": "multiple_21", "result": "[generate_sound_wave(frequency=440, duration=5)]", "input_token_count": 753, "output_token_count": 18, "latency": 3.8860878944396973}
+{"id": "multiple_22", "result": "[sports_data.basketball.most_points_single_game(league=\"NBA\")]", "input_token_count": 788, "output_token_count": 25, "latency": 5.740744113922119}
+{"id": "multiple_23", "result": "[basketball.player_stats.get(player_name=\"LeBron James\", stats_fields=[\"points\", \"assists\", \"minutes\"])]", "input_token_count": 997, "output_token_count": 37, "latency": 8.654467105865479}
+{"id": "multiple_24", "result": "[route_planner.calculate_route(start=\"London\", destination=\"Edinburgh\", method=\"fastest\"), chess_club_details.find(name=\"null\", city=\"Edinburgh\", event=\"chess championship\")]", "input_token_count": 759, "output_token_count": 50, "latency": 12.287065505981445}
+{"id": "multiple_25", "result": "[video_games.store_price(game_title='Assassins Creed Valhalla', platform='PlayStation', region='United States')]", "input_token_count": 966, "output_token_count": 36, "latency": 8.388960361480713}
+{"id": "multiple_26", "result": "[game_rewards.get(game=\"Fortnite\", platform=\"Playstation\", mission=\"\", trophy=\"\"),\n game_rewards.get(game=\"Fortnite\", platform=\"Playstation\", mission=\"\", trophy=\"1\"),\n game_rewards.get(game=\"Fortnite\", platform=\"Playstation\", mission=\"\", trophy=\"2\"),\n game_rewards.get(game=\"Fortnite\", platform=\"Playstation\", mission=\"\", trophy=\"3\"),\n game_rewards.get(game=\"Fortnite\", platform=\"Playstation\", mission=\"\", trophy=\"4\"),\n game_rewards.get(game=\"Fortnite\", platform=\"Playstation\", mission=\"\", trophy=\"5\")]", "input_token_count": 965, "output_token_count": 168, "latency": 27.943336009979248}
+{"id": "multiple_27", "result": "[maps.shortest_path(start_location=\"Paris, France\", end_location=\"Rome, Italy\", mode=\"transit\")]", "input_token_count": 706, "output_token_count": 32, "latency": 7.165519714355469}
+{"id": "multiple_28", "result": "[solve.quadratic_equation(a=2, b=3, c=-4)]", "input_token_count": 819, "output_token_count": 23, "latency": 4.957587957382202}
+{"id": "multiple_29", "result": "[functions.intersect(function1=\"3x+2\", function2=\"2x+3\")]", "input_token_count": 616, "output_token_count": 23, "latency": 4.915481805801392}
+{"id": "multiple_30", "result": "[rectangle.area(length=12, width=5)]", "input_token_count": 776, "output_token_count": 16, "latency": 3.2056362628936768}
+{"id": "multiple_31", "result": "[geometry_rectangle.calculate(width=7, length=10)]", "input_token_count": 719, "output_token_count": 19, "latency": 3.8308839797973633}
+{"id": "multiple_32", "result": "[geometry.calculate_cone_volume(radius=4, height=7)]", "input_token_count": 708, "output_token_count": 20, "latency": 4.126250267028809}
+{"id": "multiple_33", "result": "[calculate_integral(func=\"3*x**2\", a=1, b=2)]", "input_token_count": 719, "output_token_count": 24, "latency": 5.148489952087402}
+{"id": "multiple_34", "result": "[math.gcd(num1=18, num2=12), math.lcm(num1=18, num2=12)]", "input_token_count": 775, "output_token_count": 36, "latency": 8.164443492889404}
+{"id": "multiple_35", "result": "[calculate_gcd(num1=128, num2=256)]", "input_token_count": 767, "output_token_count": 22, "latency": 4.617906093597412}
+{"id": "multiple_36", "result": "[kinematics.calculate_speed_from_rest(distance=20, time=4)]", "input_token_count": 803, "output_token_count": 24, "latency": 5.154546499252319}
+{"id": "multiple_37", "result": "[kinematics.final_velocity(initial_velocity=40, time=6)]", "input_token_count": 939, "output_token_count": 23, "latency": 5.00089693069458}
+{"id": "multiple_38", "result": "[library.search_book(book_name='The Alchemist', city='New York')]", "input_token_count": 774, "output_token_count": 23, "latency": 4.916738271713257}
+{"id": "multiple_39", "result": "[ride_hailing.get_rides(source=\"New York\", destination=\"Philadelphia\", max_cost=50)]", "input_token_count": 737, "output_token_count": 28, "latency": 6.271010875701904}
+{"id": "multiple_40", "result": "[electromagnetism.biot_savart_law(current=12, distance=8)]", "input_token_count": 844, "output_token_count": 25, "latency": 5.533015727996826}
+{"id": "multiple_41", "result": "[magnetic_field.calculate(I=10, r=0.01)]", "input_token_count": 884, "output_token_count": 22, "latency": 4.681961536407471}
+{"id": "multiple_42", "result": "[calculate_final_temperature(quantity1=2, temperature1=300, quantity2=3, temperature2=400)]", "input_token_count": 755, "output_token_count": 35, "latency": 8.162660360336304}
+{"id": "multiple_43", "result": "[biological.calc_energy(mols=5, substance=\"C6H12O6\")]", "input_token_count": 870, "output_token_count": 24, "latency": 5.30306077003479}
+{"id": "multiple_44", "result": "[calculate.weight_in_space(weight_earth_kg=70, planet=\"Mars\")]", "input_token_count": 882, "output_token_count": 26, "latency": 6.030977487564087}
+{"id": "multiple_45", "result": "[geology.get_era(era_name=\"Ice age\", calculate_years_ago=True)]", "input_token_count": 631, "output_token_count": 26, "latency": 6.032582759857178}
+{"id": "multiple_46", "result": "[sort_list(elements=['Sam', 'Alice', 'Jack'], order='asc')]", "input_token_count": 817, "output_token_count": 23, "latency": 5.006053686141968}
+{"id": "multiple_47", "result": "[cosine_similarity.calculate(vector1=[3, 2, 1], vector2=[1, 2, 3])]", "input_token_count": 842, "output_token_count": 35, "latency": 8.4289391040802}
+{"id": "multiple_48", "result": "[library.find_nearby(location=\"New York City\", preferences=[\"Pet-friendly\", \"Disabled Access\"])]", "input_token_count": 772, "output_token_count": 28, "latency": 6.301714897155762}
+{"id": "multiple_49", "result": "[calc_Compound_Interest(principle_amount=1500, duration=2, annual_rate=2.5)]", "input_token_count": 1050, "output_token_count": 33, "latency": 7.675519227981567}
+{"id": "multiple_50", "result": "[house_price_forecast(location=\"New York\", months=1)]", "input_token_count": 908, "output_token_count": 18, "latency": 3.7761924266815186}
+{"id": "multiple_51", "result": "[dice_roll_probability(desired_sum=7, sides_per_die=6)]", "input_token_count": 895, "output_token_count": 25, "latency": 5.814108610153198}
+{"id": "multiple_52", "result": "[currency_conversion(amount=100, from_currency=\"EUR\", to_currency=\"USD\")]", "input_token_count": 695, "output_token_count": 27, "latency": 6.350184202194214}
+{"id": "multiple_53", "result": "[linear_regression(independent_var=[\"interest_rates\", \"unemployment_rates\"], dependent_var=\"house_prices\", forecast_period=5), \nrandom_forest_regression(independent_var=[\"interest_rates\", \"unemployment_rates\"], dependent_var=\"house_prices\", forecast_period=5)]", "input_token_count": 825, "output_token_count": 85, "latency": 19.288305282592773}
+{"id": "multiple_54", "result": "[corporate_finance.dividend_data(company=\"Apple Inc\", years=5)]", "input_token_count": 708, "output_token_count": 25, "latency": 6.057950019836426}
+{"id": "multiple_55", "result": "[stock_forecast(company=\"Google\", days=3)]", "input_token_count": 667, "output_token_count": 15, "latency": 3.3090949058532715}
+{"id": "multiple_56", "result": "[avg_closing_price(company=\"Apple\", days=60)]", "input_token_count": 926, "output_token_count": 19, "latency": 4.551333427429199}
+{"id": "multiple_57", "result": "[financial.compound_interest(principle=1000, rate=0.05, time=10, n=4)]", "input_token_count": 833, "output_token_count": 35, "latency": 9.12718939781189}
+{"id": "multiple_58", "result": "[lawyer.search(location=\"Los Angeles\", expertise=\"Marriage\")]", "input_token_count": 656, "output_token_count": 17, "latency": 4.314165115356445}
+{"id": "multiple_59", "result": "[lawyer_finder(location=\"New York\", specialization=[\"criminal law\"])]", "input_token_count": 740, "output_token_count": 22, "latency": 5.706764459609985}
+{"id": "multiple_60", "result": "[humidity_temperature_forecast(location=\"New York City\", days=7)]", "input_token_count": 821, "output_token_count": 21, "latency": 5.4579010009765625}
+{"id": "multiple_61", "result": "[landscape_architect.find_specialty(location=\"Portland, OR\", specialization=\"small space garden design\", years_experience=5)]", "input_token_count": 784, "output_token_count": 35, "latency": 9.289243459701538}
+{"id": "multiple_62", "result": "[nature_park.find_nearby(location=\"Boston, MA\", features=[\"Camping\", \"Scenic View\"])]", "input_token_count": 762, "output_token_count": 33, "latency": 8.766082286834717}
+{"id": "multiple_63", "result": "[air_quality_forecast(location=\"New York\", days=7)]", "input_token_count": 790, "output_token_count": 18, "latency": 4.6923134326934814}
+{"id": "multiple_64", "result": "[uv_index.get_future(location=\"Tokyo\", date=\"06-01-2023\")]", "input_token_count": 824, "output_token_count": 28, "latency": 7.555766344070435}
+{"id": "multiple_65", "result": "[geodistance.find(origin=\"New York City\", destination=\"Los Angeles\")]", "input_token_count": 857, "output_token_count": 19, "latency": 5.302249431610107}
+{"id": "multiple_66", "result": "[traffic_estimate(start_location=\"Las Vegas\", end_location=\"Los Angeles\", time_period=\"weekend\")]", "input_token_count": 850, "output_token_count": 30, "latency": 7.9970152378082275}
+{"id": "multiple_67", "result": "[translate(text=\"Hello, how are you?\", source_language=\"English\", target_language=\"French\")]", "input_token_count": 740, "output_token_count": 26, "latency": 7.006088972091675}
+{"id": "multiple_68", "result": "[library.search_books(location=\"New York\", genre=\"historical fiction\")]", "input_token_count": 800, "output_token_count": 20, "latency": 5.57102632522583}
+{"id": "multiple_69", "result": "[five_factor_model.analyse(talkative=True, nervous=True, artistic_interests=False, lazy=True, forgiving=True)]", "input_token_count": 996, "output_token_count": 36, "latency": 9.71076250076294}
+{"id": "multiple_70", "result": "[european_history.get_monarchs(country=\"France\", century=18)]", "input_token_count": 961, "output_token_count": 24, "latency": 6.782304763793945}
+{"id": "multiple_71", "result": "[get_population(year=1954, category=\"veterans\")]", "input_token_count": 810, "output_token_count": 20, "latency": 5.627680540084839}
+{"id": "multiple_72", "result": "[us_history.population_by_state_year(state=\"California\", year=1970)]", "input_token_count": 732, "output_token_count": 27, "latency": 7.3276262283325195}
+{"id": "multiple_73", "result": "[religion.get_origin(religion=\"Buddhism\")]", "input_token_count": 562, "output_token_count": 19, "latency": 5.060508966445923}
+{"id": "multiple_74", "result": "[art_auction.fetch_artwork_price(artwork_name='Starry Night', artist='Van Gogh', platform='all')]", "input_token_count": 744, "output_token_count": 36, "latency": 9.98157024383545}
+{"id": "multiple_75", "result": "[paint_color.trends(room=\"Living room\")]", "input_token_count": 878, "output_token_count": 17, "latency": 4.505030870437622}
+{"id": "multiple_76", "result": "[sculpture.create_custom(item=\"horse\", material=\"Bronze\")]", "input_token_count": 812, "output_token_count": 21, "latency": 5.648176193237305}
+{"id": "multiple_77", "result": "[artwork_search.find(type=\"sculpture\", location=\"New York\", era=\"contemporary\")]", "input_token_count": 877, "output_token_count": 25, "latency": 6.770767450332642}
+{"id": "multiple_78", "result": "[museum_info(museum=\"Natural History Museum\", city=\"London\", features=\"timings, exhibitions, accessibility\")]", "input_token_count": 877, "output_token_count": 31, "latency": 8.292197465896606}
+{"id": "multiple_79", "result": "[exhibition_info(museum_name=\"Museum of Modern Art, New York\", month=1)]", "input_token_count": 662, "output_token_count": 26, "latency": 6.979224443435669}
+{"id": "multiple_80", "result": "[music_shop.find_nearby(location=\"Nashville, TN\", services=[\"Violin Lessons\"], instruments=[\"Guitars\"])]", "input_token_count": 980, "output_token_count": 38, "latency": 10.325090885162354}
+{"id": "multiple_81", "result": "[concert.book_ticket(artist=\"Eminem\", location=\"New York City\", add_ons=[\"Backstage Pass\"])]", "input_token_count": 843, "output_token_count": 33, "latency": 8.91507863998413}
+{"id": "multiple_82", "result": "[music.generate(key=\"C Major\", tempo=120)]", "input_token_count": 738, "output_token_count": 18, "latency": 4.911206245422363}
+{"id": "multiple_83", "result": "[player_stats.get_all_time_goals(player_name=\"Lionel Messi\", team_name=\"Barcelona\")]", "input_token_count": 860, "output_token_count": 33, "latency": 8.985021829605103}
+{"id": "multiple_84", "result": "[getTopGoalScorers(competition=\"UEFA Champions League\", team=\"Barcelona\", number=10)]", "input_token_count": 745, "output_token_count": 29, "latency": 7.847571611404419}
+{"id": "multiple_85", "result": "[soccer_scores.get_scores(team=\"Real Madrid\", league=\"La Liga\", rounds=5)]", "input_token_count": 744, "output_token_count": 27, "latency": 7.30474853515625}
+{"id": "multiple_86", "result": "[BoardGameGeek.recommend(numPlayers=2, category=\"strategy\")]", "input_token_count": 795, "output_token_count": 22, "latency": 5.951809644699097}
+{"id": "multiple_87", "result": "[games.update.find(game='Cyberpunk 2077', platform='Xbox')]", "input_token_count": 848, "output_token_count": 28, "latency": 7.59705924987793}
+{"id": "multiple_88", "result": "[video_games.get_player_count(game_title='World of Warcraft', year=2020)]", "input_token_count": 753, "output_token_count": 29, "latency": 7.882108926773071}
+{"id": "multiple_89", "result": "[recipe_search(ingredients=[\"chicken\", \"mushrooms\"], calories=500)]", "input_token_count": 1050, "output_token_count": 26, "latency": 7.175626754760742}
+{"id": "multiple_90", "result": "[restaurant.find_group(location=\"Seattle\", cuisine=[\"Seafood\"], group_size=5)]", "input_token_count": 848, "output_token_count": 29, "latency": 8.028931617736816}
+{"id": "multiple_91", "result": "[recipe.find(mainIngredient=\"apple\", ingredientLimit=4)]", "input_token_count": 672, "output_token_count": 21, "latency": 5.800980567932129}
+{"id": "multiple_92", "result": "[walmart.vegan_products(location=\"Denver\", categories=[\"vegan\", \"gluten-free\"])]", "input_token_count": 959, "output_token_count": 28, "latency": 8.003830194473267}
+{"id": "multiple_93", "result": "[hotel.book(location=\"New York\", roomType=\"deluxe\", nights=2, additional_services=[\"breakfast\"])]", "input_token_count": 872, "output_token_count": 32, "latency": 8.903126239776611}
+{"id": "multiple_94", "result": "[hotel_room_pricing.get(hotelName=\"Hilton New York\", roomType=\"suite with queen size bed\", nights=3)]", "input_token_count": 962, "output_token_count": 34, "latency": 9.461594104766846}
+{"id": "multiple_95", "result": "[currency_exchange.convert(amount=200, from_currency=\"EUR\", to_currency=\"USD\", live_conversion=True)]", "input_token_count": 758, "output_token_count": 36, "latency": 10.299328327178955}
+{"id": "multiple_96", "result": "[solve_quadratic_equation(a=2, b=6, c=5)]", "input_token_count": 1023, "output_token_count": 23, "latency": 6.354682445526123}
+{"id": "multiple_97", "result": "[geometry.area_circle(radius=10)]", "input_token_count": 768, "output_token_count": 13, "latency": 3.7018659114837646}
+{"id": "multiple_98", "result": "[geometry.circumference(radius=3)]", "input_token_count": 1146, "output_token_count": 12, "latency": 3.419344663619995}
+{"id": "multiple_99", "result": "[calculus.derivative(function=\"2x^2\", value=1)]", "input_token_count": 731, "output_token_count": 21, "latency": 5.77707576751709}
+{"id": "multiple_100", "result": "[math.hcf(number1=36, number2=24)]", "input_token_count": 719, "output_token_count": 19, "latency": 5.259247303009033}
+{"id": "multiple_101", "result": "[math.gcd(num1=12, num2=18)]", "input_token_count": 683, "output_token_count": 19, "latency": 5.527085781097412}
+{"id": "multiple_102", "result": "[calculate_displacement(initial_velocity=10, time=5, acceleration=9.8)]", "input_token_count": 951, "output_token_count": 27, "latency": 7.51125168800354}
+{"id": "multiple_103", "result": "[calculate_final_speed(initial_velocity=0, height=100)]", "input_token_count": 1103, "output_token_count": 22, "latency": 6.100497484207153}
+{"id": "multiple_104", "result": "[get_shortest_driving_distance(origin=\"New York City\", destination=\"Washington D.C.\")]", "input_token_count": 1070, "output_token_count": 27, "latency": 7.601737022399902}
+{"id": "multiple_105", "result": "[calculate_magnetic_field(current=5, radius=4)]", "input_token_count": 966, "output_token_count": 18, "latency": 5.04566502571106}
+{"id": "multiple_106", "result": "[calculate_electric_field_strength(charge=0.01, distance=4)]", "input_token_count": 1215, "output_token_count": 24, "latency": 7.025863409042358}
+{"id": "multiple_107", "result": "[calculate_density(mass=45, volume=15)]", "input_token_count": 736, "output_token_count": 17, "latency": 4.855481386184692}
+{"id": "multiple_108", "result": "[calc_heat_capacity(temp=298, volume=10)]", "input_token_count": 789, "output_token_count": 20, "latency": 5.710395336151123}
+{"id": "multiple_109", "result": "[cellbio.get_proteins(cell_compartment=\"plasma membrane\", include_description=true)]", "input_token_count": 988, "output_token_count": 27, "latency": 7.966334819793701}
+{"id": "multiple_110", "result": "mutation_type.find(snp_id=\"rs6034464\")", "input_token_count": 754, "output_token_count": 22, "latency": 6.278097152709961}
+{"id": "multiple_111", "result": "[calculate_genotype_frequency(allele_frequency=0.3, genotype=\"AA\")]", "input_token_count": 884, "output_token_count": 24, "latency": 6.844701290130615}
+{"id": "multiple_112", "result": "[forest_growth_forecast(location=\"Yellowstone National Park\", years=5, include_human_impact=True)]", "input_token_count": 658, "output_token_count": 32, "latency": 9.37851095199585}
+{"id": "multiple_113", "result": "[calculate_fitness(trait_values=[0.8, 0.7], trait_contributions=[0.4, 0.6])]", "input_token_count": 1334, "output_token_count": 37, "latency": 10.196785688400269}
+{"id": "multiple_114", "result": "[prediction.evolution(species=\"Homo Sapiens\", years=50, model=\"Darwin\")]", "input_token_count": 971, "output_token_count": 28, "latency": 7.971343755722046}
+{"id": "multiple_115", "result": "[find_restaurants(location=\"Manhattan\", food_type=\"Thai\", number=5, dietary_requirements=[\"vegan\"])]", "input_token_count": 1222, "output_token_count": 35, "latency": 9.653441667556763}
+{"id": "multiple_116", "result": "[calculate_bmi(weight=85, height=180)]", "input_token_count": 705, "output_token_count": 19, "latency": 5.719620704650879}
+{"id": "multiple_117", "result": "[calculate_BMI(weight_kg=70, height_m=1.75)]", "input_token_count": 1056, "output_token_count": 24, "latency": 6.858052492141724}
+{"id": "multiple_118", "result": "[imdb.find_movies_by_actor(actor_name=\"Leonardo DiCaprio\", year=2010)]", "input_token_count": 1133, "output_token_count": 32, "latency": 8.844441175460815}
+{"id": "multiple_119", "result": "[database.query(table=\"user\", conditions=[{\"field\": \"age\", \"operation\": \">\", \"value\": 25}, {\"field\": \"job\", \"operation\": \"=\", \"value\": \"engineer\"}])]", "input_token_count": 1356, "output_token_count": 51, "latency": 12.000617265701294}
+{"id": "multiple_120", "result": "[light_travel_time(distance_in_light_years=4)]", "input_token_count": 1355, "output_token_count": 20, "latency": 5.998867750167847}
+{"id": "multiple_121", "result": "[geometry.area_triangle(base=6, height=10)]", "input_token_count": 946, "output_token_count": 18, "latency": 5.475296258926392}
+{"id": "multiple_122", "result": "[run_linear_regression(predictors=['Age', 'Income', 'Education'], target='Purchase_Amount', standardize=True)]", "input_token_count": 1272, "output_token_count": 37, "latency": 9.655529975891113}
+{"id": "multiple_123", "result": "[calculate_probability(total_outcomes=52, favorable_outcomes=4)]", "input_token_count": 964, "output_token_count": 24, "latency": 7.162687540054321}
+{"id": "multiple_124", "result": "[probabilities.calculate_single(total_outcomes=52, event_outcomes=4)]", "input_token_count": 947, "output_token_count": 25, "latency": 7.458132982254028}
+{"id": "multiple_125", "result": "[run_two_sample_ttest(group1=[3, 4, 5, 6, 4], group2=[7, 8, 9, 8, 7], equal_variance=True)]", "input_token_count": 1046, "output_token_count": 52, "latency": 12.071402788162231}
+{"id": "multiple_126", "result": "[t_test(dataset_A=[12, 24, 36], dataset_B=[15, 30, 45])]", "input_token_count": 1007, "output_token_count": 37, "latency": 9.481490135192871}
+{"id": "multiple_127", "result": "[finance.calculate_quarterly_dividend_per_share(total_payout=50000000, outstanding_shares=100000000)]", "input_token_count": 1171, "output_token_count": 49, "latency": 11.456898212432861}
+{"id": "multiple_128", "result": "[calculate_return_on_equity(net_income=2000000, shareholder_equity=10000000, dividends_paid=200000)]", "input_token_count": 1352, "output_token_count": 52, "latency": 11.902225971221924}
+{"id": "multiple_129", "result": "[compound_interest(principal=10000, annual_rate=5, compounding_freq=\"monthly\", time_in_years=5)]", "input_token_count": 899, "output_token_count": 39, "latency": 9.981897592544556}
+{"id": "multiple_130", "result": "[calculate_cagr(initial_value=2000, final_value=3000, period_in_years=4)]", "input_token_count": 944, "output_token_count": 35, "latency": 8.9705228805542}
+{"id": "multiple_131", "result": "[market_performance.get_data(indexes=[\"S&P 500\", \"Dow Jones\"], days=5)]", "input_token_count": 1054, "output_token_count": 32, "latency": 8.326239347457886}
+{"id": "multiple_132", "result": "[finance.calculate_future_value(initial_investment=20000, rate_of_return=0.08, years=5)]", "input_token_count": 1007, "output_token_count": 39, "latency": 9.756451845169067}
+{"id": "multiple_133", "result": "[calculate_mutual_fund_balance(investment_amount=50000, annual_yield=0.05, years=3)]", "input_token_count": 713, "output_token_count": 38, "latency": 9.426615715026855}
+{"id": "multiple_134", "result": "[crime_record.get_record(case_number=\"CA123456\", county=\"San Diego County\", details=True)]", "input_token_count": 1282, "output_token_count": 33, "latency": 8.512226343154907}
+{"id": "multiple_135", "result": "[get_case_info(docket=\"2022/AL2562\", court=\"California\", info_type=\"victim\")]", "input_token_count": 732, "output_token_count": 35, "latency": 8.90294361114502}
+{"id": "multiple_136", "result": "[get_crime_rate(city=\"San Francisco\", state=\"California\", type=\"violent\", year=2020)]", "input_token_count": 776, "output_token_count": 31, "latency": 7.815414905548096}
+{"id": "multiple_137", "result": "[lawsuit_search(company=\"Google\", start_date=\"2021-01-01\", location=\"California\", status=\"ongoing\")]", "input_token_count": 1075, "output_token_count": 36, "latency": 8.850533962249756}
+{"id": "multiple_138", "result": "[legal_case.fetch(case_id=\"R vs Adams\", details=True)]", "input_token_count": 982, "output_token_count": 20, "latency": 5.740072011947632}
+{"id": "multiple_139", "result": "[lawsuit_details.find(company_name='Apple Inc.', year=2010, case_type='Patent')]", "input_token_count": 1237, "output_token_count": 32, "latency": 8.101290702819824}
+{"id": "multiple_140", "result": "[lawsuits_search(company_name=\"Google\", location=\"California\", year=2020)]", "input_token_count": 921, "output_token_count": 26, "latency": 6.8635454177856445}
+{"id": "multiple_141", "result": "[lawsuit.check_case(case_id=1234, closed_status=True)]", "input_token_count": 892, "output_token_count": 24, "latency": 6.342520236968994}
+{"id": "multiple_142", "result": "[weather.humidity_forecast(location=\"Miami, Florida\", days=7)]", "input_token_count": 750, "output_token_count": 22, "latency": 6.010341644287109}
+{"id": "multiple_143", "result": "[calculate_slope_gradient(point1=[40.7128, -74.0060], point2=[34.0522, -118.2437], unit=\"degree\")]", "input_token_count": 1198, "output_token_count": 56, "latency": 11.323008060455322}
+{"id": "multiple_144", "result": "[air_quality(location=\"London\", date=\"2022/08/16\")]", "input_token_count": 669, "output_token_count": 23, "latency": 6.057645797729492}
+{"id": "multiple_145", "result": "[calculate_emissions(distance=12000, fuel_type=\"gas\", fuel_efficiency=20)]", "input_token_count": 1046, "output_token_count": 30, "latency": 7.345226049423218}
+{"id": "multiple_146", "result": "[restaurant.find_nearby(location=\"Seattle\", cuisine=\"Chinese\", max_distance=10)]", "input_token_count": 735, "output_token_count": 30, "latency": 7.350717782974243}
+{"id": "multiple_147", "result": "[map_service.get_directions(start=\"New York\", end=\"Los Angeles\", avoid=[\"highways\", \"tolls\"])]", "input_token_count": 984, "output_token_count": 33, "latency": 7.857171535491943}
+{"id": "multiple_148", "result": "[get_stock_info(company_name=\"Apple Inc.\", detail_level=\"detailed\")]", "input_token_count": 707, "output_token_count": 23, "latency": 6.134226083755493}
+{"id": "multiple_149", "result": "[sentiment_analysis(text=\"I love the food here! It's always fresh and delicious.\", language=\"English\")]", "input_token_count": 1179, "output_token_count": 27, "latency": 6.668861627578735}
+{"id": "multiple_150", "result": "[calculate_neuronal_activity(input_synaptic_rate=200, weight=0.5, decay_rate=0.1)]", "input_token_count": 1352, "output_token_count": 36, "latency": 8.143449544906616}
+{"id": "multiple_151", "result": "[social_media_analytics.most_followed(topic=\"psychology\", sub_topics=[\"behaviour\", \"group dynamics\"])]", "input_token_count": 1017, "output_token_count": 35, "latency": 7.963724136352539}
+{"id": "multiple_152", "result": "[history.get_key_events(country=\"Germany\", start_year=1871, end_year=1945, event_type=[\"War\"])]", "input_token_count": 867, "output_token_count": 42, "latency": 9.21447229385376}
+{"id": "multiple_153", "result": "[get_event_date(event=\"Treaty of Lisbon\", location=\"Lisbon\")]", "input_token_count": 932, "output_token_count": 23, "latency": 6.179537773132324}
+{"id": "multiple_154", "result": "[US_president.in_year(year=1861, full_name=True)]", "input_token_count": 1255, "output_token_count": 24, "latency": 6.16764235496521}
+{"id": "multiple_155", "result": "[get_discoverer(discovery=\"neutron\", detail=True)]", "input_token_count": 947, "output_token_count": 18, "latency": 5.100611925125122}
+{"id": "multiple_156", "result": "[historical_contrib.get_contrib(scientist=\"Albert Einstein\", date=\"1915-03-17\")]", "input_token_count": 928, "output_token_count": 33, "latency": 7.54243540763855}
+{"id": "multiple_157", "result": "[get_earliest_reference(name=\"Jesus Christ\", source=\"historical records\")]", "input_token_count": 694, "output_token_count": 23, "latency": 5.880401849746704}
+{"id": "multiple_158", "result": "[religious_history.get_papal_biography(papal_name=\"Innocent III\", include_contributions=true)]", "input_token_count": 1251, "output_token_count": 35, "latency": 7.970463514328003}
+{"id": "multiple_159", "result": "[calculate_paint_needed(coverage_rate=400, length=30, height=12)]", "input_token_count": 928, "output_token_count": 30, "latency": 7.104038953781128}
+{"id": "multiple_160", "result": "[get_sculpture_info(artist_name=\"James Plensa\", detail=True)]", "input_token_count": 1192, "output_token_count": 25, "latency": 6.128905534744263}
+{"id": "multiple_161", "result": "[find_exhibition(location=\"New York\", art_form=\"modern\", user_ratings=\"high\")]", "input_token_count": 1052, "output_token_count": 27, "latency": 6.603124618530273}
+{"id": "multiple_162", "result": "[analyze_structure(building_id=\"B1004\", floors=[2, 3, 4], mode=\"dynamic\")]", "input_token_count": 754, "output_token_count": 31, "latency": 7.1607842445373535}
+{"id": "multiple_163", "result": "[metropolitan_museum.get_top_artworks(number=5, sort_by=\"popularity\")]", "input_token_count": 805, "output_token_count": 27, "latency": 6.319674491882324}
+{"id": "multiple_164", "result": "[instrument_price.get(brand=\"Fender\", model=\"American Professional II Stratocaster\", finish=\"Rosewood\")]", "input_token_count": 1247, "output_token_count": 30, "latency": 6.879202365875244}
+{"id": "multiple_165", "result": "[guitar_price.find(model=\"Gibson Les Paul\", condition=\"Excellent\", location=\"Chicago\")]", "input_token_count": 941, "output_token_count": 28, "latency": 6.685725927352905}
+{"id": "multiple_166", "result": "[concert.search(genre=\"classical\", location=\"Los Angeles\", date=\"this weekend\", price_range=\"cheap\")]", "input_token_count": 997, "output_token_count": 30, "latency": 6.765876293182373}
+{"id": "multiple_167", "result": "[music_generator.generate_melody(key='C', start_note='C4', length=16, tempo=120)]", "input_token_count": 1098, "output_token_count": 34, "latency": 7.381013631820679}
+{"id": "multiple_168", "result": "[get_song_lyrics(song_title='Bohemian Rhapsody', artist_name='Queen')]", "input_token_count": 939, "output_token_count": 30, "latency": 6.926138877868652}
+{"id": "multiple_169", "result": "[musical_scale(key=\"C#\", scale_type=\"major\")]", "input_token_count": 717, "output_token_count": 18, "latency": 4.593012571334839}
+{"id": "multiple_170", "result": "[soccer_stat.get_player_stats(player_name=\"Cristiano Ronaldo\", season=\"2019-2020\")]", "input_token_count": 1154, "output_token_count": 36, "latency": 7.577216148376465}
+{"id": "multiple_171", "result": "[game_result.get_winner(teams=[\"Lakers\", \"Clippers\"], date=\"2021-01-28\")]", "input_token_count": 725, "output_token_count": 35, "latency": 7.425675630569458}
+{"id": "multiple_172", "result": "[sports_db.find_athlete(name=\"Lebron James\", sport=\"Basketball\")]", "input_token_count": 1316, "output_token_count": 25, "latency": 5.967590093612671}
+{"id": "multiple_173", "result": "[get_defense_ranking(season=2021, top=1)]", "input_token_count": 919, "output_token_count": 21, "latency": 5.2494659423828125}
+{"id": "multiple_174", "result": "[sports_ranking(team=\"Manchester United\", league=\"Premier League\")]", "input_token_count": 774, "output_token_count": 21, "latency": 5.193367004394531}
+{"id": "multiple_175", "result": "[sports_ranking.get_top_player(sport=\"tennis\", gender=\"woman\")]", "input_token_count": 1204, "output_token_count": 24, "latency": 5.703839063644409}
+{"id": "multiple_176", "result": "[sports_team.get_schedule(team_name=\"Manchester United\", num_of_games=6, league=\"Premier League\")]", "input_token_count": 1525, "output_token_count": 35, "latency": 7.580324649810791}
+{"id": "multiple_177", "result": "[board_game.chess.get_top_players(location=\"New York\", minimum_rating=2300)]", "input_token_count": 979, "output_token_count": 30, "latency": 6.378912687301636}
+{"id": "multiple_178", "result": "[find_card_in_deck(rank='Queen', suit='Hearts')]", "input_token_count": 1373, "output_token_count": 21, "latency": 5.05779242515564}
+{"id": "multiple_179", "result": "[poker_probability.full_house(deck_size=52, hand_size=5)]", "input_token_count": 996, "output_token_count": 25, "latency": 5.6408371925354}
+{"id": "multiple_180", "result": "[game_stats.fetch_player_statistics(game='Zelda', username='Sam', platform='Switch')]", "input_token_count": 1186, "output_token_count": 28, "latency": 6.101763963699341}
+{"id": "multiple_181", "result": "[soccer.get_last_match(team_name=\"Liverpool F.C.\", include_stats=True)]", "input_token_count": 1193, "output_token_count": 28, "latency": 6.2558557987213135}
+{"id": "multiple_182", "result": "[multiplayer_game_finder(platform=\"Windows 10\", rating=4.5)]", "input_token_count": 1334, "output_token_count": 22, "latency": 4.99068808555603}
+{"id": "multiple_183", "result": "[recipe_info.get_calories(website=\"Foodnetwork.com\", recipe=\"Beef Lasagna\")]", "input_token_count": 902, "output_token_count": 28, "latency": 6.114087820053101}
+{"id": "multiple_184", "result": "[recipe_search(dietary_restriction=\"Vegetarian\", ingredients=[\"pasta\", \"cheese\"], servings=2)]", "input_token_count": 932, "output_token_count": 35, "latency": 7.296559810638428}
+{"id": "multiple_185", "result": "[restaurant_search.find_closest(location=\"Boston\", cuisine=\"Sushi\", amenities=[\"Patio\"])]", "input_token_count": 813, "output_token_count": 33, "latency": 6.7398669719696045}
+{"id": "multiple_186", "result": "[find_recipe(dietary_restrictions=\"vegan\", recipe_type=\"dessert\", time=30)]", "input_token_count": 729, "output_token_count": 30, "latency": 6.163852214813232}
+{"id": "multiple_187", "result": "[whole_foods.check_price(location=\"Los Angeles\", items=[\"tomatoes\", \"lettuce\"])]", "input_token_count": 1166, "output_token_count": 28, "latency": 5.73049521446228}
+{"id": "multiple_188", "result": "[grocery_store.find_best(my_location=\"Berkeley\", rating=4.5, products=[\"tomatoes\", \"pet food\"])]", "input_token_count": 1203, "output_token_count": 36, "latency": 6.983402967453003}
+{"id": "multiple_189", "result": "[timezone.convert(time=\"3pm\", from_timezone=\"America/New_York\", to_timezone=\"Europe/London\")]", "input_token_count": 727, "output_token_count": 33, "latency": 6.293904066085815}
+{"id": "multiple_190", "result": "[book_hotel(hotel_name=\"Hilton Hotel\", location=\"Chicago\", room_type=\"single\", start_date=\"2022-12-10\", nights=2)]", "input_token_count": 980, "output_token_count": 46, "latency": 7.284510135650635}
+{"id": "multiple_191", "result": "[book_hotel(hotel_name=\"Hotel Paradise\", location=\"Las Vegas\", room_type=\"luxury\", start_date=\"05-12-2022\", stay_duration=3, view=\"city\")]", "input_token_count": 1292, "output_token_count": 56, "latency": 7.775769233703613}
+{"id": "multiple_192", "result": "[currency_conversion.convert(amount=150, from_currency=\"EUR\", to_currency=\"CAD\")]", "input_token_count": 922, "output_token_count": 29, "latency": 5.4998204708099365}
+{"id": "multiple_193", "result": "[maps.get_distance_duration(start_location=\"Eiffel Tower\", end_location=\"Louvre Museum\")]", "input_token_count": 1087, "output_token_count": 27, "latency": 4.7351672649383545}
+{"id": "multiple_194", "result": "[get_museum_hours(museum_name=\"Metropolitan Museum of Art\", day=\"Saturday\")]", "input_token_count": 1174, "output_token_count": 26, "latency": 4.601640939712524}
+{"id": "multiple_195", "result": "[calc_heat_capacity(temp=298, volume=10)]", "input_token_count": 1096, "output_token_count": 20, "latency": 3.458409309387207}
+{"id": "multiple_196", "result": "[cellbio.get_proteins(cell_compartment=\"plasma membrane\", include_description=true)]", "input_token_count": 1148, "output_token_count": 27, "latency": 4.638522386550903}
+{"id": "multiple_197", "result": "[mutation_type.find(snp_id=\"rs6034464\")]", "input_token_count": 1276, "output_token_count": 23, "latency": 3.9210896492004395}
+{"id": "multiple_198", "result": "[calculate_genotype_frequency(allele_frequency=0.3, genotype=\"AA\")]", "input_token_count": 1277, "output_token_count": 24, "latency": 4.351524114608765}
+{"id": "multiple_199", "result": "[forest_growth_forecast(location=\"Yellowstone\", years=5, include_human_impact=True)]", "input_token_count": 886, "output_token_count": 30, "latency": 5.032330751419067}

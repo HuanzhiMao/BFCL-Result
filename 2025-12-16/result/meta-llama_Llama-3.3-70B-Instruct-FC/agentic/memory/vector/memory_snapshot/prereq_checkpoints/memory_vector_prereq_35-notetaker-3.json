@@ -1,0 +1,16 @@
+{
+    "core_memory": {
+        "next_id": 8,
+        "store": {
+            "0": "User has 6 tasks: wash dishes tonight, do laundry, fix sink, daycare drop-off at 8 AM, daycare pick-up at 5 PM, daycare monthly payment due Friday, bring extra set of clothes to daycare",
+            "6": "User's daycare tasks and other tasks are stored in Archival Memory and can be retrieved by task name"
+        }
+    },
+    "archival_memory": {
+        "next_id": 5,
+        "store": {
+            "3": "Daycare details: drop-off at 8 AM, pick-up at 5 PM, monthly payment due Friday, bring extra set of clothes",
+            "4": "Daycare tasks: drop-off at 8 AM, pick-up at 5 PM, monthly payment due Friday, bring extra set of clothes"
+        }
+    }
+}

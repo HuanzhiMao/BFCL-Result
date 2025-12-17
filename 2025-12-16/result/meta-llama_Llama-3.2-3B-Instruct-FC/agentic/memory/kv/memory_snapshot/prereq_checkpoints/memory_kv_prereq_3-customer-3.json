@@ -1,0 +1,21 @@
+{
+    "core_memory": {
+        "michael": "has been waiting for espresso machine order for several days and has not received any updates",
+        "espresso_machine": "customer_interested_in_espresso_machine",
+        "frothing_milk": "customer_wants_frothing_milk"
+    },
+    "archival_memory": {
+        "michael": "damaged_espresso_machine_received",
+        "next_steps_needed": "repair_or_replace_espresso_machine",
+        "current_status": "damaged_espresso_machine_received",
+        "espresso_machine_order": "customer_interested_in_espresso_machine",
+        "frothing_milk": "customer_wants_frothing_milk",
+        "espresso_machine_model": "unknown",
+        "repair_or_replace_espresso_machine": "contact_customer_support",
+        "damaged_espresso_machine_description": "machine appears to be damaged",
+        "next_steps": "contact manufacturer for repair or replacement",
+        "customer_id": "michael",
+        "order_date": "2022-01-01",
+        "order_status": "damaged"
+    }
+}

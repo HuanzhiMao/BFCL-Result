@@ -1,0 +1,40 @@
+{
+    "core_memory": {
+        "next_id": 15,
+        "store": {
+            "8": "user_id=0, issue=unexpected charge on credit card statement, user_explanation=unrecognized charge, no recent orders, concerned about possible error or unauthorized transaction",
+            "9": "user_id=0, issue=unexpected charge on credit card statement, user_theories=membership program or subscription, but no confirmation email or invoice found",
+            "10": "user_id=0, issue=unexpected charge on credit card statement, possible causes=glitch, accidental double charge, server timeout, extra transaction processed",
+            "11": "user_id=0, issue=unexpected charge on credit card statement, user_preference=resolve issue directly, avoid credit card company dispute",
+            "12": "user_id=0, issue=unexpected charge on credit card statement, possible cause=taxes or duties, but amount seems unusual and not itemized",
+            "13": "user_id=0, issue=unexpected charge on credit card statement, possible cause=system error, account flagged, membership system glitch, monthly fee, shipping fee",
+            "14": "user_id=0, issue=unexpected charge on credit card statement, user_confirms_no_recent_purchases, requests_investigation_billing_system"
+        }
+    },
+    "archival_memory": {
+        "next_id": 22,
+        "store": {
+            "0": "user_id=0, product_interests=kitchen appliances, coffee grinder, coffee bar accessories, storage canister",
+            "1": "user_id=0, previous_purchase=espresso machine, issue=shipping and damage issues",
+            "2": "user_id=0, espresso_machine_issue_resolved=true, user_experience=improved, user_goal=enhance home coffee experience",
+            "3": "user_id=0, preferences=burr type=conical, grind-size range=variable, noise level=low, ease of cleaning=high, aesthetics=stainless steel, modern design",
+            "4": "user_id=0, interest=coffee bean subscription service, preferences=roast recommendations, pairing with grinder settings",
+            "5": "user_id=0, purchase_history=previous purchase, interest=discounts, loyalty program, referral program",
+            "6": "user_id=0, shipping_concerns, weather-related delays, shipping options, expedited shipping, package tracking",
+            "7": "user_id=0, payment_preferences, financing_options, subscription_payment, payment_plans",
+            "8": "user_id=0, interest=coffee accessories, digital scale, temperature-controlled kettle, barista tools",
+            "9": "user_id=0, satisfaction_with_purchase, espresso_machine_performance, steam_wand_upgrades",
+            "10": "shipping details for Michael from Seattle, issue with weather-related delays and expedited shipping",
+            "11": "Michael from Seattle, 35, interested in coffee grinder, coffee bar accessories, storage canister, and digital scale, preferences include conical burr type, variable grind-size range, low noise level, high ease of cleaning, stainless steel, and modern design",
+            "12": "Michael from Seattle, issue with tracking information for coffee grinder bundle, Label Created\u2014Awaiting Item, and second order in transit from east coast distribution center",
+            "13": "Michael from Seattle, concerned about coffee grinder bundle not leaving Oregon warehouse, possible oversight with label generation but no physical handover to carrier",
+            "14": "Michael from Seattle, inquiry about bundle correctness for coffee grinder and accessories, possibility of split shipments",
+            "15": "Michael from Seattle, planning to be away next weekend, requesting assistance with package delivery and protection from damage",
+            "16": "Michael from Seattle, excited about new coffee equipment, plans to host gatherings and serve premium brews",
+            "17": "Michael from Seattle, two orders, conflicting shipping updates, stuck package, expedited shipping, communication and assistance provided",
+            "19": "user_id=0, issue=unexpected charge on credit card statement, user_provides_details_amount=$49.99, date=3_days_ago, no_descriptor_on_statement",
+            "20": "user_id=0, issue=resolved, refund_issued, accidental_membership_enrollment_corrected",
+            "21": "user_id=0, issue=resolved, refund_issued, accidental_membership_enrollment_corrected, user_satisfied"
+        }
+    }
+}

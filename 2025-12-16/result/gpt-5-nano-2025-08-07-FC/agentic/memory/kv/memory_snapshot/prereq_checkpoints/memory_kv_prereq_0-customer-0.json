@@ -1,0 +1,20 @@
+{
+    "core_memory": {
+        "user_name": "Michael",
+        "current_session_status": "awaiting_user_questions",
+        "response_stage": "greeting_and_prompt_for_questions"
+    },
+    "archival_memory": {
+        "customer_name": "Michael",
+        "espresso_home_profile": "Prefers stainless steel, modern design; aiming for caf\u00e9-like espresso at home; exploring dual boiler or heat-exchanger options; built-in grinder optional; wants easy maintenance and a compact, sleek footprint.",
+        "promotion_interest": "New Customer Discount; bundle deals; limited-time promos; best available offers for first-time buyers in Seattle",
+        "warranty_preference": "Prefers long and clear warranty(2+ years preferred); wants straightforward claims process; wants coverage for materials/workmanship; wants details on what is covered vs. wear/consumables; interested in manufacturer warranty plus optional store-backed extension.",
+        "user_name": "Michael",
+        "user_profile": "{\"name\":\"Michael\",\"status\":\"new_customer\",\"preferred_language\":\"en\",\"intent\":\"intro_and_q\"}",
+        "conversation_stage": "intro_completed_awaiting_questions",
+        "last_user_intent": "intro_and_q",
+        "last_session_stage": "awaiting_user_questions",
+        "last_interaction_summary": "profile_intro_confirmed_and_awaiting_user_questions",
+        "current_context_snapshot": "{\"name\":\"Michael\",\"status\":\"new_customer\",\"preferred_language\":\"en\",\"intent\":\"intro_and_q\",\"last_session_stage\":\"awaiting_user_questions\",\"last_interaction_summary\":\"profile_intro_confirmed_and_awaiting_user_questions\"}"
+    }
+}

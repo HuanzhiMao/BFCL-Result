@@ -1,0 +1,16 @@
+{
+    "core_memory": {
+        "next_id": 3,
+        "store": {
+            "0": "User has 3 tasks: wash dishes tonight, do laundry, fix sink",
+            "2": "User's tasks are stored in Archival Memory and can be retrieved by task name"
+        }
+    },
+    "archival_memory": {
+        "next_id": 3,
+        "store": {
+            "0": "User prefers to wash dishes at night, before it piles up",
+            "2": "User needs to fix leaky sink in the kitchen"
+        }
+    }
+}

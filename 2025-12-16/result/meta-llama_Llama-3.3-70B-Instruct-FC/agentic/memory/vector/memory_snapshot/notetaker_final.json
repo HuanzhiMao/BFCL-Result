@@ -1,0 +1,22 @@
+{
+    "core_memory": {
+        "next_id": 11,
+        "store": {
+            "0": "User has 9 tasks: wash dishes tonight, do laundry, fix sink, daycare drop-off at 8 AM, daycare pick-up at 5 PM, daycare monthly payment due Friday, bring extra set of clothes to daycare, annual physical next month, schedule bloodwork, dentist appointment, eye exam needed due to screen strain",
+            "10": "User's daycare tasks, checkups and other tasks are stored in Archival Memory and can be retrieved by task, checkup or category name"
+        }
+    },
+    "archival_memory": {
+        "next_id": 11,
+        "store": {
+            "3": "Daycare details: drop-off at 8 AM, pick-up at 5 PM, monthly payment due Friday, bring extra set of clothes",
+            "4": "Daycare tasks: drop-off at 8 AM, pick-up at 5 PM, monthly payment due Friday, bring extra set of clothes",
+            "5": "Annual physical scheduled for next month, bloodwork needs to be scheduled",
+            "6": "Dentist appointment is overdue, need to call for an opening",
+            "7": "Eye exam is needed due to screen strain",
+            "8": "Annual physical checkup next month",
+            "9": "Dentist appointment is overdue",
+            "10": "Eye exam needed due to screen strain"
+        }
+    }
+}
